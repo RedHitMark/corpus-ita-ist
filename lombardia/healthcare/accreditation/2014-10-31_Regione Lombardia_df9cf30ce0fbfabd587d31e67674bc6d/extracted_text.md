@@ -1,0 +1,570 @@
+# Allegato 1 - Premessa
+L'esercizio e l'accreditamento delle unità d'offerta sociosanitarie sono disciplinati dal presente provvedimento ai sensi degli articoli 15 e 16 della legge regionale 12 marzo 2008, n. 3, Governo delle rete degli interventi e dei servizi alla persona in ambito sociale e sociosanitario e dell'articolo 9 della legge regionale 30 dicembre 2009, n. 33, Testo unico delle leggi regionali in materia di sanità.
+
+Il presente allegato disciplina i requisiti generali (soggettivi, organizzativi e gestionali, strutturali e tecnologici) di esercizio e di accreditamento delle unità d'offerta sociosanitarie. I requisiti minimi generali per l'esercizio sono definiti dal D.P.R. 14 gennaio 1997, Approvazione dell'atto di indirizzo e coordinamento alle Regioni e alle Provincie autonome di Trento e Bolzano, in materia di requisiti strutturali, tecnologici ed organizzativi minimi per l'esercizio delle attività sanitarie, per le strutture pubbliche e private. Per l'accreditamento il presente provvedimento prevede ulteriori requisiti generali. I requisiti di esercizio e di accreditamento specifici delle diverse unità d'offerta sociosanitarie sono definiti dalla vigente normativa regionale, compatibilmente con quanto disposto con il presente provvedimento.
+
+# Allegato 1 - Requisiti generali per l'esercizio
+Il legale rappresentante dell'ente gestore dell'unità d'offerta sociosanitaria, nonché gli altri soggetti di cui al Libro II del decreto legislativo 6 settembre 2011, n. 159, Codice delle leggi antimafia e delle misure di prevenzione, nonché nuove disposizioni in materia di documentazione antimafia a norma degli articoli 1 e 2 della legge 13 agosto 2010 n. 136, devono dichiarare l'insussistenza di una delle cause di decadenza, di sospensione o di divieto di cui all'articolo 67, comma 2, del medesimo decreto legislativo.
+
+In caso di variazione dei soggetti di cui sopra, le relative comunicazioni devono pervenire alla ASL competente entro trenta giorni dalla variazione.
+
+I legali rappresentanti di enti locali e di ASL che gestiscono direttamente unità d'offerta sociosanitarie, non devono produrre il certificato di cui sopra, in quanto soggetti a specifica normativa di riferimento.
+
+I requisiti organizzativi e gestionali del D.P.R. 14/1/1997 sono declinati come segue in considerazione della specificità del comparto sociosanitario.
+
+Ove prevista un'evidenza documentale, il soggetto gestore ha facoltà di adottare un unico documento complessivo o più documenti specifici, formalmente corretti (ovvero datati e approvati).
+
+I documenti, le procedure e i protocolli assistenziali adottati sono aggiornati ogni qualvolta se ne ravvisi la necessità e comunque con una periodicità non superiore al triennio.
+
+Il soggetto gestore adotta un documento nel quale sono descritti:
+- la missione dell'organizzazione e i valori cui si ispira;
+- le politiche complessive (i campi prioritari di azione e i metodi adottati per raggiungere gli obiettivi); 
+- gli obiettivi in relazione alla singola unità d'offerta, specificando i servizi erogati e la popolazione potenzialmente interessata;
+- l'organizzazione interna dell'unità d'offerta, comprendente l'organigramma, i livelli di responsabilità (in particolare per le aree sanitarie), le modalità di erogazione del servizio, le prestazioni erogate o le attività eseguite, individuando anche un referente per i rapporti con gli uffici che sul territorio si occupano di protezione giuridica e di servizi sociali (uffici di protezione giuridica delle ASL, comuni, centri per l'assistenza domiciliare o altri).
+
+Il soggetto gestore definisce annualmente il piano di lavoro che comprende la tipologia e il volume di attività previste e il conseguente piano organizzativo.
+
+I soggetti gestori si dotano di carta dei servizi nella quale, fatte salve le eventuali indicazioni specifiche definite per le singole unità d'offerta, sono definite le modalità per il concreto esercizio dei diritti dei cittadini, nonché i criteri per l'accesso alle prestazioni e le modalità di erogazione delle stesse, comprese le tipologie di rette applicate e il dettaglio degli eventuali costi aggiuntivi per prestazioni specifiche.
+
+Il soggetto gestore definisce ed esplicita l'organizzazione e le politiche di gestione delle risorse umane ed economiche per le attività ambulatoriali e per quelle di ricovero a ciclo continuativo e diurno.
+
+Il soggetto gestore garantisce la continuità dell'assistenza in relazione alla tipologia e alla complessità assistenziale dell'utenza trattata e ai diversi regimi assistenziali (residenziale, semiresidenziale, ambulatoriale, domiciliare), in caso di urgenze o eventi imprevisti (clinici, organizzativi, tecnologici). In caso di trasferimento, il soggetto gestore mette a disposizione tutte le informazioni inerenti il percorso dell'utente inserito nella propria struttura.
+
+Il soggetto gestore definisce il fabbisogno di personale in un documento che prevede:
+- la descrizione quantitativa e qualitativa delle risorse umane ritenute necessarie alla gestione dell'unità d'offerta, declinando i profili professionali impiegati nelle singole unità d'offerta;
+- la reperibilità (medica o di altra qualifica) laddove prevista per la specifica unità d'offerta. La reperibilità non può essere esclusivamente telefonica, ma l'operatore reperibile deve essere nelle condizioni di raggiungere la struttura di norma entro trenta minuti.
+
+Per il possesso dello standard di personale:
+- gli standard minimi, laddove sono settimanali, devono essere effettivamente garantiti in ogni settimana dell'anno e da tutte le figure previste a standard per le diverse unità d'offerta;
+- lo standard di personale deve essere rapportato alle giornate di effettiva presenza degli utenti;
+- il personale è in possesso dei titoli professionali prescritti, compresa l'eventuale iscrizione ai relativi albi, o delle qualifiche individuate dalla normativa vigente;
+- possono essere rendicontate solo le ore di effettiva presenza in servizio attivo, con esclusione di ogni forma di reperibilità o delle cosiddette "guardie notturne passive";
+- possono rientrare nel computo degli standard le ore dedicate ad attività di coordinamento finalizzate a garantire interventi sull'utenza (riunioni di équipe, rapporti di consegna), nonché le ore dedicate alla formazione, sia quella obbligatoria per legge che quella strettamente attinente alla funzione svolta.
+
+Qualora il soggetto gestore si avvalga di personale religioso, anche residente nella struttura, per l'assistenza all'utente, detto personale deve essere in possesso dei requisiti professionali richiesti e non superare il limite di settantacinque anni di età. Ai fini del computo dello standard è possibile rendicontare un orario massimo di quarantotto ore settimanali per un massimo di quarantotto settimane all'anno.
+
+Il personale volontario può essere rendicontato come standard solo quando previsto dalla specifica normativa, in misura non prevalente rispetto al restante personale. Solo in questo caso (personale volontario rendicontato a standard) deve essere in possesso dei requisiti professionali eventualmente richiesti, appartenere ad associazioni di volontariato iscritte nell'apposito registro e convenzionate con la struttura dove svolge la propria attività. Negli altri casi (volontari non rendicontati a standard) deve comunque essere prevista una formalizzazione dei rapporti tra la struttura e l'associazione o il singolo volontario.
+
+Il personale tirocinante non può essere rendicontato ai fini del calcolo dello standard assistenziale previsto.
+
+Gli operatori sociosanitari (OSS) possono essere rendicontati ai fini dello standard solo se contrattualmente inquadrati con tale profilo professionale. Nel caso un operatore sia inquadrato come ausiliario socio assistenziale (ASA), anche se in possesso del titolo di OSS, deve essere rendicontato come ASA ed impiegato per le corrispondenti mansioni.
+
+Il soggetto gestore adotta un piano annuale di formazione e aggiornamento del personale, con indicazione del relativo referente.
+
+La corretta gestione delle risorse tecnologiche destinate all'assistenza e cura prevede:
+- l'adozione di una procedura di programmazione degli acquisti delle apparecchiature biomediche e dei dispositivi medici;
+- la redazione di un inventario annuale delle apparecchiature biomediche;
+- l'adozione di un piano di manutenzione ordinaria e straordinaria delle apparecchiature biomediche;
+- l'adozione di procedure per garantire l'uso sicuro, appropriato ed economico delle apparecchiature biomediche.
+
+Il programma annuale di valutazione e miglioramento delle attività riguarda i processi di erogazione dei servizi e delle prestazioni, selezionati in rapporto alle priorità individuate, favorendo il coinvolgimento del personale.
+
+Il soggetto gestore identifica una struttura organizzativa o un responsabile che presiede alle attività di valutazione e miglioramento della qualità.
+
+Il fascicolo socio assistenziale e sanitario (FASAS) è l'insieme unitario della documentazione sociosanitaria relativa all'assistito. Il FASAS si articola in diverse sezioni atte a rendere evidenza del progetto di presa in carico dell'utente, degli interventi pianificati ed attuati, nel rispetto della situazione individuale e relazionale dell'utente, assicurati dall'unità d'offerta.
+
+Il FASAS non è necessario per gli utenti che usufruiscono di mono prestazioni, come ad esempio le visite ginecologiche, i pap test, i colloqui di consultazione presso il consultorio, i prelievi a domicilio, la sostituzione dei cateteri vescicali e la somministrazione della terapia insulinica nell'ADI.
+
+sezioni anamnestiche compilate dai singoli professionisti coinvolti nel percorso assistenziale;
+
+sezione relativa all'analisi e alla valutazione della situazione del singolo utente e, dove necessario e opportuno, del suo contesto familiare. Tale sezione, costantemente aggiornata, comprende la documentazione riferita ad aspetti sanitari, assistenziali e psicosociali che attestino le valutazioni cliniche, relazionali e delle abilità funzionali dell'utente. In particolare, dovrà contenere:
+- l'indicazione degli strumenti validati in uso per le valutazioni (scale di valutazione);
+- le valutazioni dei diversi professionisti in funzione del bisogno rilevato, coinvolgendo tutte o alcune delle seguenti aree: medica, psicologica, sociale, infermieristica, riabilitativa, educativo- animativa, dell'assistenza tutelare;
+
+sezione relativa al percorso dell'utente nell'unità d'offerta, per dare evidenza della progettazione, della pianificazione e dell'attuazione degli interventi, dei protocolli assistenziali e delle procedure adottati nelle diverse aree interessate e sopra individuate. Costituiscono parte indispensabile di tale sezione: il progetto individuale (PI) relativo all'assistito, che nella riabilitazione assume il nome di progetto riabilitativo individuale (PRI); la pianificazione degli interventi con il piano assistenziale individuale (PAI) o piano educativo individuale (PEI) o programma riabilitativo individuale (pri); il diario; i fogli unici di terapia farmacologica qualora necessaria;
+
+sezione della modulistica relativa alla tutela della privacy; al consenso informato per gli specifici atti sanitari proposti; alla tutela giuridica della persona, se attivata.
+
+Il progetto individuale (PI), che nella riabilitazione assume il nome di progetto riabilitativo individuale (PRI), sulla base della valutazione dei bisogni emersi, definisce le aree di intervento ed esplicita, in ogni area individuata, gli obiettivi perseguibili. Ne costituiscono quindi elementi essenziali:
+- la sintesi dei bisogni come esito della valutazione multidimensionale;
+- l'individuazione dell'area di intervento;
+- la descrizione degli obiettivi della presa in carico;
+- l'individuazione di indicatori misurabili relativi agli obiettivi;
+- la definizione dei tempi di verifica per i singoli obiettivi.
+
+Fornisce inoltre evidenza dell'avvenuta informazione e condivisione con l'assistito o l'avente titolo, con il familiare o il caregiver.
+
+Per i soli utenti che usufruiscono di mono prestazioni (come ad esempio le visite ginecologiche, i pap test, i colloqui di consultazione presso il consultorio, i prelievi a domicilio, la sostituzione dei cateteri vescicali e la somministrazione della terapia insulinica nell'ADI) non si rende necessaria la predisposizione di un progetto individuale.
+
+Il progetto individuale deve essere predisposto entro trenta giorni dall'accoglienza e presa in carico dell'utente, salvo diversa indicazione nella normativa specifica delle unità d'offerta e con riguardo alla peculiarità delle casistiche trattate nell'ADI, nell'ADI per le cure palliative e nell'hospice. Per i consultori e i servizi ambulatoriali per le dipendenze, dove la fase valutativa potrebbe protrarsi oltre i trenta giorni, il soggetto gestore è comunque tenuto, entro trenta giorni dall'accoglienza e presa in carico dell'utente, all'elaborazione di un progetto individuale provvisorio che descrive e formalizza il percorso valutativo posto in essere. A seguito del percorso valutativo, che viene attuato in tempi congrui e in funzione delle tempistiche definite dal progetto individuale provvisorio, viene quindi elaborato il progetto individuale definitivo. 
+
+Il progetto individuale deve dare atto delle rivalutazioni, che devono svolgersi ogni qualvolta si renda necessario e comunque con una periodicità non superiore a sei mesi.
+
+Sulla base del progetto individuale viene redatta la pianificazione degli interventi che, a seconda della tipologia di utenza trattata, assume le forme del piano assistenziale individuale (PAI) o del piano educativo individuale (PEI) o del programma riabilitativo individuale (pri).
+
+La pianificazione prevede:
+- la descrizione degli obiettivi individuati per le diverse aree di intervento;
+- la definizione degli interventi e delle modalità di attuazione (come? con quale intensità? dove? per quanto tempo?);
+- l'individuazione dell'équipe o degli operatori coinvolti;
+- la declinazione delle attività di monitoraggio degli obiettivi e dei tempi previsti;
+- l'evidenza della eventuale sospensione o interruzione degli interventi e le relative motivazioni;
+- la verifica del raggiungimento degli obiettivi individuati.
+
+Per quanto riguarda l'ADI, il piano assistenziale individuale deve dare evidenza dell'informazione e della condivisione con l'assistito o l'avente titolo, con il familiare o il caregiver.
+
+Una prima pianificazione degli interventi, anche se provvisoria e recante almeno una registrazione della fase di accoglienza nell'unità d'offerta, deve essere adottata in tempi brevi rispetto al primo accesso dell'utente, fatto salvo quanto indicato delle specifiche normative delle tipologie di unità d'offerta. Per quanto riguarda l'hospice la pianificazione degli interventi coincide con la redazione del diario.
+
+Il diario può assumere diverse denominazioni in funzione delle professionalità coinvolte (a titolo esemplificativo: diario clinico-assistenziale, diario infermieristico, diario educativo-animativo, etc.) È però rilevante che, qualora esistano più sezioni del diario redatte da diverse figure professionali, queste siano tutte collocate nel FASAS e costituiscano parti integranti e sostanziali di un unico diario personale. 
+
+Il diario riporta tutti gli eventi riguardanti l'evoluzione della presa in carico, con particolare riferimento alle variazioni delle condizioni dell'utente;
+
+Il diario riporta le prescrizioni mediche di carattere diagnostico e terapeutico;
+
+Il diario riporta gli interventi preventivi, terapeutici, farmacologici, assistenziali, riabilitativi, educativi, animativi, psicologici effettuati in relazione alla pianificazione degli interventi (di cui al PAI, al PEI o al pri). Nelle strutture residenziali e semiresidenziali, per le prestazioni routinarie di ASA e OSS di assistenza nelle principali attività della vita quotidiana (alzarsi, lavarsi, vestirsi, alimentarsi, evacuare), deve essere data evidenza unicamente delle prestazioni non effettuate o la cui esecuzione è risultata difforme, sia in termini di tipologia che di modalità di erogazione, da quanto previsto nella pianificazione degli interventi. Per quanto riguarda le attività educative e animative di gruppo, se previste nelle singole progettazioni individuali, deve essere data unicamente evidenza della mancata frequenza da parte dell'utente rispetto alla pianificazione degli interventi, ovvero di particolari comportamenti o reazioni durante la realizzazione di tali attività. La partecipazione ad attività educative e animative di gruppo deve essere però documentabile secondo le modalità organizzative individuate dall'unità d'offerta;
+
+Il diario riporta le motivazioni a supporto di eventuali prestazioni previste ma non erogate, o erogate in modalità differenti rispetto a quanto pianificato e le eventuali modifiche motivate al piano assistenziale.
+
+Ogni registrazione nel diario deve essere corredata di data, ora e firma dell'estensore (o sigla, se esiste un registro aziendale delle sigle). Il redattore deve essere sempre identificabile.
+
+Per quanto riguarda specificamente l'ADI, ogni registrazione deve essere controfirmata anche dall'utente o dal caregiver. A conclusione degli interventi previsti dal profilo ADI assegnato, nel diario devono essere sinteticamente annotati gli esiti degli stessi (chiusura dell'intervento, necessità di una rivalutazione, ecc.)
+
+Il soggetto gestore predispone procedure e protocolli per i processi assistenziali più rilevanti per la specifica unità d'offerta, con relativo piano di diffusione e di attuazione. Le unità d'offerta sociosanitarie danno evidenza dell'effettivo utilizzo di procedure e protocolli previsti dalle specifiche norme di riferimento, nonché dell'adozione di ulteriori procedure e protocolli necessari a fornire una adeguata assistenza alla tipologia di utenza trattata. Per tutte le procedure e i protocolli assistenziali adottati deve essere previsto un aggiornamento ogni qualvolta si renda necessario e comunque con periodicità almeno triennale;
+
+Tutto il personale tenuto all'applicazione di quanto previsto dalle diverse procedure deve essere portato a conoscenza del loro contenuto.
+
+Il sistema informativo è rivolto alla raccolta, elaborazione e archiviazione dei dati di struttura, processo ed esito, con le seguenti finalità:
+- sostanziare e ridefinire le politiche e gli obiettivi dell'unità d'offerta e del soggetto gestore;
+- fornire alle strutture organizzative il ritorno informativo necessario alle valutazioni di loro competenza;
+- rispondere al debito informativo nei confronti di ASL e Regione Lombardia.
+
+Il soggetto gestore individua i bisogni informativi, predispone le strutture organizzative e le strumentazioni necessarie a garantire la qualità dei dati.
+
+Il soggetto gestore identifica nell'organigramma un responsabile del sistema informativo che presiede l'attività di raccolta, elaborazione e archiviazione dati.
+
+Il soggetto gestore di unità d'offerta per le quali è prevista la compartecipazione economica da parte degli utenti, rilascia annualmente le certificazioni ai fini fiscali, in tempo utile per la presentazione dei modelli fiscali.
+
+Il soggetto gestore è tenuto a dichiarare il titolo di godimento dell'immobile destinato all'attività sociosanitaria, gli eventuali vincoli gravanti sullo stesso e la compatibilità dell'attività con eventuali vincoli esistenti sull'immobile stesso.
+
+Tutte le unità d'offerta sociosanitarie devono essere in possesso dei requisiti previsti dalle vigenti leggi in materia di:
+- agibilità;
+- protezione antisismica;
+- protezione antincendio;
+- protezione acustica;
+- sicurezza elettrica e continuità elettrica;
+- sicurezza anti infortunistica;
+- igiene dei luoghi di lavoro;
+- protezione dalle radiazioni ionizzanti;
+- eliminazione delle barriere architettoniche;
+- smaltimento rifiuti;
+- condizioni microclimatiche;
+- impianti di distribuzione dei gas;
+- materiali esplodenti
+
+# Allegato 1 - Requisiti generali per l'accreditamento
+Per l'accreditamento, oltre ai requisiti di esercizio di cui al paragrafo 2, si prescrivono i seguenti ulteriori requisiti.
+
+I requisiti di cui sopra, con eccezione di quanto alla lettera b), sono attestati annualmente entro il 31 gennaio di ogni anno, con dichiarazione sostitutiva di atto notorio o di certificazione resa dal legale rappresentante del soggetto gestore o dai procuratori speciali. Il soggetto gestore è tenuto a comunicare tempestivamente qualsiasi variazione intervenuta rispetto a tali requisiti.
+
+Il requisito di cui alla lettera b) è attestato dalla relazione sull'ultimo bilancio approvato, in cui una società di revisione contabile ovvero l'organo di controllo con funzioni di revisione contabile dichiari in modo chiaro ed esplicito che il bilancio è stato redatto sulla base della corretta applicazione del principio della continuità aziendale e che non vi sono delle incertezze significative sulla continuità aziendale tali da doverne dare informativa in bilancio.
+
+Per i soggetti gestori pubblici, per quanto attiene ai requisiti inerenti l'affidabilità economico finanziaria, si fa riferimento agli obblighi contabili e di controllo previsti dalle specifiche normative.
+
+Il soggetto gestore adotta il programma annuale di cui al paragrafo 2.2.1., lettera b), entro il primo trimestre di ciascun anno solare, definendo gli obiettivi e le attività nell'ambito delle specifiche aree di intervento. Per le nuove unità d'offerta il programma viene adottato entro novanta giorni dalla data di accreditamento. Il programma annuale tiene conto delle diverse tipologie di utenti, delle risorse umane disponibili e del loro utilizzo, dell'apporto del volontariato, del grado rilevato di soddisfazione degli utenti, delle osservazioni degli organi di vigilanza. 
+
+La programmazione si attua almeno nei seguenti ambiti, dove applicabili:
+- educativo, di animazione, di socializzazione;
+- coinvolgimento del territorio (associazioni, parrocchie, scuole, servizi di inserimento lavorativo, altri servizi territoriali, gruppi di auto mutuo aiuto);
+- mantenimento delle abilità cognitive e motorie;
+- educazione alla salute e promozione del benessere;
+- sostegno delle famiglie e dei caregiver;
+- miglioramento della qualità organizzativa e assistenziale nel rispetto dei principi di umanizzazione delle cure.
+
+La Direzione garantisce la continuità dell'assistenza, oltre che secondo le modalità definite al punto 2.2.2., lettera b), prevedendo:
+- le modalità di gestione degli eventuali trasferimenti interni all'unità d'offerta o presso altre unità d'offerta sociosanitarie o sanitarie;
+- per i servizi domiciliari: la gestione di eventuali cambi del personale di riferimento;
+- per i servizi residenziali e semiresidenziali: il rilascio all'utente, all'atto della dimissione o del trasferimento presso altro servizio, di una relazione di dimissione in cui siano evidenziati lo stato di salute, i trattamenti effettuati, l'eventuale necessità di trattamenti successivi e le informazioni utili al proseguimento del percorso assistenziale
+
+Il documento previsto per l'esercizio di cui al punto 2.2.3., lettera a), deve prevedere anche:
+- i criteri di selezione del personale che includano, in particolare, la conoscenza della lingua italiana;
+- le modalità di integrazione tra le figure professionali, i volontari e i tirocinanti eventualmente presenti.
+
+I soggetti accreditati sono tenuti all'osservanza della normativa vigente sulla incompatibilità relativamente al personale dipendente da aziende sanitarie e da strutture sanitarie e sociosanitarie, pubbliche e private, del servizio sanitario nazionale.
+
+Il soggetto gestore individua, con atto formale, un operatore dell'unità d'offerta al quale sono attribuiti i seguenti compiti:
+- validare protocolli, procedure ed eventuali linee guida interne alla struttura, in materia sanitaria e verificarne la corretta applicazione;
+- curare i rapporti con la ASL di riferimento per l'applicazione di iniziative di promozione della prevenzione, dell'educazione alla salute e della tutela sociosanitaria;
+- vigilare sugli aspetti igienico-sanitari; sulla corretta compilazione della documentazione sociosanitaria; sulla corretta conservazione della documentazione sociosanitaria; sul rispetto della riservatezza dei dati sociosanitari; sulla corretta conservazione, somministrazione, smaltimento dei farmaci e dei materiali a scadenza; sulla gestione dei rifiuti pericolosi potenzialmente infetti e speciali pericolosi.
+
+Per le RSA, le RSD, gli hospice e le strutture di degenza di cure intermedie tale figura deve essere un laureato in medicina e chirurgia, iscritto all'ordine professionale.
+
+Il piano annuale di formazione di cui al punto 2.2.3., lettera c), deve:
+- assicurare la copertura del fabbisogno formativo di tutti gli operatori addetti all'assistenza in un arco di tempo triennale, sulla base delle esigenze specifiche rispetto all'utenza da assistere e su tematiche relative all'umanizzazione delle cure;
+- prevedere per tutti gli operatori la formazione su tematiche relative alla comunicazione e alle tecniche di relazione con gli utenti e i caregiver anche rispetto alla gestione dei conflitti.
+
+La formazione deve essere documentata in modo tale da rendere conoscibili i percorsi e i risultati. Per il personale che opera in libera professione, il soggetto gestore è tenuto ad acquisire la documentazione comprovante la formazione e l'aggiornamento svolti in relazione all'attività prestata.
+
+Il soggetto gestore adotta un sistema di rilevazione delle presenze degli operatori per ogni specifica unità d'offerta. Definisce inoltre la programmazione settimanale o mensile delle attività giornaliere del personale, ivi compresi lo schema di distribuzione programmata degli orari di lavoro (turni per ogni profilo professionale nell'arco delle 12 o 24 ore o nell'arco dell'orario di apertura), i piani per le sostituzioni, per la rotazione, le ferie e i permessi del personale. Il personale in servizio deve essere identificabile mediante cartellino di riconoscimento.
+
+Tutte le unità d'offerta si dotano di una carta dei servizi, datata, esposta, a disposizione del pubblico, pubblicata sul sito web (se esistente) dell'unità d'offerta, allegata al contratto di ingresso di cui al successivo punto e).
+
+gli strumenti e le modalità atte a tutelare i diritti delle persone assistite, i tempi di gestione delle segnalazioni e dei reclami, le indicazioni in caso di dimissioni, trasferimento ad altra struttura e per assicurare la continuità delle cure;
+
+gli strumenti, le modalità e i tempi di valutazione del grado di soddisfazione degli utenti e dei caregiver rispetto alla qualità dei servizi e delle prestazioni usufruite, nonché per la rilevazione dei disservizi;
+
+Alla carta dei servizi sono allegati la scheda di rilevazione del grado di soddisfazione dell'utenza e la scheda per esprimere apprezzamenti o lamentele o per denunciare i disservizi.
+
+La rilevazione del grado di soddisfazione dell'utenza, di cui al punto 2.2.5., lettera c), viene effettuata almeno annualmente, anche nei confronti dei famigliari e dei caregiver, rispetto alla qualità dei servizi e delle prestazioni usufruite. Deve essere inoltre rilevato il grado di soddisfazione del personale, anche con riguardo al benessere lavorativo. Il soggetto gestore garantisce:
+- l'analisi dei dati rilevati dalle valutazioni del grado di soddisfazione per il miglioramento della qualità dei servizi e la presa in considerazione delle criticità emerse;
+- la diffusione dei risultati delle indagini e delle misure di miglioramento (tramite occasioni pubbliche, la distribuzione di materiale informativo, la pubblicazione sul sito web aziendale o con altre modalità).
+
+Il soggetto gestore garantisce la raccolta e la tracciabilità dei disservizi rilevati e la predisposizione delle relative azioni di miglioramento, nonché la loro diffusione, se di interesse collettivo.
+
+Il soggetto gestore:
+- assicura la definizione e l'utilizzo di strumenti per la comunicazione interna (bacheche, intranet, riunioni periodiche, fogli informativi);
+- facilita l'accesso alla struttura e alle sue divisioni interne con l'apposizione di una segnaletica visibile anche a distanza e di facile comprensione.
+
+Il soggetto gestore di unità d'offerta sociosanitarie che prevedono la compartecipazione al costo da parte dell'utenza, adotta uno schema tipo di contratto di ingresso con l'utente secondo le linee guida di cui alla D.G.R. 20 dicembre 2013, n. 1185, Determinazioni in ordine alla gestione del servizio sociosanitario regionale per l'esercizio 2014.
+
+Il soggetto gestore di unità d'offerta residenziali con capacità ricettiva pari o superiore agli ottanta posti letto o di unità d'offerta che abbiano una capacità contrattuale complessiva in ambito sociosanitario pari o superiore a ottocentomila euro annui a carico del fondo sanitario regionale lombardo, è tenuto ad adeguarsi a quanto previsto dal decreto legislativo 8 giugno 2001, n. 231, Disciplina della responsabilità amministrativa delle persone giuridiche, delle società e delle associazioni anche prive di personalità giuridica, a norma dell'articolo 11 della legge 29 settembre 2000, n. 300, adottando il relativo modello organizzativo e il codice etico. Inoltre, ai sensi dell'articolo 6 del citato decreto legislativo, provvede alla nomina dell'organismo di vigilanza dotato di autonomi poteri di iniziativa e di controllo. Il soggetto gestore rende pubblico il proprio codice etico utilizzando il sito web (se esistente) o altri idonei mezzi.
+
+Il soggetto gestore attesta annualmente, entro il 28 febbraio di ogni anno, con dichiarazione sostitutiva di atto notorio resa dal legale rappresentante o dai procuratori speciali:
+- l'adozione del codice etico comportamentale;
+- la nomina dell'organismo di vigilanza, con l'identificazione dei componenti e la descrizione delle loro qualifiche;
+- l'avvenuta formazione e informazione al proprio personale sulla materia;
+- l'avvenuta acquisizione della relazione annuale dell'organismo di vigilanza.
+
+In aggiunta alle procedure e ai protocolli di cui al punto 2.2.5., lettera e), il soggetto gestore adotta procedure per:
+- la sorveglianza e la prevenzione delle infezioni correlate all'assistenza, ivi compresa l'adozione di adeguate strategie vaccinali, ove clinicamente ritenute opportune (solo per le unità d'offerta residenziali);
+- l'identificazione, la segnalazione e la gestione degli eventi avversi e degli eventi sentinella.
+
+Tutte le procedure e i protocolli devono essere formalmente corretti (datati e approvati), aggiornati ogni qualvolta si renda necessario e comunque con periodicità non superiore al triennio, effettivamente applicati e portati a conoscenza di tutto il personale interessato.
+
+Il soggetto gestore stipula, in data non successiva alla presentazione della SCIA contestuale o dell'istanza di accreditamento, una polizza assicurativa per la responsabilità civile per coprire eventuali danni agli utenti o ad altri soggetti. La polizza deve comprendere i danni involontariamente cagionati in conseguenza di fatti accidentali e imputabili a negligenza, imprudenza o imperizia. Eventuali franchigie previste dalle polizze non devono gravare sui terzi danneggiati. In alternativa, il soggetto gestore deve avere un programma assicurativo di gestione diretta del rischio, idoneamente documentato.
+
+Il soggetto gestore adotta un sistema per la valutazione degli obiettivi, delle attività e dei risultati del programma annuale di cui al paragrafo 2.2.1., punto b), che prevede:
+- la definizione di strumenti, indicatori, modalità e tempi per la valutazione del raggiungimento degli obiettivi annuali in relazione alle attività pianificate;
+- la predisposizione di una relazione annuale che espliciti i risultati conseguiti a seguito degli obiettivi e delle attività proposte, le eventuali criticità rilevate e le azioni migliorative previste per l'anno successivo, dando evidenza del coinvolgimento del personale nelle attività di valutazione;
+- la diffusione dei risultati agli interessati.
+
+In aggiunta all'adozione di quanto previsto al paragrafo 2.2.6., il soggetto gestore si dota di un sistema di contabilità analitica nel rispetto della normativa vigente e delle indicazioni regionali di cui alla legge regionale n. 3/2008. Detto sistema, direttamente riferito alla singola unità d'offerta, consente di imputare i dati economici per centri di costo, con un livello di dettaglio almeno funzionale all'assolvimento del debito informativo regionale. Il sistema contabile dimostra il corretto rapporto tra le risorse impiegate e le prestazioni erogate e promuove sistemi di controllo di gestione e altri metodi di valutazione dei risultati.
+
+# Allegato 1 - Requisiti generali per la sottoscrizione del contratto
+La sottoscrizione di un contratto con il Servizio Sanitario Regionale è soggetto alla programmazione regionale dell'offerta sociosanitaria. Il presupposto principale, necessario ma non sufficiente, per la sottoscrizione del contratto è di essere un soggetto accreditato. Inoltre, preliminarmente alla sottoscrizione di ogni tipologia di contratto con il Servizio Sanitario Regionale, il soggetto gestore deve acquisire la documentazione di cui all'articolo 38 del decreto legislativo 12 aprile 2006, n. 163, Codice dei contratti pubblici relativi a lavori, servizi e forniture in attuazione delle direttive 2004/17/CE e 2004/18/CE, nelle modalità ivi indicate. Al fine di garantire l'uniforme applicazione della predetta normativa la Regione predispone idonei strumenti applicativi da diffondere alle ASL e ai soggetti gestori.
+
+Ai soggetti a contratto si applica il Libro II del decreto legislativo 159/2011. L'autocertificazione antimafia è alternativa all'informazione antimafia e, pertanto, i soggetti gestori accreditati e a contratto che rientrino nelle fattispecie di cui all'articolo 91 del decreto legislativo 159/2011, non devono produrre l'autocertificazione antimafia di cui all'articolo 89 del medesimo decreto. Al fine di garantire l'uniforme applicazione della predetta normativa la Regione fornisce le opportune indicazioni da diffondere alle ASL e ai soggetti gestori.
+
+# Allegato 2 - Premessa
+Il presente allegato disciplina la procedura per la messa in esercizio, l'accreditamento e i conseguenti provvedimenti relativi all'attività delle unità d'offerta sociosanitarie, nel rispetto dei requisiti definiti nell'allegato 1 e della normativa nazionale e regionale vigente.
+
+# Allegato 2 - Esercizio delle unità d'offerta sociosanitarie
+L'esercizio delle unità d'offerta sociosanitarie, ad eccezione di quelle con piano programma in corso e ancora soggette ad autorizzazione all'esercizio, è subordinato alla presentazione di una segnalazione certificata di inizio attività (SCIA) ai sensi dell'articolo 19 della legge 7 agosto 1990, n. 241, Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi.
+
+La SCIA deve essere presentata nei seguenti casi:
+- messa in esercizio di nuova unità d'offerta;
+- trasferimento in altra sede di unità d'offerta già abilitata all'esercizio, anche all'interno dello stesso edificio;
+- variazione della capacità ricettiva;
+- variazioni nell'assetto dei servizi o delle prestazioni erogate;
+- trasformazione di unità d'offerta esistente in altra tipologia;
+- modifica dell'articolazione degli spazi della medesima unità di offerta, qualora le modifiche comportino, anche senza interventi edilizi, il mutare delle condizioni previste dal regolamento d'igiene o di sicurezza dei locali (come ad esempio: trasformazione di uffici in ambulatorio o palestre, trasformazione di aree di socializzazione in aree dove vengono erogate prestazioni sanitarie).
+- eventi modificativi del soggetto gestore per le unità di offerta non accreditate (a titolo esemplificativo: nel caso di persone giuridiche private può trattarsi di subentro di un nuovo soggetto gestore, scioglimento, fusione per incorporazione o costituzione di un nuovo ente; nel caso di enti pubblici può trattarsi di successione tra enti, anche per effetto di intervenute modifiche del quadro normativo di riferimento).
+
+Al fine di semplificare il procedimento, non è necessario produrre nuovamente documenti e dichiarazioni sostitutive di certificazioni o di atto notorio ancora in corso di validità già prodotti in altri procedimenti, ma è sufficiente citare nella SCIA il procedimento nel quale i documenti sono stati prodotti. Analogamente, nel caso di SCIA per varianti o modifiche (punti 3, 4 e 6), la documentazione da produrre riguarda le sole variazioni intervenute, aggiornando se necessario le planimetrie precedentemente autorizzate o positivamente verificate
+
+Non sono soggette a presentazione di SCIA, ma a semplice comunicazione alla ASL, le seguenti fattispecie:
+- variazione del legale rappresentante del soggetto gestore: alla comunicazione si devono allegare l'atto di nomina e l'autocertificazione del possesso dei requisiti soggettivi del nuovo legale rappresentante (utilizzando la modulistica regionale);
+- trasformazione giuridica del soggetto gestore che non si sostanzi nel subentro di un nuovo soggetto gestore: alla comunicazione si allega la documentazione relativa alla trasformazione avvenuta;
+- modifiche nell'articolazione degli spazi che non comportino il mutare delle condizioni previste dal regolamento d'igiene o di sicurezza dei locali e interventi di manutenzione ordinaria e straordinaria. Le suddette comunicazioni sono trasmesse alla ASL con gli elaborati grafici aggiornati e l'indicazione dettagliata e motivata delle variazioni eseguite.
+
+Il legale rappresentante del soggetto gestore (o il procuratore speciale) presenta la SCIA, utilizzando la modulistica regionale, alla ASL competente per territorio, per conoscenza al comune di ubicazione dell'unità d'offerta e alla Regione, mediante presentazione diretta, invio postale con raccomandata con avviso di ricevimento, posta elettronica certificata (PEC). Unicamente per la ASL, alla SCIA devono essere allegati autocertificazioni, attestazioni ed elaborati tecnici atti a comprovare la sussistenza dei requisiti minimi stabiliti dal D.P.R. 14 gennaio 1997, dal presente provvedimento e dalla normativa regionale vigente in relazione alle singole tipologie di unità d'offerta.
+
+La SCIA riguarda una sola unità d'offerta sociosanitaria. In caso di segnalazione da parte dello stesso soggetto gestore per una pluralità di strutture, è necessaria la presentazione di una SCIA separata per ciascuna di esse.
+
+Per le unità d'offerta gestite direttamente dalle ASL, la SCIA viene presentata alla ASL tenuta a effettuare l'attività di vigilanza incrociata, secondo le relative disposizioni regionali.
+
+Dalla data di presentazione della SCIA, cioè di effettiva ricezione della stessa da parte della ASL, il soggetto è abilitato a porre in esercizio la relativa unità d'offerta e assume la responsabilità diretta della relativa gestione.
+
+La presentazione della SCIA presuppone il possesso di tutti i requisiti minimi stabiliti dalle disposizioni vigenti per l'esercizio dell'unità d'offerta. Lo standard di personale deve essere assicurato in relazione alla progressiva presa in carico di utenti.
+
+La ASL non può subordinare in alcun modo l'inizio dell'effettivo esercizio dell'unità di offerta alla preventiva positiva verifica di sussistenza dei requisiti dichiarati e attestati nella SCIA.
+
+Il soggetto gestore, ai fini del mantenimento dell'abilitazione all'esercizio, è tenuto ad assolvere al debito informativo previsto per la specifica unità d'offerta.
+
+Il soggetto gestore è tenuto inoltre a garantire alla ASL, nell'ambito dell'esercizio delle funzioni di vigilanza e controllo: l'accesso a tutti i locali della struttura; l'accesso alla documentazione rilevante ai fini dell'esercizio dell'unità di offerta; la possibilità di intraprendere ogni ulteriore esame finalizzato a verificare l'allineamento della gestione reale a quanto dichiarato nei diversi documenti prodotti; la facoltà di assumere informazioni dirette dal personale, dagli ospiti e dai loro familiari.
+
+In caso di SCIA incompleta, mancante cioè di elementi essenziali (come ad esempio: la sottoscrizione da parte del legale rappresentante, i dati o la documentazione allegata previsti nella modulistica regionale, la possibilità di identificare la tipologia di unità d'offerta a cui la SCIA si riferisce), la ASL, senza attendere la decorrenza dei termini previsti per le verifiche comunica al soggetto gestore l'irricevibilità o l'inammissibilità o l'improcedibilità della SCIA, ai sensi della legge n. 241/1990. Il gestore ha in tal caso la facoltà di presentare una nuova SCIA.
+
+In caso di presentazione di SCIA formalmente regolare, la ASL inserisce i relativi dati nel registro informatizzato delle unità d'offerta sociosanitarie;
+
+In caso di presentazione di SCIA formalmente regolare, la ASL accerta, entro sessanta giorni dall'effettivo ricevimento della SCIA, l'esistenza dei requisiti per l'esercizio dell'unità d'offerta, effettuando anche un sopralluogo presso la struttura;
+
+In caso di presentazione di SCIA formalmente regolare, la ASL nel caso di verifica positiva, ne comunica l'esito al gestore;
+
+In caso di presentazione di SCIA formalmente regolare, la ASL nel caso invece di accertata carenza dei requisiti minimi, fatta salva l'applicazione delle dovute sanzioni amministrative previste dall'articolo 15 della legge regionale n. 3/2008, sempre entro sessanta giorni dal ricevimento della SCIA, emette un atto di diffida imponendo al gestore di ottemperare alle prescrizioni rilevate entro un congruo termine non inferiore a trenta giorni. Qualora si riscontri una situazione di rischio per la salute o per la sicurezza pubblica, dispone con provvedimento motivato il divieto di prosecuzione dell'attività e l'obbligo di rimozione degli eventuali effetti dannosi provocati. In tale eventualità gravano in capo al soggetto gestore tutti gli adempimenti e i relativi oneri per la idonea collocazione degli utenti in altre unità d'offerta, in raccordo con la ASL, gli utenti e loro famiglie (o i tutori o gli amministratori di sostegno) e i comuni di residenza degli utenti;
+
+In caso di presentazione di SCIA formalmente regolare, la ASL fatte salve le responsabilità di natura civile e penale, nonché le sanzioni dovute per l'inosservanza di altre normative regionali o nazionali, in caso di mancato adeguamento nei termini indicati alle prescrizioni contenute nella diffida, adotta un provvedimento motivato di divieto di prosecuzione dell'attività, ai sensi dall'art. 19 della legge n. 241/1990;
+
+In caso di presentazione di SCIA formalmente regolare, la ASL fornisce alla Regione comunicazione dell'esito delle verifiche condotte e dei provvedimenti adottati. Tutte le comunicazioni tra ASL e Regione avvengono via PEC nel rispetto dell'articolo 65 del decreto legislativo 7 marzo 2005, n. 82, Codice dell'Amministrazione Digitale.
+
+Fatte salve le responsabilità di natura civile e penale, nonché le sanzioni dovute al mancato rispetto di altre normative regionali o nazionali, le unità d'offerta sociosanitarie incorrono nella sospensione o revoca dell'autorizzazione o abilitazione all'esercizio, quando l'attività sia esercitata in mancanza dei requisiti minimi, previa diffida da parte della ASL ad adempiere alle prescrizioni per il ripristino dei requisiti entro un congruo termine non inferiore a trenta giorni.
+
+In caso di cessazione dell'attività, il gestore deve darne comunicazione alla ASL, al comune e alla Regione, dimostrando di aver garantito la continuità dell'assistenza agli utenti.
+
+# Allegato 2 - Accreditamento delle unità d'offerta sociosanitarie
+L'accreditamento delle unità d'offerta sociosanitarie è subordinato alla presentazione di specifica istanza. Specifica istanza deve essere presentata anche per le unità d'offerta già accreditate, nei seguenti casi:
+- variazione, sia in aumento che in riduzione, della capacità ricettiva,
+- trasformazione di unità d'offerta esistente in altra tipologia;
+- trasferimento della sede in cui è svolta l'attività, anche all'interno dello stesso edificio;
+- voltura, da intendersi come effettivo trasferimento della gestione tra due distinti soggetti. L'istanza deve essere presentata, utilizzando la modulistica regionale, alla Regione e alla ASL competente per territorio mediante presentazione diretta, invio postale con raccomandata con avviso di ricevimento, posta elettronica certificata (PEC). La trasmissione alla Regione deve avvenire esclusivamente tramite PEC.
+
+All'istanza di accreditamento, unicamente per la ASL, devono essere allegati dichiarazioni sostitutive di certificazioni o atti notori, attestazioni ed elaborati tecnici, necessari a comprovare la sussistenza dei requisiti soggettivi, strutturali e tecnologici, organizzativi e gestionali previsti dal presente provvedimento e dalla normativa vigente per la specifica tipologia di unità d'offerta.
+
+La presentazione dell'istanza di accreditamento può avvenire:
+- contestualmente alla presentazione della SCIA, ovvero con una SCIA cosiddetta contestuale, presentata con le stesse modalità di cui al paragrafo 2.4.;
+- successivamente, in presenza di un'attività già abilitata o autorizzata all'esercizio.
+
+La ASL procede, entro sessanta giorni dal ricevimento della domanda di accreditamento, a verificare il possesso dei requisiti attestati, anche mediante sopralluogo nella struttura.
+
+Qualora il sopralluogo si concluda con esito positivo, la ASL, entro i successivi trenta giorni, adotta il provvedimento di attestazione del possesso dei requisiti di accreditamento (oltre che di esercizio, nel caso di SCIA contestuale). Detto provvedimento è trasmesso alla Regione e al soggetto gestore entro cinque giorni lavorativi dalla sua adozione.
+
+Nel caso invece di accertata carenza o di mancato mantenimento di un requisito, fatte salve le eventuali responsabilità di natura civile e penale e l'applicazione delle dovute sanzioni amministrative previste dall'articolo 15 della legge regionale n. 3/2008, la ASL:
+- emette un atto di diffida, imponendo al gestore di ottemperare alle prescrizioni impartite entro un congruo termine, che non può essere superiore a sessanta giorni;
+- accertato l'assolvimento delle prescrizioni, adotta il provvedimento di attestazione del possesso dei requisiti di accreditamento e lo trasmette alla Regione e al soggetto gestore entro cinque giorni lavorativi dalla sua adozione;
+- decorso invece infruttuosamente il termine della diffida, adotta il provvedimento con cui si attesta la carenza dei requisiti di accreditamento e lo trasmette alla Regione e al soggetto gestore entro cinque giorni lavorativi.
+
+Qualora si riscontri una situazione di rischio per la salute o per la sicurezza pubblica, la ASL dispone, con provvedimento motivato, il divieto di prosecuzione dell'attività e l'obbligo di rimozione degli eventuali effetti dannosi provocati. In tale eventualità gravano in capo al soggetto gestore tutti gli adempimenti e i relativi oneri per l'idonea collocazione degli utenti in altre unità d'offerta, in raccordo con la ASL, gli utenti e le loro famiglie (o i tutori o gli amministratori di sostegno) e i comuni di residenza degli utenti.
+
+La Regione, ricevuto il provvedimento della ASL di attestazione del possesso o di carenza dei requisiti di accreditamento, entro i successivi trenta giorni dispone l'accreditamento dell'unità d'offerta o la sua modifica, ovvero il diniego dell'accreditamento e ne dà comunicazione sia alla ASL che al soggetto gestore.
+
+La Regione provvede a iscrivere l'unità d'offerta nel registro informatizzato delle unità d'offerta sociosanitarie accreditate. La ASL attribuisce quindi il codice struttura, dandone comunicazione alla Regione e al soggetto gestore, al fine di consentire a quest'ultimo di adempiere al prescritto debito informativo.
+
+Entro sessanta giorni dal decreto di accreditamento, il soggetto gestore deve aver avviato l'attività con l'effettiva presa in carico di utenti, dandone comunicazione alla ASL competente.
+
+Entro novanta giorni dalla data di avvio dell'attività, la ASL esegue un ulteriore sopralluogo, senza preavviso, al fine di verificare il mantenimento dei requisiti. In particolare la ASL verifica l'adeguatezza quantitativa e qualitativa delle unità di personale presenti in relazione alla progressiva presa in carico degli utenti. Dell'esito del sopralluogo la ASL dà comunicazione alla Regione con l'invio del relativo verbale.
+
+Nel caso in cui il sopralluogo post accreditamento si concluda con la constatazione che l'attività con l'effettiva presa in carico degli utenti non sia ancora iniziata, la ASL adotta il provvedimento di proposta di decadenza dell'accreditamento.
+
+La Regione, ricevuto il provvedimento della ASL di proposta di sospensione o di revoca o di decadenza dell'accreditamento, dispone di conseguenza entro trenta giorni. In caso di revoca dell'accreditamento, la Regione provvede a cancellare l'unità d'offerta dal registro informatizzato delle unità di offerta sociosanitarie accreditate e ne dà comunicazione sia alla ASL che al soggetto gestore.
+
+Gli effetti giuridici dell'accreditamento sono subordinati alla conclusione del procedimento e all'adozione del relativo provvedimento regionale. Il soggetto gestore è tenuto, già dal momento di presentazione della SCIA contestuale o della richiesta di accreditamento, a dimostrare il possesso di tutti requisiti previsti per l'accreditamento dell'unità di offerta, indipendentemente dall'effettiva presenza di utenti. Lo standard di personale è invece assicurato in relazione alla progressiva presa in carico di utenti.
+
+L'accreditamento dell'unità di offerta comporta l'obbligo per il soggetto gestore di mantenere i requisiti di esercizio e accreditamento previsti dal presente provvedimento e dalla normativa per la specifica tipologia di unità d'offerta.
+
+Il soggetto gestore accreditato è tenuto a:
+- assolvere il debito informativo prescritto dalla Regione;
+- garantire alla ASL, che esercita ai sensi della normativa regionale i compiti di vigilanza e controllo sulle unità d'offerta: l'accesso a tutti i locali della struttura; l'accesso alla documentazione relativa al rapporto di accreditamento o, comunque, rilevante ai fini dell'esercizio dell'unità di offerta; la possibilità di intraprendere ogni ulteriore esame finalizzato a verificare l'allineamento della gestione reale a quanto dichiarato nei diversi documenti prodotti; la facoltà di assumere informazioni dirette dal personale, dagli ospiti e dai loro familiari;
+- rispettare le procedure previste nei casi di variazione del soggetto gestore
+
+Per presentare istanza di accreditamento, il soggetto gestore può avvalersi della possibilità di attestare i requisiti di accreditamento mediante perizia asseverata, secondo le modalità previste con la D.G.R. del 7 febbraio 2005, n. 20465, Ulteriori determinazioni procedurali in ordine ai percorsi di semplificazione per le unità d'offerta sociosanitarie.
+
+Il trasferimento dell'accreditamento da un soggetto gestore a un altro è subordinato all'emanazione di un provvedimento regionale di voltura, finalizzato ad accertare la sussistenza dei requisiti soggettivi del soggetto gestore subentrante.
+
+Il soggetto gestore subentrante attiva il procedimento attraverso la presentazione di un'istanza alla Regione e alla ASL competente per territorio, utilizzando l'apposita modulistica regionale, mediante presentazione diretta, invio postale con raccomandata con avviso di ricevimento, posta elettronica certificata (PEC). La trasmissione alla Regione deve avvenire esclusivamente tramite PEC.
+
+All'istanza di voltura dell'accreditamento, unicamente per la ASL, deve essere allegata la seguente documentazione:
+- il contratto e/o l'atto unilaterale di cessione, in relazione al quale il nuovo soggetto subentra nella gestione dell'unità d'offerta, la cui efficacia è comunque subordinata all'adozione del provvedimento regionale di voltura dell'accreditamento;
+- per l'ipotesi in cui l'immobile non sia di proprietà del soggetto gestore: dichiarazione del proprietario che attesti che non sussistono impedimenti al subentro del nuovo soggetto nel godimento dell'immobile e al trasferimento dell'accreditamento (come ad esempio vincoli derivanti da finanziamento pubblico per la realizzazione o la ristrutturazione dell'immobile ove è esercitata l'unità d'offerta);
+- attestazione, da parte del soggetto subentrante, del possesso dei requisiti soggettivi di esercizio, di accreditamento e, qualora il soggetto uscente sia titolare di contratto con la ASL, anche dei requisiti soggettivi per la sottoscrizione del contratto;
+- dichiarazione di impegno del soggetto subentrante a garantire il mantenimento dei requisiti organizzativi e gestionali, strutturali e tecnologici, di esercizio e di accreditamento;
+- dichiarazione di impegno del soggetto uscente a garantire la continuità dell'attività sino all'adozione del provvedimento regionale di voltura.
+
+Il richiedente non è tenuto a produrre, se non in caso di loro modifica, i documenti che attestano il possesso dei requisiti di carattere strutturale.
+
+La ASL procede a verificare il possesso dei requisiti soggettivi e ne trasmette l'esito alla Regione e agli interessati entro sessanta giorni dal ricevimento della domanda di voltura, con provvedimento di attestazione del possesso dei requisiti. La Regione, entro trenta giorni dal ricevimento del provvedimento della ASL, adotta il decreto che dispone la voltura dell'accreditamento e ne dà comunicazione alle parti e alla ASL. La Regione provvede all'iscrizione della variazione del soggetto gestore dell'unità d'offerta nel registro regionale.
+
+La ASL, entro novanta giorni dal decreto di voltura, effettua una visita di vigilanza presso l'unità di offerta, al fine di verificare il mantenimento dei requisiti, con particolare attenzione ai requisiti organizzativi e gestionali.
+
+Le unità d'offerta realizzate con finanziamenti pubblici di natura regionale o statale mantengono, anche in caso di voltura, il vincolo di destinazione di cui all'articolo 25, comma 3, della legge regionale n. 3/2008.
+
+Ai fini di quanto sopra, il soggetto pubblico proprietario dell'immobile nel quale viene esercitata l'attività di un'unità d'offerta e che intenda affidare la gestione dell'attività, regola i propri rapporti con l'affidatario tramite l'inserimento nel relativo capitolato di condizioni volte a garantire:
+- il rispetto di tutti i requisiti di esercizio e di accreditamento;
+- l'osservanza delle condizioni di accesso alla sottoscrizione dell'eventuale contratto con la ASL, previste dalla normativa;
+- la corretta gestione dell'unità d'offerta ai sensi della vigente normativa nazionale e regionale.
+
+Il soggetto pubblico deve inoltre espletare le procedure di affidamento a terzi in modo da garantire che la gestione dell'attività prosegua con continuità tra un gestore e il successivo.
+
+L'affidatario provvede direttamente a presentare la richiesta di voltura dell'accreditamento, dando così attivazione alla procedura descritta sopra. La documentazione richiesta viene integrata con il capitolato e l'atto di affidamento.
+
+Fatte salve le responsabilità di natura civile e penale, nonché le sanzioni dovute al mancato rispetto di altre normative regionali o nazionali, le unità d'offerta sociosanitarie incorrono nella sospensione o revoca dell'accreditamento, previa diffida da parte della ASL ad adempiere entro un congruo termine (vedi paragrafo 3.2.), nei seguenti casi:
+- quando l'attività sia esercitata in mancanza dei requisiti minimi;
+- quando non venga garantito il mantenimento di uno o più requisiti di accreditamento;
+- quando sono assegnate codifiche che, rispetto alle indicazioni regionali, non rappresentino in modo corretto la classificazione della fragilità degli utenti o l'appropriatezza delle prestazioni erogate;
+- per il mancato, tardivo o incompleto invio alla Regione o alla competente ASL delle comunicazioni o dei flussi informativi previsti dalla vigente normativa in materia di accreditamento;
+- per l'erogazione di prestazioni non previste tra quelle rispondenti alla specifica tipologia di unità d'offerta;
+- quando si verifichi la perdita del titolo di godimento dell'immobile sede dell'attività;
+- per il mancato rispetto delle procedure previste nei casi di cambiamento del soggetto gestore.
+
+Per le fattispecie sopra riportate ai punti a., b., c. (riferite al medesimo utente) ed e. riscontrate per tre volte nel corso dei dodici mesi successivi al primo riscontro, la diffida dovrà essere fatta contestualmente alla proposta di sospensione dell'accreditamento.
+
+La Regione, ricevuto il provvedimento della ASL di proposta di sospensione o di revoca dell'accreditamento, entro i successivi trenta giorni dispone di conseguenza e ne dà comunicazione sia alla ASL che al soggetto gestore. In caso di revoca dell'accreditamento, la Regione provvede a cancellare l'unità d'offerta dal registro informatizzato delle unità di offerta sociosanitarie accreditate.
+
+Si incorre nella decadenza dell'accreditamento nei casi di cessazione o di mancato avvio dell'attività.
+- Cessazione dell'attività: la decadenza è disposta dalla Regione a seguito di comunicazione da parte del soggetto gestore. La ASL verifica la salvaguardia della continuità assistenziale degli utenti e ne dà comunicazione in Regione. Qualora la cessazione dell'attività derivi da una decisione del soggetto gestore, viene fissato un termine di preavviso minimo di novanta giorni, fatta salva diversa valutazione della ASL competente. Gravano in capo al soggetto gestore tutti gli adempimenti e i relativi oneri per l'idonea collocazione degli utenti in altre unità d'offerta, in raccordo con la ASL, gli utenti stessi, le loro famiglie, eventuali tutori o amministratori di sostegno e i comuni di residenza.
+- Mancato avvio dell'attività: la decadenza viene disposta dalla Regione nel caso in cui la ASL nel corso del sopralluogo post accreditamento verifichi che l'attività non sia stata avviata con l'effettiva presa in carico di utenti. La ASL, dopo aver seguito la procedura di cui al punto 3.2., adotta e trasmette alla Regione un provvedimento di proposta di decadenza dell'accreditamento per mancato avvio dell'attività.
+
+La Regione comunica alla ASL e al soggetto gestore interessato il provvedimento di decadenza dall'accreditamento e cancella il soggetto dal registro informatizzato delle unità d'offerta sociosanitarie.
+
+Il riconoscimento di ente unico gestore di più unità di offerta cambia la definizione stessa di unità d'offerta, che diventa il complesso di tutte le unità d'offerta afferenti all'ente gestore. L'ente unico è un soggetto gestore di più unità d'offerta accreditate sul territorio regionale che agisce in modo uniforme attraverso l'adozione di protocolli assistenziali e procedure operative omogenee (come ad esempio la gestione dei reclami, la rilevazione della qualità percepita, i contratti d'ingresso con gli utenti, la progettazione e l'erogazione dell'attività formativa, ecc.)
+
+Il legale rappresentante del soggetto gestore, pubblico o privato, o altro soggetto munito di idonei poteri, di più unità d'offerta accreditate sul territorio regionale, può presentare alla Regione istanza di riconoscimento quale ente unico gestore, allegando l'autocertificazione che attesti l'assolvimento a livello di ente unico dei requisiti organizzativi e gestionali generali di esercizio e di accreditamento. Gli enti unici già riconosciuti alla data del presente provvedimento hanno un anno per adeguarsi alle presenti disposizioni e, decorso tale periodo, previa verifica positiva della ASL sul cui territorio il soggetto gestore ha sede legale o svolge in modo prevalente la propria attività, ottengono la conferma della qualifica di ente unico. È a carico dei soggetti gestori l'onere di comunicare alla ASL, entro il suddetto termine, l'avvenuto adeguamento alle presenti disposizioni.
+
+Il riconoscimento e la conferma di ente unico sono disposti con provvedimento regionale, a seguito di attestazione del possesso dei requisiti richiesti da parte della ASL sul cui territorio il soggetto gestore ha sede legale o svolge in modo prevalente la propria attività.
+
+# Allegato 3 - Pianificazione delle attività da parte delle ASL
+Le ASL esercitano le funzioni di vigilanza e controllo sulle unità d'offerta sociosanitarie previste dalla normativa regionale vigente (le leggi regionali 12 marzo 2008, n. 3, Governo della rete degli interventi e dei servizi alla persona in ambito sociale e sociosanitario e 30 dicembre 2009, n. 33, Testo unico delle leggi regionali in materia di sanità) oltre che dagli specifici provvedimenti attuativi della programmazione regionale. La funzione di vigilanza si svolge attraverso attività volte alla verifica del possesso e del mantenimento nel tempo dei requisiti generali e specifici, di esercizio e di accreditamento, che comprendono i requisiti soggettivi, organizzativi e gestionali, strutturali e tecnologici. La funzione di controllo si svolge attraverso attività di verifica dell'appropriata erogazione delle prestazioni e della loro corretta rendicontazione, con riferimento all'assistenza diretta al singolo utente secondo le modalità previste dalla D.G.R. 8 maggio 2014, n. 1765, Il sistema dei controlli in ambito socio sanitario: definizione degli indicatori di appropriatezza. È compito delle ASL effettuare i controlli sul rispetto dell'adempimento degli obblighi contrattuali dei soggetti gestori. Le ASL, inoltre, effettuano i controlli sulle persone giuridiche private di cui agli articoli 23 e 25 del codice civile, attraverso le commissioni nominate ai sensi della D.G.R. 16 maggio 2014, n. 1845, Determinazione in ordine alla valutazione dei Direttori Generali delle Aziende Sanitarie Locali e definizione degli obiettivi aziendali per l'anno 2014. 
+
+Per lo svolgimento delle funzioni di vigilanza e controllo, le ASL sono tenute a garantire un'adeguata dotazione di risorse umane e strumentali, in considerazione:
+- della numerosità, tipologia e complessità delle unità d'offerta sociosanitarie di competenza;
+- dell'attivazione di iniziative di miglioramento della qualità dei servizi offerti ai cittadini, che possono sostanziarsi nell'apertura di tavoli di confronto con gli enti erogatori e nell'elaborazione di linee guida di buone prassi a valenza territoriale.
+
+La pianificazione delle attività è formalizzata nel Piano annuale di vigilanza e controllo sulle unità d'offerta sociosanitarie e sociali, adottato dal Direttore generale della ASL, in cui deve essere data evidenza di una programmazione integrata delle attività di verifica da parte delle diverse strutture aziendali competenti e deve essere indicata la dotazione organica di personale attribuita alle strutture che svolgono le funzioni di vigilanza e controllo. Le ASL, nei tempi annualmente definiti e comunicati, trasmettono il Piano alla Regione per l'approvazione e lo comunicano, con le modalità ritenute opportune, ai soggetti gestori. Le ASL sono tenute a inviare semestralmente alla Regione la rendicontazione dell'attività svolta, secondo le modalità e le scadenze definite dalla stessa Regione.
+
+# Allegato 3 - Ambito e modalità di attuazione
+Le attività di vigilanza e controllo sono svolte nel rispetto delle disposizioni di cui alla legge 6 novembre 2012, n. 190, Disposizioni per la prevenzione e la repressione della corruzione e dell'illegalità nella pubblica amministrazione, secondo principi di imparzialità, obiettività, trasparenza e riservatezza.
+
+L'attività di vigilanza e controllo si esplica sia attraverso sopralluoghi presso le unità d'offerta, sia attraverso verifiche documentali, inclusi i controlli effettuati tramite il ricorso ad altri enti con competenze specifiche (come ad esempio per la verifica delle autocertificazioni rese). La finalità dell'attività di vigilanza e di controllo è di garantire la corretta e migliore assistenza agli utenti delle unità d'offerta sociosanitarie e in questa ottica si deve collocare la verifica del rispetto dei requisiti e dell'appropriatezza delle prestazioni. Con questo obiettivo, la verifica documentale e quella ispettiva sul campo si integrano e si completano a vicenda. L'attività di vigilanza e controllo sui requisiti documentali non si esaurisce pertanto nella sola verifica della correttezza formale della documentazione che attesta il possesso di requisiti o l'appropriata erogazione delle prestazioni.
+ 
+Anche per requisiti di carattere prettamente documentale, è necessario prendere in esame non solo la presenza della documentazione, ma anche la coerenza dei contenuti e la sua effettiva applicazione. I documenti richiesti devono essere intesi come normali strumenti di lavoro finalizzati a garantire la qualità dell'assistenza e non documenti prodotti ad uso delle ASL, cui la vigilanza deve poter accedere per le verifiche di competenza. Ne consegue che l'accertamento è il risultato dell'esame di più elementi e si fonda sulla verifica diretta tramite sopralluogo, sull'analisi della documentazione attestante i requisiti e le prestazioni erogate, nonché sulle verifiche delle rendicontazioni prodotte sulla base della normativa regionale, che costituiscono il solo debito informativo richiesto alle unità d'offerta per il riconoscimento dell'attività svolta. Una buona base documentale costituisce, pertanto, un fondamentale elemento per l'accertamento del possesso di un requisito o dell'appropriatezza di una prestazione, ma può non essere sufficiente, dovendo trovare riscontro nelle altre verifiche effettuate per escludere un adempimento solo formale a requisiti o criteri di appropriatezza. Analogamente le eventuali criticità rilevate rispetto alla documentazione possono non essere sufficienti ad attestare la carenza di requisiti o casi di inappropriatezza, essendo necessario prendere in esame tutti gli elementi delle verifiche, complessivamente considerati.
+
+Sono soggette a verifica:
+- tutte le unità d'offerta sociosanitarie pubbliche e private, indipendentemente dallo status erogativo (abilitate all'esercizio, accreditate, contrattualizzate);
+- le unità d'offerta sociosanitarie innovative, a carattere sperimentale, promosse dalla Regione;
+
+Le funzioni di vigilanza e controllo si esercitano anche in tutte le eventuali situazioni ove, per la tipologia di utenza e per i servizi offerti, si presuppone vengano svolte attività sociosanitarie in assenza di corretta abilitazione all'esercizio.
+
+I sopralluoghi presso le unità d'offerta sono svolti nell'ambito dell'attività pianificata, a seguito di SCIA, SCIA contestuale e istanza di accreditamento, oppure a seguito di segnalazioni, richieste pervenute da altri enti o altri eventi imprevisti. I sopralluoghi sono di norma effettuati senza preavviso, a eccezione dei casi di presentazione di SCIA o SCIA contestuale e istanza di accreditamento, modifica dell'accreditamento e monitoraggio della realizzazione dei piani programma. Le équipe preposte ai sopralluoghi sono di norma costituite da almeno due operatori, tra i quali si individua un responsabile dell'istruttoria che cura la progettazione, la gestione dell'intervento e la redazione degli atti, in collaborazione con gli altri componenti. Il personale incaricato di svolgere attività di vigilanza e controllo deve essere dotato di un documento identificativo, come previsto dalla legge regionale 1 febbraio 2012, n. 1, Riordino normativo in materia di procedimento amministrativo, diritto di accesso ai documenti amministrativi, semplificazione amministrativa, potere sostitutivo e potestà sanzionatoria, ed è abilitato ad "assumere informazioni e procedere a ispezioni di cose e di luoghi diversi dalla privata dimora, a rilievi segnaletici, descrittivi e fotografici e ad ogni altra operazione tecnica", nell'ambito delle funzioni previste dalla legge 24 novembre 1981, n. 689, Modifiche al sistema penale. Agli operatori incaricati è garantito l'accesso ai dati ed alle informazioni aggiornate a disposizione delle ASL (rendicontazioni, contratti in essere, registri informatizzati, ecc.) Qualora nel corso di un sopralluogo o di una verifica documentale vengano riscontrati il mancato possesso o mantenimento di uno o più requisiti di esercizio o di accreditamento, fatta salva l'applicazione delle dovute sanzioni amministrative previste dall'articolo 15 della legge regionale n. 3/2008, si seguono le indicazioni procedurali previste nell'Allegato 2. Nell'ambito dell'attività di controllo, in caso di verifica di non appropriatezza, si richiama quanto disposto dalla D.G.R. n. 1765/2014.
+
+# Allegato 3 - Verbale di sopralluogo e relativi adempimenti
+Le verifiche di vigilanza ed i controlli di appropriatezza condotti presso le unità d'offerta si concludono con la redazione sul posto di un verbale di sopralluogo. Il verbale deve riportare le operazioni svolte e gli elementi rilevanti emersi durante il sopralluogo. Il verbale deve richiamare eventuali documenti allegati o altri elementi utili acquisiti durante il sopralluogo. Il verbale di sopralluogo, redatto da un incaricato di pubblico servizio o da un pubblico ufficiale, è un atto definitivo che non può essere modificato o integrato e rappresenta un atto pubblico assistito da fede privilegiata. 
+
+I contenuti del verbale di sopralluogo hanno un elevato valore probatorio e potranno essere, per richiamo espresso, parte integrante e sostanziale dell'eventuale verbale di accertamento di violazioni punite con sanzioni amministrative. Il verbale di sopralluogo riporta i seguenti elementi:
+- numero di identificazione del verbale;
+- indicazione di data, ora e luogo dell'ispezione;
+- nominativo, qualifica e unità organizzativa di appartenenza degli operatori che hanno effettuato il sopralluogo, con l'individuazione del responsabile dell'istruttoria;
+- identificazione degli operatori dell'unità d'offerta che prendono parte al sopralluogo;
+- identificazione di eventuali altre persone presenti al sopralluogo;
+- esplicitazione degli obiettivi e del campo di azione dell'ispezione;
+- dati identificativi dell'unità d'offerta o dell'attività sottoposta al sopralluogo e del legale rappresentante del soggetto gestore;
+- azioni e attività intraprese, elementi verificati, evidenze raccolte e risultati delle rilevazioni;
+- eventuale documentazione acquisita agli atti;
+- eventuale richiesta di documentazione integrativa con indicazione delle modalità e dei tempi di trasmissione della stessa;
+- eventuali dichiarazioni e controdeduzioni formulate durante il sopralluogo dal legale rappresentante del soggetto gestore o, in sua assenza, del delegato o altra persona incaricata;
+- esito del sopralluogo, con valutazione sintetica finale ovvero con rimando alle ulteriori attività istruttorie, qualora l'attività di vigilanza o controllo di appropriatezza necessiti di successivi approfondimenti, verifiche documentali o valutazioni ulteriori;
+- firme degli operatori della ASL che hanno eseguito il sopralluogo e del legale rappresentante o, in sua assenza, del delegato o di altra persona presente al sopralluogo (oppure registrazione dell'eventuale rifiuto di questi ultimi alla sottoscrizione).
+
+Nel caso in cui il verbale dia comunicazione dell'avvio del relativo procedimento amministrativo, si richiamano, inoltre, gli ulteriori elementi previsti dalla legge 7 agosto 1990, n. 241, Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi. Al termine del sopralluogo, una copia del verbale è consegnata al legale rappresentante del soggetto gestore oppure a un suo delegato o persona presente, incaricato del successivo inoltro. Gli eventuali atti conseguenti al sopralluogo, a carattere prescrittivo e/o sanzionatorio, di abbattimento economico e/o di inadempienza contrattuale, sono di norma adottati con provvedimenti distinti dal verbale. Nei casi in cui l'istruttoria porti all'accertamento di violazioni punite con sanzione per illecito amministrativo, queste dovranno essere contestate con il relativo verbale di accertamento, ai sensi dell'articolo 28 della legge regionale n. 1/2012. In questo caso, il legale rappresentante del soggetto gestore dell'unità d'offerta ha la facoltà di far pervenire al Direttore generale della ASL scritti difensivi e documenti, nonché richiedere di essere sentito secondo le modalità stabilite dall'articolo 18 della legge n. 689/1981. Nei casi in cui nel corso del sopralluogo siano state rilevate violazioni che determinano l'applicazione di abbattimenti economici sui rimborsi riconosciuti dalla ASL al soggetto gestore, entro il termine di 10 giorni dalla data dell'atto che formalizza tali abbattimenti (verbale di sopralluogo o successiva apposita comunicazione), il legale rappresentante ha facoltà di presentare memorie scritte e documenti che la ASL è tenuta a valutare. Per quanto riguarda i controlli effettuati in itinere sulle prestazioni di Assistenza Domiciliare Integrata (ADI), considerata la peculiarità del sopralluogo presso il domicilio dell'utente, non è prevista la firma sul verbale da parte del personale del soggetto gestore, come non è prevista la firma dell'utente o del caregiver. Al rientro in sede ASL il verbale è trasmesso al legale rappresentante del soggetto gestore dell'ADI.
+
+# Allegato 3 - Indicazioni operative per l'attività di vigilanza
+I soggetti interessati, specificati nell'Allegato 1, sono tenuti ad attestare il possesso dei requisiti soggettivi con autocertificazioni o dichiarazioni sostitutive di atto di notorietà e a trasmetterle alle ASL entro un mese dalla nomina e successivamente, durante lo svolgimento dell'incarico, entro il mese di gennaio di ciascun anno. 
+
+I documenti e le dichiarazioni sostitutive di certificazioni o di atto notorio ancora in corso di validità e già prodotti in altri procedimenti possono non essere ripresentati, essendo sufficiente indicare il procedimento nel quale tali documenti sono stati prodotti. Le ASL provvedono, secondo le modalità definite dalla normativa vigente, alle conseguenti verifiche presso gli enti competenti. In caso di presentazione di falsa dichiarazione o falsa documentazione, fermo restando l'obbligo di segnalazione all'autorità giudiziaria competente, laddove venga meno un requisito di esercizio o di accreditamento, la ASL è tenuta ad applicare le indicazioni procedurali previste nell'Allegato 2.
+
+Per quanto attiene alle verifiche per la sottoscrizione degli accordi contrattuali, si precisa che, in base all'articolo 38 del decreto legislativo 12 aprile 2006, n. 163, Codice dei contratti pubblici relativi a lavori, servizi e forniture in attuazione delle direttive 2004/17/CE e 2004/18/CE163/2006, non sono rilevanti al fine della dichiarazione del possesso dei requisiti soggettivi, le condanne relative a:
+- reati depenalizzati;
+- reati per i quali è intervenuta la riabilitazione;
+- reati dichiarati estinti dopo la condanna;
+- reati per i quali è intervenuta la revoca della condanna stessa.
+
+La verifica dello svolgimento del lavoro in équipe, finalizzato a salvaguardare la continuità assistenziale e la multidisciplinarietà degli interventi assistenziali, comprende di norma l'esame dei verbali degli incontri tra operatori di diverse professionalità oppure l'avvenuta trascrizione degli incontri nei FaSAS.
+
+Lo standard gestionale, quantitativo e qualitativo, previsto dalla normativa regionale deve essere garantito in ogni settimana dell'anno. La verifica dello standard quantitativo deve essere effettuata di norma almeno su una settimana individuata a campione, prendendo in esame:
+- gli orari di presenza del personale, attestati attraverso fogli firma, registro presenze, tabulati delle timbrature;
+- il programma dei turni effettuati;
+- il numero e la tipologia degli ospiti presenti.
+
+Di norma viene inoltre verificata l'effettiva presenza al momento dell'ispezione degli operatori che risultano in servizio.
+
+Ferma restando la responsabilità del datore di lavoro di garantire il rispetto di tutte le norme discendenti dai contratti di lavoro e delle disposizioni previste dal decreto legislativo 8 aprile 2003, n. 66, Attuazione delle direttive 93/104/CE e 2000/34/CE concernenti taluni aspetti dell'organizzazione dell'orario di lavoro, nel caso in cui l'équipe di vigilanza rilevi delle irregolarità riferite alla turnistica e al rispetto dei riposi minimi previsti per il personale di assistenza, a prescindere dalla tipologia di contratto o incarico, provvede, a tutela della qualità assistenziale, alla segnalazione alla competente Direzione Territoriale del Lavoro.
+
+Lo standard qualitativo deve essere verificato prendendo in esame:
+- l'elenco del personale comprensivo delle specifiche qualifiche e mansioni;
+- la verifica della documentazione relativa al possesso delle qualifiche, dei titoli professionali, della iscrizione agli albi in corso di validità, ove prevista;
+- la presenza del mix professionale nelle proporzioni previste per la tipologia di unità d'offerta e di ospiti presenti.
+
+Ogni unità d'offerta, indipendentemente dallo status erogativo, deve essere in grado di fornire, in tempo reale, tutti gli elementi necessari per la verifica dello standard assistenziale. Qualora il requisito specifico preveda la presenza di cartellonistica esposta al pubblico con l'indicazione degli specialisti e degli orari di apertura e di presenza, deve essere verificato che vi sia corrispondenza tra quanto indicato nella cartellonistica e quanto effettivamente riscontrato.
+
+La documentazione che compone il FaSAS può essere prodotta e conservata, oltre che in forma cartacea, anche in formato elettronico, in conformità alla normativa specifica che ne definisce sia gli ambiti di validità, sia i requisiti tecnici. Nel caso di documentazione in formato elettronico, il soggetto gestore dovrà comunque garantire la possibilità di fornire in tempo reale copie ed estratti su supporto analogico (carta) dei documenti informatici componenti i FaSAS. Nei casi in cui non sia necessaria la compilazione del FaSAS (utenti che usufruiscono di mono prestazioni, ossia di prestazioni che sono effettuate una sola volta o ripetute in tempi molto dilatati, come ad esempio visite ginecologiche, pap test, colloqui di consultazione presso i consultori, prelievi a domicilio, sostituzione di cateteri vescicali, ecc.) le prestazioni erogate devono essere registrate in modo da consentirne la tracciabilità.
+
+I requisiti che prevedono un adempimento documentale (carta dei servizi, procedure ecc.) sono ottemperati se la documentazione risulta conforme alla normativa vigente e se l'unità d'offerta ne assicura la regolare applicazione. La carta dei servizi deve essere messa a disposizione dell'utenza, le informazioni contenute devono risultare sempre corrette e aggiornate e deve essere verificata la piena corrispondenza con le tariffe praticate, i servizi effettivamente offerti e l'attività svolta. È necessario accertare la conservazione delle linee guida e delle procedure assistenziali in luoghi accessibili agli addetti all'assistenza, nonché prossimi agli ambienti ove si svolge l'attività d'assistenza e verificarne, anche con interviste a campione, la diffusione al personale interessato. Fatti salvi gli obblighi derivanti da norme specifiche, è ammessa la conservazione presso sedi diverse rispetto a quella di erogazione per i soli documenti di cui non sia necessaria una regolare consultazione, purché in caso di verifica tali documenti possano essere prontamente prodotti alle équipe di vigilanza e controllo. A titolo esemplificativo possono essere conservati in sedi diverse da quelle di erogazione le attestazioni prodotte a seguito di procedure e verifiche tecniche non più attuali, i capitolati o contratti per acquisizione di beni e servizi. Si evidenzia che, in caso di verifica, la mancata o tardiva trasmissione dei documenti attestanti uno o più requisiti, rende impossibile effettuare i necessari riscontri ed equivale al mancato possesso o mantenimento del requisito.
+
+La verifica del possesso e del mantenimento di tutti i requisiti strutturali e tecnologici, sia generali che specifici, è prevista per tutte le sedi di erogazione, sia principali che secondarie ("periferiche" o "distaccate") e comprende, avvalendosi della collaborazione degli uffici regionali, il controllo del rispetto degli eventuali vincoli di destinazione d'uso, derivanti da finanziamenti pubblici statali o regionali. I documenti richiesti dalle specifiche normative devono essere presenti in originale o in copia conforme all'originale e formalmente corretti, ovvero datati, firmati e timbrati dagli enti previsti dalle norme. A conclusione delle verifiche a seguito di SCIA o SCIA contestuale, nonché in caso di modifiche degli spazi non soggette a SCIA, le planimetrie approvate attestanti lo stato dei luoghi sono conservate agli atti della vigilanza e consegnate in copia al soggetto gestore. Nel caso in cui un requisito tecnologico specifico sia superato dall'evoluzione tecnica, si accetta la soluzione più avanzata, a condizione che soddisfi il fine sotteso al requisito stesso. Qualora il titolo di godimento dell'immobile sia un contratto di locazione o un comodato d'uso, è necessario monitorare la scadenza contrattuale in maniera tale da non causare disagi nella continuità del servizio.
+
+Le ASL assicurano, sulla base della propria organizzazione interna, l'esecuzione di controlli amministrativi per la verifica della correttezza dei flussi di rendicontazione. Le verifiche devono accertare che il numero delle giornate erogate o delle prestazioni rese non superi quanto previsto dall'abilitazione all'esercizio. Per le unità di offerta a contratto, questi controlli devono, in particolare, riguardare i flussi economici relativi alle prestazioni erogate.
+
+La ASL verifica che:
+- l'importo delle tariffe corrisponda alle classi o alla tipologia di ospiti o di prestazioni rendicontate;
+- il numero totale delle giornate fatturate in un trimestre (nelle unità d'offerta residenziali e semi residenziali) non sia mai superiore al numero di posti moltiplicato per il numero delle giornate riferite allo stesso trimestre; 
+- le presenze giornaliere a carico del FSR non siano superiori ai posti accreditati e contrattualizzati;
+- le fatturazioni inerenti le persone nel frattempo decedute corrispondano alle effettive prestazioni erogate fino alla data del decesso.
+
+# Allegato 3 - Indicazioni operative per il controllo di appropriatezza 
+Fatte salve le indicazioni generali valide per tutte le unità d'offerta e quanto stabilito dalla D.G.R. n. 1765/2014, deve essere verificato che tutti gli elementi costitutivi del FaSAS siano tempestivamente fruibili da parte degli operatori dell'unità d'offerta, dei servizi atti a garantire la continuità assistenziale e degli organismi di controllo, anche qualora il soggetto gestore adotti sistemi elettronici di compilazione del FaSAS. Si precisa che la compilazione del FaSAS deve risultare completa, quando previsto, anche rispetto a prestazioni fornite dal gestore al di fuori dell'unità d'offerta, ad esempio a seguito di ricoveri ospedalieri o di soggiorni climatici. In questi casi, occorre verificare l'inserimento degli interventi effettuati sia nella pianificazione che nel diario. Per quanto riguarda il controllo dell'appropriatezza delle prestazioni erogate in regime di Assistenza Domiciliare Integrata (ADI), occorre tenere presente la peculiarità del percorso per l'accesso a questa unità d'offerta. 
+
+Il controllo di appropriatezza può essere effettuato:
+- in itinere, nel periodo in cui l'utente riceve la prestazione e viene effettuato al suo domicilio, con le modalità di verbalizzazione del sopralluogo definite al paragrafo 3. In caso di controlli, nella stessa giornata, di utenti assistiti dal medesimo soggetto gestore, potrà essere redatto un unico verbale di sintesi dei sopralluoghi eseguiti;
+- ex post, attraverso l'analisi, alla fine del periodo di validità del singolo titolo assegnato, presso la sede operativa del soggetto gestore.
+
+Nel corso delle verifiche in itinere deve essere possibile reperire la documentazione sociosanitaria prevista al domicilio dell'utente. È tuttavia facoltà del soggetto gestore ADI trasferire tale documentazione nella propria sede, solo negli ultimi due giorni lavorativi del mese e nei primi due giorni lavorativi del mese successivo, al fine di consentire il corretto adempimento del debito informativo dovuto.
+
+# Allegato 4 - Adempimenti sanzionatori previsti nell'ambito delle attività di vigilanza e controllo
+Le ASL, nell'espletamento della funzione di vigilanza e controllo, possono riscontrare inadempienze sull'attività di gestione delle unità d'offerta sociosanitarie rispetto a quanto previsto dalla normativa. L'attuale formulazione dell'articolo 15 della legge regionale 12 marzo 2008, n. 3, Governo della rete degli interventi e dei servizi alla persona in ambito sociale e sociosanitario, contempla, in relazione alla diversa entità delle carenze riscontrate in sede di controllo, una serie di conseguenze. Ai sensi del comma 3 del citato articolo, nell'ambito dei poteri amministrativi e delle procedure sancite dalla legge 7 agosto 1990, n. 241, Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi, nonché dalla legge regionale 1 febbraio 2012, n. 1, Riordino normativo in materia di procedimento amministrativo, diritto di accesso ai documenti amministrativi, semplificazione amministrativa, potere sostitutivo e potestà sanzionatoria, la ASL, in caso di accertata carenza dei requisiti minimi previsti dalla vigente normativa, previa diffida e impartendo le eventuali prescrizioni, dispone la chiusura della struttura e propone la revoca dell'eventuale atto di accreditamento secondo le procedure indicate nell'Allegato 2, Procedura per l'esercizio e l'accreditamento delle unità d'offerta sociosanitarie. In caso di accertato pericolo per la salute o per l'incolumità delle persone, l'autorità competente dispone l'immediata chiusura della struttura e prescrive le misure da adottare per la ripresa dell'attività.
+
+Accanto a questi poteri di amministrazione attiva (diffida, revoca, chiusura), convivono anche poteri/doveri sanzionatori, nei termini considerati dal comma 3 bis del citato articolo 15 della legge regionale n. 3/2008, che prevede una graduazione della sanzione amministrativa connessa alla gravità della violazione accertata. Trattandosi di espressione di potestà sanzionatorie pubbliche, il tenore testuale del comma 3 bis non lascia margini alla discrezionalità, essendo le fattispecie precettive connotate da tassatività e tipicità e riconnettendosi alle stesse le relative misure sanzionatorie. Trattandosi di funzioni sanzionatorie, per effetto dell'articolo 39, comma 2, della legge regionale n. 1/2012, si applicano alla procedura di accertamento delle violazioni e di irrogazione delle sanzioni le norme della legge 24 novembre 1981, n. 689, Modifiche al sistema penale, in quanto non derogate o integrate dalla stessa legge regionale n. 1/2012. 
+
+La funzione sanzionatoria considerata dal comma 3 bis attiene, con riguardo alle ASL, a entrambe le fasi del procedimento sanzionatorio amministrativo strutturato dalla legge n. 689/1981:
+- accertamento della violazione (espletamento delle attività di accertamento di cui all'articolo 13 della legge n. 689/1981, verbalizzazione dell'accertamento, contestazione o notifica della violazione, ammissione al pagamento in misura ridotta, ecc.);
+- irrogazione della sanzione (ricezione del rapporto di mancato pagamento in misura ridotta di cui all'articolo 17 della legge n. 689/1981, ricezione di scritti difensivi, espletamento di audizioni, adozione di ordinanze di ingiunzione, adozione di ordinanze di archiviazione, notificazione di titoli, incasso e riscossione, ecc.)
+
+Ciascuna ASL, conformemente alle indicazioni dell'articolo 27 della legge regionale n. 1/2012, individua il personale titolato all'espletamento di ciascuna delle due fasi sopra indicate, tenendo conto dell'adeguata qualificazione tecnica e giuridica richiesta da ciascuna di esse.
+
+È altresì opportuno, in osservanza dei principi di imparzialità dell'azione amministrativa, che chi sia chiamato a svolgere compiti di accertamento della violazione, concluda - con l'inoltro del rapporto di cui all'articolo 17 della legge n. 689/1981 - la gestione del procedimento sanzionatorio, lasciando ad altri soggetti, diversamente qualificati, la fase dell'irrogazione della sanzione e di gestione delle fasi contenziose che attengono ad essa.
+
+Ai sensi del comma 3 bis dell'articolo 15: "Fatte salve le responsabilità di natura civile e penale, nonché le sanzioni previste per le violazioni di altre normative regionali o nazionali, le unità d'offerta sociosanitarie incorrono nelle seguenti sanzioni:
+- da € 5.000 a € 50.000 per la mancata presentazione della segnalazione certificata di inizio attività;
+- da € 1.000 a € 10.000 per l'esercizio dell'attività in mancanza dei requisiti minimi;
+- da € 500 a € 5.000 per il mancato mantenimento di uno o più requisiti di accreditamento;
+- da € 500 a € 5.000 per codifiche che, rispetto alle indicazioni regionali, non rappresentino in modo corretto la classificazione della fragilità degli utenti o l'appropriatezza delle prestazioni erogate."
+
+La norma prevede quattro distinte casistiche, rispettivamente collegate a una specifica risposta sanzionatoria:
+
+L'illecito consiste nella violazione dell'obbligo di presentazione della SCIA di cui all'Allegato 2, introdotta in attuazione della legge regionale n. 3/2008 come modificata dalla legge regionale n. 2/2012. Per presentazione va inteso l'effettivo ricevimento della SCIA da parte della ASL.
+
+La sanzione andrà applicata:
+- sia nell'ipotesi di esercizio di attività senza la presentazione della SCIA;
+- sia nell'ipotesi di esercizio dell'attività sulla base della presentazione di una SCIA gravemente incompleta sotto il profilo formale e documentale previsto nell'Allegato 2. In questo caso, la sanzione si applica quando si accerta lo svolgimento dell'attività nonostante la comunicazione da parte della ASL di irricevibilità, inammissibilità o improcedibilità della SCIA ai sensi della legge n. 241/1990.
+
+L'illecito riguarda tutte le unità d'offerta e attiene alla verifica del possesso (e mantenimento) di una estesa varietà di requisiti. Sebbene la norma non faccia espressamente riferimento ad uno o più requisiti mancanti, la sua struttura depone in favore di un trattamento punitivo unico, anche in presenza di più requisiti minimi mancanti. Da qui si può pertanto escludere che, alla mancanza di più requisiti riscontrata nel medesimo atto di accertamento, debbano corrispondere più sanzioni, essendo queste orientate a punire l'esercizio in mancanza dei requisiti e non a far variare la punizione in funzione di quanti siano i requisiti mancanti. Il potere di graduazione della sanzione è esercitabile in fase di irrogazione della sanzione da parte dell'autorità competente, ma non anche in fase di accertamento della violazione e quindi l'addetto all'accertamento rileva e annota le diverse carenze ricadenti nel capo in esame e ne fa oggetto di un'unica contestazione. 
+
+Laddove poi il destinatario della contestazione della violazione non intenda accedere al pagamento in misura ridotta della sanzione, l'autorità amministrativa, nel determinare l'entità della sanzione da comminare in via definitiva, potrà graduare la sua entità economica in funzione del numero e della gravità delle carenze rilevate, così adattando la risposta sanzionatoria pubblica all'entità dell'illecito, conformemente alle previsioni dell'articolo 11 della legge n. 689/1981. 
+
+Laddove un requisito di esercizio dovesse configurarsi anche come requisito di accreditamento si applica l'articolo 8 della legge n. 689/1981: "Salvo che sia diversamente stabilito dalla legge, chi con un'azione od omissione viola diverse disposizioni che prevedono sanzioni amministrative o commette più violazioni della stessa disposizione, soggiace alla sanzione prevista per la violazione più grave, aumentata sino al triplo". Ne deriva che, a fronte della maturata certezza in capo all'addetto all'accertamento della violazione di due precetti, si dovrà procedere alla contestazione delle due violazioni, possibilmente con due separati verbali, ammettendo al pagamento in misura ridotta entrambe le ipotesi. 
+
+Laddove l'obbligato non intenda aderire al pagamento in misura ridotta, anche a prescindere dalla proposizione di scritti difensivi, l'irrogazione della sanzione dovrà essere unica, con applicazione del cumulo giuridico prescritto dal richiamato articolo 8.
+
+L'applicazione delle sanzioni di cui al presente capo determina alcune implicazioni aggiuntive. Si ricorda che l'accertata carenza dei requisiti minimi comporta, in aggiunta alla contestazione dell'illecito, l'adozione dei provvedimenti previsti dal comma 3 dell'articolo 15 della legge regionale n. 3/2008 (diffida con eventuali prescrizioni, chiusura dell'attività e revoca dell'eventuale accreditamento). In proposito si evidenzia come la possibilità di adottare le misure di cui al comma 3 sia condizionata dal previo accertamento della violazione amministrativa in esame. Non occorre, al fine dell'attivazione dei poteri di cui al comma 3, che l'accertamento si sia già avviato verso la seconda fase del procedimento sanzionatorio (attraverso la contestazione e notifica del verbale di accertamento della violazione) né, a maggior ragione, occorrerà attendere la fase di irrogazione definitiva della sanzione.
+
+In linea generale, anche per questa casistica, vale quanto descritto al precedente punto b), in tema di principio di unicità della sanzione a fronte di più requisiti mancanti, di tassatività e di cumulo.
+
+L'illecito riguarda le sole unità d'offerta che abbiano ottenuto l'accreditamento istituzionale e la sua applicazione è soggetta all'accertamento, in loco o previa verifica documentale, della perdita di uno o più requisiti dell'accreditamento.
+
+In questo caso, come in quello vagliato al punto b), l'accertamento delle violazioni è punito con sanzioni amministrative. L'attività di accertamento dovrà evidenziare:
+- in maniera individuale e precisa ciascuna codifica errata di fragilità;
+- in maniera dettagliata le inappropriatezze assistenziali, in relazione agli indicatori previsti dalla D.G.R. 8 maggio 2014, n. 1765, Il sistema dei controlli in ambito socio sanitario: definizione degli indicatori di appropriatezza, dando luogo alla contestazione di un'unica violazione, punita con sanzione amministrativa qualora si superi la soglia di tolleranza prevista dalla citata deliberazione;
+- in maniera individuale le fattispecie di incoerenza di cui alla D.G.R. n. 1765/2014, per le unità di offerta ove non è prevista una classificazione delle fragilità.
+
+Il comma 3 bis del citato articolo 15 si apre con il seguente inciso: "Fatte salve le responsabilità di natura civile e penale, nonché le sanzioni previste per le violazioni di altre normative regionali o nazionali...", con cui il legislatore regionale ha inteso porre le sanzioni in esame in chiave additiva.
+
+Per fatti penalmente rilevanti, gli addetti all'accertamento delle sanzioni amministrative, che non rivestano anche qualità di polizia giudiziaria, pur non abilitati a svolgere indagini rilevanti a fini penalistici, devono in ogni caso riferire alle competenti autorità la potenziale esistenza di reati. Pertanto, se nel corso dell'attività di vigilanza dovessero essere accertati fatti che integrino fattispecie di reato (come ad esempio: l'utilizzo di posti letto non accreditati per rendicontazioni economiche alla ASL, false certificazioni, false abilitazioni alla professione, falso ideologico, maltrattamento di ospiti, utilizzo inadeguato di farmaci psicotropi, ecc.) il personale accertatore, per il tramite del dirigente della struttura di appartenenza, informa l'autorità giudiziaria. La qualificazione del fatto come reato appartiene infatti esclusivamente all'autorità giudiziaria e, pertanto, a questa va riferita ogni circostanza di fatto emersa in sede di ispezione o di accertamenti della violazione per le opportune valutazioni e deduzioni del caso.
+
+# Allegato 4 - L'accertamento dell'illecito amministrativo (il verbale di accertamento dell'illecito)
+La prima fase del procedimento sanzionatorio attiene all'accertamento dell'illecito. L'attività di accertamento è attività di competenza diffusa, in quanto appartiene agli agenti o agli ufficiali di polizia giudiziaria, come ad altri organi di vigilanza a competenza generale (polizia locale per le unità d'offerta sociali, polizia, carabinieri, guardia di finanza per tutti i tipi di unità d'offerta). A questi si aggiungono gli addetti all'accertamento, nominati e definiti come tali all'interno delle ASL ai sensi dei provvedimenti organizzativi interni, adottati in esecuzione dell'articolo 27 della legge regionale n. 1/2012. La competenza all'accertamento delle violazioni da parte di questi ultimi addetti è estesa a tutta la gamma delle violazioni contemplate dall'articolo 15 della legge regionale n. 3/2008, quindi anche nei confronti delle unità d'offerta sociali, oltre che nei confronti delle unità di offerta sociosanitarie. L'accertamento delle violazioni punite con sanzioni amministrative può essere connotato da semplicità, come nel caso della rilevazione diretta, da parte dell'addetto all'accertamento, della condotta illecita, ovvero da complessità, come nel caso di mancata rilevazione diretta dell'azione illecita da parte dell'addetto all'accertamento, nel qual caso all'accertamento si perverrà attraverso atti di indagine. Entrambi i tipi di accertamento sono ugualmente validi.
+
+La base normativa delle attività di accertamento è costituita dall'articolo 13 della legge n. 689/1981: "Gli organi addetti al controllo sull'osservanza delle disposizioni per la cui violazione è prevista la sanzione amministrativa del pagamento di una somma di denaro possono, per l'accertamento delle violazioni di rispettiva competenza, assumere informazioni e procedere a ispezioni di cose e di luoghi diversi dalla privata dimora, a rilievi segnaletici, descrittivi e fotografici e ad ogni altra operazione tecnica".
+
+L'atto di accertamento della violazione, comunemente denominato verbale di accertamento dell'illecito, a norma dell'articolo 14 della legge n. 689/1981, può essere contestato al trasgressore e agli obbligati in solido immediatamente, oppure può essere notificato entro novanta giorni (trecentosessanta se il destinatario sia residente all'estero) dall'accertamento della violazione.
+
+Il verbale di accertamento deve contenere tutti gli elementi previsti dall'articolo 28 della legge regionale n. 1/2012, non omettendo di identificare:
+- il trasgressore, che di norma si identifica con il legale rappresentante del soggetto gestore, salvo la presenza di specifiche deleghe formali. Nel ruolo di trasgressore possono essere individuate anche più persone fisiche (ai sensi dell'articolo 5 della legge n. 689/1981) che abbiamo una medesima colpevolezza (cfr. articolo 3 della legge n. 689/1981) omissiva o commissiva da documentare negli atti di accertamento;
+- l'obbligato in solido (o gli obbligati in solido), nel rispetto dei principi posti dall'articolo 6 della legge n. 689/1981, che normalmente si indentifica con il soggetto gestore;
+- le persone presenti all'atto dell'ispezione, che costituiscono un elemento fondamentale agli effetti della validità del procedimento sanzionatorio.
+
+Quanto al luogo dell'accertamento, esso sarà individuato dal luogo fisico in cui l'addetto all'accertamento sia pervenuto alla convinzione della sufficienza degli elementi raccolti al fine di contestare o notificare la violazione e, pertanto, non è da escludere che tale luogo possa coincidere con l'ufficio dell'ente da cui dipende l'addetto all'accertamento.
+
+Completate le procedure di accertamento, verbalizzazione, contestazione o notifica, gli addetti all'accertamento dovranno vigilare sull'eventuale pagamento in misura ridotta della sanzione e rimettere rapporto all'autorità amministrativa competente ai sensi dell'articolo 17 della legge n. 689/1981. Inviato il rapporto, salvo la normale e leale collaborazione con la citata attività, si esaurisce il ruolo dell'addetto all'accertamento nel procedimento.
+
+# Allegato 4 - L'irrogazione della sanzione amministrativa
+La seconda fase del procedimento sanzionatorio attiene all'irrogazione della sanzione. L'attività di irrogazione della sanzione appartiene - solo con riguardo alle violazioni di cui al comma 3 bis dell'articolo 15 della legge regionale n. 3/2008, da chiunque accertate - all'autorità amministrativa individuata per ciascuna ASL, conformemente alle indicazioni di cui all'articolo 27 della legge regionale n. 1/2012.
+
+La fase dell'irrogazione della sanzione attiene all'ufficio che, per rispettivo ordinamento interno, svolge funzioni di autorità amministrativa ai sensi della legge n. 689/1981 e che:
+- riceve copia di tutta la documentazione amministrativa fondante l'accertamento dell'illecito, scritti difensivi di parte, rapporti degli organi accertatori, richieste di audizione;
+- decide, nei termini posti dagli articoli 11 e 18 della legge n. 689/1981, sugli scritti difensivi, adottando, anche a prescindere da questi, ordinanze ingiunzioni o ordinanze di archiviazione;
+- gestisce la fase finale della procedura, ovvero dà luogo all'irrogazione della sanzione definitiva, curando anche la riscossione coattiva e, del caso, il relativo contenzioso.
