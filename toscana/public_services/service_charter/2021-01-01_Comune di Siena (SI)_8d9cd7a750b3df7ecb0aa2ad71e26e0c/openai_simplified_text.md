@@ -54,9 +54,9 @@ Il trasporto pubblico locale in Toscana è gestito da un sistema complesso di li
 Pegaso è un sistema di tariffe creato dalla Regione Toscana. Con Pegaso, puoi comprare un solo abbonamento o biglietto e usarlo sia sui treni che sugli autobus in tutta la regione, per lo stesso percorso. Inoltre, puoi scegliere di aggiungere anche il servizio urbano nelle città di partenza e/o destinazione.
 
 Ci sono tre tipi di biglietti Pegaso:
-1. Abbonamento mensile: valido per un mese su una determinata tratta.
-2. Abbonamento annuale: valido per 12 mesi su una determinata tratta. Bisogna convalidare l'abbonamento sul mezzo al primo utilizzo.
-3. Biglietto giornaliero: valido fino a mezzanotte del giorno di convalida, permette viaggi illimitati. Deve essere convalidato all'inizio del viaggio e permette di viaggiare sulla tratta acquistata. Una volta convalidati, i biglietti non possono essere trasferiti e di solito non sono rimborsabili in nessun caso, neanche se non sono stati utilizzati o se vengono persi, rubati o distrutti.
+- Abbonamento mensile: valido per un mese su una determinata tratta.
+- Abbonamento annuale: valido per 12 mesi su una determinata tratta. Bisogna convalidare l'abbonamento sul mezzo al primo utilizzo.
+- Biglietto giornaliero: valido fino a mezzanotte del giorno di convalida, permette viaggi illimitati. Deve essere convalidato all'inizio del viaggio e permette di viaggiare sulla tratta acquistata. Una volta convalidati, i biglietti non possono essere trasferiti e di solito non sono rimborsabili in nessun caso, neanche se non sono stati utilizzati o se vengono persi, rubati o distrutti.
 
 Secondo la Deliberazione della Regione Toscana n. 750/2012, le persone con un indicatore ISEE fino a € 36.151,98 possono comprare abbonamenti a tariffa ridotta per i servizi sanitari della fascia A.
 
@@ -292,7 +292,6 @@ L'Ufficio Relazioni con il Pubblico è un canale ufficiale di comunicazione tra 
 - Fornisce informazioni ai clienti su come inviare reclami.
 - Gestisce i reclami che riceve e invia una risposta scritta entro 30 giorni a chi ha inviato una comunicazione scritta all'Ufficio Relazioni con il Pubblico o alla direzione aziendale. Fornisce anche risposte verbali a chi fa richieste di persona all'Ufficio Relazioni con il Pubblico.
 - Accetta le richieste dei clienti che vogliono accedere alle informazioni dell'azienda che li riguardano, seguendo le regole della Legge 241/90, e si occupa di soddisfare tali richieste.
--
 
 # Procedura per i reclami
 Se hai dei problemi con un'azienda o se non sei soddisfatto del servizio che ti è stato offerto, puoi presentare un reclamo all'Ufficio Relazioni con il Pubblico. Questo vale sia se i tuoi diritti sono stati violati, sia se l'azienda non ha mantenuto le promesse indicate nel contratto o nei documenti che hai firmato.

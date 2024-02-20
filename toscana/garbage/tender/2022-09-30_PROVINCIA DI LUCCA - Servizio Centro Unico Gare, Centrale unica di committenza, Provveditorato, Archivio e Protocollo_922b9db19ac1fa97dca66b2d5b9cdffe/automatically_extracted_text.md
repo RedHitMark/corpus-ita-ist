@@ -1,9 +1,0 @@
-# II.2.5)
-Criteri 
-
-# U
-Protocollo N.0022858 del 30/09/2022 Firmatario: LUIGI DE ANGELIS
-
-# COPIA CONFORME ALL'ORIGINALE DIGITALE
-Protocollo N.0022858 del 30/09/2022 Firmatario: LUIGI DE ANGELIS
-
