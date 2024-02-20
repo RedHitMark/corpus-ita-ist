@@ -421,7 +421,7 @@ Vi è evidenza della periodica revisione e del periodico aggiornamento:
 - dei protocolli e delle linee guida per la gestione del paziente ambulatoriale secondo la Medicina Basata sulle Evidenze;
 - delle procedure operative contestualizzate relative ai percorsi differenziati dei pazienti ambulatoriali.
 
-Vi è evidenza del monitoraggio da parte  dell'organizzazione dei tempi di attesa per le prestazioni e della corretta gestione delle prenotazioni;
+Vi è evidenza del monitoraggio da parte dell'organizzazione dei tempi di attesa per le prestazioni e della corretta gestione delle prenotazioni;
 
 vi è evidenza della rivalutazione dei bisogni e delle condizioni dei pazienti a intervalli basati sulle necessità del paziente, al fine di determinare il risultato delle cure, l'eventuale necessità di ulteriori servizi o la pianificazione del proseguimento della cura, la revisione del percorso assistenziale specifico quando viene rilevato un cambiamento delle condizioni o della diagnosi del paziente. Tali rivalutazioni dei pazienti sono registrate nella documentazione ambulatoriale;
 
@@ -464,8 +464,7 @@ procedure per la determinazione dei pazienti da sottoporre a follow- up e vi è 
 Vi è evidenza del periodico monitoraggio e controllo da parte della Direzione delle modalità strutturate per il trasferimento delle informazioni rilevanti durante i passaggi di consegna e i trasferimenti delle cure presso altri ambulatori o altre tipologie di strutture.
 
 Sulla base delle analisi effettuate e delle criticità riscontrate, la Direzione e i singoli dirigenti effettuano una valutazione delle priorità, individuano e implementano specifiche azioni per il miglioramento della qualità:
-- dei processi relativi a continuità assistenziale, passaggio in cura e
-follow-up del paziente ambulatoriale;
+- dei processi relativi a continuità assistenziale, passaggio in cura e follow-up del paziente ambulatoriale;
 - dei sistemi di monitoraggio e valutazione della qualità del percorso assistenziale del paziente ambulatoriale;
 - dell'esperienza di cura da parte dei pazienti e dei familiari.
 
@@ -791,8 +790,7 @@ Approccio alla pratica clinica secondo evidenze scientifiche
 
 La Direzione ha definito, formalizzato e diffuso protocolli, linee guida, procedure per la definizione di percorsi specifici per i pazienti ambulatoriali formulate secondo i principi della Evidence Based Medicine e della Evidence Based Nursing
 
-Vi è evidenza della messa in atto di protocolli, linee guida e/o percorsi di cura/assistenza condivisi e formulati secondo i principi
-della Evidence Based Medicine/Evidence Based Nursing per l'attuazione dei percorsi specifici per i pazienti ambulatoriali e per lo svolgimento delle attività più rilevanti per rischio, frequenza e costo, per gestire le evenienze clinico-assistenziali più frequenti e di maggiore gravità;
+Vi è evidenza della messa in atto di protocolli, linee guida e/o percorsi di cura/assistenza condivisi e formulati secondo i principi della Evidence Based Medicine/Evidence Based Nursing per l'attuazione dei percorsi specifici per i pazienti ambulatoriali e per lo svolgimento delle attività più rilevanti per rischio, frequenza e costo, per gestire le evenienze clinico-assistenziali più frequenti e di maggiore gravità;
 
 vi è evidenza dell'accessibilità al personale dei protocolli, linee guida, procedure;
 

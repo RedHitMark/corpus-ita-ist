@@ -1987,8 +1987,7 @@ implementare, sostenere e valorizzare i Consultori Familiari Socio-Educativi, pr
 consolidare il sistema dei servizi 0-3 anni potenziando il raccordo con le scuole dell'infanzia per attuare il sistema formativo dalla nascita fino a sei anni, in particolare promuovendo la sperimentazione di azioni/progettualità/continuità con la scuola dell'infanzia;
 
 assicurare, garantire e promuovere la protezione e la tutela dei minori e delle loro famiglie in difficoltà attraverso:
-- la programmazione di azioni e governo dei processi volti alla costruzione, al consolidamento, alla valorizzazione e all'armonizzazione di un efficace sistema di
-protezione e cura, oltre che di programmazione, sviluppo e sostegno di azioni di accompagnamento nei processi adottivi nell'ambito del sistema veneto adozioni;
+- la programmazione di azioni e governo dei processi volti alla costruzione, al consolidamento, alla valorizzazione e all'armonizzazione di un efficace sistema di protezione e cura, oltre che di programmazione, sviluppo e sostegno di azioni di accompagnamento nei processi adottivi nell'ambito del sistema veneto adozioni;
 - la valorizzazione di percorsi di qualità per servizi educativi integrativi, al fine di creare un'offerta di servizi omogenea ed offrire alle famiglie venete un servizio integrativo innovativo e flessibile capace di rispondere ai loro bisogni
 
 favorire la partecipazione dei giovani a processi di cittadinanza attiva mediante:

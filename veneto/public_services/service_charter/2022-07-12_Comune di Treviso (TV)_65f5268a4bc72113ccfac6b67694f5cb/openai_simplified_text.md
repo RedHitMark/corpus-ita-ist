@@ -442,7 +442,7 @@ Puoi inviare eventuali suggerimenti per migliorare il servizio ai contatti forni
 
 Se hai un problema con l'utente, puoi cercare di risolverlo attraverso la Procedura di Conciliazione, che è un modo per trovare un accordo senza dover andare in tribunale. Puoi aderire a questa procedura compilando un modulo apposito che trovi sul sito www.altotrevigianoservizi.it.
 
-# VALIDITA' DELLA CARTA SERVIZI
+# VALIDITÀ DELLA CARTA SERVIZI
 Questa Carta è stata approvata dall'Ente di Governo dell'Ambito "Veneto Orientale" il 28 giugno 2016 e adottata dal Consiglio di Amministrazione di Alto Trevigiano Servizi S.r.l. il 29 giugno 2016. È stata inoltre aggiornata con una delibera dell'Ente di Governo dell'Ambito "Veneto Orientale" il 18 dicembre 2018.
 
 La Carta viene controllata regolarmente. Le modifiche fatte alla Carta dal Gestore e dall'Autorità competente sono comunicate agli Utenti attraverso i canali di informazione indicati in precedenza.

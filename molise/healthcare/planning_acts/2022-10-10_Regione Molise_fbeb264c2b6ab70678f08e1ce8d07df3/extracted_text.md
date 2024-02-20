@@ -161,8 +161,7 @@ Nella regione Molise è attivo un programma unico di screening oncologico per le
 
 Si riporta di seguito il dettaglio della proporzione di persone che hanno effettuato test di screening di primo livello, in un programma organizzato per cervice, mammella e colon (2018 e 2019 sperimentazioni, 2020 provvisorio/informativo)
 
-Per l'anno 2019, la quota di residenti che hanno effettuato test in programmi di screening oncologici organizzati risulta
-in forte decremento rispetto al 2018.
+Per l'anno 2019, la quota di residenti che hanno effettuato test in programmi di screening oncologici organizzati risulta in forte decremento rispetto al 2018.
 
 La percentuale di adesione agli screening cervicale e colon-rettale presenta, secondo i dati della sperimentazione NSG, solo per il 2018 valori al di sopra della soglia di sufficienza. Lo screening mammografico presenta, per le tre annualità oggetto della sperimentazione, un valore al di sotto della soglia di sufficienza. I dati registrati nel corso del 2020, riportati nella tabella a scopo illustrativo, risentono evidentemente dell'impatto della riduzione dell'erogazione delle prestazioni non urgenti legata alle fasi pandemiche. Difatti, a causa dello stato emergenziale, tenuto conto dei DPCM, delle Circolari
 
@@ -1383,8 +1382,7 @@ Dall'analisi condotta si riscontra, pertanto, come nonostante si sia assistito n
 
 Con riferimento all'analisi di contesto un'ulteriore indagine è stata condotta in merito alla mobilità attiva e passiva della regione Molise, realizzata utilizzando la metodologia sviluppata dal Ministero della salute con il supporto dell'Agenzia nazionale per i servizi sanitari regionali (AGENAS). Nell'analisi, pertanto, è stata considerata la sola mobilità effettiva, escludendo i ricoveri caratterizzati da mobilità apparente per nido o casuale. Sono stati analizzati, inoltre, i dati delle schede di dimissione ospedaliera (SDO) degli anni 2018-2019-2020. La stima della remunerazione, invece, è stata elaborata sulla base del tariffario nazionale, come individuato con Decreto del Ministero della salute del 18 ottobre 2012.
 
-Dall'analisi dei flussi di mobilità attiva riferiti al triennio 2018-2020, sopra rappresentati, è emerso come nel 2018 si siano registrati 13.328 casi di cittadini non residenti in regione Molise, per un valore pari a 54,434 milioni di euro. L'84% dei casi (90% del valore) si è concentrato presso le strutture private accreditate. Nel 2019 si sono registrati 12.978 casi di mobilità attiva, per un valore pari a 51,026 milioni di euro. Il 90% dei casi (94% del valore) si è concentrato presso le
-strutture private accreditate. Nel 2020 la distribuzione dei casi è risultata essere costante (90% dei casi presso le strutture private), nonostante si sia registrata una riduzione della produzione: 9.703 casi, per un valore pari a 45,304 milioni di euro.
+Dall'analisi dei flussi di mobilità attiva riferiti al triennio 2018-2020, sopra rappresentati, è emerso come nel 2018 si siano registrati 13.328 casi di cittadini non residenti in regione Molise, per un valore pari a 54,434 milioni di euro. L'84% dei casi (90% del valore) si è concentrato presso le strutture private accreditate. Nel 2019 si sono registrati 12.978 casi di mobilità attiva, per un valore pari a 51,026 milioni di euro. Il 90% dei casi (94% del valore) si è concentrato presso le strutture private accreditate. Nel 2020 la distribuzione dei casi è risultata essere costante (90% dei casi presso le strutture private), nonostante si sia registrata una riduzione della produzione: 9.703 casi, per un valore pari a 45,304 milioni di euro.
 
 Nel 2020, dal confronto con quanto registrato nel corso del triennio, è emerso come a fronte di una riduzione della produzione, sia in termini di casi (-27%) che di valore (-17%), la percentuale di erogazione presso le strutture private accreditate sia aumentata (90% nel 2018; 94% nel 2020).
 
@@ -1777,8 +1775,7 @@ Considerato che la classe ATC ove si è riscontrato un maggior incremento della 
 
 Tali risultati sono stati resi possibili anche attraverso le attività di audit e di monitoraggio con lo strumento Health-DB, ovvero il cruscotto "Business Intelligence", attivato già in sede di Programma Operativo 2015-2018 e implementato nel PO 2019-2021, che ha perseguito l'obiettivo di garantire l'attività di verifica dell'appropriatezza clinica delle prescrizioni farmaceutiche in ambito sia territoriale che ospedaliero, determinando un significativo cambiamento per il monitoraggio e il governo della prescrizione farmaceutica in Regione, ovvero il passaggio dalla misura della variabilità prescrittiva in termini di volumi (DDD per 1000 abitanti die, pazienti in trattamento rispetto alla popolazione generale) o di spesa (spesa pro capite), all'analisi dell'utilizzo dei farmaci nel rispetto dell'indicazione terapeutica o delle condizioni per le quali è stata concessa la rimborsabilità.
 
-Allo stato non sono puntualmente quantificabili gli effetti in termini di riduzione della spesa ascrivibili a tale specifica
-attività.
+Allo stato non sono puntualmente quantificabili gli effetti in termini di riduzione della spesa ascrivibili a tale specifica attività.
 
 Nella Regione Molise il circuito della DPC è stato migliorato con la predisposizione di un tetto massimo del valore dei farmaci del PHT e con l'aggiornamento delle regole operative per la distribuzione intermedia in ordine ai tempi di caricamento dei dati per ricevimento merci e trasferimento e sulle modalità di gestione dei livelli di scorta/riapprovvigionamento (cfr. DCA n. 101 del 18.12.2019 avente ad oggetto: "Accordo tra Regione Molise e Farmacie per la Distribuzione Diretta dei Farmaci. Approvazione schema" e Accordo sottoscritto in data 18.12.2019).
 
@@ -1928,17 +1925,15 @@ Con il DCA n. 31/2019 e con il successivo DCA n. 72/2019 è stato autorizzato l'
 
 Di seguito, si riportano i dati di spesa extra-tariffa nell'anno 2020 e i dati relativi all'andamento di tale spesa nell'arco temporale 2015 – 2020.
 
-Tali farmaci rientrano nel canale di erogazione R, che registra la dispensazione/somministrazione del farmaco per il
-tramite della struttura IRCCS Neuromed.
+Tali farmaci rientrano nel canale di erogazione R, che registra la dispensazione/somministrazione del farmaco per il tramite della struttura IRCCS Neuromed.
 
-"La regione Molise nel 2020 ha speso 3,78 mln di euro per un totale di 1.359 confezioni e un costo a confezione di 2.782,12 euro (Tabella 6). Tutti gli indicatori risultano in aumento rispetto ai valori dell'anno precedente. Le confezioni sono rappresentate esclusivamente dall'ATC L e riguardano 4 principi attivi: Glatiramer, Natalizumab, Fingolimod e Ocrelizumab. In particolare, Ocrelizumab è il principio attivo che maggiormente incide su questa spesa, con un valore di 2,336 mln di euro e 502 confezioni (4,653 euro a confezione), registrando una differenza rispetto ai dati del 2019 in cui la molecola a maggiore spesa era rappresentata da Natalizumab. Analizzando l'incidenza percentuale della spesa, rispetto al totale della spesa regionale per le singole molecole, a cui è stata aggiunta la spesa in extra DRG, è necessario evidenziare come per Ocrelizumab si registri un valore pari al 53,84%, mentre per Natalizumab del 50,77%. Dalla Figura 4 (n.d.r. Figura 1 del presente documento) è evidente come la spesa sia nettamente aumentata nel tempo, passando da 0,65 mln nel 2015 a 3,78 nel 2020" (cfr. AIFA, MSF-febbraio 2022 - Documento di analisi sulla farmaceutica regionale Molise).
+La regione Molise nel 2020 ha speso 3,78 mln di euro per un totale di 1.359 confezioni e un costo a confezione di 2.782,12 euro (Tabella 6). Tutti gli indicatori risultano in aumento rispetto ai valori dell'anno precedente. Le confezioni sono rappresentate esclusivamente dall'ATC L e riguardano 4 principi attivi: Glatiramer, Natalizumab, Fingolimod e Ocrelizumab. In particolare, Ocrelizumab è il principio attivo che maggiormente incide su questa spesa, con un valore di 2,336 mln di euro e 502 confezioni (4,653 euro a confezione), registrando una differenza rispetto ai dati del 2019 in cui la molecola a maggiore spesa era rappresentata da Natalizumab. Analizzando l'incidenza percentuale della spesa, rispetto al totale della spesa regionale per le singole molecole, a cui è stata aggiunta la spesa in extra DRG, è necessario evidenziare come per Ocrelizumab si registri un valore pari al 53,84%, mentre per Natalizumab del 50,77%. Dalla Figura 4 (n.d.r. Figura 1 del presente documento) è evidente come la spesa sia nettamente aumentata nel tempo, passando da 0,65 mln nel 2015 a 3,78 nel 2020" (cfr. AIFA, MSF-febbraio 2022 - Documento di analisi sulla farmaceutica regionale Molise).
 
 Come anticipato in premessa, la Regione ha stabilito l'acquisto diretto dei farmaci OCREVUS e TISABRY, coerentemente a quanto rappresentato dall'AIFA circa l'esigenza, per i minori costi sostenuti dalla struttura pubblica mediante adeguata procedura di gara, dell'acquisto diretto da parte della Regione (per il tramite della ASReM).
 
 In proposito, l'AIFA ha evidenziato ancora nel documento citato (AIFA, MSF-febbraio 2022 - Documento di analisi sulla farmaceutica regionale Molise) una spesa extra tariffa eccessiva.
 
-A tal proposito, di seguito si forniscono i dati della compensazione interregionale anni 2019-2020-2021 relativi alla
-produzione IRCCS Neuromed:
+A tal proposito, di seguito si forniscono i dati della compensazione interregionale anni 2019-2020-2021 relativi alla produzione IRCCS Neuromed:
 
 La Regione Molise al fine di razionalizzare la spesa per "acquisti diretti" dall'anno 2019 ha dato avvio, per il tramite delle competenti strutture ASReM in raccordo con la Centrale Unica di Committenza regionale, ad un processo di adesione a confronti concorrenziali, derivanti dall'espletamento di precedenti sistemi dinamici posti in essere dalla Regione Piemonte, dalla Regione Abruzzo e dalla Regione Sardegna.
 

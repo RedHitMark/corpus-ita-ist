@@ -317,8 +317,7 @@ in casi eccezionali, adeguatamente motivati, sarà inviata, sempre entro 30 gior
 
 Non è garantito il rispetto dei termini per la risposta nel caso in cui la segnalazione sia inoltrata seguendo modalità diverse da quelle indicate.
 
-Ai sensi dell'art.28 par.3 del Regolamento UE n. 181/2011 e dell'art. 3, comma 5 del D.Lgs. 4 novembre 2014, n. 169, si precisa che, ogni passeggero, dopo aver fatto
-un reclamo al vettore, trascorsi novanta giorni dall'inoltro, può presentare reclamo all'Autorità Regolatrice dei Trasporti per presunte infrazioni al regolamento con le modalità stabilite dalla medesima Autorità (www.autorita-trasporti.it).
+Ai sensi dell'art.28 par.3 del Regolamento UE n. 181/2011 e dell'art. 3, comma 5 del D.Lgs. 4 novembre 2014, n. 169, si precisa che, ogni passeggero, dopo aver fatto un reclamo al vettore, trascorsi novanta giorni dall'inoltro, può presentare reclamo all'Autorità Regolatrice dei Trasporti per presunte infrazioni al regolamento con le modalità stabilite dalla medesima Autorità (www.autorita-trasporti.it).
 
 # Numero verde Regione Toscana
 Per la gestione dei reclami sul servizio, la raccolta di segnalazioni e suggerimenti e per la fornitura di informazioni sulle tariffe del Sistema Pegaso, la Regione Toscana ha predisposto il seguente numero verde:

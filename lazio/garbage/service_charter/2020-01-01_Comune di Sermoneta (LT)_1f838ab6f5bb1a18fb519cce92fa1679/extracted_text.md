@@ -109,10 +109,8 @@ Problematiche di elevata entità: richiedono oltre al coinvolgimento del respons
 Le criticità o le problematiche riscontrate dall'Ente potranno essere comunicate direttamente al Responsabile di Cantiere, grazie al contatto mobile messo a disposizione.
 
 Tali problematiche potranno essere:
-- problematiche di natura logistica, tecnica come ad esempio il rinvenimento di rifiuti abbandonati,
-per cui sono previste le modalità risolutive indicate in precedenza.
-- Problematiche di entità media o elevata, per le quali è previsto nel caso in cui non venisse attuata
-una strategia risolutiva immediata, l'indizione di un tavolo tecnico.
+- problematiche di natura logistica, tecnica come ad esempio il rinvenimento di rifiuti abbandonati, per cui sono previste le modalità risolutive indicate in precedenza.
+- Problematiche di entità media o elevata, per le quali è previsto nel caso in cui non venisse attuata una strategia risolutiva immediata, l'indizione di un tavolo tecnico.
 
 Tutte le segnalazioni, oltre che le modalità risolutive e le tempistiche di risoluzione, verranno registrate e archiviate su file elettronici in formato Excel e messe a disposizione del Direttore dell'Esecuzione del Contratto per le valutazioni sul livello qualitativo del servizio.
 
@@ -166,8 +164,7 @@ La raccolta dei rifiuti urbani nel Comune di Sermoneta prevede l'organizzazione 
 
 Il servizio di raccolta differenziata con sistema PORTA A PORTA è esteso su tutto il territorio comunale di Sermoneta. Le utenze domestiche e non domestiche, esporranno i contenitori dedicati sulle strade pubbliche davanti al numero civico di riferimento nei seguenti orari:
 
-Da ottobre a marzo, dalle 21:00 del giorno precedente la raccolta ed entro e non oltre le ore
-6:30 del giorno di raccolta;
+Da ottobre a marzo, dalle 21:00 del giorno precedente la raccolta ed entro e non oltre le ore 6:30 del giorno di raccolta;
 
 Da aprile a settembre dalle 23:00 del giorno precedente la raccolta ed entro e non oltre le ore 6:30 del giorno di raccolta;
 

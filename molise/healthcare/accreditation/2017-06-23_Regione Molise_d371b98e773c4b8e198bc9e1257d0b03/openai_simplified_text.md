@@ -126,9 +126,9 @@ Devi allegare una copia della delega alla firma alla domanda.
 Il riquadro B va compilato se la struttura è di una società, ente, azienda o comunque di una persona giuridica.
 
 Nel riquadro C devi scrivere queste informazioni per la costruzione di una struttura:
-1. Il nome della struttura
-2. Il tipo di servizi che vuoi offrire
-3. Il tipo di regolamentazione che seguirai
+- Il nome della struttura
+- Il tipo di servizi che vuoi offrire
+- Il tipo di regolamentazione che seguirai
 
 Ospedali che forniscono cure costanti durante tutto il giorno per malattie acute e post-acuti.
 

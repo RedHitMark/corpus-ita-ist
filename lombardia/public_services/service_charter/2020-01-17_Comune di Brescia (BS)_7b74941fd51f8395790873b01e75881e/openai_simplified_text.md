@@ -249,7 +249,7 @@ Il comune di Brescia lavora insieme al Ministero della Giustizia e alle Province
 In ufficio, collaboriamo con l'Autorità Giudiziaria Minorile di Brescia, che comprende il Tribunale e la Procura per i minorenni.
 
 # BUONO SOCIALE PER PERSONE PARZIALMENTE AUTOSUFFICIENTI O DISABILI
-Se il Comune riceve soldi dall'Europa, dall'Italia o da altre fonti per aiutare le persone che hanno bisogno di assistenza a vivere a casa, prendersi cura di loro o supportare i loro caregiver, come ad esempio il Fondo Nazionale per le Persone Non Autosufficienti, allora…
+Se il Comune riceve soldi dall'Europa, dall'Italia o da altre fonti per aiutare le persone che hanno bisogno di assistenza a vivere a casa, prendersi cura di loro o supportare i loro caregiver, come ad esempio il Fondo Nazionale per le Persone Non Autosufficienti, allora ...
 
 Ogni anno vengono definiti i requisiti necessari per ottenere i buoni attraverso i bandi di assegnazione.
 

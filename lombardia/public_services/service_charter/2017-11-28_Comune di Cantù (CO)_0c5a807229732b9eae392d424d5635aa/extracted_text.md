@@ -241,8 +241,7 @@ Fanno capo alla predetta unità le pattuglie dislocate sul territorio, il serviz
 
 Nel caso di intervento da parte della Polizia Locale la rilevazione dell'incidente si conclude con la predisposizione di un rapporto di incidente stradale mediante il quale le assicurazioni stabiliscono le responsabilità delle persone coinvolte ai fini del risarcimento. Inoltre nel caso in cui dall'incidente siano scaturiti fatti di rilevanza penale, il Corpo di Polizia Locale provvede alla predisposizione della notizia di reato successivamente inviata alla Magistratura per le conseguenti azioni previste dalla legge.
 
-Le persone coinvolte in un incidente stradale nella immediatezza del fatto ed al fine di rilevare correttamente la dinamica dell'incidente, possono richiedere l'intervento della Polizia Locale del Comune di Cantù contattando il numero 031.717717 poi digitare il tasto 1 oppure il
-numero unico europeo di emergenza generale e soccorso 112
+Le persone coinvolte in un incidente stradale nella immediatezza del fatto ed al fine di rilevare correttamente la dinamica dell'incidente, possono richiedere l'intervento della Polizia Locale del Comune di Cantù contattando il numero 031.717717 poi digitare il tasto 1 oppure il numero unico europeo di emergenza generale e soccorso 112
 
 Gli agenti intervenuti eseguono una serie di rilevazioni dell'incidente effettuando sia rilievi di carattere tecnico a mezzo tablet (rilievi planimetrici, realizzazioni di fotografie del luogo dell'incidente nonché delle autovetture incidentate), sia raccogliendo informazioni dai soggetti coinvolti di cui verranno raccolte le generalità ed ogni altro elemento di identificazione (N° polizza assicurativa, N° patente di guida, N° carta di circolazione). Lo scambio delle generalità dei coinvolti avviene via e-mail immediatamente o su indicazione dei coinvolti "brevi manu".
 

@@ -26,8 +26,7 @@ valutazione e presa d'atto delle verifiche tecniche elaborate dal GAR all'esito 
 
 inoltro dell'esito della valutazione al Servizio della Direzione Generale V^ competente per tipologia di Struttura, ai fini della redazione e dell'inoltro della proposta di provvedimento di rilascio dell'accreditamento da sottoporre alla Giunta Regionale per l'eventuale adozione;
 
-programmazione delle attività di verifica e monitoraggio successive alla concessione
-dell'Accreditamento;
+programmazione delle attività di verifica e monitoraggio successive alla concessione dell'Accreditamento;
 
 organizzazione e coordinamento dell'aggiornamento dei requisiti di accreditamento.
 

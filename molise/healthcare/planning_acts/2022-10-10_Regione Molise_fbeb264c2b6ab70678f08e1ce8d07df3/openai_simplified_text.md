@@ -1156,7 +1156,7 @@ La Regione Molise ha scelto una persona che si occuperà delle malattie rare e l
 
 Attualmente manca una rete regionale e un registro regionale che si colleghi con il Registro nazionale delle malattie rare e con i registri delle altre regioni, come richiesto dal Piano Nazionale delle Malattie Rare 2013-2016.
 
-E' importante definire la Rete regionale delle Malattie rare, come indicato dal DpCM, individuando i centri e le unità specializzate per la diagnosi e il trattamento delle malattie rare su proposta della ASREM e creando un registro regionale.
+È importante definire la Rete regionale delle Malattie rare, come indicato dal DpCM, individuando i centri e le unità specializzate per la diagnosi e il trattamento delle malattie rare su proposta della ASREM e creando un registro regionale.
 
 Dato che la popolazione della nostra regione è piccola, sarebbe utile lavorare insieme ad altre regioni vicine per creare delle regole comuni per curare i pazienti in modo migliore. In questo modo potremmo anche usufruire di ospedali specializzati che non ci sono qui in Molise per fare diagnosi più precise.
 
@@ -1535,7 +1535,7 @@ Miglioramento nell'offerta dei servizi di analisi del sangue - Introduzione di u
 
 Decreto del Presidente del Consiglio dei Ministri del 12 gennaio 2017. Stabilisce i costi per i servizi residenziali e semiresidenziali per persone che non sono in grado di badare a sé stesse e per disabili. Queste tariffe sono valide per l'anno 2020.
 
-Tabella dei prezzi per i servizi sanitari forniti ai privati ​​da personale medico dipendente dal Dipartimento Unico di Prevenzione dell'Azienda Sanitaria Regionale del Molise - Aggiornamento e Revisione.
+Tabella dei prezzi per i servizi sanitari forniti ai privati da personale medico dipendente dal Dipartimento Unico di Prevenzione dell'Azienda Sanitaria Regionale del Molise - Aggiornamento e Revisione.
 
 Prezzo al giorno per i servizi di cura e assistenza offerti dalle comunità terapeutiche a persone con problemi di droga.
 

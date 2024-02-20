@@ -480,8 +480,7 @@ La compartecipazione al costo del servizio viene determinata secondo i parametri
 # CENTRI DIURNI PER L'INCLUSIONE SOCIALE
 Il Servizio vuole promuovere i diritti di cittadinanza e dell'inclusione sociale di tutti coloro che si trovano a vivere condizioni di marginalità o di esclusione attraverso lo sviluppo di adeguati processi di aiuto al fine di favorire la crescita della coesione sociale e di contribuire alla prevenzione e al superamento di situazioni di marginalità.
 
-Intervento sociale indirizzato agli adulti in situazione di estrema difficoltà e caratterizzato da attività di accoglienza e socializzazione e dall'attivazione di
-progettualità a carattere educativo, volte al reinserimento sociale.
+Intervento sociale indirizzato agli adulti in situazione di estrema difficoltà e caratterizzato da attività di accoglienza e socializzazione e dall'attivazione di progettualità a carattere educativo, volte al reinserimento sociale.
 
 Persone maggiorenni in condizioni di marginalità sociale in carico ai Servizi Sociali comunali o segnalate dai servizi specialistici di presa in carico.
 

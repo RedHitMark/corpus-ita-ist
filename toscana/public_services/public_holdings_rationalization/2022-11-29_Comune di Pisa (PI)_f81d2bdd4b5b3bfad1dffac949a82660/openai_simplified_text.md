@@ -579,7 +579,7 @@ L'indicatore di produttività aziendale misura quanto lavoro svolgono i dipenden
 
 Il Valore Economico Aggiunto indica se un'azienda è in grado di guadagnare abbastanza soldi per giustificare l'investimento del denaro. In altre parole, mostra se l'azienda crea o distrugge valore. Si calcola usando altri valori che sono indicatori importanti: NOPAT (un tipo di guadagno), COIN (il capitale che l'azienda usa per le operazioni) e WACC (il costo medio del denaro che l'azienda usa per investire).
 
-Poiché queste società sono controllate dallo Stato, si ritiene che sia sufficiente che il tasso di interesse sia più alto del tasso Euribor a 12 mesi + uno  spread del 2,4% (come viene offerto da Cassa Depositi e Prestiti).
+Poiché queste società sono controllate dallo Stato, si ritiene che sia sufficiente che il tasso di interesse sia più alto del tasso Euribor a 12 mesi + uno spread del 2,4% (come viene offerto da Cassa Depositi e Prestiti).
 
 Di solito gli analisti scelgono parametri più alti di uno. Per questa analisi abbiamo deciso di fissare il limite a 1,4, ritenendolo adatto per le società con capitale pubblico.
 

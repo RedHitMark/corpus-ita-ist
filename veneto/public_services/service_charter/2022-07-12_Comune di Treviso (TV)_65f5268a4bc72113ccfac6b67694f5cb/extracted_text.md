@@ -478,7 +478,7 @@ Eventuali suggerimenti per il miglioramento del servizio possono essere indirizz
 
 In caso di controversia l'Utente, in alternativa alla procedura di conciliazione dell'Autorità, può ricorrere alla Procedura di Conciliazione, utilizzando l'apposito modulo di adesione, così come definita dal relativo Regolamento sottoscritto tra le Associazioni dei Consumatori e il Gestore o altre procedure di risoluzione extra giudiziale. Il predetto Regolamento è reperibile nel sito www.altotrevigianoservizi.it.
 
-# VALIDITA' DELLA CARTA SERVIZI
+# VALIDITÀ DELLA CARTA SERVIZI
 La presente Carta è stata:
 - approvata con delibera dell'Ente di Governo dell'Ambito "Veneto Orientale" n. 9 del 28/06/2016 e adottata dal Consiglio di Amministrazione di Alto Trevigiano Servizi S.r.l. con delibera del 29/06/2016;
 - aggiornata con delibera dell'Ente di Governo dell'Ambito "Veneto Orientale" n. 19 del 18/12/2018.

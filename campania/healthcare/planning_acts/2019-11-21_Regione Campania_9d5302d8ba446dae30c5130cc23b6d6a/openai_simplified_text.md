@@ -461,7 +461,7 @@ Stabilire gli obiettivi per prevenire qualcosa e come le persone possono parteci
 
 Le procedure per effettuare i test di primo livello per raggiungere gli obiettivi dei percorsi diagnostico-terapeutici assistenziali.
 
-Modificare la raccolta delle informazioni sulla diffusione delle malattie; Migliorare l'aiuto medico a casa per garantire i servizi previsti dalla Legge sull’assistenza sanitaria (miglioramenti nelle cure a domicilio e nelle case di riposo);
+Modificare la raccolta delle informazioni sulla diffusione delle malattie; Migliorare l'aiuto medico a casa per garantire i servizi previsti dalla Legge sull'assistenza sanitaria (miglioramenti nelle cure a domicilio e nelle case di riposo);
 
 Un Sistema Informativo della Medicina Generale è un sistema che aiuta i medici di famiglia a gestire le informazioni sui pazienti. Questo sistema è collegato al Sistema Informativo Regionale e coinvolge il medico di famiglia, un assistente di studio e professionisti infermieri per garantire la gestione efficace delle informazioni dei pazienti.
 
@@ -2024,7 +2024,7 @@ Dobbiamo fare in modo che medici, infermieri e pazienti possano comunicare megli
 
 Quanti documenti informativi e formativi hanno fatto le Aziende Sanitarie quest'anno? E quante pubblicazioni di buone pratiche e testi divulgativi hanno prodotto?
 
-E' importante sostenere e alimentare la relazione tra medico e paziente, così come con i loro familiari. La comunicazione deve essere particolarmente accurata e sensibile, specialmente quando si tratta di persone malate e fragili. Anche i familiari che assistono il malato devono essere trattati con rispetto e professionalità. Gli operatori sanitari devono essere formati per ottenere un consenso informato dai pazienti e devono rispettare la loro privacy con molta attenzione.
+È importante sostenere e alimentare la relazione tra medico e paziente, così come con i loro familiari. La comunicazione deve essere particolarmente accurata e sensibile, specialmente quando si tratta di persone malate e fragili. Anche i familiari che assistono il malato devono essere trattati con rispetto e professionalità. Gli operatori sanitari devono essere formati per ottenere un consenso informato dai pazienti e devono rispettare la loro privacy con molta attenzione.
 
 Numero di materiale informativo e formativo prodotto dalle Aziende Sanitarie durante l'anno, e il numero di pubblicazioni riguardanti buone pratiche e testi divulgativi prodotti dalle stesse Aziende Sanitarie.
 

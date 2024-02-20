@@ -114,7 +114,7 @@ I cittadini possono portare i loro rifiuti urbani ai centri di raccolta gestiti 
 
 I rifiuti che le persone portano ai centri di raccolta vengono controllati da un operatore e poi messi nei posti giusti del centro.
 
-Se il rifiuto viene accettato, l'addetto compilerà una ricevuta apposita e la farà firmare al cittadino che ha consegnato il rifiuto.
+Se il rifiuto viene accettato, l'addetto compilerà una ricevuta apposita e la farà firmare al cittadino che ha consegnato il rifiuto.
 
 # PROCEDURA DI ACCETTAZIONE DEI RIFIUTI
 Per evitare che vengano portati rifiuti non conformi alla legge e alle regole dell'impianto, vengono stabilite delle regole da seguire per tutte le persone che vogliono portare i rifiuti all'impianto.
