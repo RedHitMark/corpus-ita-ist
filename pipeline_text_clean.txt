@@ -1,0 +1,20 @@
+- remove tabs 
+- remove double spaces
+- replace ’ with '
+- replace ‘ with '
+- replace “ with "
+- replace ” with "
+- replace « with "
+- replace » with "
+- replace A' with À
+- replace E' with È
+- replace  , with , (space before comma)
+- replace  \. with . (space before dot)
+- replace  ; with ; (space before semicolum)
+- replace l ' with l'
+- replace … with ...
+
+
+- check this regex (?<=[a-z0-9])\n(?=[a-z0-9])
+
+- check this regex ([^A-Za-z\d\s'"#àáèéìíóòùú\(\.,;\)\-+@%:/°€©–&^[\]=®—?])
