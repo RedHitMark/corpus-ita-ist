@@ -10,7 +10,7 @@
 - replace E' with È
 - replace  , with , (space before comma)
 - replace  \. with . (space before dot)
-- replace  ; with ; (space before semicolum)
+- replace  ; with ; (space before semicolon)
 - replace l ' with l'
 - replace … with ...
 

@@ -1,8 +1,20 @@
 # Premessa
 Il presente Disciplinare ha per oggetto l'affidamento in appalto mediante procedura aperta del Servizio di igiene urbana, raccolta e trasporto e smaltimento dei rifiuti solidi urbani con modalità differenziata porta a porta nei Comuni di:
+- Acquaviva D'Isernia
+- Filignano 
+- Forli Del Sannio
+- Montenero Valcocchiara
+- Pizzone
+- Rionero Sannitico
 
 # Oggetto
 Affidamento Servizio di igiene urbana, raccolta e trasporto e smaltimento dei Rifiuti Urbani con modalità differenziata domiciliare nel Comune di:
+- Acquaviva D'Isernia
+- Filignano 
+- Forli Del Sannio
+- Montenero Valcocchiara
+- Pizzone
+- Rionero Sannitico
 
 Raccolta differenziata per tutte le utenze commerciali alimentari e nel settore della ristorazione presenti sul territorio comunale;
 
