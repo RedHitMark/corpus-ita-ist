@@ -1,4 +1,4 @@
-- remove tabs 
+- remove tabs	
 - remove double spaces
 - replace ’ with '
 - replace ‘ with '
