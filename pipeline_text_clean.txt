@@ -14,7 +14,7 @@
 - replace l ' with l'
 - replace … with ...
 
-
+- check this regex [;,\.!-]\S
 - check this regex (?<=[a-z0-9])\n(?=[a-z0-9])
 
 - check this regex ([^A-Za-z\d\s'"#àáèéìíóòùú\(\.,;\)\-+@%:/°€©–&^[\]=®—?])
