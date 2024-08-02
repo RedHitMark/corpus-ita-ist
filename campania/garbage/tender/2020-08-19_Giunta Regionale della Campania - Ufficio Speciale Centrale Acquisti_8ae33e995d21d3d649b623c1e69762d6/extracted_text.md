@@ -1,0 +1,722 @@
+# Art.1-Premesse
+Con il Decreto Dirigenziale n. 3 del 14.01.2020, la Direzione Generale per le Risorse Strumentali ha approvato il progetto e gli allegati tecnici per il Servizio di rimozione e conferimento presso impianto autorizzato, previa caratterizzazione, dei rifiuti presenti nell'area di proprietà regionale, denominata "Ex Mercato Ortofrutticolo" sita nel Comune di Eboli (SA) in località San Varco"e con successivo Decreto dirigenziale n. 575 del 28.05.2020 la Direzione Generale delle Risorse Strumentali ha incaricato la UOD 60.06.01 "Centrale acquisti e procedure di finanziamento di progetti relativi ad infrastrutture" della Regione Campania ad espletare una procedura aperta relativi al Servizio di rimozione e conferimento presso impianto autorizzato, previa caratterizzazione, dei rifiuti presenti nell'area di proprietà regionale, denominata "Ex Mercato Ortofrutticolo" sita nel Comune di Eboli (SA) in località San Varco ed ha stabilito che l'affidamento avverrà mediante procedura aperta e con applicazione del criterio di aggiudicazione dell'offerta economicamente più vantaggiosa individuata sulla base del miglior rapporto qualità-prezzo, ai sensi degli artt. 60 e 95, comma 2 del D.Lgs. 18 aprile 2016, n. 50 - Codice dei contratti pubblici (nel prosieguo: Codice).
+
+Il luogo di svolgimento del servizio è il Comune di Eboli in località San Nicola Varco(Sa)
+
+Il Responsabile unico del Procedimento, ai sensi dell'art. 31 del Codice, è l'ing. Luigi Gaglione, funzionario tecnico.mail ing.luigigaglione@gmail.com
+
+# Art. 2 – Documentazione di gara, chiarimenti, comunicazione e dotazione tecnico-informatica per la partecipazione alla gara
+Per partecipare alla presente procedura, l'operatore economico deve dotarsi, a propria cura e spese, della seguente strumentazione tecnica ed informatica:
+- firma digitale, di cui all'art. 1, lett. s), del D. Lgs. 82/2005;
+- dotazione hardware e software minima, come specificata nella sezione "Requisiti Minimi" del portale delle gare.
+
+È utile e necessario che l'operatore economico, interessato a partecipare alla presente gara telematica, consulti preliminarmente, le seguenti sezioni del portale delle gare:
+- sezione "Normativa e Manuali", in cui potrà reperire, in particolare, il Manuale "Istruzioni per la registrazione degli operatori economici al Portale della Regione Campania" e le "Linee Guida sulla Presentazione dell'Offerta"
+- sezione "FAQ".
+
+Per poter partecipare alla gara, l'operatore economico deve essere registrato al portale delle gare e disporre, pertanto, della terna di valori (codice d'accesso, nome utente e password) necessaria per l'accesso all'area privata e per l'utilizzo delle funzionalità del portale medesimo.
+
+Salvo che non risulti già in possesso delle credenziali d'accesso in virtù di una precedente registrazione, l'operatore economico deve effettuare la registrazione al portale delle gare mediante l'apposito link "Registrati" presente in homepage, per ottenere le tre credenziali d'accesso che gli saranno recapitate - entro le successive 6 (sei) ore - all'indirizzo PEC oppure, solo per gli operatori economici aventi sede in altri Stati membri, di posta elettronica indicato.
+
+Si raccomanda di effettuare la registrazione almeno 48 (quarantotto) ore prima del termine di scadenza per la presentazione delle offerte, al fine di ottenere in tempo utile le suddette tre credenziali di accesso.
+
+La mancata ricezione della terna di valori, che consente la partecipazione alla gara, è ad esclusivo rischio del concorrente se la registrazione al portale delle gare è effettuata successivamente al termine temporale sopra indicato.
+
+In caso di smarrimento, è sempre possibile recuperare le citate credenziali attraverso le apposite funzioni "Hai dimenticato Codice di Accesso e Nome Utente?" e/o "Hai dimenticato la password?" presenti sulla home page del portale. II codice d'accesso ed il nome utente attribuiti dal sistema sono immodificabili; la password invece può essere modificata in qualunque momento tramite l'apposito link "opzioni". La lunghezza massima della password è di 12 caratteri.
+
+È possibile ricevere assistenza in merito all'attività di registrazione chiamando il Numero Verde 800 098 759, dal lunedì al venerdì, dalle ore 09.00 alle 13.00 e dalle ore 14.00 alle ore 18.00 o inviare una e-mail a supportoclienti@afsoluzioni.it.
+
+Il concorrente è tenuto a custodire diligentemente, assumendo tutte le opportune cautele, il proprio "codice di accesso" e "nome utente", a mezzo dei quali verrà identificato, e la propria password, senza comunicarla o diffonderla a terzi o consentire, comunque, che terzi possano entrarne in possesso. L'utilizzo degli identificativi per la partecipazione alla gara on-line è consentito unicamente ai soggetti che abbiano il potere di rappresentare il concorrente.
+
+## Art. 2.1 – Documenti di gara 
+La documentazione di gara comprende:
+- Capitolato di gara comprensivo degli allegati così come approvato dal Decreto Dirigenziale del Direttore Generale per le Risorse Strumentali n 575 del 28.05.2020 costituito dalle modalità di espletamento del servizio e costo a base d'asta;
+- capitolato d'appalto
+- relazione tecnico descrittiva con stima dei costi e quadro economico riepilogativo; documentazione fotografica;
+- aereofotogrammetria; 
+- corofrafia;
+- stralcio catastale; 
+- stralcio prg;
+- psc;
+- schema di contratto bando di gara;
+- disciplinare di gara (con allegati);
+- protocollo di legalità in materia di appalti, siglato tra il Prefetto della Provincia di Napoli e la Regione Campania in data 1 agosto 2007 ed approvato con Deliberazione di Giunta Regionale del 8 settembre 2007;
+- Documento di Gara Unico Europeo (DGUE), ex art. 85 del Codice.
+
+La documentazione di gara è disponibile sul portale delle gare della Regione Campania, all'indirizzo internet https://gare.regione.campania.it/portale/index.php.
+
+L'Operatore economico dovrà registrarsi al portale per tutte le comunicazioni in merito alla procedura di gara.
+
+## Art 2.2 Richiesta di chiarimenti
+Le richieste di chiarimenti e/o di informazioni complementari devono essere inoltrate, esclusivamente, attraverso il portale delle gare, nella sezione dedicata alla presente procedura di gara, almeno 10 (dieci) giorni prima della scadenza del termine fissato per la presentazione delle offerte.
+
+Le richieste di chiarimenti e/o di informazioni complementari devono essere formulate, esclusivamente, in lingua italiana.
+
+Non saranno prese in considerazione le richieste di chiarimenti pervenute fuori tempo utile oppure generiche, non pertinenti e caratterizzate da assoluta incertezza sulla provenienza.
+
+Ai sensi dell'art. 74, comma 4, del Codice, le risposte alle richieste pervenute saranno pubblicate, in forma anonima, nella sezione "chiarimenti" dedicata alla presente procedura sul portale delle gare, almeno 6 (sei) giorni prima della scadenza del termine fissato per la presentazione delle offerte.
+
+Non sono ammessi chiarimenti telefonici.
+
+## Art. 2.3 – Comunicazioni
+Tutte le comunicazioni tra stazione appaltante e operatori economici si intendono validamente ed efficacemente effettuate tramite il portale delle gare. Pertanto, è onere degli operatori economici verificare il portale delle gare fino alla scadenza del termine di presentazione delle offerte e durante tutto l'espletamento della gara.
+
+Ad eccezione di quelle rese sul portale delle gare in forma pubblica, le restanti comunicazioni saranno visibili accedendo alla propria area privata, previo avviso all'indirizzo PEC oppure, solo per i concorrenti aventi sede in altri Stati membri, all'indirizzo di posta elettronica che i concorrenti sono tenuti ad indicare in sede di registrazione al portale/adesione alla procedura di gara.
+
+Eventuali modifiche o problemi temporanei di funzionamento dell'indirizzo PEC/posta elettronica ovvero problemi di accessibilità/utilizzo della propria area privata, dovranno essere tempestivamente segnalati alla stazione appaltante; diversamente la medesima declina ogni responsabilità per il tardivo o mancato recapito delle comunicazioni.
+
+In caso di raggruppamenti temporanei, GEIE, aggregazioni di imprese di rete o consorzi ordinari, anche se non ancora costituiti formalmente, la comunicazione recapitata al mandatario si intende validamente resa a tutti gli operatori economici raggruppati, aggregati o consorziati.
+
+In caso di consorzi di cui all'art. 45, comma 2, lett. b) e c), del Codice, la comunicazione recapitata al consorzio si intende validamente resa a tutte le consorziate.
+
+In caso di avvalimento, la comunicazione recapitata all'offerente si intende validamente resa a tutti gli operatori economici ausiliari.
+
+## Art. 2.4 – Dotazione Tecnico-Informatica per la partecipazione alla gara
+Per partecipare alla presente procedura, l'operatore economico deve dotarsi, a propria cura e spese, della seguente strumentazione tecnica ed informatica:
+- firma digitale, di cui all'art. 1, lett. s), del D. Lgs. 82/2005;
+- dotazione hardware e software minima, come specificata nella sezione "Requisiti Minimi" del portale delle gare.
+
+È utile e necessario che l'operatore economico, interessato a partecipare alla presente gara telematica, consulti preliminarmente, le seguenti sezioni del portale delle gare:
+- sezione "Normativa e Manuali", in cui potrà reperire, in particolare, il Manuale "Istruzioni per la registrazione degli operatori economici al Portale della Regione Campania" e le "Linee Guida sulla Presentazione dell'Offerta"
+- sezione "FAQ".
+
+Per poter partecipare alla gara, l'operatore economico deve essere registrato al portale delle gare e disporre, pertanto, della terna di valori (codice d'accesso, nome utente e password) necessaria per l'accesso all'area privata e per l'utilizzo delle funzionalità del portale medesimo.
+
+Salvo che non risulti già in possesso delle credenziali d'accesso in virtù di una precedente registrazione, l'operatore economico deve effettuare la registrazione al portale delle gare mediante l'apposito link "Registrati" presente in homepage, per ottenere le tre credenziali d'accesso che gli saranno recapitate - entro le successive 6 (sei) ore - all'indirizzo PEC oppure, solo per gli operatori economici aventi sede in altri Stati membri, di posta elettronica indicato.
+
+Si raccomanda di effettuare la registrazione almeno 48 (quarantotto) ore prima del termine di scadenza per la presentazione delle offerte, al fine di ottenere in tempo utile le suddette tre credenziali di accesso.
+
+La mancata ricezione della terna di valori, che consente la partecipazione alla gara, è ad esclusivo rischio del concorrente se la registrazione al portale delle gare è effettuata successivamente al termine temporale sopra indicato.
+
+In caso di smarrimento, è sempre possibile recuperare le citate credenziali attraverso le apposite funzioni "Hai dimenticato Codice di Accesso e Nome Utente?" e/o "Hai dimenticato la password?" presenti sulla home page del portale. II codice d'accesso ed il nome utente attribuiti dal sistema sono immodificabili; la password invece può essere modificata in qualunque momento tramite l'apposito link "opzioni". La lunghezza massima della password è di 12 caratteri.
+
+È possibile ricevere assistenza in merito all'attività di registrazione chiamando il Numero Verde 800 098 759, dal lunedì al venerdì, dalle ore 09.00 alle 13.00 e dalle ore 14.00 alle ore 18.00 o inviare una e-mail a supportoclienti@afsoluzioni.it.
+
+Il concorrente è tenuto a custodire diligentemente, assumendo tutte le opportune cautele, il proprio "codice di accesso" e "nome utente", a mezzo dei quali verrà identificato, e la propria password, senza comunicarla o diffonderla a terzi o consentire, comunque, che terzi possano entrarne in possesso. L'utilizzo degli identificativi per la partecipazione alla gara on-line è consentito unicamente ai soggetti che abbiano il potere di rappresentare il concorrente.
+
+# Art.3 - Oggetto dell'Appalto e importo posto ma base d'asta
+L'appalto ha per oggetto l'affidamento del servizio per la rimozione e conferimento presso impianto autorizzato, previa caratterizzazione dei rifiuti presenti nell'area di proprietà regionale denominata "Ex Mercato orotofruttifero" sita nel Comune di Eboli (Sa) località in San Nicola Varco
+
+L'importo previsto dal presente capitolato per l'espletamento del servizio è pari a € 854.500,00 oltre IVA al 10 %, compresi gli oneri per la sicurezza stimati in ragione del 3%. È compreso nell'appalto anche la partecipazione a riunioni presso l'ufficio del RUP e del DEC da parte del Responsabile delle Attività.
+
+# Art.4-Durata dell'appalto 
+L'appalto avrà durata di 120 giorni, a decorrere dalla data di stipula del contratto.
+
+Il servizio previsto dal presente capitolato speciale d'appalto cesserà comunque di produrre effetti, anche anticipatamente rispetto al termine finale, una volta che sia stato raggiunto il tetto massimo determinato all'art. 1.11 del presente capitolato.
+
+# Art. 5 – Soggetti ammessi in forma singola e associata e condizioni di partecipazione
+Gli operatori economici, anche stabiliti in altri Stati membri, possono partecipare alla presente gara in forma singola o associata, secondo le disposizioni dell'art. 45 del Codice, purché in possesso dei requisiti prescritti dai successivi articoli.
+
+Ai soggetti costituiti in forma associata si applicano le disposizioni di cui agli artt. 47 e 48 del Codice.
+
+Non è ammessa la partecipazione di imprese concorrenti che si trovino, rispetto ad un altro partecipante alla procedura di affidamento, in una situazione di controllo di cui all'articolo 2359 del codice civile o in una qualsiasi relazione, anche di fatto, se la situazione di controllo o la relazione comporti che le offerte sono imputabili ad un unico centro decisionale.
+
+È vietato ai concorrenti di partecipare alla gara in più di un raggruppamento temporaneo o consorzio ordinario di concorrenti o aggregazione di imprese aderenti al contratto di rete (nel prosieguo: aggregazione di imprese di rete).
+
+È vietato al concorrente, che partecipa alla gara in raggruppamento o consorzio ordinario di concorrenti, di partecipare anche in forma individuale.
+
+È vietato al concorrente, che partecipa alla gara in aggregazione di imprese di rete, di partecipare anche in forma individuale. Le imprese retiste non partecipanti alla gara possono presentare offerta, per la medesima gara, in forma singola o associata.
+
+I consorzi di cui all'articolo 45, comma 2 lett. b) e c), del Codice sono tenuti ad indicare, in sede di offerta, per quali consorziati il consorzio concorre; a questi ultimi è vietato partecipare, in qualsiasi altra forma, alla presente gara. In caso di violazione, sono esclusi dalla gara sia il consorzio sia il consorziato; in caso di inosservanza di tale divieto, si applica l'articolo 353 del codice penale.
+
+Nel caso di consorzi di cui all'articolo 45, comma 2 lett. b) e c), del Codice, le consorziate designate dal consorzio per l'esecuzione del contratto non possono, a loro volta, a cascata, indicare un altro soggetto per l'esecuzione.
+
+Le aggregazioni tra imprese aderenti al contratto di rete di cui all'art. 45, comma 2 lett. f), del Codice, rispettano la disciplina prevista per i raggruppamenti temporanei di imprese in quanto compatibile. In particolare:
+- nel caso in cui la rete sia dotata di organo comune con potere di rappresentanza e soggettività giuridica (cd. rete - soggetto), l'aggregazione di imprese di rete partecipa a mezzo dell'organo comune, che assumerà il ruolo della mandataria, qualora in possesso dei relativi requisiti. L'organo comune potrà indicare anche solo alcune tra le imprese retiste per la partecipazione alla gara ma dovrà obbligatoriamente far parte di queste;
+- nel caso in cui la rete sia dotata di organo comune con potere di rappresentanza ma priva di soggettività giuridica (cd. rete-contratto), l'aggregazione di imprese di rete partecipa a mezzo dell'organo comune, che assumerà il ruolo della mandataria, qualora in possesso dei requisiti previsti per la mandataria e qualora il contratto di rete rechi mandato allo stesso a presentare domanda di partecipazione o offerta per determinate tipologie di procedure di gara. L'organo comune potrà indicare anche solo alcune tra le imprese retiste per la partecipazione alla gara ma dovrà obbligatoriamente far parte di queste;
+- nel caso in cui la rete sia dotata di organo comune privo di potere di rappresentanza ovvero sia sprovvista di organo comune, oppure se l'organo comune è privo dei requisiti di qualificazione, l'aggregazione di imprese di rete partecipa nella forma del raggruppamento costituito o costituendo, con applicazione integrale delle relative regole (cfr. Determinazione ANAC n. 3 del 23 aprile 2013).
+
+Per tutte le tipologie di rete, la partecipazione congiunta alle gare deve risultare individuata nel contratto di rete come uno degli scopi strategici inclusi nel programma comune, mentre la durata dello stesso dovrà essere commisurata ai tempi di realizzazione dell'appalto (cfr. Determinazione ANAC n. 3 del 23 aprile 2013).
+
+Il ruolo di mandante/mandataria di un raggruppamento temporaneo di imprese può essere assunto anche da un consorzio di cui all'art. 45, comma 1 lett. b) e c), ovvero da una sub-associazione, nelle forme di un RTI o consorzio ordinario costituito oppure di un'aggregazione di imprese di rete.
+
+A tal fine, se la rete è dotata di organo comune con potere di rappresentanza (con o senza soggettività giuridica), tale organo assumerà la veste di mandataria della sub- associazione; se, invece, la rete è dotata di organo comune privo del potere di rappresentanza o è sprovvista di organo comune, il ruolo di mandataria della sub- associazione è conferito dalle imprese retiste partecipanti alla gara, mediante mandato ai sensi dell'art. 48, comma 12, del Codice, dando evidenza della ripartizione delle quote di partecipazione.
+
+Ai sensi dell'art. 186-bis, comma 6, del R.D. 16 marzo 1942, n. 267, l'impresa in concordato preventivo con continuità aziendale può concorrere anche riunita in RTI purché non rivesta la qualità di mandataria e sempre che le altre imprese aderenti al RTI non siano assoggettate ad una procedura concorsuale.
+
+# Art. 6 – Requisiti Generali e cause di esclusione
+Sono esclusi dalla gara gli operatori economici per i quali sussistono cause di esclusione di cui all'art. 80 del Codice.
+
+Sono, comunque, esclusi gli operatori economici che abbiano affidato incarichi in violazione dell'art. 53, comma 16-ter, del d.lgs. 30 marzo 2001 n. 165.
+
+Gli operatori economici aventi sede, residenza o domicilio nei paesi inseriti nelle c.d. black list di cui al decreto del Ministro delle finanze del 4 maggio 1999 e al decreto del Ministro dell'economia e delle finanze del 21 novembre 2001 devono, pena l'esclusione dalla gara, essere in possesso dell'autorizzazione in corso di validità, rilasciata ai sensi del d.m. 14 dicembre 2010 del Ministero dell'economia e delle finanze ai sensi (art. 37 del d.l. 3 maggio 2010 n. 78 conv. in l. 122/2010), oppure della domanda di autorizzazione presentata ai sensi dell'art. 1 comma 3 del d.m. 14 dicembre 2010.
+
+La mancata accettazione delle clausole contenute nel protocollo di legalità in materia di appalti, siglato tra il Prefetto della Provincia di Napoli e la Regione Campania in data 1 agosto 2007 ed approvato con Deliberazione di Giunta Regionale dell'8 settembre 2007 costituisce causa di esclusione dalla gara, ai sensi dell'art. 1, comma 17 della Legge n.190/2012.
+
+# Art. 7 – Requisiti speciali e mezzi di prova
+I concorrenti, a pena di esclusione, devono essere in possesso dei requisiti di seguito indicati nel presente articolo del disciplinare.
+
+I documenti richiesti agli operatori economici ai fini della dimostrazione dei requisiti devono essere trasmessi, oltre che in modalità telematica tramite il portale di I documenti richiesti agli operatori economici ai fini della dimostrazione dei gara, anche mediante AVCpass in conformità alla Delibera ANAC 157 del 17 febbraio 2016.
+
+Ai sensi dell'art. 59, comma 4 lett. b), del Codice, sono inammissibili le offerte prive della qualificazione richiesta dal presente disciplinare.
+
+## Art. 7.1 – Requisiti di idoneità' professionale
+Iscrizione alla Camera di Commercio per attività coerenti con quelle oggetto della procedura di gara;
+
+Il concorrente non stabilito in Italia ma in altro Stato Membro o in uno dei Paesi di cui all'art. 83, comma 3, del Codice presenta dichiarazione giurata o secondo le modalità vigenti nello Stato nel quale è stabilito.
+
+Per la comprova del requisito, la stazione appaltante acquisisce d'ufficio i documenti in possesso di pubbliche amministrazioni, previa indicazione, da parte dell'operatore economico, degli elementi indispensabili per il reperimento delle informazioni o dei dati richiesti.
+
+## Art. 7.2 – Requisiti di capacità professionale e tecnica (art. 83 e allegato XVII, parte II del d.lgs 50/2016)
+Di aver svolto regolarmente e con buon esito, nell'anno antecedente la data di pubblicazione del bando di gara, servizi analoghi a quello oggetto della procedura di gara in oggetto pari ad almeno € 1.500.000,00 iva esclusa;
+
+di essere iscritto all'Albo Nazionale Gestori Ambientali, di cui all'art. 212 del D.lvo n. 152 del 03/04/2006 e s.m.i. per le seguenti categorie:
+- Raccolta e trasporto di rifiuti urbani ed assimilati
+- Raccolta e trasporto di rifiuti speciali non pericolosi
+- Raccolta e trasporto di rifiuti speciali pericolosi
+- Bonifica di siti
+- Bonifica di beni contenenti amianto
+
+di essere in possesso della Certificazione di qualità UNI EN ISO 9001:2008 in corso di validità per lo specifico settore oggetto dell'appalto;
+
+di essere in possesso della Certificazione di qualità UNI CEI EN 45000 in corso di validità;
+
+di essere in possesso della Certificazione di qualità UNI CEI EN ISO 18000 in corso di validità 
+
+La verifica del possesso dei requisiti di carattere generale, tecnico-organizzativo ed economico-finanziario avviene, ai sensi dell'art. 6-bis del Codice, attraverso l'utilizzo del sistema AVCpass, reso disponibile dall'Autorità, fatto salvo quanto previsto dal comma 3 del citato art. 6-bis. Pertanto, tutti i soggetti interessati a partecipare alla procedura devono, obbligatoriamente, registrarsi al sistema AVCpass.
+
+## Art. 7.3 – Indicazioni per i raggruppamenti temporanei, consorzi ordinari, aggregazioni di imprese di rete; GEIE.
+I soggetti di cui all'art. 45, comma 2 lett. d), e), f) e g), del Codice devono possedere i requisiti di partecipazione nei termini di seguito indicati.
+
+Alle aggregazioni di imprese aderenti al contratto di rete, ai consorzi ordinari ed ai GEIE si applica la disciplina prevista per i raggruppamenti temporanei di imprese, in quanto compatibile. Nei consorzi ordinari, la consorziata che assume la quota maggiore di attività esecutive riveste il ruolo di capofila e deve essere assimilata alla mandataria.
+
+Nel caso in cui la mandante/mandataria di un raggruppamento temporaneo di imprese sia una sub-associazione, nelle forme di un RTI costituito oppure di un'aggregazione di imprese di rete, i relativi requisiti di partecipazione sono soddisfatti secondo le medesime modalità indicate per i raggruppamenti.
+
+Il requisito relativo all'iscrizione nel registro tenuto dalla Camera di commercio industria, artigianato e agricoltura oppure nel registro delle commissioni provinciali per l'artigianato di cui all'art. 7.1 lett. a) del presente disciplinare deve essere posseduto da:
+- ciascuna delle imprese raggruppate/raggruppande, consorziate/consorziande o GEIE;
+- ciascuna delle imprese aderenti al contratto di rete indicate come esecutrici e dalla rete medesima nel caso in cui questa abbia soggettività giuridica.
+
+Il requisito di cui all'art. 7.2 del presente disciplinare, deve essere assolto cumulativamente con il contributo di tutte le imprese raggruppate. Ogni componente del Raggruppamento deve possedere, in percentuale, forniture analoghe almeno pari alla percentuale di partecipazione al raggruppamento.
+
+## Art. 7.4– Indicazioni per i consorzi di cooperative e di imprese artigiane
+I soggetti di cui all'art. 45, comma 2 lett. b) e c), del Codice devono possedere i requisiti di partecipazione nei termini di seguito indicati.
+
+Il requisito relativo all'iscrizione nel registro tenuto dalla Camera di commercio industria, artigianato e agricoltura oppure nel registro delle commissioni provinciali per l'artigianato, di cui all'art. 7.1 lett. a) del presente disciplinare, deve essere posseduto dal consorzio e dalle imprese consorziate indicate come esecutrici.
+
+I requisiti di capacità tecnica e professionale, di cui all'art. 7.2 del presente disciplinare, ai sensi dell'art. 47 del Codice, devono essere posseduti:
+- per i consorzi di cui all'art. 45, comma 2 lett. b), del Codice, direttamente dal consorzio medesimo;
+- per i consorzi di cui all'art. 45, comma 2, lett. c) del Codice, dal consorzio, che può spendere, oltre ai propri requisiti, anche quelli delle consorziate esecutrici e, mediante avvalimento quelli delle consorziate non esecutrici, i quali vengono computati cumulativamente in capo al consorzio.
+
+# Art..8- Avvalimento
+Ai sensi dell'art. 89 del Codice, l'operatore economico, singolo o associato ai sensi dell'art. 45 del Codice, può dimostrare il possesso dei requisiti di carattere economico, finanziario, tecnico e professionale, di cui all'art. 83, comma 1 lett. b) e c), del Codice, avvalendosi dei requisiti di altri soggetti, anche partecipanti al raggruppamento.
+
+Non è consentito l'avvalimento per la dimostrazione dei requisiti generali, di cui all'art. 6 del presente disciplinare, nonché dei requisiti speciali, di cui agli artt. 7.1
+
+Ai sensi dell'art. 89, comma 1, del Codice, il contratto di avvalimento contiene, a pena di nullità, la specificazione dei requisiti forniti e delle risorse messe a disposizione dall'ausiliaria.
+
+Il concorrente e l'ausiliaria sono responsabili in solido nei confronti della stazione appaltante, in relazione alle prestazioni oggetto del contratto.
+
+È ammesso l'avvalimento di più ausiliarie. L'ausiliaria non può avvalersi, a sua volta, di altro soggetto.
+
+Ai sensi dell'art. 89, comma 7, del Codice, a pena di esclusione, non è consentito che l'ausiliaria presti avvalimento per più di un concorrente e che partecipino alla gara sia l'ausiliaria che l'impresa che si avvale dei requisiti.
+
+Nel caso di dichiarazioni mendaci, si procede all'esclusione del concorrente e all'escussione della garanzia, ai sensi dell'art. 89, comma 1, del Codice, ferma restando l'applicazione dell'art. 80, comma 12, del Codice.
+
+Ad eccezione dei casi in cui sussistano dichiarazioni mendaci, qualora per l'ausiliaria sussistano motivi obbligatori di esclusione o laddove essa non soddisfi i pertinenti criteri di selezione, la stazione appaltante impone, ai sensi dell'art. 89, comma 3, del Codice, al concorrente di sostituire l'ausiliaria.
+
+In qualunque fase della gara sia necessaria la sostituzione dell'ausiliaria, si procede a richiedere al concorrente la sostituzione dell'ausiliaria, assegnando un termine congruo per l'adempimento, decorrente dal ricevimento della richiesta. Il concorrente, entro tale termine, deve produrre i documenti dell'ausiliaria subentrante (nuove dichiarazioni di avvalimento da parte del concorrente, il DGUE della nuova ausiliaria nonché il nuovo contratto di avvalimento). In caso di inutile decorso del termine, ovvero in caso di mancata richiesta di proroga del medesimo, la stazione appaltante procede all'esclusione del concorrente dalla procedura.
+
+È sanabile, mediante soccorso istruttorio, la mancata produzione della dichiarazione di avvalimento o del contratto di avvalimento, a condizione che i citati elementi siano preesistenti e comprovabili con documenti di data certa, anteriore al termine di presentazione dell'offerta.
+
+La mancata indicazione dei requisiti e delle risorse messi a disposizione dall'impresa ausiliaria non è sanabile in quanto causa di nullità del contratto di avvalimento.
+
+# Art. 9 –Subappalto
+Il concorrente indica all'atto dell'offerta le parti del servizio che intende subappaltare nei limiti del 40% dell'importo complessivo del contratto, in conformità a quanto previsto dall'art. 105 del Codice; in mancanza di tali indicazioni il subappalto è vietato.
+
+# Art. 10 –Garanzia Provvisoria
+L'offerta è corredata da:
+- una garanzia provvisoria, come definita dall'art. 93 del Codice, pari al 1% dell'importo complessivo posto a base d'asta. salvo quanto previsto all'art. 93, comma 7 del Codice.
+- una dichiarazione di impegno, da parte di un istituto bancario o assicurativo o altro soggetto di cui all'art. 93, comma 3 del Codice, anche diverso da quello che ha rilasciato la garanzia provvisoria, a rilasciare garanzia fideiussoria definitiva ai sensi dell'art. 93, comma 8 del Codice, qualora il concorrente risulti affidatario. Tale dichiarazione di impegno non è richiesta alle microimprese, piccole e medie imprese e ai raggruppamenti temporanei o consorzi ordinari esclusivamente dalle medesime costituiti.
+
+Ai sensi dell'art. 93, comma 6, del Codice, la garanzia provvisoria copre la mancata sottoscrizione del contratto, dopo l'aggiudicazione, dovuta ad ogni fatto riconducibile all'affidatario o all'adozione di informazione antimafia interdittiva emessa ai sensi degli articoli 84 e 91 del d. lgs. 6 settembre 2011, n. 159. Sono fatti riconducibili all'affidatario, tra l'altro, la mancata prova del possesso dei requisiti generali e speciali; la mancata produzione della documentazione richiesta e necessaria per la stipula del contratto. L'eventuale esclusione dalla gara prima dell'aggiudicazione, al di fuori dei casi di cui all'art. 89 comma 1 del Codice, non comporterà l'escussione della garanzia provvisoria.
+
+La garanzia provvisoria copre, ai sensi dell'art. 89, comma 1, del Codice, anche le dichiarazioni mendaci rese nell'ambito dell'avvalimento.
+
+La garanzia provvisoria è costituita, a scelta del concorrente:
+- in titoli del debito pubblico garantiti dallo Stato depositati presso una sezione di tesoreria provinciale o presso le aziende autorizzate, a titolo di pegno, a favore della stazione appaltante; il valore deve essere al corso del giorno del deposito;
+- fermo restando il limite all'utilizzo del contante di cui all'articolo 49, comma 1 del decreto legislativo 21 novembre 2007 n. 231, in contanti, con bonifico, in assegni circolari, con versamento presso Servizio Tesoreria Banco di Napoli-IBAN IT40I0101003593000040000005;
+- fideiussione bancaria o assicurativa rilasciata da imprese bancarie o assicurative che rispondano ai requisiti di cui all'art. 93, comma 3, del Codice. In ogni caso, la garanzia fideiussoria è conforme allo schema tipo di cui all'art. 103, comma 9, del Codice.
+
+Gli operatori economici, prima di procedere alla sottoscrizione, sono tenuti a verificare che il soggetto garante sia in possesso dell'autorizzazione al rilascio di garanzie mediante accesso ai seguenti siti internet:
+- http://www.bancaditalia.it/compiti/vigilanza/intermediari/index.html;
+- http://www.bancaditalia.it/compiti/vigilanza/avvisi-pub/garanzie-finanziarie;
+- http://www.bancaditalia.it/compiti/vigilanza/avvisi-pub/soggetti-non- legittimati/Intermediari_non_abilitati.pdf;
+- http://www.ivass.it/ivass/imprese_jsp/homepage.jsp.
+
+In caso di prestazione di garanzia fideiussoria, questa dovrà:
+- contenere espressa menzione dell'oggetto e del soggetto garantito;
+- essere intestata a tutti gli operatori economici del costituito/costituendo raggruppamento temporaneo o consorzio ordinario o GEIE, ovvero a tutte le imprese retiste che partecipano alla gara ovvero, in caso di consorzi di cui all'art. 45, comma 2 lett. b) e c), del Codice, al solo consorzio;
+- essere conforme allo schema-tipo, approvato con decreto del Ministro dello sviluppo economico di concerto con il Ministro delle infrastrutture e dei trasporti e previamente concordato con le banche e le assicurazioni o loro rappresentanze, ed essere conforme agli schemi di polizza-tipo di cui all'art. 127, comma 4, del Regolamento (nelle more dell'approvazione dei nuovi schemi di polizza-tipo, la fideiussione redatta secondo lo schema tipo previsto dal Decreto del Ministero delle attività produttive del 23 marzo 2004, n. 123, dovrà essere integrata mediante la previsione espressa della rinuncia all'eccezione di cui all'art. 1957, comma 2, del codice civile, mentre ogni riferimento all'art. 30 della legge 11 febbraio 1994, n. 109 deve intendersi sostituito con l'art. 93 del Codice);
+- avere validità per 180 (centottanta) giorni dal termine ultimo per la presentazione dell'offerta;
+- prevedere espressamente:
+    - la rinuncia al beneficio della preventiva escussione del debitore principale di cui all'art. 1944 del codice civile, volendo ed intendendo restare obbligata in solido con il debitore;
+    - la rinuncia ad eccepire la decorrenza dei termini di cui all'art. 1957 del codice civile;
+    - la propria operatività entro 15 (quindici) giorni, a semplice richiesta scritta della stazione appaltante;
+- contenere l'impegno a rilasciare la garanzia definitiva, ove rilasciata dal medesimo garante;
+- riportare l'autentica della sottoscrizione;
+- essere corredata da una dichiarazione sostitutiva di atto notorio del fideiussore che attesti il potere di impegnare con la sottoscrizione la società fideiussore nei confronti della stazione appaltante;
+- essere corredata dall'impegno del garante a rinnovare la garanzia ai sensi dell'art. 93, comma 5, del Codice, su richiesta della stazione appaltante per ulteriori 180 (centottanta) giorni, nel caso in cui al momento della sua scadenza non sia ancora intervenuta l'aggiudicazione.
+
+La garanzia fideiussoria e la dichiarazione di impegno devono essere sottoscritte da un soggetto in possesso dei poteri necessari per impegnare il garante ed essere prodotte in una delle seguenti forme:
+- copia autentica, ai sensi dell'art. 18 del d.p.r. 28 dicembre 2000, n. 445;
+- documento informatico, ai sensi dell'art. 1, lett. p), del d.lgs. 7 marzo 2005 n. 82, sottoscritto con firma digitale dal soggetto in possesso dei poteri necessari per impegnare il garante;
+- copia informatica di documento analogico (scansione di documento cartaceo), secondo le modalità previste dall'art. 22, commi 1 e 2, del d.lgs. 82/2005. In tali ultimi casi, la conformità del documento all'originale dovrà esser attestata dal pubblico ufficiale mediante apposizione di firma digitale (art. 22, comma 1, del d.lgs. 82/2005) ovvero da apposita dichiarazione di autenticità sottoscritta con firma digitale dal notaio o dal pubblico ufficiale (art. 22, comma 2 del d.lgs. 82/2005).
+
+In caso di richiesta di estensione della durata e validità dell'offerta e della garanzia fideiussoria, il concorrente potrà produrre una nuova garanzia provvisoria di altro garante, in sostituzione della precedente, a condizione che abbia espressa decorrenza dalla data di presentazione dell'offerta.
+
+L'importo della garanzia e del suo eventuale rinnovo è ridotto secondo le misure e le modalità di cui all'art. 93, comma 7, del Codice.
+
+Per fruire di dette riduzioni, il concorrente segnala e documenta nell'offerta il possesso dei relativi requisiti, fornendo copia dei certificati posseduti.
+
+In caso di partecipazione in forma associata, la riduzione del 50% per il possesso della certificazione del sistema di qualità di cui all'articolo 93, comma 7, si ottiene:
+- in caso di partecipazione dei soggetti di cui all'art. 45, comma 2 lett. d), e), f) e g), del Codice, solo se tutte le imprese che costituiscono il raggruppamento, consorzio ordinario o GEIE, o tutte le imprese retiste che partecipano alla gara siano in possesso della predetta certificazione;
+- in caso di partecipazione in consorzio, di cui all'art. 45, comma 2 lett. b) e c), del Codice, solo se la predetta certificazione sia posseduta dal consorzio e/o dalle consorziate.
+
+Le altre riduzioni previste dall'art. 93, comma 7, del Codice si ottengono nel caso di possesso da parte di una sola associata oppure, per i consorzi di cui all'art. 45, comma 2, lett. b) e c) del Codice, da parte del consorzio e/o delle consorziate.
+
+È sanabile, mediante soccorso istruttorio, la mancata presentazione della garanzia provvisoria e/o dell'impegno a rilasciare garanzia fideiussoria definitiva, solo a condizione che siano stati già costituiti prima della presentazione dell'offerta. È onere dell'operatore economico dimostrare che tali documenti siano costituiti in data non successiva al termine di scadenza della presentazione delle offerte. Ai sensi dell'art. 20 del d.lgs. 82/2005, la data e l'ora di formazione del documento informatico sono opponibili ai terzi se apposte in conformità alle regole tecniche sulla validazione (es.: marcatura temporale).
+
+È sanabile, altresì, la presentazione di una garanzia di valore inferiore o priva di una o più caratteristiche tra quelle sopra indicate (intestazione solo ad alcuni partecipanti al RTI, carenza delle clausole obbligatorie, etc.).
+
+Non è sanabile - e quindi è causa di esclusione - la sottoscrizione della garanzia provvisoria da parte di un soggetto non legittimato a rilasciare la garanzia o non autorizzato ad impegnare il garante.
+
+# Art.11 - Pagamento del contributo a favore dell'ANAC
+Esonero contributo ANAC art 65 d.l n.34 del 19.05.2020
+
+# Art.12 –Modalità di presentazione dell'offerta
+Le offerte telematiche devono essere inoltrate, a pena di esclusione, entro e non oltre le ore 13:00 del giorno 28 agosto 2020, tramite il portale delle gare, secondo la seguente procedura:
+- accedere all'AREA PRIVATA del portale, previa registrazione secondo quanto indicato all'art. 2.4 del presente disciplinare, mediante inserimento delle credenziali e cliccando su "ACCEDI";
+- cliccare sulla sezione "BANDI";
+- cliccare sulla riga blu dove è riportata la scritta "BANDI PUBBLICATI" (si aprirà l'elenco di tutti i bandi pubblicati);
+- cliccare sulla lente "VEDI", situata nella Colonna "DETTAGLIO" in corrispondenza del bando di gara oggetto della procedura;
+- visualizzare gli atti di gara con gli eventuali allegati (presenti nella sezione "ATTI DI GARA") e gli eventuali chiarimenti pubblicati;
+- cliccare sul pulsante "PARTECIPA" per creare la propria offerta (tale link scomparirà automaticamente al raggiungimento del termine di scadenza previsto per la presentazione delle offerte);
+- compilare la sezione "BUSTA DOCUMENTAZIONE", allegando la documentazione amministrativa come richiesta all'art. 14 del presente disciplinare;
+- per la "BUSTA ECONOMICA" inserire nella sezione così denominata, a pena di esclusione:
+    - prezzo complessivo offerto, nell'apposito campo "Valore offerto" e la corrispondente percentuale di ribasso che sarà applicata anche ai prezzi unitari orari indicati nel QTE del progetto;
+    - l'offerta economica formulata, secondo il modello A5 allegato al presente disciplinare, tenendo conto di quanto richiesto dall'art. 15 del presente disciplinare.
+- cliccare su INVIO, verificare la correttezza della propria offerta ed il corretto caricamento degli allegati nella maschera di riepilogo che apparirà a video, ed infine cliccare su CONFERMA per inviare la propria offerta: al termine dell'invio si aprirà una pagina riproducente l'offerta inviata, completa di data di ricezione e protocollo attribuito dal sistema. Èpossibile stampare tale pagina cliccando sull'icona della stampante posta in alto a sinistra.
+- È sempre possibile verificare direttamente sul Portale il corretto invio della propria offerta seguendo la seguente procedura:
+    - inserire i propri codici di accesso;
+    - cliccare sul link "BANDI A CUI STO PARTECIPANDO";
+    - cliccare sulla lente "APRI" situata nella colonna "DOC. COLLEGATI" in corrispondenza del bando di gara oggetto della procedura;
+    - cliccare sulla riga blu dove è riportata la scritta "OFFERTE" e visualizzare la propria OFFERTA.
+
+Dalla stessa maschera è possibile visualizzare se l'offerta è solo salvata o anche inviata (in tale ultimo caso si potrà visualizzare anche il numero di protocollo assegnato). Si evidenzia inoltre che, al fine di consentire una più facile consultazione all'operatore economico, nella sezione "BANDI A CUI STO PARTECIPANDO", sono automaticamente raggruppati tutti i bandi per Per i concorrenti aventi sede legale in Italia o in uno dei Paesi dell'Unione europea, le dichiarazioni sostitutive si redigono ai sensi degli articoli 46 e 47 del D.p.r. 445/2000; per i concorrenti non aventi sede legale in uno dei Paesi dell'Unione europea, le dichiarazioni sostitutive sono rese mediante documentazione idonea equivalente secondo la legislazione dello Stato di appartenenza.
+
+Tutte le dichiarazioni sostitutive rese ai sensi degli artt. 46 e 47 del D.p.r. 445/2000, ivi compreso il DGUE, la domanda di partecipazione, l'offerta tecnica e l'offerta economica devono essere sottoscritte digitalmente dal rappresentante legale del concorrente o suo procuratore.
+
+Il dichiarante allega copia fotostatica di un documento di riconoscimento, in corso di validità (per ciascun dichiarante è sufficiente una sola copia del documento di riconoscimento anche in presenza di più dichiarazioni su più fogli distinti).
+
+La documentazione potrà essere prodotta in copia autentica o in copia conforme ai sensi, rispettivamente, degli artt. 18 e 19 del D.p.r. 445/2000. Ove non diversamente specificato è ammessa la copia semplice.
+
+In caso di concorrenti non stabiliti in Italia, la documentazione dovrà essere prodotta in modalità idonea equivalente secondo la legislazione dello Stato di appartenenza; si applicano gli articoli 83, comma 3, 86 e 90 del Codice.
+
+Tutta la documentazione da produrre deve essere in lingua italiana o, se redatta in lingua straniera, deve essere corredata da traduzione giurata in lingua italiana. In caso di contrasto tra testo in lingua straniera e testo in lingua italiana, prevarrà la versione in lingua italiana, essendo a rischio del concorrente assicurare la fedeltà della traduzione.
+
+In caso di mancanza, incompletezza o irregolarità della traduzione dei documenti contenuti nella BUSTA DOCUMENTAZIONE, si applica l'art. 83, comma 9, del Codice.
+
+L'offerta vincolerà il concorrente ai sensi dell'art. 32, comma 4, del Codice per 180 (centottanta) giorni dalla scadenza del termine indicato per la presentazione dell'offerta.
+
+Nel caso in cui, alla data di scadenza della validità delle offerte, le operazioni di gara siano ancora in corso, la stazione appaltante potrà richiedere agli offerenti, ai sensi dell'art. 32, comma 4, del Codice, di confermare la validità dell'offerta sino alla data che sarà indicata e di produrre un apposito documento attestante la validità della garanzia prestata in sede di gara fino alla medesima data.
+
+Il mancato riscontro alla richiesta della stazione appaltante sarà considerato come rinuncia del concorrente alla partecipazione alla gara.
+
+"La presentazione dell'offerta e a totale ed esclusivo rischio dell'operatore economico partecipante, il quale si assume qualsiasi rischio in caso di mancata o tardiva ricezione dell'offerta medesima, dovuta, a mero titolo esemplificativo e non esaustivo, a malfunzionamenti degli strumenti telematici utilizzati, a difficolta di connessione e trasmissione, a lentezza dei collegamenti, o a qualsiasi altro motivo, restando esclusa qualsivoglia responsabilità della Giunta Regionale della Campania ove per ritardo o disguidi tecnici o di altra natura, ovvero per qualsiasi motivo, l'offerta non pervenga entro il termine di scadenza fissato per la presentazione delle offerte: si invitano pertanto gli operatori economici ad avviare il procedimento di caricamento (upload) e trasmissione della propria offerta con sufficiente anticipo rispetto al termine di scadenza per la presentazione delle offerte.
+
+In particolare, qualora, durante il termine fissato per la presentazione delle domande/offerte, il Portale segnali il verificarsi di gravi anomalie, la Stazione Appaltante valuterà – in relazione al tipo ed alla durata dell'anomalia evidenziata - la necessita di sospendere la procedura di gara."
+
+# Art.13 -Soccorso Istruttorio
+Le carenze di qualsiasi elemento formale della domanda, e in particolare, la mancanza, l'incompletezza e ogni altra irregolarità essenziale degli elementi e del DGUE, con esclusione di quelle afferenti all'offerta economica e all'offerta tecnica, possono essere sanate attraverso la procedura di soccorso istruttorio di cui all'art. 83, comma 9 del Codice.
+
+L'irregolarità essenziale è sanabile laddove non si accompagni ad una carenza sostanziale del requisito alla cui dimostrazione la documentazione omessa o irregolarmente prodotta era finalizzata. La successiva correzione o integrazione documentale è ammessa laddove consenta di attestare l'esistenza di circostanze preesistenti, vale a dire requisiti previsti per la partecipazione e documenti/elementi a corredo dell'offerta. Nello specifico valgono le seguenti regole:
+- il mancato possesso dei prescritti requisiti di partecipazione non è sanabile mediante soccorso istruttorio e determina l'esclusione dalla procedura di gara;
+- l'omessa o incompleta nonché irregolare presentazione delle dichiarazioni sul possesso dei requisiti di partecipazione e ogni altra mancanza, incompletezza o irregolarità del DGUE e della domanda, ivi compreso il difetto di sottoscrizione, sono sanabili, ad eccezione delle false dichiarazioni;
+- la mancata produzione della dichiarazione di avvalimento o del contratto di avvalimento, può essere oggetto di soccorso istruttorio solo se i citati elementi erano preesistenti e comprovabili con documenti di data certa anteriore al termine di presentazione dell'offerta;
+- la mancata presentazione di elementi a corredo dell'offerta (es. garanzia provvisoria e impegno del fideiussore) ovvero di condizioni di partecipazione gara (es. mandato collettivo speciale o impegno a conferire mandato collettivo), entrambi aventi rilevanza in fase di gara, sono sanabili, solo se preesistenti e comprovabili con documenti di data certa, anteriore al termine di presentazione dell'offerta;
+- la mancata presentazione di dichiarazioni e/o elementi a corredo dell'offerta, che hanno rilevanza in fase esecutiva (es. dichiarazione delle parti del servizio ai sensi dell'art. 48, comma 4 del Codice) sono sanabili.
+
+Ai fini della sanatoria, la stazione appaltante assegna al concorrente un congruo termine - non superiore a 10 (dieci) giorni - perché siano rese, integrate o regolarizzate le dichiarazioni necessarie, indicando il contenuto e i soggetti che le devono rendere.
+
+Ove il concorrente produca dichiarazioni o documenti non perfettamente coerenti con la richiesta, la stazione appaltante può chiedere ulteriori precisazioni o chiarimenti, fissando un termine perentorio a pena di esclusione.
+
+In caso di inutile decorso del termine, la stazione appaltante procede all'esclusione del concorrente dalla procedura.
+
+Al di fuori delle ipotesi di cui all'articolo 83, comma 9, del Codice è facoltà della stazione appaltante invitare, se necessario, i concorrenti a fornire chiarimenti in ordine al contenuto dei certificati, documenti e dichiarazioni presentati.
+
+# Art.14 Contenuto della Busta Telematica "A" Documentazione Amministrativa
+Nella sezione denominata "BUSTA DOCUMENTAZIONE", l'operatore economico deve allegare i seguenti documenti.
+
+## Art. 14.1 – Domanda di partecipazione
+La domanda di partecipazione, redatta secondo il modello A1 allegato al presente disciplinare, deve essere firmata digitalmente dal rappresentante legale del concorrente ovvero dal procuratore con poteri di firma e contiene tutte le seguenti informazioni e dichiarazioni.
+
+Il concorrente indica la forma singola o associata con la quale l'impresa partecipa alla gara (impresa singola, consorzio, RTI, aggregazione di imprese di rete, GEIE).
+
+In caso di partecipazione in RTI, consorzio ordinario, aggregazione di imprese di rete, GEIE, il concorrente fornisce i dati identificativi (ragione sociale, codice fiscale, sede) e il ruolo di ciascuna impresa (mandataria/mandante; capofila/consorziata).
+
+Nel caso di consorzio di cooperative e imprese artigiane o di consorzio stabile di cui all'art. 45, comma 2 lett. b) e c) del Codice, il consorzio indica il consorziato per il quale concorre alla gara; qualora il consorzio non indichi per quale/i consorziato/i concorre, si intende che lo stesso partecipa in nome e per conto proprio.
+
+La domanda è sottoscritta digitalmente:
+- nel caso di raggruppamento temporaneo o consorzio ordinario costituiti, dalla mandataria/capofila;
+- nel caso di raggruppamento temporaneo o consorzio ordinario non ancora costituiti, da tutti i soggetti che costituiranno il raggruppamento o consorzio;
+- nel caso di aggregazioni di imprese aderenti al contratto di rete si fa riferimento alla disciplina prevista per i raggruppamenti temporanei di imprese, in quanto compatibile. In particolare:
+    - se la rete è dotata di un organo comune con potere di rappresentanza e con soggettività giuridica, ai sensi dell'art. 3, comma 4-quater, del d.l. 10 febbraio 2009, n. 5, la domanda di partecipazione deve essere sottoscritta dal solo operatore economico che riveste la funzione di organo comune;
+    - se la rete è dotata di un organo comune con potere di rappresentanza ma è priva di soggettività giuridica, ai sensi dell'art. 3, comma 4-quater, del d.l. 10 febbraio 2009, n. 5, la domanda di partecipazione deve essere sottoscritta dall'impresa che riveste le funzioni di organo comune nonché da ognuna delle imprese aderenti al contratto di rete che partecipano alla gara;
+    - se la rete è dotata di un organo comune privo del potere di rappresentanza o se la rete è sprovvista di organo comune, oppure se l'organo comune è privo dei requisiti di qualificazione richiesti per assumere la veste di mandataria, la domanda di partecipazione deve essere sottoscritta dall'impresa aderente alla rete che riveste la qualifica di mandataria, ovvero, in caso di partecipazione nelle forme del raggruppamento da costituirsi, da ognuna delle imprese aderenti al contratto di rete che partecipa alla gara.
+
+Nel caso di consorzio di cooperative e imprese artigiane o di consorzio stabile di cui all'art. 45, comma 2 lett. b) e c) del Codice, la domanda è sottoscritta digitalmente dal consorzio medesimo.
+
+Il concorrente allega:
+- copia fotostatica di un documento d'identità del sottoscrittore;
+- copia conforme all'originale della procura oppure, nel solo caso in cui dalla visura camerale del concorrente risulti l'indicazione espressa dei poteri rappresentativi conferiti con la procura, la dichiarazione sostitutiva resa dal procuratore attestante la sussistenza dei poteri rappresentativi risultanti dalla visura.
+
+## Art. 14.2 – Documento di gara unico Europeo -D.G.U.E
+IL DGUE di cui allo schema allegato al DM del Ministero delle Infrastrutture e Trasporti del 18 luglio 2016 o successive modifiche:
+- deve essere firmato digitalmente dal rappresentante legale del concorrente ovvero dal procuratore con poteri di firma;
+- deve essere stato, previamente, compilato secondo quanto di seguito indicato. 
+
+### Parte I – Informazioni sulla procedura di appalto e sull'amministrazione aggiudicatrice o ente aggiudicatore
+Il concorrente rende tutte le informazioni richieste relative alla procedura di appalto.
+
+### Parte II – Informazioni sull'operatore economico
+Il concorrente rende tutte le informazioni richieste mediante la compilazione delle parti pertinenti.
+
+In caso di ricorso all'avvalimento si richiede la compilazione della sezione C
+
+Il concorrente indica la denominazione dell'operatore economico ausiliario e i requisiti oggetto di avvalimento.
+
+Il concorrente, per ciascuna ausiliaria, allega:
+- DGUE, a firma digitale dell'ausiliaria, contenente le informazioni di cui alla parte II, sezioni A e B, alla parte III, alla parte IV, in relazione ai requisiti oggetto di avvalimento, e alla parte VI;
+- dichiarazione sostitutiva di cui all'art. 89, comma 1, del Codice, sottoscritta digitalmente dall'ausiliaria, con la quale quest'ultima si obbliga, verso il concorrente e verso la stazione appaltante, a mettere a disposizione, per tutta la durata dell'appalto, le risorse necessarie di cui è carente il concorrente;
+- dichiarazione sostitutiva di cui all'art. 89, comma 7, del Codice, sottoscritta digitalmente dall'ausiliaria, con la quale quest'ultima attesta di non partecipare alla gara in proprio o come associata o consorziata;
+- copia autentica del contratto di avvalimento, in virtù del quale l'ausiliaria si obbliga, nei confronti del concorrente, a fornire i requisiti e a mettere a disposizione le risorse necessarie, che devono essere dettagliatamente descritte, per tutta la durata dell'appalto. A tal fine, il contratto di avvalimento contiene, a pena di nullità, ai sensi dell'art. 89, comma 1, del Codice, la specificazione dei requisiti forniti e delle risorse messe a disposizione dall'ausiliaria;
+- PASSOE dell'ausiliaria;
+- (in caso di operatori economici ausiliari aventi sede, residenza o domicilio nei paesi inseriti nelle c.d. "black list") dichiarazione dell'ausiliaria del possesso dell'autorizzazione in corso di validità rilasciata ai sensi del d.m. 14 dicembre 2010 del Ministero dell'economia e delle finanze ai sensi (art. 37 del d.l. 78/2010, conv. in l. 122/2010) oppure dichiarazione dell'ausiliaria di aver presentato domanda di autorizzazione ai sensi dell'art. 1, comma 3, del d.m. 14.12.2010, con allegata copia dell'istanza di autorizzazione inviata al Ministero.
+
+### Parte III – Motivi di esclusione
+Il concorrente dichiara di non trovarsi nelle condizioni previste dall'art. 6 del presente disciplinare (Sez. A-B-C-D).
+
+[Si ricorda che, fino all'aggiornamento del DGUE al decreto correttivo di cui al d.lgs. 19 aprile 2017 n. 56, ciascun soggetto che compila il DGUE allega una dichiarazione integrativa in ordine al possesso dei requisiti di all'art. 80, comma 5 lett. f-bis e f-ter, del Codice – cfr. art. 15.3.1 n. 1 del presente Disciplinare].
+
+### Parte IV – Criteri di selezione
+Il concorrente dichiara di possedere tutti i requisiti richiesti dai criteri di selezione, barrando direttamente la sezione "α" ovvero compilando quanto segue:
+- la sezione A, per dichiarare il possesso del requisito di cui all'art. 7.1 del presente disciplinare;
+- la sezione B per dichiarare il possesso dei requisiti di cui all'art. 7.2 del presente disciplinare;
+- la sezione C per dichiarare il possesso del requisito di cui all'art. 7.3 lett. d) del presente disciplinare;
+- la sezione D per dichiarare il possesso del requisito di cui all'art. 7.3 lett. e) del presente disciplinare.
+
+### Parte VI – Dichiarazioni finali
+Il concorrente rende tutte le informazioni richieste mediante la compilazione delle parti pertinenti.
+
+Il DGUE deve essere presentato:
+- nel caso di raggruppamenti temporanei, consorzi ordinari, GEIE, da tutti gli operatori economici che partecipano alla procedura in forma congiunta;
+- nel caso di aggregazioni di imprese di rete da ognuna delle imprese retiste, se l'intera rete partecipa, ovvero dall'organo comune e dalle singole imprese retiste indicate;
+- nel caso di consorzi cooperativi, di consorzi artigiani e di consorzi stabili, dal consorzio e dai consorziati per conto dei quali il consorzio concorre;
+
+In caso di incorporazione, fusione societaria o cessione d'azienda, le dichiarazioni di cui all'art. 80, commi 1, 2 e 5 lett. l), del Codice, devono riferirsi anche ai soggetti di cui all'art. 80, comma 3, del Codice che hanno operato presso la società incorporata, fusasi o che ha ceduto l'azienda nell'anno antecedente la data di pubblicazione del bando di gara.
+
+## Art. 14.3 – Sopralluogo e Dichiarazioni integrative e documentazione a corredo
+Per la partecipazione alla gara è obbligatorio il sopralluogo per avere l'esatta situazione dello stato dei luoghi
+
+La mancata effettuazione del sopralluogo sarà causa di esclusione dalla procedura di gara.
+
+Al fine di eseguire il sopralluogo il concorrente concorderà con il responsabile del procedimento ing.Luigi Gaglione mail ing.luigigaglione@gmail.com cell. 3495526801;
+
+Le richieste di sopralluogo devono pervenire al RUP entro e non oltre il giorno 30.07.2020:
+- Il sopralluogo si effettuerà in unica data con tutti i partecipanti entro il 7 Agosto 2020
+
+Ai concorrenti verrà rilasciata apposita ricevuta che non dovrà essere allegata all'offerta in caso di partecipazione
+
+## Art. 14.4 – Dichiarazioni integrative
+Ciascun concorrente rende le seguenti dichiarazioni, anche ai sensi degli artt. 46 e 47 del D.P.R. n.445/2000, con le quali:
+- [fino all'aggiornamento del DGUE al decreto correttivo di cui al d.lgs. 19 aprile 2017, n. 56] attesta di non incorrere nelle cause di esclusione di cui all'art. 80, comma 5 lett. f-bis) e f-ter) del Codice;
+- fornisce i dati identificativi (nome, cognome, data e luogo di nascita, codice fiscale, comune di residenza etc.) dei soggetti di cui all'art. 80, comma 3, del Codice, ovvero indica la banca dati ufficiale o il pubblico registro da cui i medesimi possono essere ricavati in modo aggiornato alla data di presentazione dell'offerta;
+- attesta la remuneratività dell'offerta economica presentata, giacché per la sua formulazione ha preso atto e tenuto conto:
+    - delle condizioni contrattuali e degli oneri, compresi quelli eventuali relativi in materia di sicurezza, di assicurazione, di condizioni di lavoro e di previdenza e assistenza in vigore nel luogo dove devono essere svolti i servizi;
+    - di tutte le circostanze generali, particolari e locali, nessuna esclusa ed eccettuata, che possono avere influito o influire sia sulla prestazione dei servizi, sia sulla determinazione della propria offerta;
+- accetta, senza condizione o riserva alcuna, tutte le norme e disposizioni contenute nella documentazione di gara;
+- accetta il protocollo di legalità in materia di appalti, siglato tra il Prefetto della Provincia di Napoli e la Regione Campania in data 1agosto 2007 ed approvato con Deliberazione di Giunta Regionale del 8 settembre 2007 allegato alla documentazione di gara (art. 1, comma 17, della Legge 190/2012);
+- attesta di essere edotto degli obblighi derivanti dal Codice di comportamento adottato dalla stazione appaltante con Deliberazione di Giunta Regionale n. 544 del 29 agosto 2017, reperibile sul BURC n. 74 del 9 ottobre 2017, e si impegna, in caso di aggiudicazione, ad osservare e a far osservare ai propri dipendenti e collaboratori, per quanto applicabile, il predetto codice, pena la risoluzione del contratto;
+- (per gli operatori economici aventi sede, residenza o domicilio nei paesi inseriti nelle c.d. "black list") attesta di essere in possesso dell'autorizzazione, in corso di validità, rilasciata ai sensi del d.m. 14 dicembre 2010 del Ministero dell'economia e delle finanze (art. 37 del d.l. 78/2010, conv. in l. 122/2010) oppure dichiara di aver presentato domanda di autorizzazione, ai sensi dell'art. 1, comma 3, del d.m. 14.12.2010 e allega copia conforme dell'istanza di autorizzazione inviata al Ministero;
+- (per gli operatori economici non residenti e privi di stabile organizzazione in Italia) si impegna ad uniformarsi, in caso di aggiudicazione, alla disciplina di cui agli artt. 17, comma 2, e 53, comma 3, del d.p.r. 633/1972 e a comunicare alla stazione appaltante la nomina del proprio rappresentante fiscale, nelle forme di legge;
+- indica i seguenti dati: domicilio fiscale, codice fiscale, partita IVA;
+- indica l'indirizzo PEC oppure, solo in caso di concorrenti aventi sede in altri Stati membri, l'indirizzo di posta elettronica, ai fini delle comunicazioni di cui all'art. 2.3 del presente disciplinare;
+- autorizza, qualora un partecipante alla gara eserciti la facoltà di "accesso agli atti", la stazione appaltante a rilasciare copia di tutta la documentazione presentata per la partecipazione alla gara oppure non autorizza, qualora un partecipante alla gara eserciti la facoltà di "accesso agli atti", la stazione appaltante a rilasciare copia dell'offerta tecnica e delle spiegazioni che saranno eventualmente richieste in sede di verifica delle offerte anomale, in quanto coperte da segreto tecnico/commerciale. Tale dichiarazione dovrà essere adeguatamente motivata e comprovata ai sensi dell'art. 53, comma 5, lett. a), del Codice;
+- attesta di essere informato, ai sensi e per gli effetti dell'art. 13 del decreto legislativo 30 giugno 2003, n. 196, che i dati personali raccolti saranno trattati, anche con strumenti informatici, esclusivamente nell'ambito della presente gara, nonché dell'esistenza dei diritti di cui all'art. 7 del medesimo decreto legislativo. Attesta di essere, altresì, informato, che i dati saranno trattati in attuazione dell'art. 125, paragrafo 4 lett. c), del Reg. (UE) n. 1303/2013, ai fini dell'individuazione degli indicatori del rischio di frode, attraverso un apposito sistema informatico fornito dalla Commissione Europea alle Autorità di Gestione del FSE.
+- (per gli operatori economici ammessi al concordato preventivo con continuità aziendale di cui all'art. 186 bis del R.D. 16 marzo 1942, n. 267) indica, ad integrazione di quanto indicato nella parte III, sez. C, lett. d) del DGUE, i seguenti estremi del provvedimento di ammissione al concordato e del provvedimento di autorizzazione a partecipare alle gare rilasciati dal Tribunale di nonché dichiara di non partecipare alla gara quale mandataria di un raggruppamento temporaneo di imprese e che le altre imprese aderenti al raggruppamento non sono assoggettate ad una procedura concorsuale ai sensi dell'art. 186 bis, comma 6 del R.D. 16 marzo 1942, n. 267.
+
+Le dichiarazioni di cui al presente art. 14.3.1 devono essere sottoscritte digitalmente dal rappresentante legale del concorrente ovvero dal procuratore con poteri di firma.
+
+## Art. 13.3.2 – Documentazione a corredo
+Occorre, altresì, allegare i seguenti documenti firmati digitalmente dal rappresentante legale del concorrente ovvero dal procuratore con poteri di firma:
+- PASSOE di cui all'art. 2, comma 3 lett. b) della delibera ANAC n. 157/2016, relativo al concorrente; in aggiunta, nel caso in cui il concorrente ricorra all'avvalimento ai sensi dell'art. 49 del Codice, anche il PASSOE relativo all'ausiliaria; 15-documento attestante la garanzia provvisoria, con allegata dichiarazione di impegno fideiussoria, di cui all'art. 93, comma 8, del Codice;
+
+(per gli operatori economici che presentano la cauzione provvisoria in misura ridotta, ai sensi dell'art. 93, comma 7 del Codice) copia conforme della 16certificazione di cui all'art. 93, comma 7, del Codice che giustifica la riduzione dell'importo della cauzione;
+- documentazione comprovante il possesso dei requisiti di cui all'art. 7.2, del presente disciplinare;
+- documentazione comprovante il possesso dei requisiti di cui all'art. 7.3, del presente disciplinare;
+- dichiarazioni dei familiari conviventi, ai sensi dell'art. 85 del D.Lgs 159/2011 e s.m.i..
+
+## Art. 14.5 – Documentazione e dichiarazioni ulteriori per i soggetti associati
+(Per i raggruppamenti temporanei già costituiti) copia autentica del mandato collettivo irrevocabile con rappresentanza conferito alla mandataria, per atto pubblico o scrittura privata autenticata.
+
+(Per i consorzi ordinari o GEIE già costituiti) atto costitutivo e statuto del consorzio o GEIE, in copia autentica, con indicazione del soggetto designato quale capofila.
+
+(Per i raggruppamenti temporanei o consorzi ordinari o GEIE non ancora costituiti) dichiarazione attestante:
+- l'operatore economico al quale, in caso di aggiudicazione, sarà conferito mandato speciale con rappresentanza o funzioni di capogruppo;
+- l'impegno, in caso di aggiudicazione, ad uniformarsi alla disciplina vigente con riguardo ai raggruppamenti temporanei o consorzi o GEIE ai sensi dell'art. 48, comma 8, del Codice, conferendo mandato collettivo speciale con rappresentanza all'impresa qualificata come mandataria che stipulerà il contratto in nome e per conto delle mandanti/consorziate.
+
+(Per le aggregazioni di imprese aderenti al contratto di rete: se la rete è dotata di un organo comune con potere di rappresentanza e soggettività giuridica)
+- copia autentica o copia conforme del contratto di rete, redatto per atto pubblico o scrittura privata autenticata, ovvero per atto firmato digitalmente a norma dell'art. 25 del d.lgs. 82/2005, con indicazione dell'organo comune che agisce in rappresentanza della rete;
+- dichiarazione, sottoscritta dal legale rappresentante dell'organo comune, che indichi per quali imprese la rete concorre.
+
+(Per le aggregazioni di imprese aderenti al contratto di rete: se la rete è dotata di un organo comune con potere di rappresentanza ma è priva di soggettività giuridica) copia autentica del contratto di rete, redatto per atto pubblico o scrittura privata autenticata, ovvero per atto firmato digitalmente a norma dell'art. 25 del d.lgs. 82/2005, recante il mandato collettivo irrevocabile con rappresentanza conferito alla impresa mandataria; qualora il contratto di rete sia stato redatto con mera firma digitale non autenticata ai sensi dell'art. 24 del d.lgs. 82/2005, il mandato nel contratto di rete non può ritenersi sufficiente e sarà obbligatorio conferire un nuovo mandato nella forma della scrittura privata autenticata, anche ai sensi dell'art. 25 del d.lgs. 82/2005.
+
+Per le aggregazioni di imprese aderenti al contratto di rete: se la rete è dotata di un organo comune privo del potere di rappresentanza o se la rete è sprovvista di organo comune, ovvero, se l'organo comune è privo dei requisiti di qualificazione richiesti, partecipa nelle forme del RTI costituito o costituendo
+- in caso di RTI costituito: copia autentica del contratto di rete, redatto per atto pubblico o scrittura privata autenticata ovvero per atto firmato digitalmente a norma dell'art. 25 del d.lgs. 82/2005 con allegato il mandato collettivo irrevocabile con rappresentanza conferito alla mandataria, recante l'indicazione del soggetto designato quale mandatario; qualora il contratto di rete sia stato redatto con mera firma digitale non autenticata ai sensi dell'art. 24 del d.lgs. 82/2005, il mandato deve avere la forma dell'atto pubblico o della scrittura privata autenticata, anche ai sensi dell'art. 25 del d.lgs. 82/2005;
+- in caso di RTI costituendo: copia autentica del contratto di rete, redatto per atto pubblico o scrittura privata autenticata, ovvero per atto firmato digitalmente a norma dell'art. 25 del d.lgs. 82/2005, con allegate le dichiarazioni, rese da ciascun concorrente aderente al contratto di rete, attestanti:
+    - a quale concorrente, in caso di aggiudicazione, sarà conferito mandato speciale con rappresentanza o funzioni di capogruppo;
+    - l'impegno, in caso di aggiudicazione, ad uniformarsi alla disciplina vigente in materia di raggruppamenti temporanei
+
+Il mandato collettivo irrevocabile con rappresentanza potrà essere conferito alla mandataria con scrittura privata.
+
+Qualora il contratto di rete sia stato redatto con mera firma digitale non autenticata ai sensi dell'art. 24 del d.lgs. 82/2005, il mandato dovrà avere la forma dell'atto pubblico o della scrittura privata autenticata, anche ai sensi dell'art. 25 del d.lgs. 82/2005.
+
+Le dichiarazioni di cui al presente punto 14.3.3 devono essere sottoscritte digitalmente dal rappresentante legale del concorrente ovvero dal procuratore con poteri di firma.
+
+La documentazione amministrativa, di cui al presente articolo 14, deve essere priva, a pena di esclusione dalla gara, di qualsivoglia indicazione (diretta e/o indiretta) all'Offerta Tecnica ed all'Offerta Economica.
+
+Riepilogo del contenuto della Busta Amministrativa:
+- DGUE
+- Modello A1: Istanza di partecipazione
+- Modello A2: Scheda identificativa del concorrente (tale modello andrà presentato da ciascuno degli operatori economici che costituiscono il concorrente)
+- Modello A3: Dichiarazione sostitutiva dell'impresa concorrente
+- Modello A4: Dichiarazione relativa al Protocollo di legalità
+- Modello A6: Dichiarazione familiari conviventi
+- Garanzia provvisoria (con eventuali certificazioni di qualità) ed Impegno
+- PASS OE
+- (Eventuale) Documentazione relativa all'avvalimento 
+- (Eventuale)Atto costitutivo per i Consorzi
+- (Eventuale) Documentazione di cui all'art. 13.3.3 per i Raggruppamenti di Imprese.
+
+N.B. Tutti i sopraelencati documenti devono essere firmati digitalmente
+
+# ART. 15 – Contenuto della Busta Telematica "B" Offerta tecnica 
+La Busta telematica "B" OFFERTA TECNICA deve contenere una relazione, suddivisa in capitoli, redatta in lingua italiana, con un numero massimo di 30 pagine (per pagina si intende una facciata di un foglio A4), copertina esclusa e indice compreso (ulteriori facciate non verranno prese in esame), utilizzando un carattere non inferiore a 11, e interlinea semplice, margini "normale" (superiore 2,5 cm, inferiore/destra/sinistra 2 cm), dovrà essere coerente con quanto previsto nel Capitolato e dovrà essere formata da n. 7 capitoli di seguito riportati:
+- Caratteristiche organizzative del servizio proposto con pianificazione attività, descrizione del personale tecnico e del personale di cantiere con tutte le abilitazioni possedute
+- Elenco attrezzature e macchinari utilizzati
+- Utilizzo di impianti ed attività correlate (convenzioni già stipulate con laboratori di analisi in possesso di certificazione UNI EN 17025 per la caratterizzazione dei rifiuti, e con impianti di conferimento e smaltimento di rifiuti per garantire una maggiore rapidità dell'intervento)
+- Accorgimenti per la riduzione dei tempi occorrenti per l'ottenimento delle autorizzazioni previste per legge
+- Formazione del personale ( personale adeguatamente formato e, ove necessario, in possesso dell'abilitazione ADR per tutte le tipologie di rifiuto oggetto del presente appalto)
+- Elementi del ciclo di trattamento e delle tecnologie che si intende adottare per l'attività di recupero/smaltimento dei rifiuti in argomento in grado di garantire il minor impatto possibile sulle matrici ambientali
+- Proposte migliorative (maggiore quantità del riciclo dei rifiuti, ecc.)
+
+La relazione dell'offerta tecnica dovrà essere trasformata in pdf e firmata digitalmente dal legale rappresentante dell'operatore economico e devono essere privi di qualsivoglia indicazione, riferimento, menzione (diretta o indiretta) dell'offerta economica.
+
+# ART. 16 – Contenuto della Busta Telematica "C" Offerta economica
+Nella sezione denominata "OFFERTA ECONOMICA", l'operatore economico deve inserire il prezzo complessivo offerto, nell'apposito campo "Valore offerto" e la corrispondente percentuale di ribasso e deve allegare l'offerta economica, predisposta secondo il modello A5 allegato al presente disciplinare.
+
+A pena di esclusione, l'offerta deve essere firmata digitalmente, dal legale rappresentante del concorrente o da un suo procuratore. Nel caso di concorrenti associati, l'offerta dovrà essere sottoscritta, digitalmente, con le modalità indicate per la sottoscrizione della domanda di cui all'art. 14.1 del presente disciplinare.
+
+Gli importi e le corrispondenti percentuali offerte devono essere espressi in lettere e cifre.
+
+Verranno prese in considerazione le prime tre cifre dopo la virgola senza procedere ad alcun arrotondamento. In caso di discordanza tra prezzo indicato in cifre ed in lettere, prevarrà quello indicato in lettere.
+
+Non sono ammissibili le offerte economiche in aumento rispetto all'importo posto a base di gara.
+
+In caso di discordanza tra l'importo inserito nel campo "Valore offerto" e quello dichiarato nell'offerta economica, prevale quest'ultimo.
+
+# Art.17 -Criterio di aggiudicazione
+La gara è regolata, nell'ordine, dalle disposizioni in materia di appalti di forniture e servizi di cui al Codice, al Regolamento, nonché dal bando di gara, dal presente disciplinare, dal capitolato, dai relativi allegati.
+
+L'appalto verrà esperito mediante procedura aperta telematica, ai sensi dell'art. 60 del Codice, e sarà aggiudicato con le modalità previste dall'art. 95 comma 2 del Codice, secondo il criterio dell'offerta economicamente più vantaggiosa a favore del concorrente che avrà ottenuto il punteggio più elevato.
+
+La valutazione delle offerte è affidata ad una Commissione giudicatrice che procederà all'attribuzione per ciascun concorrente di un punteggio complessivo determinato dalla somma dei punteggi attribuiti all'offerta tecnica (max punti 70) ed all'offerta economica (max punti 30) con l'applicazione dei criteri di valutazione di cui al successivo art. 17.1 e 17.2.
+
+Si potrà dare luogo all'aggiudicazione anche in presenza di una sola offerta valida, se ritenuta congrua e vantaggiosa per la S.A., purché migliorativa delle condizioni poste a base di gara.
+
+È facoltà della S.A. di non procedere all'aggiudicazione nel caso in cui nessuna delle offerte presentate venga ritenuta idonea o congrua.
+
+La S.A. si riserva, a suo insindacabile giudizio, di sospendere o revocare in qualsiasi momento la presente procedura di gara e/o di non procedere all'aggiudicazione dell'appalto qualora sussistano o sopravvengano motivi di interesse pubblico, ovvero per circostanze sopravvenute, ovvero ancora per propria decisione discrezionale e insindacabile. In tal caso nulla sarà dovuto alle imprese concorrenti.
+
+## Art.17.1 -Criterio di valutazione dell'offerta tecnica
+La valutazione dell'offerta economicamente più vantaggiosa sarà effettuata con riferimento agli elementi "prezzo" e "qualità".
+
+La valutazione delle offerte sarà effettuata sulla base della seguente griglia di distribuzione:
+- Cap. 1 - Caratteristiche organizzative del servizio proposto con pianificazione attività, descrizione del personale tecnico e del personale di cantiere con tutte le abilitazioni possedute - punti 20
+- Cap. 2 - Elenco attrezzature e macchinari utilizzati - punti 10
+- Cap. 3 - Utilizzo di impianti ed attività correlate (convenzioni già stipulate con laboratori di analisi in possesso di certificazione UNI EN 17025 per la caratterizzazione dei rifiuti, e con impianti di conferimento e smaltimento di rifiuti per garantire una maggiore rapidità dell'intervento) - punti 10
+- Cap. 4 - Accorgimenti per la riduzione dei tempi occorrenti per l'ottenimento delle autorizzazioni previste per legge - punti 5
+- Cap. 5- Formazione del personale ( personale adeguatamente formato e, ove necessario, in possesso dell'abilitazione ADR per tutte le tipologie di rifiuto oggetto del presente appalto) - punti 5
+- Cap. 6 - Elementi del ciclo di trattamento e delle tecnologie che si intende adottare per l'attività di recupero/smaltimento dei rifiuti in argomento in grado di garantire il minor impatto possibile sulle matrici ambientali - punti 5
+- Cap. 7 - Proposte migliorative (maggiore quantità del riciclo dei rifiuti, ecc.) - punti 25
+
+La Commissione giudicatrice, per l'attribuzione dei punteggi relativi ai predetti criteri, ricorrerà al sistema di attribuzione discrezionale, tenendo conto della relazione tra il giudizio qualitativo di valutazione e i coefficienti di seguito specificati:
+- Eccellente 1,0
+- Ottimo 0,9
+- Buono 0,8
+- Discreto 0,7
+- Sufficiente 0,6
+- Insufficiente 0,5
+- Mediocre 0,4
+- Scarso 0,3
+- Molto scarso 0,2
+- Inadeguato 0,1
+- Non valutabile 0,0
+
+Ciascun commissario valuterà, con il metodo su riportato, ogni proposta tecnica assegnando, per ciascuno degli elementi componenti il progetto, di cui ai precedenti punti 1 - 2 - 3 – 4 – 5 – 6 e 7, un punteggio parziale compreso tra 0,0 e 1,0 in funzione della rispondenza, ricchezza, completezza, pertinenza e chiarezza documentale della soluzione proposta. Successivamente si procederà a determinare la media aritmetica delle valutazioni dei commissari per ciascuno dei punti 1 - 2 - 3 – 4 – 5 – 6 e 7 dei progetti e poi a riportare ad 1 la media più alta, proporzionando a tale media massima le medie provvisorie prima calcolate. I coefficienti ottenuti saranno moltiplicati per il punteggio massimo previsto per ciascuno dei parametri di cui ai punti 1 - 2 - 3 – 4 – 5 e 6 del precedente comma 2. Il punteggio complessivo di ciascuna offerta tecnica sarà dato dalla somma dei punteggi relativi ottenuti per ciascun criterio.
+
+# Art.17.2 -Criterio di valutazione dell'offerta economica 
+Il punteggio massimo è 20 punti. Esso è attribuito all'offerta che presenta il prezzo più basso rispetto al corrispettivo complessivo biennale a base d'asta. Alle altre offerte è attribuito un minor punteggio determinato dalla seguente formula: PEn = (Pmin * 20) / Pn
+
+Dove:
+- PEn = punteggio economico attribuito al concorrente in esame 20 = punteggio massimo attribuibile
+- Pn = prezzo offerto dal concorrente in esame Pmin = prezzo più basso offerto
+
+# Art. 18- Svolgimento operazioni di gara: Apertura della Busta A "Documentazione amministrativa" - Verifica della Documentazione amministrativa
+Trattandosi di procedura interamente telematica, nella quale la segretezza e la immodificabilità delle offerte presentate è garantita dai requisiti di sicurezza del sistema informatico in uso e dalla completa tracciabilità nei log di sistema di tutte le operazioni eseguite sul Portale, la presente procedura di gara non prevede sedute pubbliche per l'apertura delle buste telematiche costituenti le offerte. I concorrenti riceveranno comunicazione sull'avanzamento della procedura di gara. Potranno essere attivate sedute virtuali, previa comunicazione ai partecipanti.
+
+La prima seduta pubblica avrà luogo il giorno 3 settembre 2020 alle ore 10:00 in seduta riservata causa emergenza COVID se permane l'emergenza, presso la sede dell'U.S. "Centrale Acquisti" – Via Metastasio, 25/29 – 80125 - Napoli e vi potranno partecipare i legali rappresentanti/procuratori delle imprese interessate oppure persone munite di specifica delega. In assenza di tali titoli, la partecipazione è ammessa come semplice uditore.
+
+Tale seduta pubblica, se necessario, sarà aggiornata ad altra ora o giorno successivo, nel luogo, nella data e negli orari che saranno comunicati sul portale delle gare, almeno tre prima della data fissata.
+
+Parimenti, le sedute pubbliche successive saranno comunicate ai concorrenti tramite il portale gare, almeno tre giorni prima della data fissata.
+
+Il seggio di gara, istituito ad hoc, procederà, nella prima seduta pubblica, alla verifica della ricezione delle offerte tempestivamente presentate. La tempestività della ricezione delle offerte e che le stesse siano composte di Documentazione Amministrativa ed Offerte Tecnica ed Economica è riscontrata dalla presenza nel sistema telematico delle offerte medesime.
+
+Successivamente, il seggio di gara procederà a:
+- apertura della Busta Documentazione Amministrativa, controllandone la completezza del contenuto nonché la conformità a quanto richiesto dal presente disciplinare;
+- attivare la procedura di soccorso amministrativo di cui all'art. 12 del presente disciplinare;
+- redigere apposito verbale relativo alle attività svolte;
+- adottare il provvedimento che determina le esclusioni e le ammissioni dalla procedura di gara, provvedendo, altresì, agli adempimenti di cui all'art. 29, comma 1, del Codice.
+
+Ai sensi dell'art. 85, comma 5, primo periodo del Codice, la stazione appaltante si riserva di chiedere, in qualsiasi momento nel corso della procedura, di presentare tutti i documenti complementari o parte di essi, qualora questo sia necessario per assicurare il corretto svolgimento della procedura.
+
+Tale verifica avverrà, ai sensi degli artt. 81 e 216, comma 13 del Codice, attraverso
+
+l'utilizzo del sistema AVCpass, reso disponibile dall'ANAC, con le modalità di cui alla delibera n. 157/2016.
+
+# Art.19- Commissione giudicatrice 
+La Commissione giudicatrice è nominata, ai sensi dell'art. 216, comma 12 del codice, dopo la scadenza del termine per la presentazione delle offerte ed è composta da un numero dispari pari a n.3 membri, esperti nello specifico settore cui si riferisce l'oggetto del contratto. in capo ai commissari non devono sussistere cause ostative alla nomina ai sensi dell'art. 77, comma 9, del codice, a tal fine i medesimi rilasciano apposita dichiarazione alla stazione appaltante.
+
+La Commissione giudicatrice è responsabile della valutazione delle offerte tecniche ed economiche dei concorrenti e fornisce ausilio al RUP nella valutazione della congruità delle offerte tecniche (cfr. Linee guida n. 3 del 26 ottobre 2016).
+
+La stazione appaltante pubblica, sul profilo di committente, nella sezione "amministrazione trasparente" la composizione della Commissione giudicatrice e i curricula dei componenti, ai sensi dell'art. 29, comma 1 del Codice.
+
+# Art.18- Apertura delle buste "B" e "C" - Valutazione delle offerte tecniche ed economiche
+Una volta effettuato il controllo della documentazione amministrativa, il Seggio di gara procederà a consegnare gli atti alla Commissione giudicatrice.
+
+La Commissione giudicatrice, in seduta pubblica, procederà all'apertura della busta concernente l'offerta tecnica ed alla verifica della presenza dei documenti richiesti dal presente disciplinare.
+
+In una o più sedute riservate la Commissione procederà all'esame ed alla valutazione delle offerte tecniche e all'assegnazione dei relativi punteggi applicando i criteri e le formule indicati nel bando e nel presente disciplinare.
+
+Successivamente, in seduta pubblica, la Commissione darà lettura dei punteggi attribuiti alle singole offerte tecniche, darà atto delle eventuali esclusioni dalla gara dei concorrenti. Nella medesima seduta, la Commissione procederà all'apertura della busta contenente l'offerta economica e quindi alla relativa valutazione, che potrà avvenire anche in successiva seduta riservata, secondo i criteri e le modalità descritte all'art. 17.2.
+
+La stazione appaltante procederà dunque all'individuazione dell'unico parametro numerico finale per la formulazione della graduatoria, ai sensi dell'art. 95, comma 9 del Codice.
+
+Nel caso in cui le offerte di due o più concorrenti ottengano lo stesso punteggio complessivo, ma punteggi differenti per il prezzo e per tutti gli altri elementi di valutazione, sarà collocato primo in graduatoria il concorrente che ha ottenuto il miglior punteggio sull'offerta tecnica.
+
+Nel caso in cui le offerte di due o più concorrenti ottengano lo stesso punteggio complessivo e gli stessi punteggi parziali per il prezzo e per l'offerta tecnica, si procederà mediante sorteggio in seduta pubblica.
+
+All'esito delle operazioni di cui sopra, la Commissione, in seduta pubblica, redige la graduatoria e procede ai sensi di quanto previsto all'art. 19.
+
+Qualora individui offerte che superano la soglia di anomalia di cui all'art. 97, comma 3 del Codice, e in ogni altro caso in cui, in base a elementi specifici, l'offerta appaia anormalmente bassa, la Commissione chiude la seduta pubblica dando comunicazione al RUP, che procederà se del caso secondo quanto indicato al successivo art. 19.
+
+In qualsiasi fase delle operazioni di valutazione delle offerte tecniche ed economiche, la Commissione provvede a comunicare, tempestivamente all'Ufficio Speciale "Centrale Acquisti.." che procederà, sempre, ai sensi dell'art. 76, comma 5, lett. b) del Codice - i casi di esclusione da disporre per:
+- mancata separazione dell'offerta economica dall'offerta tecnica, ovvero l'inserimento di elementi concernenti il prezzo in documenti contenuti nelle buste A e B;
+- presentazione di offerte parziali, plurime, condizionate, alternative nonché irregolari, ai sensi dell'art. 59, comma 3, lett. a) del Codice, in quanto non rispettano i documenti di gara, ivi comprese le specifiche tecniche;
+- presentazione di offerte inammissibili, ai sensi dell'art. 59, comma 4 lett. a) e c) del Codice, in quanto la commissione giudicatrice ha ritenuto sussistenti gli estremi per informativa alla Procura della Repubblica per reati di corruzione o fenomeni collusivi o ha verificato essere in aumento rispetto all'importo a base di gara.
+
+# Art.19-Verifica di anomalia delle offerte
+Al ricorrere dei presupposti di cui all'art. 97, comma 2, del Codice, e in ogni altro caso in cui, in base a elementi specifici, l'offerta appaia anormalmente bassa, il RUP, avvalendosi, se ritenuto necessario, della Commissione giudicatrice, valuta la congruità, serietà, sostenibilità e realizzabilità delle offerte che appaiono anormalmente basse.
+
+Si procede a verificare la prima migliore offerta anormalmente bassa. Qualora tale offerta risulti anomala, si procede con le stesse modalità nei confronti delle successive offerte, fino ad individuare la migliore offerta ritenuta non anomala. È facoltà della stazione appaltante procedere, contemporaneamente, alla verifica di congruità di tutte le offerte anormalmente basse.
+
+Il RUP richiede, a mezzo PEC, al concorrente la presentazione, con analoga modalità, delle spiegazioni, se del caso indicando le componenti specifiche dell'offerta ritenute anomale.
+
+A tal fine, assegna un termine non inferiore a quindici giorni dal ricevimento della richiesta.
+
+Il RUP, con il supporto eventuale della Commissione giudicatrice, esamina, in seduta riservata, le spiegazioni fornite dall'offerente e, ove le ritenga non sufficienti ad escludere l'anomalia, può chiedere, anche mediante audizione orale, ulteriori chiarimenti, assegnando un termine massimo per il riscontro non superiore a ...
+
+Il RUP esclude, ai sensi degli articoli 59, comma 3 lett. c), e 97, commi 5 e 6, del Codice, le offerte che, in base all'esame degli elementi forniti con le spiegazioni risultino, nel complesso, inaffidabili e procede ai sensi dell'art. 20 del presente disciplinare.
+
+# Art.20- Aggiudicazione dell'appalto e stipula del contratto
+All'esito delle operazioni di cui sopra la Commissione giudicatrice – o il RUP, qualora vi sia stata verifica di congruità delle offerte anomale – formulerà la proposta di aggiudicazione in favore del concorrente che ha presentato la migliore offerta, chiudendo le operazioni di gara e trasmettendo all'U.S. "Centrale Acquisti" tutti gli atti e documenti della gara ai fini dei successivi adempimenti.
+
+Qualora nessuna offerta risulti conveniente o idonea in relazione all'oggetto del contratto, la stazione appaltante si riserva la facoltà di non procedere all'aggiudicazione ai sensi dell'art. 95, comma 12, del Codice.
+
+Si potrà dare luogo all'aggiudicazione anche in presenza di una sola offerta valida, se ritenuta congrua e vantaggiosa per la stazione appaltante, purché migliorativa delle condizioni poste a base di gara.
+
+La verifica dei requisiti generali e speciali avverrà, ai sensi dell'art. 85, comma 5, del Codice, sull'offerente risultato primo in graduatoria.
+
+Prima dell'aggiudicazione, l'U.S. "Centrale Acquisti", ai sensi dell'art. 85, comma 5, del Codice, richiede al concorrente risultato primo in graduatoria di presentare i documenti di cui all'art. 86 del Codice, ai fini della prova dell'assenza dei motivi di esclusione di cui all'art. 80 e del rispetto dei criteri di selezione di cui all'art. 83 del medesimo Codice. Tale verifica avverrà attraverso l'utilizzo del sistema AVCpass.
+
+Ai sensi dell'art. 95, comma 10, l'U.S. "Centrale Acquisti" prima dell'aggiudicazione procede, laddove non effettuata in sede di verifica di congruità dell'offerta, alla valutazione di merito circa il rispetto di quanto previsto dall'art. 97, comma 5 lett. d), del Codice.
+
+L'U.S. "Centrale Acquisti", previa verifica ed approvazione della proposta di aggiudicazione, ai sensi degli artt. 32, comma 5, e 33, comma 1, del Codice, aggiudica l'appalto.
+
+L'aggiudicazione diventa efficace, ai sensi dell'art. 32, comma 7, del Codice, all'esito positivo della verifica del possesso dei requisiti prescritti.
+
+In caso di esito negativo delle verifiche, l'U.S. "Centrale Acquisti" procederà alla revoca dell'aggiudicazione, alla segnalazione all'ANAC nonché all'incameramento della garanzia provvisoria. L'U.S. "Centrale Acquisti" aggiudicherà, quindi, al secondo graduato procedendo altresì, alle verifiche nei termini sopra indicati.
+
+Nell'ipotesi in cui l'appalto non possa essere aggiudicato neppure a favore del concorrente collocato al secondo posto nella graduatoria, l'appalto verrà aggiudicato, nei termini sopra detti, scorrendo la graduatoria.
+
+La stipulazione del contratto è subordinata al positivo esito delle procedure previste dalla normativa vigente in materia di lotta alla mafia, fatto salvo quanto previsto dagli artt. 88, comma 4-bis, 89 e 92, comma 3, del d.lgs. 159/2011.
+
+Ai sensi dell'art. 93, commi 6 e 9, del Codice, la garanzia provvisoria verrà svincolata all'aggiudicatario, automaticamente, al momento della stipula del contratto; agli altri concorrenti, verrà svincolata tempestivamente e, comunque, entro trenta giorni dalla comunicazione dell'avvenuta aggiudicazione.
+
+Trascorsi i termini previsti dall'art. 92, commi 2 e 3, del d.lgs. 159/2011 dalla consultazione della Banca dati nazionale unica della documentazione antimafia, la D.G. 50-09 Governo del Territorio, Lavori Pubblici e Protezione Civile procede alla stipula del contratto anche in assenza dell'informativa antimafia, salvo il successivo recesso dal contratto laddove siano successivamente accertati elementi relativi a tentativi di infiltrazione mafiosa di cui all'art. 92, comma 4, del d.lgs. 159/2011.
+
+Il contratto, ai sensi dell'art. 32, comma 9, del Codice, non potrà essere stipulato prima di 35 giorni dall'invio dell'ultima delle comunicazioni del provvedimento di aggiudicazione.
+
+La stipula avrà luogo entro 60 giorni dall'intervenuta efficacia dell'aggiudicazione ai sensi dell'art. 32, comma 8, del Codice, salvo il differimento espressamente concordato con l'aggiudicatario.
+
+All'atto della stipulazione del contratto, l'aggiudicatario deve presentare la garanzia definitiva da calcolare sull'importo contrattuale, secondo le misure e le modalità previste dall'art. 103 del Codice.
+
+Il contratto sarà stipulato in modalità elettronica, in forma pubblica amministrativa a cura dell'Ufficiale rogante.
+
+Il contratto è soggetto agli obblighi in tema di tracciabilità dei flussi finanziari, di cui alla l. 13 agosto 2010, n. 136.
+
+Nei casi di cui all'art. 110, comma 1, del Codice, la stazione appaltante interpella progressivamente i soggetti che hanno partecipato alla procedura di gara, risultanti dalla relativa graduatoria, al fine di stipulare un nuovo contratto per l'affidamento dell'esecuzione o del completamento del servizio.
+
+Le spese relative alla pubblicazione del bando e dell'avviso sui risultati della procedura di affidamento, ai sensi dell'art. 216, comma 11, del Codice e del d.m. 2 dicembre 2016 (GU 25.1.2017 n. 20), sono a carico dell'aggiudicatario e dovranno essere rimborsate alla stazione appaltante, entro il termine di sessanta giorni dall'aggiudicazione.
+
+L'importo presunto delle spese di pubblicazione è pari a circa € 6.000,00. La stazione appaltante comunicherà all'aggiudicatario l'importo effettivo delle suddette spese, nonché le relative modalità di pagamento.
+
+Sono a carico dell'aggiudicatario anche tutte le spese contrattuali, gli oneri fiscali quali imposte e tasse - ivi comprese quelle di registro ove dovute - relative alla stipulazione del contratto.
+
+La stazione appaltante si riserva, comunque, a proprio insindacabile giudizio, di sospendere o revocare in qualsiasi momento la presente procedura di gara e/o di non procedere all'aggiudicazione, qualora sussistano o sopravvengano motivi di interesse pubblico, ovvero per circostanze sopravvenute, ovvero ancora per propria decisione discrezionale e insindacabile. In tal caso nulla sarà dovuto alle imprese concorrenti.
+
+# Art.21- Definizione delle controversie
+Per le controversie derivanti dal contratto è competente il Foro di Napoli, rimanendo espressamente esclusa la compromissione in arbitri.
+
+# Art.22 Informativa e trattamento dei dati personali
+Per la presentazione dell'offerta, nonché per la stipula del contratto con l'aggiudicatario, è richiesto ai concorrenti di fornire dati ed informazioni che rientrano nell'ambito di applicazione del D.Lgs. n. 196/2003 ("Codice in materia di protezione dei dati personali") e del Regolamento Comunitario 679 del 2016.
+
+Per quanto riguarda le finalità del trattamento dei dati forniti si precisa che:
+- i dati inseriti nelle buste "A", "B" e "C" vengono acquisiti ai fini della partecipazione alla gara d'appalto ed in particolare ai fini della verifica delle capacità amministrative e tecnico-economiche del concorrente, per l'aggiudicazione nonché l'esecuzione della prestazione ovvero in adempimento di precisi obblighi di legge (es. normativa antimafia);
+- i dati da fornire da parte del concorrente aggiudicatario vengono acquisiti ai fini della stipula e dell'esecuzione del contratto, ivi compresi gli adempimenti contabili ed il pagamento del corrispettivo contrattuale.
+
+Il trattamento dei dati verrà effettuato in modo da garantire la sicurezza e la riservatezza e potrà essere attuato mediante strumenti manuali, informatici e telematici idonei a memorizzarli, gestirli e trasmetterli; tali dati potranno essere anche abbinati a quelli di altri soggetti in base a criteri qualitativi, quantitativi e temporali di volta in volta individuati.
+
+I dati potranno essere comunicati a:
+- eventuali soggetti esterni facenti parte delle Commissioni (aggiudicazione, conformità, ecc.) che verranno costituite;
+- organismi di controllo istituzionali;
+- altri concorrenti che facciano richiesta di accesso ai documenti di gara nei limiti consentiti ai sensi della Legge 7 agosto 1990, n. 241 e s.m.i. e dell'articolo 15 del regolamento Comunitario.
+
+I dati forniti dai concorrenti e dall'aggiudicatario non rientrano di norma tra i dati classificabili come "sensibili".
+
+Per quanto riguarda i dati in esame al concorrente, in qualità di interessato, vengono riconosciuti i diritti da parte degli interessati secondo le modalità stabilite, in via generale, negli artt. 11 e 12 del Regolamento Comunitario e dell'articolo 13 del citato D.Lgs. n. 196/2003.
+
+Acquisite le suddette informazioni, ai sensi dell'articolo 23 del citato D.Lgs. n. 196/2003, con la presentazione dell'offerta e la sottoscrizione del contratto, il concorrente acconsente espressamente al trattamento dei dati personali secondo le modalità indicate precedentemente.
+
+Il concorrente dovrà specificare se e quale parte dell'offerta ritiene coperta da riservatezza. La mancata segnalazione sarà interpretata come mancanza di elementi di riservatezza.
+
+I dati potranno essere trattati, altresì, in attuazione dell'art. 125, paragrafo 4 lettera c), del Reg. UE 1303/2013 ai fini dell'individuazione degli indicatori del rischio di frode
+
+L'"Informativa per il trattamento dei dati personali" è disponibile sul sito web: http://www.regione.campania.it/regione/it/privacy/privacy
+
+# Art.23-Disposizioni finali e rinvio
+Tutta la documentazione inviata dalle imprese partecipanti alla gara resta acquisita agli atti della stazione appaltante e non verrà restituita neanche parzialmente alle imprese non aggiudicatarie (ad eccezione della cauzione provvisoria che verrà restituita nei termini di legge).
+
+Per tutto quanto non previsto specificatamente nel bando, nel presente disciplinare, nel capitolato d'appalto e dai relativi allegati, si fa espresso rinvio a quanto previsto in materia dalla vigente normativa, comunitaria, nazionale e regionale.
+
