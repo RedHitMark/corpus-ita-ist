@@ -11,6 +11,8 @@
 - replace  , with , (space before comma)
 - replace  \. with . (space before dot)
 - replace  ; with ; (space before semicolon)
+- replace \(  with ( 
+- replace  \)  with ) 
 - replace l ' with l'
 - replace … with ...
 
