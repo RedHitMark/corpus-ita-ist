@@ -15,6 +15,7 @@
 - replace  \)  with ) 
 - replace l ' with l'
 - replace … with ...
+- replace  \n with \n (space before return)
 
 - check this regex \n\n\n
 - check this regex l' [a-z]
