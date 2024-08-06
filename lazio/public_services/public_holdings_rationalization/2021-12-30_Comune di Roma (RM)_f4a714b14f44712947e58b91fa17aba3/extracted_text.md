@@ -1,0 +1,87 @@
+# Ricognizione periodica delle partecipazioni societarie della Città metropolitana di Roma Capitale e Revisione ordinaria delle partecipazioni – Anno 2021 - Relazione sull'attuazione del piano di razionalizzazione – ex articolo 20 D.Lgs. n. 175/2016.
+Premesso che con Decreto n. 141 del 23.12.2021 il Sindaco Metropolitano ha approvato la proposta di deliberazione da sottoporre al Consiglio Metropolitano: "Ricognizione periodica delle partecipazioni societarie della Città metropolitana di Roma Capitale e Revisione ordinaria delle partecipazioni – Anno 2021 - Relazione sull'attuazione del piano di razionalizzazione – ex articolo 20 D.Lgs. n. 175/2016";
+
+Viste:
+- la deliberazione del Consiglio metropolitano n. 22 del 28/05/2021 recante "Approvazione del Bilancio di previsione finanziario 2021 - 2023 e Documento Unico di Programmazione (D.U.P.) 2021 – 2023 – Programma Triennale delle Opere Pubbliche 2021 – 2023 ed Elenco annuale 2021;
+- la deliberazione del Consiglio metropolitano n. 24 del 28/06/2021 "Approvazione del Piano Esecutivo di Gestione 2021-2023, unificato con il Piano della Performance (art.169 del D. Lgs. n. 267/2000)" e del PDO 2021 riferito alla Società in house Capitale Lavoro";
+- le Deliberazioni del Consiglio metropolitano n. 36 del 30/07/2021, n. 44 del 23/09/2021 e n. 47 del 29/11/2021 aventi ad oggetto la "Variazione al Bilancio di Previsione finanziario 2021– 2023 e al Documento Unico di Programmazione (D.U.P.) 2021–2023. Variazione di Cassa. Variazione al Programma Triennale delle Opere Pubbliche 2021–2023 ed Elenco Annuale 2021. Salvaguardia equilibri di Bilancio e Stato Attuazione Programmi 2021 – Art. 193 T.U.E.L";
+- la Deliberazione del Consiglio Mmetropolitano n. 20 del 28.04.2021 avente ad oggetto "Rendiconto della gestione 2020 – Approvazione";
+
+Visto il Decreto della Vice Sindaca metropolitana n. 97 del 06/08/2021 – Approvazione del Gruppo Amministrazione Pubblica e determinazione del Perimetro di consolidamento per l'esercizio 2020.
+
+Vista:
+- la Deliberazione Consiliare n. 43 del 23.09.2021 concernente l'Approvazione del Bilancio Consolidato per l'esercizio 2020;
+
+Richiamati:
+- i principi di economicità, efficacia, imparzialità, pubblicità e trasparenza dell'azione amministrativa di cui all'art. 1, comma 1, della Legge 7 agosto 1990 n. 241 e ss.mm.ii;
+- l'art. 42 del D.Lgs. 18 agosto 2000 n. 267 (T.U.E.L.) e ss.mm.ii;
+- il D.Lgs. del 19 agosto 2016 n. 175 recante "Testo unico in materia di società a partecipazione pubblica";
+- il D.Lgs. n. 100 del 16 giugno 2017 recante "Disposizioni integrative e correttive al D.Lgs. 175/2016 e ss.ii.mm.;
+- la Legge 205 del 27/12/2017;
+- le linee guida di emanazione del MEF - Dipartimento del Tesoro - di intesa con la Corte dei Conti relativamente alla Revisione periodica delle partecipazioni pubbliche art. 20 D.Lgs n. 175/2016 ed al Censimento annuale delle partecipazioni pubbliche art. 17 del D.L. n. 90/2014;
+
+Premesso:
+- che con deliberazione del Consiglio Provinciale n. 32 del 09/07/2009 si è provveduto alla ricognizione delle partecipazioni societarie dell'allora Provincia di Roma, ex art. 3, comma 27, Legge 244/2007;
+- che in attuazione del processo di razionalizzazione delle società partecipate l'Ente ha provveduto alla riorganizzazione delle proprie partecipazioni attraverso la fusione delle due società partecipate in house providing, Capitale Lavoro S.p.A. e Provinciattiva S.p.A., mediante la costituzione di un unico soggetto a cui sono state assegnate le competenze connesse al supporto all'esercizio delle funzioni fondamentali;
+- che con deliberazione del Commissario Straordinario della Provincia di Roma n. 99 del 25/06/2013 si è provveduto all'ulteriore ricognizione delle società partecipate di cui art. 4 del D.L. n. 95/2012;
+- che tale processo di razionalizzazione proseguito mediante la messa in liquidazione della società di scopo ASP Colline Romane S.c.a.r.l., detenuta dalla ex Provincia per una partecipazione pari al 70%, deliberata con provvedimento del Commissario Straordinario della Provincia di Roma n. 198 del 12.03.2014 e 230 del 30.05.2014, è terminato con il deposito del Bilancio finale di Liquidazione al 31/12/2019 e la conseguente cancellazione della società medesima in Camera di Commercio di Roma;
+- che con deliberazione del Commissario Straordinario della Provincia di Roma n. 245 del 21.07.2014 è stata deliberata la volontà dell'Amministrazione, di recedere dalla partecipazione azionaria nella Società Alta Roma S.c.p.a. attraverso le modalità previste dallo statuto e, l'esito del giudizio incardinatosi RG 84856/2015, definitosi con sentenza 20161/2018 del 22/10/2018 che ha disposto la validità del recesso stesso, è stato oggetto di ricorso in Appello da parte della società soccombente;
+- che il processo di razionalizzazione ha interessato le partecipazioni societarie nelle quali era previsto un rapporto di affidamento di servizi o la corresponsione di quote annuali di conferimenti in conto esercizio al fine di ridurre gli oneri finanziari a carico dell'Ente stesso;
+- che unitamente al percorso di razionalizzazione delle partecipazioni azionarie o di capitali detenute, l'Ente ha attivato la progressiva riduzione delle spese connesse alla corresponsione di quote di finanziamento a favore di enti ed istituzioni partecipate;
+- che con Decreto del Sindaco Metropolitano n. 14 del 02 aprile 2015 recante "Piano Operativo di Razionalizzazione delle Società partecipate e delle partecipazioni societarie (art. 1, comma 612, della Legge 190/2014)" è stato decretato il piano operativo di razionalizzazione delle società e delle partecipazioni societarie, direttamente o indirettamente possedute dall'Ente;
+
+Tenuto conto:
+- che la Legge n. 56 del 7/4/2014, recante "Disposizioni sulle Città metropolitane, sulle Province, sulle Unioni e fusioni di Comuni", ha disposto il nuovo assetto delle istituzioni locali ed in particolare, ai commi da 1 a 50, ha disciplinato l'organizzazione degli Enti individuando le funzioni di competenza della Città metropolitana quale ente territoriale di area vasta;
+- che l'art. 147-quater del D.Lgs. 267/2000, inerenti ai "controlli sulle società partecipate non quotate, prevede che:
+    - "L'ente locale definisce, secondo la propria autonomia organizzativa, un sistema di controlli sulle società non quotate, partecipate dallo stesso ente locale. Tali controlli sono esercitati dalle strutture proprie dell'ente locale, che ne sono responsabili";
+    - "Per l'attuazione di quanto previsto al comma 1 del presente articolo, l'amministrazione definisce preventivamente, in riferimento all'articolo 170, comma 6, gli obiettivi gestionali a cui deve tendere la società partecipata, secondo parametri qualitativi e quantitativi, e organizza un idoneo sistema informativo finalizzato a rilevare i rapporti finanziari tra l'ente proprietario e la società, la situazione contabile, gestionale e organizzativa della società, i contratti di servizio, la qualità dei servizi, il rispetto delle norme di legge sui vincoli di finanza pubblica";
+    - "Sulla base delle informazioni di cui al comma 2, l'ente locale effettua il monitoraggio periodico sull'andamento delle società non quotate partecipate, analizza gli scostamenti rispetto agli obiettivi assegnati e individua le opportune azioni correttive, anche in riferimento a possibili squilibri economico-finanziari rilevanti per il bilancio dell'ente";
+    - "I risultati complessivi della gestione dell'ente locale e delle aziende non quotate partecipate sono rilevati attraverso la preventiva determinazione del Gruppo Amministrazione Pubblica (Decreto della Vice Sindaca metropolitana n. 97 del 06/08/2021) e dalla conseguente redazione ed approvazione del bilancio consolidato, secondo la competenza economica" che per l'anno 2020 l'Ente è stato licenziato con Delibera Consiliare n. 43 in data 23/09/2021;
+
+Considerato:
+- che in attuazione dell'art. 18 della Legge delega n. 124/2015, c.d. "Legge Madia" è stato emanato il D.Lgs. 175/2016, Testo Unico delle Società Partecipate (T.U.S.P);
+- che ai sensi dell'art. 4, comma 1, del citato decreto "Le amministrazioni pubbliche non possono, direttamente o indirettamente, costituire società aventi per oggetto attività di produzione di beni e servizi non strettamente necessarie per il perseguimento delle proprie finalità istituzionali, nè acquisire o mantenere partecipazioni, anche di minoranza, in tali società";
+
+Dato atto che la Città metropolitana di Roma Capitale, fermo restando quanto sopra indicato, può mantenere partecipazioni in società:
+- esclusivamente per lo svolgimento delle attività indicate dall'art. 4, c. 2, TUSP:
+    - produzione di un servizio di interesse generale, ivi inclusa la realizzazione e la gestione delle reti e degli impianti funzionali ai servizi medesimi;
+    - progettazione e realizzazione di un'opera pubblica sulla base di un accordo di programma fra amministrazioni pubbliche, ai sensi dell'articolo 193 del decreto legislativo n. 50 del 2016;
+    - realizzazione e gestione di un'opera pubblica ovvero organizzazione e gestione di un servizio d'interesse generale attraverso un contratto di partenariato di cui all'articolo 180 del decreto legislativo n. 50 del 2016, con un imprenditore selezionato con le modalità di cui all'articolo 17, commi 1 e 2;
+    - autoproduzione di beni o servizi strumentali all'ente o agli enti pubblici partecipanti o allo svolgimento delle loro funzioni, nel rispetto delle condizioni stabilite dalle direttive europee in materia di contratti pubblici e della relativa disciplina nazionale di recepimento;
+    - servizi di committenza, ivi incluse le attività di committenza ausiliarie, apprestati a supporto di enti senza scopo di lucro e di amministrazioni aggiudicatrici di cui all'articolo 3, comma 1, lettera a), del decreto legislativo n. 50 del 2016";
+- ovvero, al solo scopo di ottimizzare e valorizzare l'utilizzo di beni immobili facenti parte del proprio patrimonio, "le amministrazioni pubbliche possono detenere partecipazioni in società aventi per oggetto sociale esclusivo la valorizzazione del patrimonio [...], tramite il conferimento di beni immobili allo scopo di realizzare un investimento secondo criteri propri di un qualsiasi operatore di mercato" (art. 4, comma 3, TUSP);
+
+Precisato che, ai sensi dell'art. 4, comma 7, del TUSP, sono altresì ammesse le partecipazioni in società aventi oggetto sociale prevalente la gestione di spazi fieristici e l'organizzazione di eventi fieristici;
+
+Rilevato:
+- che ai sensi dell'art. 20 del TUSP, ciascuna Pubblica Amministrazione deve provvedere ad effettuare annualmente una ricognizione di tutte le partecipazioni societarie detenute, direttamente ed indirettamente, predisponendo, ove ricorrano i presupposti di cui al comma 2 dello stesso articolo, un piano di riassetto per la loro razionalizzazione, fusione o soppressione, anche mediante messa in liquidazione o cessione;
+
+Richiamato:
+- l'art. 20, co. 2, del citato decreto che individua le ipotesi in cui l'Ente deve provvedere all'adozione di un piano di razionalizzazione, corredato di apposita relazione tecnica, con specifica indicazione di modalità e tempi di attuazione, ovvero:
+- partecipazioni societarie che non rientrino in alcuna delle categorie di cui all'art. 4, del TUSP, sopra citato;
+- società che risultino prive di dipendenti o abbiano un numero di amministratori superiore a quello dei dipendenti;
+- partecipazioni in società che svolgono attività analoghe o similari a quelle svolte da altre società partecipate o da enti pubblici strumentali;
+- partecipazioni in società che, nel triennio precedente, abbiano conseguito un fatturato medio non superiore a un milione di euro;
+- partecipazioni in società diverse da quelle costituite per la gestione di un servizio d'interesse generale che abbiano prodotto un risultato negativo per quattro dei cinque esercizi precedenti;
+- necessità di contenimento dei costi di funzionamento;
+- necessità di aggregazione di società aventi ad oggetto le attività consentite all'art. 4 del TUSP";
+
+Precisato altresì:
+- che, ai sensi dell'art. 20, comma 4, del D.Lgs. 175/2016, entro il 31 dicembre 2020 la Città Metropolitana, avendo approvato il Piano di Revisione Ordinaria di cui alla DCM n. 92/2019, come aggiornato con DCM n. 20/2020, deve approvare una relazione sull'attuazione del Piano, che evidenzi i risultati conseguiti, da trasmettere alla struttura di cui all'art. 15 del TUSP e alla sezione di controllo della Corte dei Conti competente ai sensi dell'art. 5, comma 4, del TUSP;
+- che l'art. 24 del D.Lgs. n. 175/2016, ha posto a carico delle amministrazioni pubbliche titolari di partecipazioni societarie, l'obbligo di effettuare una ricognizione delle quote detenute, direttamente ed indirettamente, finalizzata ad una loro razionalizzazione nei casi previsti dall'art. 20;
+- che l'art. 20 del T.U.S.P. dispone che, ai fini della revisione periodica cui le amministrazioni sono chiamate ad ottemperare annualmente, le stesse devono effettuare con proprio provvedimento un'analisi dell'assetto complessivo delle società in cui detengono partecipazioni dirette o indirette, predisponendo, qualora ne ricorrano i presupposti previsti dal comma 2, un piano di riassetto per la loro razionalizzazione;
+- che con Deliberazione del Consiglio metropolitano n. 43 del 29/09/2017 è stata approvata la Revisione straordinaria obbligatoria;
+- che conseguentemente è stato adottato il Decreto della Sindaca n. 87 del 10/09/2018, con il quale è stata autorizzata la procedura di dismissione inerente le società oggetto di razionalizzazione;
+- che con Delibera del Consiglio Metropolitano n. 67 del 27 dicembre 2018 è stata approvata la Revisione periodica delle partecipazioni al 31/12/2018 ed è stata deliberata la presa d'atto dello stato di attuazione delle misure di razionalizzazione al 30/09/2017;
+- che in data 18/12/2019 è stata approvata con la Deliberazione n. 68 del 27.12.2019 la Razionalizzazione periodica delle partecipazioni al 31/12/2019, la relazione sull'attuazione del piano di razionalizzazione al 31/12/2018 (art. 20 c.4 TUSP) e la revisione periodica attuazione delle misure di razionalizzazione (art. 20 c.1 TUSP) al 31/12/2019;
+- che è stata approvata con la Deliberazione n. 77 del 22 dicembre 2020 la Razionalizzazione periodica delle partecipazioni al 31/12/2020, la relazione sull'attuazione del piano di razionalizzazione al 31/12/2019 (art. 20 c.4 TUSP) e la revisione periodica attuazione delle misure di razionalizzazione (art. 20 c.1 TUSP) al 31/12/2020;
+- che la Struttura rappresentata dal Dipartimento del Tesoro, d'intesa con la Corte dei Conti, ha emanato ed aggiornato le "Linee guida per la razionalizzazione delle partecipazioni pubbliche" in ossequio al disposto dell'art. 20 del T.U.S.P;
+- che la rilevazione è effettuata con riferimento alle partecipazioni detenute alla data del 31 dicembre 2020 e si integra con la rilevazione annuale delle partecipazioni e dei rappresentanti ai sensi dell'art. 17 del D.L. n. 90/2014;
+
+Preso atto:
+- che lo schema di Piano di razionalizzazione periodica delle società partecipate è stato predisposto in coerenza con le disposizioni normative sopra richiamate e in conformità alle prescrizioni della Corte dei Conti aggiornate al 07 ottobre 2020;
+- che dalla ricognizione effettuata sulle partecipazioni societarie, dirette ed indirette, detenute dall'Ente alla data del 31 dicembre 2020 è emerso quanto segue:
+    - che le motivazioni afferenti alle azioni intraprese per ciascuna partecipazione, coerentemente alle disposizioni normative di cui al D.Lgs. 175/2016 ed in particolare agli artt. 20 e 24, sono esplicitamente riportate nel presente atto;
+    - che per quanto attiene alla razionalizzazione della partecipazione diretta nella società "Società per il Polo Tecnologico Industriale Romano S.p.A." la motivazione della cessione deriva dal mancato rispetto del requisito previsto dall'art. 20, comma 2, lettera e), in quanto la società ha registrato risultati negativi di bilancio per quattro degli ultimi 5 esercizi e per tale motivazione con Decreto della Sindaca n. 78 del 10/09/2018 si è dato luogo all'inizio delle procedure di cessione della quota stessa;
+    - che per quanto attiene alla partecipazione nella società "Investimenti S.p.A. (ex Fiera di Roma)", avendo accertato la chiusura in perdita degli ultimi 5 bilanci approvati, pur sussistendo laspecifica disposizione normativa contenuta nell'art. 26, comma 12-quater, del D.Lgs. 175/2016, come modificato ed integrato dal D.Lgs. 100/2017, ai fini della razionalizzazione delle partecipazioni detenute si è determinata la cessione della partecipazione in base alle disposizioni Statutarie, del Codice Civile e del D.Lgs. 175/2016 e per tale motivazione con Decreto della Sindaca n. 78 del 10/09/2018 si è dato luogo all'inizio delle procedure di cessione della quota stessa;
+    - che al fine di dar seguito a quanto previsto dall'art. 20, commi 1 e 4, del T.U.S.P. per quanto concerne la "Relazione sull'attuazione del piano di Razionalizzazione" e la "Revisione periodica delle partecipazioni", la situazione complessiva può essere rappresentata sinteticamente come segue ed indicato negli indirizzi resi disponibili dal Dipartimento del Tesoro e dalla Corte dei Conti:
