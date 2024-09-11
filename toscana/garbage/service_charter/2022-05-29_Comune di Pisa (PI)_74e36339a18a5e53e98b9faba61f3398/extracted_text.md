@@ -615,7 +615,7 @@ Di seguito si riportano gli indicatori che permettono all'utenza di verificare i
 # 9 COME TUTELARSI (RECLAMI, RICHIESTE SCRITTE D'INFORMAZIONI E SEGNALAZIONI PER DISSERVIZI)
 I reclami scritti, le richieste scritte di informazioni, le segnalazioni per disservizi possono essere avanzati direttamente dall'utente, o con l'assistenza di un'Associazione per la tutela degli utenti e Consumatori iscritta nell'elenco regionale di cui alla L.R.T. 9/2008.
 
-# 9.1 Procedure di reclamo scritto
+## 9.1 Procedure di reclamo scritto
 L'utente, in caso di lamentela scritta circa la non coerenza del servizio ottenuto rispetto ad uno o più requisiti definiti da leggi o provvedimenti amministrativi, dal regolamento comunale del servizio oppure in riferimento ad ogni altro aspetto afferente al rapporto con GEOFOR S.p.A., può inviare un reclamo scritto, utilizzando gli strumenti di comunicazione indicati nel Capitolo 6.
 
 Al fine di permettere un efficace riscontro da parte di GEOFOR S.p.A., anche a tutela dell'utente, il reclamo deve sempre essere comunicato entro 20 giorni dall'evento o comunque dal momento in cui viene osservato/rilevato.
@@ -644,7 +644,7 @@ Nella risposta al reclamo scritto e alla richiesta scritta di informazioni GEOFO
 
 L'utente (o un'Associazione di Consumatori) può inviare formale reclamo anche all'Autorità d'Ambito solo nel caso in cui GEOFOR S.p.A. non abbia risposto ad un precedente reclamo avente il medesimo oggetto o abbia risposto in modo ritenuto insoddisfacente. Il reclamo dovrà essere presentato utilizzando obbligatoriamente il modulo presente sul sito www.atotoscanacosta.it In questo caso il reclamo potrà essere trasmesso all'Autorità d'Ambito all'indirizzo mail: controllo@atotoscanacosta.it.
 
-# 9.2 Richiesta scritta d'informazioni
+## 9.2 Richiesta scritta d'informazioni
 La richiesta scritta d'informazioni può essere attivata dalla home page del sito internet di GEOFOR S.p.A., dai punti di contatto con l'utente (sportello on line e sportello fisico, ove attivo), dall'App, e tramite indirizzo di posta elettronica.
 
 GEOFOR S.p.A. risponde alla richiesta scritta di informazioni entro 30 giorni lavorativi.
@@ -653,12 +653,12 @@ Il tempo di risposta motivata alle richieste scritte di informazioni, è il temp
 
 La mancata risposta alla richiesta scritta di informazioni entro i tempi indicati (30 giorni lavorativi), determina la possibilità per l'utente di richiedere un indennizzo del valore di venti (20,00) euro (si veda il capitolo 10).
 
-# 9.3 Segnalazione per disservizio
+## 9.3 Segnalazione per disservizio
 La segnalazione per disservizio è qualsiasi comunicazione di un disservizio, inteso come il non corretto svolgimento del servizio di gestione rifiuti urbani che provoca disagi all'utente o interruzioni del servizio senza tuttavia generare situazioni di pericolo, effettuata tramite servizio telefonico, posta inclusa la posta elettronica, o sportello online e fisico (ove previsto), oltre che App.
 
 Il tempo di intervento in caso di segnalazioni per disservizi è pari, esclusi domenica e festivi, a quarantotto (48) ore e ventiquattro (24) ore in caso di interventi localizzati in aree di particolare pregio (centri storici, lungomare, aree pedonali, etc) e cinque (5) giorni lavorativi nel resto del territorio (case sparse, aperta campagna, ecc). Il tempo d'intervento è il tempo intercorrente tra il momento in cui il GEOFOR S.p.A. riceve la segnalazione da parte dell'utente e il momento in cui viene risolto il disservizio.
 
-# 9.4 Richiesta riparazione attrezzature raccola domiciliare
+## 9.4 Richiesta riparazione attrezzature raccola domiciliare
 La richiesta di riparazione delle attrezzature per la raccolta domiciliare può essere presentata dall'utente a GEOFOR S.p.A. a mezzo posta, via e-mail, sportello online e sportello fisico (ove previsto), tramite il servizio telefonico, oltre che tramite l'App.
 
 Il tempo di riparazione delle attrezzature per la raccolta domiciliare, pari a dieci (10) giorni lavorativi, è il tempo intercorrente tra la data di ricevimento da parte di GEOFOR S.p.A. della richiesta dell'utente e la data di riparazione, ovvero di sostituzione dell'attrezzatura.
