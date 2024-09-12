@@ -1059,7 +1059,8 @@ Sulla base delle analisi effettuate e delle criticità riscontrate, la Direzione
 # 8° Criterio/fattore di qualità –UMANIZZAZIONE
 "L'impegno a rendere gli spazi orientati quanto più possibile alla persona, considerata nella sua interezza fisica, sociale e psicologica è, un impegno comune a tutti i laboratori"
 
-Per corrispondere a tale criterio ogni Laboratorio dovrà documentare che siano soddisfatti i seguenti requisiti.
+Per corrispondere a tale criterio ogni Laboratorio dovrà documentare che siano soddisfatti i requisiti che evidenzino:
+- programmi per l'umanizzazione e la personalizzazione delle attività
 
 ## Requisito 8.1 Programmi per l'umanizzazione e la personalizzazione delle attività
 ### Campo d'applicazione

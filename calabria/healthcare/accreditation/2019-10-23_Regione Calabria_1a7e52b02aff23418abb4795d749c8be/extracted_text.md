@@ -956,7 +956,8 @@ Sulla base delle analisi effettuate e delle criticità riscontrate, la Direzione
 # 8° Criterio/fattore di qualità – PERSONALIZZAZIONE
 "L'impegno a rendere i luoghi di assistenza e i programmi diagnostici e terapeutici orientati quanto più possibile alla persona, considerata nella sua interezza fisica, sociale e psicologica è un impegno comune a tutte le strutture"
 
-Per corrispondere a tale criterio, ogni struttura che eroga prestazioni in regime ambulatoriale dovrà documentare che siano soddisfatti i seguenti requisiti.
+Per corrispondere a tale criterio, ogni struttura che eroga prestazioni in regime ambulatoriale dovrà documentare che siano soddisfatti i requisiti che evidenzino:
+- Programmi per l'umanizzazione e la personalizzazione dell'assistenza
 
 ## Requisito 8.1 Programmi per l'umanizzazione e la personalizzazione dell'assistenza
 ### Campo d'applicazione
