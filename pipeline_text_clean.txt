@@ -2,6 +2,7 @@
 - remove double spaces
 - replace ’ with '
 - replace ‘ with '
+- replace ´ with '
 - replace “ with "
 - replace ” with "
 - replace « with "
