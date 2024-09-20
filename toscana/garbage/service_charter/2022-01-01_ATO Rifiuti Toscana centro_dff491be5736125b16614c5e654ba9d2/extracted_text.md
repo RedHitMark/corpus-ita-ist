@@ -1,3 +1,69 @@
+# Art. 1 Definizioni
+Ai fini dell'interpretazione applicazione delle disposizioni contenute nella Carta della qualità dei servizi si applicano le seguenti definizioni:
+- Ambito Territoriale Ottimale Toscana Centro: territorio pluricomunale definito dall'art. 30 della L.R. n. 69/2011, che include tutti i Comuni delle province di Firenze, Pistoia e Prato con l'esclusione dei Comuni di Firenzuola, Marradi e Palazzuolo sul Senio che appartengono ad altro
+ambito territoriale ottimale;
+- ARERA: Autorità di Regolazione per l'Energia Reti e Ambiente (anche solo Autorità);
+- ATO Toscana Centro (anche solo ATO): è l'ente di governo dell'ambito istituito ai sensi del D.L. n. 138/2011, e dalla L.R. n. 69/2011;
+- attivazione: è l'avvio del servizio integrato di gestione dei rifiuti urbani;
+- attività di gestione tariffe e rapporto con gli utenti: comprende le operazioni di: i) accertamento, riscossione (incluse le attività di bollettazione e l'invio degli avvisi di pagamento ovvero l'attività di fatturazione); (ii) gestione del rapporto con gli utenti (inclusa la gestione reclami) anche mediante sportelli dedicati o call-center; (iii) gestione della banca dati degli utenti e delle utenze, dei crediti e del contenzioso; (iv) promozione di campagne ambientali; (v) prevenzione della produzione di rifiuti urbani. Nei territori dell'ambito ATO Toscana Centro lo svolgimento delle attività di cui ai punti (iv) e (v) rientra tra le attività proprie di ciascun Gestore;
+- attività di raccolta e trasporto: comprende le operazioni di raccolta (svolta secondo diversi modelli di organizzazione del servizio) e di trasporto dei rifiuti urbani verso impianti di trattamento, di smaltimento, di riutilizzo o recupero;
+- attività di spazzamento e lavaggio delle strade: comprende le operazioni di spazzamento - meccanizzato, manuale e misto - e di lavaggio delle strade e del suolo pubblico, svuotamento cestini e raccolta foglie, escluse le operazioni di sgombero della neve dalla sede stradale e sue pertinenze, effettuate al solo scopo di garantire la loro fruibilità e la sicurezza del transito;
+- Carta della qualità: (anche solo Carta) è il documento, redatto in conformità alla normativa in vigore, in cui sono specificati gli obblighi e i livelli di qualità attesi per i servizi erogati e le loro modalità di fruizione, incluse le regole di relazione tra utenti e gestori delle diverse attività che compongono la gestione integrata dei rifiuti.
+- Centro di raccolta: (anche solo CdR) è la struttura conforme ai requisiti di cui al decreto del Ministero dell'ambiente e della tutela del territorio e del mare 8 aprile 2008 o comunque autorizzata ai sensi della normativa vigente;
+- cessazione del servizio: è la decadenza dei presupposti per il pagamento della tariffa e la contestuale disattivazione del servizio nel caso di raccolta domiciliare o di raccolta stradale e di prossimità con accesso controllato, a seguito della comunicazione attestante la data in cui è intervenuta tale cessazione;
+- conferimento: è l'atto di consegna dei propri rifiuti al gestore del servizio mediante l'immissione da parte dell'utente nei dispositivi e attrezzature predisposte per la raccolta oppure l'esposizione per il ritiro o la consegna al Gestore o al trasportatore debitamente autorizzato;
+- Contratto di servizio: è l'atto che definisce i rapporti tra ATO Toscana Centro e il soggetto Gestore per la gestione integrata del ciclo dei rifiuti urbani ai sensi dell'art. 26, comma 6, L.R. n. 61/2007 e dell'art. 203 del D.Lgs. n. 152/2006;
+- data di consegna: è la data di consegna all'utente delle attrezzature per la raccolta, quali ad esempio, mastelli o sacchetti nel caso di raccolta domiciliare o, in presenza di contenitori della raccolta stradale o di prossimità ad accesso controllato, tessere di identificazione dell'utente;
+- data di invio è:
+    - per le comunicazioni e le richieste inviate tramite fax o servizi postali, la data risultante dalla ricevuta del fax ovvero la data di consegna al servizio postale incaricato dell'inoltro; nel caso in cui il servizio postale non rilasci ricevuta, è la data risultante dal protocollo del Gestore;
+    - per le comunicazioni e le richieste rese disponibili presso sportelli fisici, la data di consegna a fronte del rilascio di una ricevuta;
+    - per le comunicazioni e le richieste trasmesse per via telematica, la data di inserimento nel sistema informativo del Gestore o la data di invio della comunicazione, se trasmessa tramite posta elettronica;
+- data di ricevimento è:
+    - per le richieste e le comunicazioni inviate tramite fax o servizi postali, la data risultante dalla ricevuta del fax ovvero la data di consegna da parte del servizio postale incaricato dell'inoltro a fronte del rilascio di una ricevuta; nel caso in cui il servizio postale non rilasci ricevuta, è la data risultante dal protocollo del Gestore;
+    - per le richieste e le comunicazioni ricevute presso sportelli fisici, la data di presentazione a fronte del rilascio di una ricevuta;
+    - per le richieste e le comunicazioni trasmesse per via telefonica o telematica, la data di ricevimento della comunicazione;
+- D.M. 20 aprile 2017: è il decreto del Ministro dell'Ambiente e della tutela del territorio e del mare di concerto con il Ministro dell'economia e delle finanze del 20 aprile 2017 recante "Criteri per la realizzazione da parte dei comuni di sistemi di misurazione puntuale della quantità di rifiuti conferiti al servizio pubblico o di sistemi di gestione caratterizzati dall'utilizzo di correttivi ai criteri di ripartizione del costo del servizio, finalizzati ad attuare un effettivo modello di tariffa commisurata al servizio reso a copertura integrale dei costi relativi al servizio di gestione dei rifiuti urbani e dei rifiuti assimilati";
+- DPR n. 158/1999: è il decreto del Presidente della Repubblica 27 aprile 1999, n. 158 recante "Norme per la elaborazione del metodo normalizzato per definire la tariffa del servizio di gestione del ciclo dei rifiuti urbani";
+- DPR n. 445/2000: è il decreto del Presidente della repubblica 28 dicembre 2000, recante "Disposizioni legislative in materia di documentazione amministrativa";
+- D.Lgs. n. 116/2020: è il decreto legislativo 3 settembre 2020, n.116, recante "Attuazione della direttiva (UE) 2018/851 che modifica la direttiva 2008/98/CE relativa ai rifiuti e attuazione della direttiva (UE) 2018/852 che modifica la direttiva 1994/62/CE sugli imballaggi e i rifiuti di imballaggio";
+- D.Lgs. n. 152/2006: è il decreto legislativo 3 aprile 2006, n. 152, recante "Norme in materia ambientale" e s.m.i.;
+- disservizio: è il non corretto svolgimento del servizio integrato di gestione dei rifiuti urbani ovvero dei singoli servizi che lo compongono che provoca disagi all'utente o interruzioni del servizio senza, tuttavia, generare situazioni di pericolo per l'ambiente, le persone, o le cose;
+- documento di riscossione: è l'avviso o invito di pagamento, oppure la fattura, trasmesso/a all'utente del servizio integrato di gestione dei rifiuti urbani, ovvero dei singoli servizi che lo compongono;
+- gestione: è l'ambito tariffario, ovvero il territorio, comunale o sovra-comunale, sul quale si applica la medesima tariffa sia TARI o tariffa corrispettiva;
+- Gestore dell'attività di gestione tariffe e rapporto con gli utenti: è il soggetto che eroga i servizi connessi all'attività di gestione tariffe e rapporto con gli utenti,
+- gestore del servizio rifiuti (anche gestore del servizio): è, in breve, il soggetto che eroga nei Comuni ricadenti nell'ambito territoriale di ATO Toscana Centro, i servizi di "raccolta e trasporto" e "spazzamento e lavaggio delle strade", "recupero", "smaltimento" e altre attività attribuite dagli Enti competenti.
+- Gestore (senza ulteriori specificazioni): il soggetto che eroga il servizio integrato di gestione rifiuti urbani ovvero i singoli servizi che lo compongono, ivi inclusi i Comuni che gestiscono in economia. Non sono considerati gestori i meri prestatori d'opera ossia i soggetti come individuati dall'Ente territorialmente competente (ATO Toscana Centro) che, secondo la normativa di settore, sono stabilmente esclusi dall'obbligo di predisporre il piano economico finanziario;
+- giorno lavorativo: è il giorno non festivo della settimana compreso tra lunedì e venerdì inclusi;
+- interruzione del servizio: è il servizio non effettuato puntualmente rispetto a quanto programmato e non ripristinato entro il tempo di recupero;
+- L. n. 147/2013: è la legge 27 dicembre 2013, n. 147, recante "Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (Legge di stabilità 2014)";
+- livello o standard generale di qualità: è il livello di qualità riferito al complesso delle prestazioni da garantire agli utenti;
+- prestazione: è, laddove non specificato, ogni risposta a reclamo o richiesta scritta, ovvero ogni lavoro o intervento effettuato dal Gestore su richiesta;
+- Programma delle attività di raccolta e trasporto: è il documento redatto dal Gestore, in coerenza con quanto previsto dal Contratto di servizio, in cui viene riportata la pianificazione del servizio di raccolta e trasporto all'interno della gestione di riferimento;
+- Programma delle attività di spazzamento e lavaggio: è il documento redatto dal Gestore, in coerenza con quanto previsto dal Contratto di servizio, in cui viene riportata la pianificazione del servizio di spazzamento e lavaggio delle strade all'interno della gestione di riferimento;
+- reclamo scritto: è ogni comunicazione scritta fatta pervenire al Gestore, anche per via telematica, con la quale l'utente, o per suo conto un rappresentante legale dello stesso o un'Associazione di consumatori, esprime lamentele circa la non coerenza del servizio ottenuto con uno o più requisiti definiti da leggi o provvedimenti amministrativi, dal regolamento di servizio, ovvero circa ogni altro aspetto relativo ai rapporti tra Gestore e utente, ad eccezione delle richieste scritte di rettifica degli importi addebitati e delle segnalazioni per disservizi;
+- Regolamento tariffario: è il regolamento adottato nell'ambito della potestà regolamentare prevista dall'art. 52 del D.Lgs. 446/1997 che disciplina le modalità di determinazione e riscossione della tariffa del servizio integrato di gestione dei rifiuti urbani, stabilendo condizioni, modalità e obblighi strumentali per la sua applicazione;
+- Regolamento comunale per la gestione dei rifiuti urbani: è il regolamento adottato in coerenza con l'art. 198 del D.Lgs. n. 152/2006 con cui il Comune disciplina lo svolgimento del servizio di gestione integrata dei rifiuti nel rispetto delle norme comunitarie, nazionale, regionali e della regolamentazione vigente;
+- richiesta di attivazione del servizio: è la dichiarazione TARI o la comunicazione/denuncia di attivazione dell'utenza effettuata in regime di tariffa corrispettiva;
+- richiesta di variazione e di cessazione del servizio: è la dichiarazione TARI o la comunicazione denuncia rispettivamente di variazione e di cessazione dell'utenza effettuata in regime di tariffa corrispettiva;
+- richiesta scritta di rettifica degli importi addebitati: è ogni comunicazione scritta, fatta pervenire al Gestore dell'attività di gestione tariffe e rapporto con gli utenti, anche per via telematica, con la quale l'utente esprime, in relazione ad importi già pagati o per i quali è stata richiesta la rateizzazione, lamentele circa la non correttezza degli importi addebitati;
+- rifiuti urbani: sono i rifiuti di cui all'articolo 184, comma 2, del decreto legislativo 152/06 e s.m.i.;
+- segnalazione per disservizio: è la comunicazione di un disservizio effettuata tramite servizio telefonico, posta inclusa la posta elettronica, o sportello (fisico e online), ove previsto;
+- servizio di ritiro dei rifiuti su chiamata: è il servizio di raccolta domiciliare dei rifiuti urbani che per natura o dimensione non sono compatibili con le modalità di raccolta domiciliare o stradale e di prossimità adottate ordinariamente nella gestione, quali, ad esempio, i rifiuti ingombranti, i RAEE, sfalci e potature;
+- servizio integrato di gestione: comprende il complesso delle attività volte ad ottimizzare la gestione dei rifiuti urbani (indipendentemente dalla classificazione che assumono durante il loro percorso), vale a dire: l'attività di raccolta e trasporto; l'attività di trattamento e smaltimento; l'attività di trattamento e recupero; l'attività di spazzamento e lavaggio delle strade, nonché l'attività di gestione tariffe e rapporto con gli utenti;
+- servizio telefonico: è il servizio telefonico che permette all'utente di mettersi in contatto con il proprio Gestore per richiedere informazioni, segnalare disservizi, prenotare il servizio di ritiro su chiamata, richiedere la riparazione delle attrezzature per la raccolta domiciliare, e per ogni altra prestazione che il Gestore rende tramite tale punto di contatto;
+- sportello: è il punto di contatto tra l'utente e il Gestore che comprende sia lo sportello fisico che lo sportello online;
+- sportello fisico: è un punto di contatto sul territorio, che permette all'utente di inoltrare: reclami, richieste di informazioni, di rettifica e rateizzazione degli importi addebitati, richieste di attivazione, variazione e cessazione del servizio. L'utente può altresì prenotare il servizio di ritiro su chiamata, segnalare disservizi, richiedere la riparazione delle attrezzature per la raccolta domiciliare, nonché ogni altra prestazione che il Gestore rende tramite tale punto di contatto;
+- sportello online: è la piattaforma web che permette all'utente di inoltrare: reclami, richieste di informazioni, di rettifica e rateizzazione degli importi addebitati, richieste di attivazione, variazione e cessazione del servizio. L'utente può altresì prenotare il servizio di ritiro su chiamata, segnalare disservizi, richiedere la riparazione delle attrezzature per la raccolta domiciliare, nonché ogni altra prestazione che il Gestore rende tramite tale punto di contatto;
+- TARI: è la tariffa istituita ai sensi dell'art. 1, commi 639 e 651, della L. n. 147/2013, comprensiva sia della TARI determinata coi criteri presuntivi indicati nel DPR n. 158/1999 (TARI presuntiva) sia della TARI determinata facendo riferimento ai criteri di calibratura individuale e misurazione delle quantità indicati nel DPR n. 158/99 (tributo puntuale);
+- tariffa corrispettiva: è la tariffa istituita ai sensi dell'articolo 1, comma 668, della L. n. 147/2013;
+- tariffazione puntuale: è la tariffa corrispettiva o il tributo puntuale istituito ai sensi dell'art. 1, comma 651, L. n. 147/2013 se la TARI è determinata facendo riferimento ai criteri di calibratura individuale e misurazione delle quantità indicati nel DPR n. 158/1999;
+- tempo di recupero: è il tempo entro cui il servizio non espletato puntualmente può essere effettuato senza recare una effettiva discontinuità all'utente;
+- TITR: è il Testo Integrato in tema di Trasparenza nel servizio di gestione dei rifiuti, di cui all'Allegato A alla deliberazione ARERA n. 444/2019/R/RIF;
+- TQRIF: è il Testo unico per la regolazione della qualità del servizio di gestione dei rifiuti urbani allegato alla deliberazione ARERA n. 15/2022/R/RIF;
+- utente: è la persona fisica o giuridica che è o che sarà intestataria del documento di riscossione;
+- utenza: è l'immobile o l'area soggetta a tariffazione come definita all'articolo 2, comma 1, lettera c), del D.M. 20 aprile 2017;
+- variazione del servizio: è la modifica dei presupposti per il pagamento della tariffa. Rientrano nella variazione del servizio anche le fattispecie disciplinate dall'articolo 238, comma 10, del D.Lgs. n. 152/2006.
+
 # Art. 2 Carta della qualità
 La Carta della qualità del servizio integrato di gestione dei rifiuti urbani (di seguito Carta) disciplina le modalità di fruizione del servizio e le regole di relazione tra gli utenti e il Gestore, indicando gli obblighi ed i livelli di qualità che il Gestore deve garantire.
 
@@ -44,7 +110,7 @@ Le risposte alle richieste di attivazione saranno inviate all'utente entro 30 gi
 Le attrezzature per la raccolta sono messe a disposizione dell'utente da parte del Gestore del servizio rifiuti per il ritiro entro cinque (5) giorni lavorativi dal ricevimento da parte dello stesso della richiesta di attivazione del servizio se non vi è la necessità preliminare di effettuazione del sopralluogo, altrimenti saranno consegnate all'utente o messe a disposizione per il ritiro entro dieci (10) giorni lavorativi.
 
 L'utente provvede al ritiro dell'attrezzatura necessaria per l'esecuzione del servizio secondo quanto previsto dai regolamenti che stabiliscono le sanzioni per eventuali ritardi nel ritiro da parte dell'utente.
- 
+
 # Art. 9 Modalità per la variazione o cessazione del servizio
 Le richieste di variazione e di cessazione del servizio devono essere presentate dall'utente al Gestore della tariffa secondo le modalità indicate nel Regolamento tariffario, utilizzando i punti di contatti indicati al Titolo V.
 
@@ -72,7 +138,7 @@ L'utente comunica utilizzando i seguenti punti di contatto:
 - e-mail;
 - Pec;
 - sezione online per l'utente.
- 
+
 # Art. 12 Obblighi e requisiti minimi dello sportello
 Il Gestore mette a disposizione dell'utente uno sportello online, accessibile dal proprio sito o raggiungibile tramite applicazioni dedicate.
 
@@ -101,7 +167,7 @@ Il Gestore garantisce all'utente informazioni periodiche sulla gestione del serv
 - comunicati stampa e redazionali e newsletter e fogli informativi da allegare al documento di riscossione;
 - allestimento di punti informativi in occasione di eventi di ampia frequentazione;
 - servizio di messaggistica tramite sms, e-mail, social network e app dedicate.
- 
+
 # Art. 16 Servizi erogati sul territorio
 Il Gestore del servizio opera in conformità a quanto riportato nel Contratto di servizio.
 
@@ -113,7 +179,6 @@ Il Gestore del servizio rifiuti, nell'ambito del servizio di raccolta, garantisc
 L'utente richiede il ritiro su chiamata mediante i canali previsti al Titolo V indicando:
 - i dati identificativi dell'utente (nome, cognome, codice fiscale, codice utente, codice utenza e indirizzo di ritiro, e-mail o telefono di contatto per l'effettuazione del servizio);
 - i dati relativi ai rifiuti da ritirare e, in particolare, tipologia numero e dimensione dei rifiuti oggetto del ritiro.
-
 
 Il ritiro dei rifiuti avverrà entro 7 (sette) giorni lavorativi dalla data di ricevimento della richiesta dell'utente salvo il caso in cui l'utente chieda il ritiro in data successiva.
 
@@ -133,7 +198,7 @@ Il Gestore di cui al comma 1 interviene sul luogo entro quattro (4) ore dalla se
 
 # Art. 20 Tempo di recupero del servizio di raccolta e trasporto
 I servizi sono svolti secondo le modalità indicate nel Programma delle attività dei servizi di raccolta riportato nella sezione "Servizi attivi" del sito internet del Gestore dell'attività.
- 
+
 Il Gestore dell'attività effettua il recupero dei servizi di raccolta domiciliare programmati ma non effettuati entro 24 ore per le raccolte domiciliari, entro 7 ore per la raccolta porta a porta della frazione organica e del rifiuto residuo, entro 12 ore per le raccolte porta a porta di carta, plastica e lattine, pannolini e verde.
 
 Il Gestore dell'attività recupera i servizi di raccolta stradale e di prossimità programmati ma non effettuati entro 24 ore. Se la programmazione dei servizi di raccolta e trasporto è definita per fascia oraria, il tempo di recupero decorre dall'estremo superiore dell'intervallo. L'inizio dell'interruzione del servizio di raccolta e trasporto coincide con il termine del tempo di recupero.
@@ -161,7 +226,7 @@ Il tempo di riparazione delle attrezzature per la raccolta domiciliare è pari a
 Il servizio di manutenzione dei contenitori stradali prevede la manutenzione programmata ed ispettiva e la riparazione a seguito di guasto.
 
 La manutenzione programmata ed ispettiva consiste in due controlli annui con un intervallo minimo di 5 mesi e massimo di 7 mesi per ciascun contenitore effettuate da squadre dotate di furgoni attrezzati assegnate al controllo di un'area. I contenitori risultati irrecuperabili sono sostituiti nel più breve tempo possibile.
- 
+
 Il Gestore della attività raccoglie quotidianamente le segnalazioni di guasti o malfunzionamento dei contenitori inviate tramite i canali indicati al Titolo 5 dal personale proprio incaricato, dagli utenti, dai Comuni, dall'ATO o di altri Enti. Le segnalazioni verranno gestite, se possibile, nell'ambito della manutenzione programmata, oppure con interventi specifici di riparazione dei guasti. Se il guasto è tale da rendere inutilizzabile o pericoloso il contenitore l'intervento sarà svolto nel più breve tempo possibile. Se il contenitore risulta irrecuperabile si procederà alla sostituzione.
 
 # Art. 25 Lavaggio e sanificazione dei contenitori
@@ -187,7 +252,7 @@ L'utente ha diritto al rimborso se il Gestore non ha rispettato gli standard pre
 Non determina il diritto all'indennizzo il mancato rispetto degli standard generali di qualità dovuto a:
 - cause di forza maggiore, intese come atti di autorità pubblica, eventi naturali eccezionali per i quali sia stato dichiarato lo stato di calamità dall'autorità competente, scioperi, mancato ottenimento di atti autorizzativi, situazioni di traffico veicolare interrotto per incidenti o a seguito di disposizioni di autorità pubblica, indisponibilità degli impianti di trattamento, gravi e documentate situazioni metereologiche avverse (con riferimento all'attività di spazzamento e il lavaggio delle strade);
 - cause imputabili all'utente, ovvero danni o impedimenti provocati da terzi per fatti non attribuibili al Gestore;
- 
+
 Il Gestore non è tenuto a corrispondere l'indennizzi quando l'utente non è in regola con il pagamento del servizio.
 
 # Art. 29 Indennizzi automatici
@@ -216,7 +281,7 @@ In caso di mancata risoluzione amichevole della controversia o in caso di mancat
 Se l'utente finale non si ritiene soddisfatto della risposta al reclamo o se non riceve risposta entro i termini previsti, e fatti salvi i suoi diritti di azione, può chiedere:
 - entro 30 giorni lavorativi decorrenti dalla data di ricevimento dell'esito del reclamo o – in caso di mancata risposta – dalla scadenza del termine previsto per la risposta, un incontro con il Gestore. Il Gestore, se non ritiene manifestamente infondata o inammissibile la richiesta, fissa la data dell'incontro di norma entro 60 giorni lavorativi decorrenti dalla richiesta;
 - entro 60 giorni dalla data di ricevimento della risposta o, in caso di mancata risposta, dalla scadenza del termine previsto per la risposta, l'attivazione della procedura di conciliazione paritetica.
- 
+
 # Art. 34 Conciliazione paritetica
 Il Gestore promuove la conciliazione paritetica quale strumento alternativo a quello giudiziario per la risoluzione delle controversie. La conciliazione paritetica è un procedimento più veloce ed economico rispetto al procedimento giurisdizionale ed ha lo scopo di prevenire il contenzioso fra le parti. La procedura non comporta costi per l'utente e sospende eventuali azioni di recupero forzoso del credito.
 
@@ -247,4 +312,3 @@ Sono allegati alla presente Carta:
 - Allegato 2. Contatti e Riferimenti;
 - Allegato 3. Richiami al sito internet;
 - Allegato 4. Modulo per accesso alle vie conciliative.
- 

@@ -22,7 +22,6 @@
 - check this regex l' [a-z]
 - check this regex [;,\.!-]\S
 - check this regex ^(?![#-]).+\n(?![\n#-])
-- check this regex (?<=[a-z0-9])\n(?=[a-z0-9])
 - check this regex ([^A-Za-z\d\s'"#àáèéìíóòùú\(\.,;\)\-+@%:/°€©–&^[\]=®—?])
 
 - replace ﬁ with fi

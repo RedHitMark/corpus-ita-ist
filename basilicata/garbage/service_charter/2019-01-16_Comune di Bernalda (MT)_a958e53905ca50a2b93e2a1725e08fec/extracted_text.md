@@ -1,9 +1,9 @@
 # CARTA DEI SERVIZI
 La Carta dei servizi è uno strumento operativo voluto da una direttiva della Presidenza del Consiglio dei Ministri del 27 gennaio 1994 che definisce i principi che devono regolare la fornitura dei servizi pubblici, individuando gli strumenti per l'attuazione e le modalità per la tutela dei cittadini-utenti.
 
-Il Comune di Bernalda ha elaborato questa Carta dei Servizi fissando criteri di prestazione e standard di qualità degli stessi prevedendo idonei strumenti di controllo e di verifica per la tutela dei propri clienti. 
+Il Comune di Bernalda ha elaborato questa Carta dei Servizi fissando criteri di prestazione e standard di qualità degli stessi prevedendo idonei strumenti di controllo e di verifica per la tutela dei propri clienti.
 
-I criteri della Carta dei Servizi, sono da considerare validi in condizioni normali di esercizio e non in situazioni straordinarie dovute ad eventi naturali eccezionali, eventi causati da terzi, scioperi (diretti o indiretti) o atti dell'Autorità pubblica. 
+I criteri della Carta dei Servizi, sono da considerare validi in condizioni normali di esercizio e non in situazioni straordinarie dovute ad eventi naturali eccezionali, eventi causati da terzi, scioperi (diretti o indiretti) o atti dell'Autorità pubblica.
 
 I Servizi erogati nel Comune di Bernalda sono gestiti nel rispetto dei seguenti principi generali previsti dalla direttiva del Presidente del Consiglio dei Ministri del 27.01.1994 in materia di erogazione dei servizi pubblici.
 
@@ -22,13 +22,112 @@ Il gestore garantisce ai cittadini la massima informazione e la tutela dei dirit
 # Efficienza ed efficacia
 Il gestore garantisce che i servizi siano conformi ai parametri di efficienza e di efficacia, secondo gli standard delle norme di settore ed erogati con le modalità organizzative disciplinate dal contratto di servizio.
 
+# Standard di qualità del servizio
 Costituiscono "standard" di qualità del servizio di raccolta rifiuti al cliente, gli indicatori qualitativi e quantitativi di seguito descritti.
 
-Viene effettuata la rimozione delle siringhe abbandonate su suolo pubblico e loro trattamento ai fini dell'incolumità e dell'igiene pubblica; il servizio ha frequenza settimanale nelle zone identificate "a rischio" con adeguato numero di operatori ed idonei mezzi e viene svolto anche su segnalazione e con intervento entro le 12 ore successive.
-
-In tutte le aree verdi, le aree cortilizie e i passaggi ubicati nelle aree scolastiche viene periodicamente, nel periodo autunnale, effettuata la raccolta delle foglie secche. Di media vengono effettuati almeno 2 interventi di raccolta all'anno.
-
-Alesia S.r.l. cura l'allestimento di aiuole fiorite con piante annuali che vengono sostituite in primavera ed in autunno. Le aree verdi allestite in cui vengono messe a dimora fioriture stagionali sono situate nei luoghi indicati dall'Amministrazione Comunale.
+Gli standard sono conformi alle norme vigenti e alle disposizioni contrattuali, essi si sostanziano,
+per ciascun servizio, in:
+- Raccolta rifiuti solidi urbani
+    - Frequenza raccolta;
+    - Dislocazione cassonetti;
+    - Orari servizio;
+    - Frequenza raccolta periodo estivo;
+    - Lavaggio e disinfezione cassonetti;
+    - Raccolta rifiuti non collocati nei cassonetti.
+- Raccolta rifiuti ingombranti
+    - Frequenza raccolta;
+    - Orari servizio;
+    - Frequenza raccolta periodo estivo;
+- Raccolta differenziata
+    - Frequenza raccolta;
+    - Dislocazione contenitori;
+    - Orari servizio;
+    - Frequenza raccolta periodo estivo;
+    - Pluralità di materiali raccolti;
+    - Raccolta rifiuti non collocati nei contenitori.
+- Carta, vetro, plastica, lattine
+    - Frequenza raccolta;
+    - Dislocazione contenitori;
+    - Orari servizio;
+    - Frequenza raccolta periodo estivo;
+    - Raccolta rifiuti non collocati nei contenitori.
+- Rifiuti urbani pericolosi
+    - Frequenza raccolta;
+    - Dislocazione contenitori;
+    - Orari servizio;
+    - Frequenza raccolta periodo estivo;
+- Servizio di raccolta siringhe
+    - Viene effettuata la rimozione delle siringhe abbandonate su suolo pubblico e loro trattamento ai fini dell'incolumità e dell'igiene pubblica; il servizio ha frequenza settimanale nelle zone identificate "a rischio" con adeguato numero di operatori ed idonei mezzi e viene svolto anche su segnalazione e con intervento entro le 12 ore successive.
+- Rifiuti tossici e/o infiammabili
+    - Frequenza raccolta;
+    - Dislocazione contenitori;
+    - Orari servizio;
+    - Frequenza raccolta periodo estivo;
+- Spazzamento stradale
+    - frequenza servizio;
+    - orari svolgimento;
+    - rumorosità svolgimento servizio;
+    - mezzi utilizzati;
+    - intralcio circolazione stradale.
+- Cestini getta-carta
+    - Ubicazione cestini;
+    - Frequenza svuotamento;
+- Bonifica di piccole discariche abusive da R.S.U.
+    - Tempestività intervento;
+    - Celerità intervento.
+- Derattizzazione, disinfezione e disinfestazione
+    - Frequenza interventi;
+    - Prodotti utilizzati;
+    - Salubrità ambiente nelle ore immediatamente successive all'intervento.
+- Rimozione carogne di animali
+    - Tempestività intervento;
+    - Rapidità rimozione;
+    - Rimozione nei diversi luoghi.
+- Raccolta e pulizia dei rifiuti nei mercati cittadini stabili
+    - Frequenza servizio;
+    - Orari svolgimento;
+    - Rumorosità svolgimento servizio;
+    - Intralcio circolazione stradale.
+- Lavaggio stradale
+    - Frequenza servizio;
+    - Orari svolgimento;
+    - Rumorosità svolgimento servizio;
+    - Intralcio circolazione stradale.
+- Servizio di manutenzione del verde pubblico
+    - frequenza servizio;
+    - orari svolgimento;
+    - rumorosità svolgimento servizio;
+    - intralcio circolazione stradale;
+    - stato di vegetazione delle piante.
+- Servizio della raccolta foglie secche
+    - In tutte le aree verdi, le aree cortilizie e i passaggi ubicati nelle aree scolastiche viene periodicamente, nel periodo autunnale, effettuata la raccolta delle foglie secche. Di media vengono effettuati almeno 2 interventi di raccolta all'anno.
+- Servizio di allestimenti di aiuole fiorite
+    - Alesia S.r.l. cura l'allestimento di aiuole fiorite con piante annuali che vengono sostituite in primavera ed in autunno. Le aree verdi allestite in cui vengono messe a dimora fioriture stagionali sono situate nei luoghi indicati dall'Amministrazione Comunale.
+- Gestione del canile comunale
+    - Numero cani custoditi;
+    - Numero cani tatuati;
+    - Numero cani sterilizzati;
+    - Orario apertura al pubblico;
+    - Tempestività nell'accalappiamento;
+    - Tempestività nello smaltimento carogne;
+    - Modalità gestione depuratore.
+- Pulizia orinatoi pubblici
+    - Frequenza servizio;
+    - Orari svolgimento;
+    - Rumorosità svolgimento servizio;
+    - Prodotti impiegati.
+- Affissione manifesti
+    - Orari svolgimento;
+    - Rumorosità svolgimento servizio;
+    - Tempestività svolgimento servizio;
+    - Intralcio circolazione stradale.
+- Pulizia spiagge ed arenile
+    - Frequenza servizio;
+    - Modalità svolgimento servizio;
+    - Tempestività interventi straordinari.
+- Manutenzione segnaletica verticale
+    - Frequenza servizio;
+    - Intralcio circolazione stradale.
 
 # Informazioni
 Al fine di creare e mantenere un costruttivo rapporto con gli utenti, Alesia S.r.l. garantisce una completa informazione sulle modalità di effettuazione dei servizi e su tutte le iniziative aziendali attraverso il Servizio Informazioni e le Attività di Comunicazione; inoltre, non solo divulga le informazioni sui propri servizi, ma riconosce il diritto del cliente di formulare suggerimenti.
@@ -41,10 +140,12 @@ Per esigenze tecniche è possibile chiamare i seguenti numeri telefonici:
 - Canile municipale: tel. 0835 548648 - fax 0835 548648
 
 Per esigenze amministrative è possibile contattare l'Ufficio Utenti:
-tel. 0971.601145 – fax 0971.601810 alesiasrl@libero.it.
+- tel. 0971.601145 – fax 0971.601810 alesiasrl@libero.it.
 
 # Attività di Comunicazione
-Alesia S.r.l. realizza numerose attività di comunicazione mirate a sensibilizzare la cittadinanza sui temi ambientali ed a divulgare tutte le informazioni utili per un miglior utilizzo delle strutture esistenti. I principali strumenti di comunicazione utilizzati sono:
+Alesia S.r.l. realizza numerose attività di comunicazione mirate a sensibilizzare la cittadinanza sui temi ambientali ed a divulgare tutte le informazioni utili per un miglior utilizzo delle strutture esistenti.
+
+I principali strumenti di comunicazione utilizzati sono:
 - Conferenze stampa e comunicati;
 - Conferenze pubbliche sullo stato dei servizi;
 - Campagne informative e promozionali rivolte a tutta la cittadinanza o agli specifici segmenti della popolazione interessati ai diversi servizi. I mezzi utilizzati vanno dal recapito diretto dei materiali informativi (opuscoli, depliant, lettere ecc.) alle affissioni stradali, le inserzioni stampa, le trasmissioni radiotelevisive ecc.;
@@ -62,7 +163,9 @@ Alesia S.r.l. considera prioritaria la sicurezza dei cittadini e dei propri lavo
 - ogni lavoratore è sottoposto a periodici controlli sanitari.
 
 # Rapporti con gli utenti - Comportamento del Personale
-Il personale di Alesia S.r.l. si impegna a trattare gli utenti con rispetto e cortesia. I dipendenti si autoidentificano con nome e cognome mediante tesserino personale e sono tenuti ad indicare le proprie generalità anche nelle comunicazioni telefoniche; il personale è, inoltre, tenuto a:
+Il personale di Alesia S.r.l. si impegna a trattare gli utenti con rispetto e cortesia.
+
+I dipendenti si autoidentificano con nome e cognome mediante tesserino personale e sono tenuti ad indicare le proprie generalità anche nelle comunicazioni telefoniche; il personale è, inoltre, tenuto a:
 - prestare e realizzare il lavoro richiesto correttamente e con accuratezza;
 - mantenere il decoro della persona e della divisa;
 - rispondere alle necessità dei cittadini, alle richieste di informazioni, ed agevolarli nell'esercizio dei diritti e nell'adempimento dei doveri;
@@ -79,7 +182,7 @@ Il cliente può inoltrare richiesta scritta a Alesia S.r.l. piazzale Rizzo, 11 -
 - ritardo superiore alle 24 ore per lo svolgimento dei servizi, rispetto al calendario come da contratto
 
 # Risposte alle richieste e/o reclami scritti degli utenti
-Le risposte alle richieste scritte di informazioni relative al Servizio di raccolta rifiuti solidi urbani vengono inviate dalla Alesia S.r.l. entro 10 giorni (di calendario) dalla data di ricevimento della richiesta stessa; se la particolare complessità della richiesta dell'utente non consente il rispetto del termine di cui sopra, poiché richiede analisi tecnico-amministrative, la Alesia S.r.l. informa tempestivamente l'utente interessato sullo stato di avanzamento della pratica di risposta. 
+Le risposte alle richieste scritte di informazioni relative al Servizio di raccolta rifiuti solidi urbani vengono inviate dalla Alesia S.r.l. entro 10 giorni (di calendario) dalla data di ricevimento della richiesta stessa; se la particolare complessità della richiesta dell'utente non consente il rispetto del termine di cui sopra, poiché richiede analisi tecnico-amministrative, la Alesia S.r.l. informa tempestivamente l'utente interessato sullo stato di avanzamento della pratica di risposta.
 
 Sia per le richieste pervenute che per quelle in partenza fa fede la data di protocollo della Società mista; invece, le richieste di informazioni sulla tassa rifiuti vanno inoltrate all'Ufficio Tributi del Comune di Bernalda.
 
@@ -96,7 +199,11 @@ Il grado di soddisfazione degli utenti in merito alla qualità del servizio reso
 
 Sulla base delle rilevazioni effettuate, la Società mista si impegna a pubblicare annualmente, a proprie spese, un rapporto sulla qualità del servizio e sulla valutazione del grado di soddisfazione dell'utente.
 
-Il rapporto è trasmesso alle autorità competenti. Copia di tale rapporto è a disposizione di chiunque ne sia interessato. Gli utenti possono inoltrare ad Alesia S.r.l., per iscritto o telefonicamente, suggerimenti e proposte.
+Il rapporto è trasmesso alle autorità competenti.
+
+Copia di tale rapporto è a disposizione di chiunque ne sia interessato.
+
+Gli utenti possono inoltrare ad Alesia S.r.l., per iscritto o telefonicamente, suggerimenti e proposte.
 
 # Validità temporale della Carta dei Servizi
 La presente "Carta" entra in vigore il 15 giugno 2003 e potrà essere periodicamente aggiornata sulla base delle indicazioni derivanti dalla sua applicazione o sulla base di variazioni del quadro normativo di riferimento del settore.

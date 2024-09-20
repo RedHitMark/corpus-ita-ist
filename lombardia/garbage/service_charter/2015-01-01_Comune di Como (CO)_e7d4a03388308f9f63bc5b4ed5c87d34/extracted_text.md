@@ -1,16 +1,16 @@
 # La Carta della Qualità dei Servizi
 Aprica, società del gruppo A2A, è l'azienda che a Como gestisce i servizi ambientali tra cui la pulizia della città, la raccolta, lo smaltimento e la valorizzazione dei rifiuti. Gli obiettivi e le modalità secondo i quali deve essere svolto il servizio sono stabiliti dal Contratto di Servizio, sottoscritto tra Aprica e il Comune di Como.
 
-# Un patto tra Aprica e i cittadini di Como
+## Un patto tra Aprica e i cittadini di Como
 La Carta della Qualità dei Servizi (di seguito Carta) è un importante passo avanti nella storia dei diritti dei consumatori. È un documento in cui vengono elencati tutti i servizi che Aprica fornisce alla città con la descrizione delle modalità con cui l'azienda ne garantisce la qualità. Per i cittadini di Como sarà così più facile controllare che i servizi erogati da Aprica corrispondano a quelli descritti nella Carta. Segnalare le anomalie rispetto a quanto dichiarato nella Carta, oltre ad essere un diritto dei cittadini, è uno stimolo al miglioramento di Aprica e del suo operato. L'impegno di Aprica, però, non basta a garantire dei buoni risultati, che dipendono anche dalla collaborazione dei cittadini. Così la Carta oltre a riconoscere i diritti, chiede l'impegno dei cittadini al rispetto dei loro doveri, a cominciare dall'osservare le norme contenute nel Regolamento Comunale, per raccogliere bene i rifiuti e per mantenere pulita la città.
 
-# I principi fondamentali
+## I principi fondamentali
 Aprica eroga i servizi nel rispetto dei principi di eguaglianza, imparzialità, continuità, partecipazione, efficienza, efficacia ed economicità.
 
-# Validità della Carta
+## Validità della Carta
 La Carta viene pubblicata con cadenza triennale. Quanto descritto in questa edizione è aggiornato al 2015. A fronte di revisioni del servizio, Aprica si impegna a pubblicare sul sito www. apricaspa.it gli aggiornamenti per essere sempre più trasparente e vicina ai cittadini. Nel caso fosse necessario informare tempestivamente i cittadini, Aprica si servirà anche di altre modalità di comunicazione (es. volantinaggi ad hoc.)
 
-# Dove richiederla
+## Dove richiederla
 È possibile richiedere gratuitamente la Carta:
 - scaricandola dal sito www.apricaspa.it
 - scaricandola dal sito www.comune.como.it
@@ -19,8 +19,8 @@ La Carta viene pubblicata con cadenza triennale. Quanto descritto in questa ediz
 - presso le sedi delle Associazioni dei Consumatori
 - ogni anno, nel mese di maggio, durante la distribuzione dei sacchi per la raccolta degli imballaggi in plastica, dei rifiuti indifferenziati e dell'organico.
 
-
-# Garantire la qualità dei servizi
+# 1. L'impegno di Aprica
+## Garantire la qualità dei servizi
 Aprica si impegna a:
 - effettuare i servizi con continuità e regolarità. Il Comune di Como effettua controlli a campione per verificare il rispetto da parte di Aprica degli obblighi contrattuali ed applicherà, in caso di comprovate inadempienze, le relative penali
 - scegliere modalità di trattamento dei rifiuti che siano finalizzate al recupero dei materiali e che garantiscano la sicurezza del personale, dei cittadini e dell'ambiente in generale
@@ -53,7 +53,7 @@ In aggiunta alle attività di monitoraggio effettuate da parte del Comune di Com
 - concordare e coordinare con l'Amministrazione Comunale la divulgazione annuale dei risultati delle verifiche compiute, indicando gli accorgimenti adottati per aumentare la soddisfazione dei cittadini
 - partecipare al tavolo di lavoro e di confronto permanente con le Associazioni dei Consumatori riconosciute, al fine di esaminare i risultati ottenuti e migliorare il servizio reso.
 
-# La Customer Satisfaction dei servizi erogati da Aprica 
+## La Customer Satisfaction dei servizi erogati da Aprica
 Attraverso le ricerche di customer satisfaction che vengono effettuate ogni tre anni per il servizio complessivo, Aprica si pone l'obiettivo di verificare la qualità dei servizi erogati alla città di Como. Le procedure che si adotteranno per l'indagine di Customer Satisfaction, prevedono l'analisi e la verifica della soddisfazione percepita dai clienti in merito all'importanza che attribuiscono alle caratteristiche principali dei differenti servizi. I servizi gestiti da Aprica che vengono presi in esame sono:
 - raccolta rifiuti
 - pulizia strade e marciapiedi
@@ -64,67 +64,67 @@ Attraverso le ricerche di customer satisfaction che vengono effettuate ogni tre 
 - raccolta siringhe abbandonate
 - gestione del Centro di Raccolta.
 
-
 La metodologia adottata, da concordare preventivamente con l'Amministrazione Comunale e discussa nell'ambito del tavolo di lavoro permanente con le Associazioni dei Consumatori firmatarie del protocollo d'intesa con il Comune, potrebbe prevedere sia distribuzione di questionari, sia interviste telefoniche, sia "focus group" a famiglie residenti nel Comune di Como e ad operatori commerciali con attività a Como (commercio all'ingrosso e al dettaglio, alberghi, ristoranti e bar). La rilevazione dei livelli di soddisfazione degli intervistati in merito ai servizi erogati da Aprica sarà perseguita attraverso una specifica metodologia in modo da evidenziare i settori in cui gli stessi registrano un adeguato livello di soddisfazione dell'utenza. Grazie allo strumento della Customer Satisfaction è possibile mettere in evidenza i trend rispetto alle precedenti rilevazioni e le prestazioni che potrebbero risultare inferiori alle aspettative degli utenti, per i quali Aprica provvederà ad individuare azioni di miglioramento.
 
-# Tutelare i cittadini dando risposte concrete ai reclami
+## Tutelare i cittadini dando risposte concrete ai reclami
 I reclami sul mancato rispetto di quanto dichiarato nella Carta vanno, di norma, presentati ad Aprica o, in alternativa al Comune. Una precisa procedura prevede che nel minor tempo possibile, e comunque non oltre venti giorni lavorativi, il cittadino sia informato sugli accertamenti compiuti e sui termini entro i quali l'azienda provvederà ad eliminare le irregolarità riscontrate e a riparare i danni eventualmente arrecati (tempi medi di risposta 3 giorni lavorativi via e-mail, 8 giorni lavorativi per la corrispondenza ordinaria). Ogni anno entro aprile, sul sito del Comune, viene pubblicato un report delle segnalazioni e dei reclami fatti dai cittadini relativo all'anno precedente. In caso di mancata risposta o di risposte ritenute insoddisfacenti in merito a segnalazioni o reclami su qualsiasi servizio elencato nella presente Carta, il cittadino può rivolgersi al Comune e/o alle Associazioni dei Consumatori e dare avvio alla procedura di confronto con Aprica. La procedura non comporta costi per il cittadino e può consentire una più rapida soluzione della controversia. Il Comune di Como si fa garante del corretto svolgimento del confronto.
- 
-# Operatori ecologici di zona
+
+# 4. Nuovi progetti per una città sempre più pulita
+## Operatori ecologici di zona
 Aprica, al fine di garantire un presidio costante del territorio, in particolare delle zone più sensibili, ha individuato, all'interno del settore dell'igiene del suolo, degli operatori ecologici di zona. Sono delle figure professionali che assicurano una migliore e più efficace pulizia e costituiscono un punto di riferimento certo per i cittadini per la segnalazione di problemi e criticità. Svolgono solo funzioni operative senza sostituirsi alle Forze dell'Ordine e alla Polizia Locale e sono riconoscibili da un gilet ad alta visibilità che riporta la scritta "OPERATORE DI ZONA"; la loro entrata in servizio è prevista per il mese di luglio 2015.
 
-# Cestini getta carta
+## Cestini getta carta
 Nelle zone cittadine di particolare rilievo e pregio storico sono stati installati nuovi cestini getta carta scelti per inserirsi in modo armonioso nel contesto urbano; dovranno essere utilizzati per piccoli rifiuti quali: fazzoletti, mozziconi di sigarette (opportunamente spenti), carta etc..
 
-# Progetti di educazione ambientale
+## Progetti di educazione ambientale
 Aprica collabora con le direzioni didattiche per promuovere all'interno degli istituti scolastici la crescita di una cultura rispettosa dell'ambiente. Le attività proposte affrontano le diverse tematiche legate ai rifiuti (produzione, riduzione, raccolta, corretto smaltimento etc.) attraverso incontri che vengono svolti negli istituti e durante i quali gli alunni possono interagire con domande relative ai temi trattati. Durante gli interventi di educazione ambientale l'operatore Aprica provvede alla consegna di specifico materiale informativo. Aprica è sempre disponibile a fornire tutte le indicazioni necessarie e ad istituire, con la collaborazione del personale docente ed ausiliario, le più idonee modalità di raccolta differenziata all'interno della scuola. L'Assessorato all'Ecologia ed Ambiente, in collaborazione con Aprica, organizza ogni anno scolastico specifiche attività di educazione ambientale e, periodicamente, concorsi a premi, rivolti alle scuole primarie e alle scuole secondarie di primo grado di Como, finalizzati a diffondere la cultura dell'uso senza sprechi delle risorse naturali, la prevenzione dei rifiuti, la promozione della raccolta differenziata e l'adozione di "buone pratiche" nelle strutture scolastiche, attraverso un percorso coordinato dagli insegnanti sulla base di materiale informativo e di interventi formativi tenuti da esperti coordinati da Aprica.
 
-# Sistemi di rilevazione satellitare
+## Sistemi di rilevazione satellitare
 Aprica, come previsto dal contratto di servizio, con l'Amministrazione Comunale ha installato su tutta la flotta dei veicoli dedicata allo spazzamento delle strade, dei sistemi satellitari che consentono di verificare l'operatività dei predetti veicoli. L'iniziativa è volta a garantire una corretta e trasparente esecuzione del servizio certificandone i tracciati e gli eventi ad essi connessi (orari, velocità, puntualità, tipologia di veicolo, ecc.).
 
-# La raccolta differenziata dei rifiuti
+# 5. La raccolta differenziata dei rifiuti
 La raccolta rifiuti a Como presso ogni stabile è articolata in modo diversificato a seconda della densità residenziale e della tipologia del tessuto urbanizzato della città:
-nei quartieri periferici e nella zona collinare i rifiuti vengono raccolti con le seguenti modalità:
+
+## Nei quartieri periferici e nella zona collinare i rifiuti vengono raccolti con le seguenti modalità:
 - rifiuti indifferenziati, ritiro con frequenza bisettimanale
 - rifiuti organici, ritiro con frequenza bisettimanale
 - carta e cartone, ritiro con frequenza settimanale per le utenze domestiche
 - vetro misto a barattolame, ritiro con frequenza settimanale
 - imballaggi in plastica, ritiro con frequenza settimanale.
 
-Nella Convalle i rifiuti vengono raccolti con le seguenti modalità:
+## Nella Convalle i rifiuti vengono raccolti con le seguenti modalità:
 - rifiuti indifferenziati, ritiro con frequenza bisettimanale
 - rifiuti organici, ritiro con frequenza bisettimanale
 - carta e cartone, ritiro con frequenza settimanale, bisettimanale solo per le utenze non domestiche di via Milano, Cigalini, Mugiasca, e trisettimanale solo per le utenze non domestiche della Città Murata
 - vetro misto a barattolame, ritiro con frequenza settimanale
 - imballaggi in plastica, ritiro con frequenza settimanale, bisettimanale solo per le utenze non domestiche della Città Murata
 
-L'esposizione dei rifiuti deve avvenire:
+## L'esposizione dei rifiuti deve avvenire:
 - nei quartieri periferici: dalle ore 21 del giorno precedente il ritiro
 - in Convalle: tra le ore 18 e le ore 20 dei giorni previsti
 
-Ritiro dei contenitori usati per l'esposizione dei rifiuti:
+## Ritiro dei contenitori usati per l'esposizione dei rifiuti:
 - in Convalle: i contenitori devono essere ritirati entro le 8.00.
 - Nei quartieri periferici i bidoni carrellati devono essere ritirati entro le 14.00. I bidoncini monofamiliari, il prima possibile, non oltre le 21.00.
 
 I calendari di raccolta possono essere consultati sul sito www.apricaspa.it nella sezione Servizi di zona, oppure si possono ritirare gratuitamente in forma cartacea presso l'Ufficio Ecologia e l'Ufficio Relazioni con il Pubblico del Comune di Como, nonché presso la sede Aprica di via Manzoni, 17 a Montano Lucino.
 
-# Ritiro dei rifiuti ingombranti
+## Ritiro dei rifiuti ingombranti
 Il ritiro gratuito di: mobili, elettrodomestici e oggetti ingombranti di arredo in genere, all'interno dell'abitazione o sue pertinenze, è riservato alle persone appartenenti alle categorie protette (disabili, ultrasettantenni), che possono richiederlo direttamente al Settore Ambiente del Comune, aperto ai cittadini il lunedì dalle ore 9.00 alle ore 12.00 e il mercoledì dalle 8.30 alle 15.30. Per le Utenze domestiche, non ricadenti nelle suddette categorie, il ritiro gratuito è previso nella misura massima di n. 10 utenze a settimana, con un limite quantitativo di 1 metro cubo per utenza e con l'impegno che gli stessi cittadini posizionino tali rifiuti a filo strada nei tempi e nei modi concordati con Aprica. Il ritiro può essere prenotato telefonando al numero verde 800 437678 oppure alla sede Aprica di Montano Lucino al numero 031 520760.
 
-# Raccolta differenziata per punti di conferimento
+## Raccolta differenziata per punti di conferimento
 Su tutto il territorio cittadino, in aree pubbliche e/o custodite, sono dislocati vari tipi di contenitori per la raccolta differenziata di indumenti usati, pile esauste e farmaci scaduti.
 
-# Raccolta differenziata delle pile esauste
+## Raccolta differenziata delle pile esauste
 Avviene grazie a contenitori da banco custoditi presso i rivenditori e tramite alcuni appositi contenitori stradali; gli elenchi sono consultabili sui seguenti siti: www.apricaspa.it - www.comune.como.it
 
-# Raccolta differenziata dei farmaci scaduti
+## Raccolta differenziata dei farmaci scaduti
 È realizzata con contenitori custoditi presso le farmacie. Le posizioni sono disponibili sul sito www.apricaspa.it
 
-# Indumenti usati
+## Indumenti usati
 In diversi punti della città sono stati posizionati appositi contenitori stradali gialli gestiti da cooperative sociali organizzate da "Caritas" e "Humana People to People Italia" che raccolgono con frequenza settimanale gli indumenti usati e provvedono al loro riutilizzo o riciclaggio. L'elenco aggiornato è reperibile sul sito del Comune di Como www.comune.como.it
 
 # 7. Il nuovo Centro di Raccolta
-
 Il Centro di Raccolta si trova in via Stazzi (zona sud di Como, vicino alla stazione ferroviaria Albate - Camerlata).
 
 Al Centro di Raccolta si possono portare:
@@ -148,8 +148,7 @@ Al Centro di Raccolta si possono portare:
 - carta e cartone
 - imballaggi in plastica
 
-
-Le utenze domestiche possono accedervi solo con l'Ecopass nei seguenti orari: 
+Le utenze domestiche possono accedervi solo con l'Ecopass nei seguenti orari:
 - dal MARTEDÌ al VENERDÌ 8.30 - 14.00
 - SABATO 8.30 - 12.00 e 13.30 - 17.00
 - DOMENICA 8.30 - 12.00
@@ -170,8 +169,23 @@ La TARI è destinata a coprire integralmente i costi dei servizi di igiene urban
 
 La tariffa è suddivisa in quota fissa e in quota variabile: la prima per coprire i costi fissi del servizio non attribuibili in maniera diretta ai singoli contribuenti (per esempio: gli investimenti, i costi di spazzamento, i costi amministrativi, ecc.), mentre la seconda per coprire i costi variabili del servizio correlati in modo più diretto alla produzione dei rifiuti (raccolta, trasporto e smaltimento rifiuti).
 
-Per quanto riguarda le utenze domestiche la TARI viene calcolata considerando sia i metri quadrati dell'abitazione e relative pertinenze sia il numero dei componenti il nucleo familiare in modo da avere una correlazione più diretta alla produzione dei rifiuti. 
+Per quanto riguarda le utenze domestiche la TARI viene calcolata considerando sia i metri quadrati dell'abitazione e relative pertinenze sia il numero dei componenti il nucleo familiare in modo da avere una correlazione più diretta alla produzione dei rifiuti.
 
 Per quanto riguarda le utenze non domestiche la TARI viene calcolata sui metri quadri effettivi considerando una presunta produzione di rifiuto in base alla categoria merceologica di appartenenza.
 
 All'importo della TARI, deliberato dal Comune, si aggiunge l'Addizionale Provinciale nella misura determinata dalla Provincia che viene riversata totalmente alla stessa.
+
+# 11. Servizi disponibili a pagamento
+- Interventi diversi in area privata di raccolta rifiuti o pulizia stradale di natura occasionale, regolati da accordi personalizzati
+- Servizi di posizionamento contenitori, raccolta rifiuti o di pulizia a seguito di manifestazioni, eventi o spettacoli
+- Pulizia piazzali e parcheggi privati
+- Raccolta differenziata di cartucce esaurite di toner presso aziende e studi professionali
+- Raccolta differenziata della carta e del cartone per le attività commerciali, artigianali ed industriali
+- Raccolta differenziata del legno per le attività commerciali, artigianali ed industriali
+- Raccolta e smaltimento rifiuti speciali e/o pericolosi presso le aziende
+- Raccolta rifiuti ingombranti per utenze non domestiche
+- Raccolta e distruzione documenti
+- Raccolta scarti vegetali provenienti dalla manutenzione del verde privato
+- Noleggio e trasporto di container per la raccolta dei rifiuti
+
+Questi servizi possono essere richiesti telefonando al numero verde 800 437 678, alla sede Aprica di Montano Lucino al numero 031 520760 oppure inviando una mail a como.preventivi@a2a.eu.

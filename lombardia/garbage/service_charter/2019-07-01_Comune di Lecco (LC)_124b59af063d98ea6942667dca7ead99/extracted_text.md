@@ -1,16 +1,19 @@
 # LA CARTA DEI SERVIZI
 La Carta dei Servizi è il documento attraverso il quale SILEA S.P.A. (di seguito SILEA) in qualità di erogatore di pubblico servizio, si impegna nei confronti dei Cittadini-Utenti a rispettare i principi, le regole e la qualità dei servizi entro gli standard in esso indicati.
+
 La Carta dei Servizi agisce sulla chiarezza del rapporto e sulle strategie di miglioramento continuo del servizio.
+
 I cittadini potranno così conoscere e controllare che i servizi offerti da SILEA corrispondano a quanto descritto nella Carta e segnalare eventuali anomalie. Questo, oltre che un diritto degli utenti, permetterà a SILEA di migliorare i propri servizi.
+
 Nella Carta si ricordano inoltre i doveri dei cittadini, a cominciare dall'osservanza delle norme riportate nei Regolamenti Comunali, dalla corretta separazione e conferimento dei rifiuti, e dal rispetto di luoghi e spazi pubblici.
 
-# Ambito di applicazione
+## Ambito di applicazione
 La presente carta redatta conformemente a quanto definito nel Contratto di servizio, nelle prescrizioni tecniche ad esso allegate e dalla normativa vigente1 si applica ai servizi per l'attività di raccolta dei rifiuti urbani e l'igiene urbana per i Comuni Soci che hanno aderito al servizio.
 
-# Validità
+## Validità
 La presente Carta ha validità pari a quella del Contratto di servizio tra SILEA e i suoi comuni soci (sino al 31.12.2029) per la gestione del servizio ed è soggetta a revisione triennale. Potrà essere aggiornata in relazione a modifiche normative e contrattuali, a nuove esigenze.
 
-# Pubblicazione
+## Pubblicazione
 La Carta approvata sarà resa disponibile presso:
 - gli sportelli e sul sito internet (www.sileaspa.it) di SILEA S.p.A.
 - gli uffici e il sito internet dei comuni soci
@@ -18,11 +21,11 @@ La Carta approvata sarà resa disponibile presso:
 SILEA informerà l'utenza attraverso i diversi canali di comunicazione della pubblicazione del documento e delle sue modifiche.
 
 # INFORMAZIONI SULLA SOCIETÀ
-SILEA S.p.A. nata nel 1995 dalla trasformazione del precedente Consorzio Intercomunale, è l'Azienda di riferimento della Provincia di Lecco per la Gestione del ciclo Integrato dei Rifiuti. 
+SILEA S.p.A. nata nel 1995 dalla trasformazione del precedente Consorzio Intercomunale, è l'Azienda di riferimento della Provincia di Lecco per la Gestione del ciclo Integrato dei Rifiuti.
 
-Il capitale sociale di SILEA S.p.A. è pari a oltre 10,9 milioni di euro (210.935 azioni di valore nominale 52,00 euro ciascuna), ed è totalmente posseduto dai Comuni Soci, che sono gli 85 comuni della Provincia di Lecco a cui si aggiungono Lasnigo e Pusiano in provincia di Como e Torre de' Busi in provincia di Bergamo. 
+Il capitale sociale di SILEA S.p.A. è pari a oltre 10,9 milioni di euro (210.935 azioni di valore nominale 52,00 euro ciascuna), ed è totalmente posseduto dai Comuni Soci, che sono gli 85 comuni della Provincia di Lecco a cui si aggiungono Lasnigo e Pusiano in provincia di Como e Torre de' Busi in provincia di Bergamo.
 
-SILEA ha una partecipazione di maggioranza nella società SERUSO S.p.A. (SILEA S.p.A. 80,5% - Brianza Energia Ambiente S.p.A. 17,5% - CEM Ambiente S.p.A. 2 %) proprietaria di un impianto di selezione della frazione secca a Verderio (LC). 
+SILEA ha una partecipazione di maggioranza nella società SERUSO S.p.A. (SILEA S.p.A. 80,5% - Brianza Energia Ambiente S.p.A. 17,5% - CEM Ambiente S.p.A. 2 %) proprietaria di un impianto di selezione della frazione secca a Verderio (LC).
 
 SILEA ha adottato un modello di amministrazione e controllo tradizionale, articolato in Assemblea dei Soci, Consiglio di Amministrazione, Collegio Sindacale e Società di Revisione dei conti. Nella pagina CORPORATE del sito istituzionale di SILEA (www.sileaspa.it) è consultabile la composizione degli Organismi di governo e controllo.
 
@@ -42,7 +45,7 @@ SILEA svolge le seguenti attività:
 - sensibilizzazione ambientale dei cittadini nelle comunità locali attraverso la collaborazione del comune richiedente;
 - campagne di comunicazione e di informazione rivolte ai Comuni soci e ai cittadini.
 
-# Le sedi e gli impianti
+## Le sedi e gli impianti
 La sede legale e amministrativa di SILEA è in Via L. Vassena, 6 in comune di Valmadrera (LC). SILEA possiede e gestisce direttamente:
 - Termovalorizzatore di Valmadrera (LC);
 - Piattaforma Ecologica Provinciale di Valmadrera (LC);
@@ -50,9 +53,9 @@ La sede legale e amministrativa di SILEA è in Via L. Vassena, 6 in comune di Va
 - Impianto di selezione delle frazioni secche recuperabili di Verderio (LC);
 - Centro di rimessaggio mezzi destinati alla raccolta rifiuti, sito in comune di Calolziocorte (LC).
 
-Nel termovalorizzatore vengono sottoposti a trattamento di combustione: la parte residuale non recuperabile né riciclabile derivante dalla raccolta differenziata dei rifiuti solidi urbani e assimilabili, i rifiuti sanitari ed i rifiuti speciali. 
+Nel termovalorizzatore vengono sottoposti a trattamento di combustione: la parte residuale non recuperabile né riciclabile derivante dalla raccolta differenziata dei rifiuti solidi urbani e assimilabili, i rifiuti sanitari ed i rifiuti speciali.
 
-Nella Piattaforma Ecologica Provinciale si ricevono e vengono stoccati: rifiuti differenziati e recuperabili costituiti da rifiuti legnosi, imballaggi in vetro, terre di spazzamento strade, frazione vegetale, materiale ferroso etc... 
+Nella Piattaforma Ecologica Provinciale si ricevono e vengono stoccati: rifiuti differenziati e recuperabili costituiti da rifiuti legnosi, imballaggi in vetro, terre di spazzamento strade, frazione vegetale, materiale ferroso etc...
 
 Nell'Impianto di Compostaggio vengono sottoposti a trattamento di trasformazione biologica rifiuti provenienti dalla raccolta differenziata della FORSU (umido da cucina) in sacco biodegradabile e compostabile e del rifiuto cosiddetto "verde" proveniente da sfalci e potature. L'ammendante prodotto viene utilizzato da agricoltori, coltivatori, florovivaisti, ecc. in sostituzione ai fertilizzanti chimici ed è disponibile anche per uso privato ai cittadini del territorio.
 
@@ -62,7 +65,7 @@ SILEA ha inoltre una sede operativa a Calolziocorte (LC) dedicata alla gestione 
 
 Ogni attività direttamente svolta dal personale SILEA o delegata ad un fornitore/appaltatore/ terzista prevede un adeguato profilo di competenza. Per questa ragione SILEA ha definito i criteri per la formazione interna continua dei propri operatori e per la qualifica e la selezione dei propri fornitori.
 
-# Il servizio di raccolta dei rifiuti urbani e servizi di igiene ambientale
+## Il servizio di raccolta dei rifiuti urbani e servizi di igiene ambientale
 SILEA dall'anno 2007 gestisce "in house providing" attraverso l'impianto di compostaggio della frazione umida e l'impianto di selezione della frazione secca, nonché attraverso il termoutilizzatore lo smaltimento, il trattamento, il recupero e la valorizzazione dei rifiuti urbani della provincia di Lecco.
 
 Nel corso del 2014 e del 2015 molti Comuni soci hanno affidato a SILEA servizi di igiene ambientale quali la raccolta, il trasporto dei rifiuti solidi urbani, lo spazzamento strade, lo spurgo dei pozzetti e delle caditoie. Nel 2016 la quasi totalità dei comuni soci (89 su 90) ha affidato a SILEA l'intero ciclo integrato dei rifiuti sino a tutto il 2029.
@@ -70,11 +73,11 @@ Nel corso del 2014 e del 2015 molti Comuni soci hanno affidato a SILEA servizi d
 Il bacino di utenza del territorio di riferimento è pari a circa 342.000 abitanti. Di seguito si presenta la mappa dei Comuni Soci con indicazione dell'attivazione del servizio aggiornata al 2018:
 
 L'obiettivo minimo SILEA per la raccolta differenziata è pari al 75% da conseguirsi entro il 31.12.2025.
- 
+
 Le attività di raccolta dei rifiuti urbani e di igiene ambientale sono effettuate in parte direttamente da SILEA, con mezzi e personale propri, in 7 comuni per un bacino di circa 35.000 abitanti e per i restanti 79 comuni tramite società terze, scelte tramite procedura ad evidenza pubblica. Il raggruppamento temporaneo di imprese (di seguito: l'Appaltatore), affidatario dal 01.01.2018 dei servizi citati, è costituito da:
 - ECONORD SPA (Capogruppo) - Via Giordani, 35 - 21100 Varese
-- IL TRASPORTO SPA - Via Statale, 59 - 23888 La Valletta Brianza (LC) 
-- MASCIADRI LUIGI & C. SNC - Via Per Asso, n. 30 - 22030 Caslino d'Erba (CO) 
+- IL TRASPORTO SPA - Via Statale, 59 - 23888 La Valletta Brianza (LC)
+- MASCIADRI LUIGI & C. SNC - Via Per Asso, n. 30 - 22030 Caslino d'Erba (CO)
 - COLOMBO BIAGIO SRL - Via Mameli, 22 - 20852 Villasanta (MB)
 
 SILEA provvede costantemente alla vigilanza ed al controllo dei servizi forniti dagli Appaltatori, i quali sono tenuti all'osservanza di tutte le disposizioni emanate dalla stessa, nonché a mettere a disposizione personale e mezzi idonei a garantire un adeguato standard qualitativo. In particolare, a tutela dell'ambiente, SILEA ha preteso il rispetto dei Criteri Ambientali Minimi previsti dalla normativa vigente e ha prescritto che almeno il 50% degli automezzi attrezzati per l'espletamento dei servizi:
@@ -89,7 +92,7 @@ Il controllo sui servizi resi viene effettuato tramite più canali operativi, tr
 
 Eventuali disservizi rilevati dai Comuni sono contestati da SILEA all'Appaltatore. L'Appaltatore è tenuto a segnalare tempestivamente a SILEA le inadempienze od irregolarità che si verificano per cause ad esso non imputabili (strada interrotta – mancato spazzamento neve – conferimenti non conformi alle prescrizioni regolamentari – automezzi in sosta vietata ecc...).
 
-# Certificazioni
+## Certificazioni
 SILEA si è dotata di un Sistema Integrato per la Gestione Qualità-Ambiente-Sicurezza certificato in accordo con le norme ISO 9001, ISO 14001, EMAS e BS OHSAS 18001.
 
 Per garantire trasparenza in merito alle proprie prestazioni ambientali e comunicarle a tutte le parti interessate, SILEA ha aderito al Regolamento UE 1221/2009 (EMAS) e pubblica ogni anno la Dichiarazione Ambientale validata da un verificatore terzo accreditato (scaricabile dal sito web www.sileaspa.it).
@@ -104,7 +107,7 @@ SILEA infatti è tenuta anche al rispetto della normativa in materia di traspare
 
 A seguito della nuova normativa sulla privacy introdotta dal Regolamento generale per la protezione dei dati personali n. 2016/679, Silea ha recentemente nominato un Data Protection Officer (DPO).
 
-# Comunicazione, informazione ed educazione ambientale
+## Comunicazione, informazione ed educazione ambientale
 SILEA nello svolgimento delle sue attività interagisce con una pluralità di soggetti e parti interessate, tra gli altri: Comuni Soci, cittadini utenti, amministratori, associazioni ambientaliste, associazioni consumatori, scuole, enti di controllo, giornalisti, dipendenti di SILEA o di aziende che lavorano con e per conto di SILEA.
 
 La comunicazione e l'informazione puntuale verso tutti questi soggetti è un impegno che la società cura con metodi e strumenti che sono stati via via perfezionati e vengono mantenuti nel tempo quali: sito web istituzionale www.sileaspa.it, Dichiarazione Ambientale (scaricabile dal sito web), pubblicazione giornaliera dei dati di emissione degli impianti sul sito web e sui pannelli a messaggi variabili (sede aziendale ed in due punti nei comuni limitrofi di Valmadrera e Civate), volantini, annunci e comunicati su diversi media, l'App gratuita "Differenziati", volantini multilingue.
@@ -113,11 +116,7 @@ Annualmente viene organizzato un open day aperto a chiunque desideri visitare il
 
 SILEA inoltre svolge attività di educazione ambientale agli studenti di diversi gradi di istruzione (Scuola Infanzia, Primaria e Secondaria), seminari e iniziative presso la sua sede e serate informative presso i Comuni soci.
 
-SILEA nell'ultimo anno, proprio in relazione alla redazione della presente carta dei servizi, ha realizzato delle prime azioni di coinvolgimento delle parti interessate. In particolare, si è proceduto in primo luogo ad un confronto con un campione di utenza attraverso la somministrazione di un questionario distribuito presso la sede, quindi al coinvolgimento in focus group degli operatori tecnici di alcuni comuni.
-
-SILEA ha altresì coinvolto in ottemperanza alla normativa di settore, nella stesura del documento, le associazioni di Tutela dei Consumatori presenti sul territorio al fine di acquisire eventuali osservazioni e proposte di miglioramento.
-
-Tali iniziative hanno contribuito a identificare i temi di maggior interesse sui quali dare informazione all'utenza, nonché le questioni più rilevanti per quanto riguarda il territorio, permettendo così di acquisire un riferimento specifico per la stesura del presente documento.
+SILEA nell'ultimo anno, proprio in relazione alla redazione della presente carta dei servizi, ha realizzato delle prime azioni di coinvolgimento delle parti interessate. In particolare, si è proceduto in primo luogo ad un confronto con un campione di utenza attraverso la somministrazione di un questionario distribuito presso la sede, quindi al coinvolgimento in focus group degli operatori tecnici di alcuni comuni. SILEA ha altresì coinvolto in ottemperanza alla normativa di settore, nella stesura del documento, le associazioni di Tutela dei Consumatori presenti sul territorio al fine di acquisire eventuali osservazioni e proposte di miglioramento. Tali iniziative hanno contribuito a identificare i temi di maggior interesse sui quali dare informazione all'utenza, nonché le questioni più rilevanti per quanto riguarda il territorio, permettendo così di acquisire un riferimento specifico per la stesura del presente documento.
 
 # I PRINCIPI FONDAMENTALI
 SILEA eroga i servizi per l'attività di raccolta dei rifiuti e l'igiene urbana e tutti gli altri servizi nel rispetto dei seguenti principi fondamentali:
@@ -148,7 +147,8 @@ In generale è corretto:
 - rispettare il calendario e gli orari di esposizione dei rifiuti in strada per il ritiro;
 - segnalare al Comune o a SILEA eventuali rifiuti abbandonati sul territorio (es. carogne, siringhe, ecc.).
 
-# Il servizio di raccolta dei rifiuti urbani
+# MODALITÀ DI EROGAZIONE DEL SERVIZIO
+## Il servizio di raccolta dei rifiuti urbani
 Il servizio di raccolta dei rifiuti prevede plurime soluzioni di esecuzione:
 - RACCOLTA A DOMICILIO: Servizio di raccolta delle singole frazioni merceologiche presso l'utenza. Il conferimento avviene in sacchi e bidoni/contenitori dedicati distribuiti all'utenza. I sacchi devono essere chiusi correttamente e non devono contenere sostanze pericolose e oggetti taglienti non adeguatamente protetti. Il servizio è attivato non prima delle 5,30 e concluso entro le 15,00: orari e frequenze specifiche di raccolta sono stabilite dai singoli Comuni e comunicati all'utenza. Il servizio di raccolta è assicurato anche in presenza di condizioni atmosferiche avverse nonché in occasione delle festività, salve le disposizioni contenute nel CCNL (Contratto Collettivo Nazionale di Lavoro), in ogni caso con recupero del servizio il primo giorno successivo o precedente. Eventuali modifiche vengono comunicate all'utenza a mezzo stampa, app e con comunicazione al Comune. Gli operatori provvedono alla raccolta di sacchi e allo svuotamento di bidoni e contenitori, al riposizionamento di questi e alla raccolta di eventuali rifiuti dispersi durante l'operazione di raccolta. In presenza di errori di conferimento da parte dell'utenza (impiego di sacchi, bidoni e contenitori in modo non conforme alle indicazioni) il personale operativo segnala la non conformità mediante apposizione di adesivo specifico, si astiene dalla raccolta e segnala la situazione con tutti i riferimenti a SILEA e al comune per i provvedimenti di competenza. Al personale operativo, annualmente formato in relazione alla classificazione dei rifiuti e alle modalità di raccolta, è richiesto di limitare la velocità di transito, evitare il caricamento degli automezzi oltre il limite consentito, evitare che i motori dei mezzi, durante le fasi di caricamento, siano tenuti ad elevato numero di giri. Nel caso in cui i veicoli "satelliti" conferiscano i rifiuti in cassoni metallici, è previsto che questi siano di tipo "a tenuta" con coperchio azionabile oleodinamicamente e siano rimossi al termine del servizio e comunque entro le 24 ore successive alla raccolta stessa. Gli operatori inoltre, al termine di ciascun servizio, provvedono alla pulizia delle aree di sosta dei cassoni o di eventuale mezzo madre di conferimento (compattatore).
 - RACCOLTA STRADALE: Raccolta delle differenti frazioni di rifiuto mediante conferimento da parte dell'utenza in contenitori (cassonetti o campane) stradali dedicati collocati su indicazione di ogni singolo Comune sul suolo pubblico ad accesso libero. I contenitori sono specificatamente identificati per tipologia di rifiuto e periodicamente svuotati su automezzo adibito per il trasporto presso centri autorizzati.
@@ -156,7 +156,11 @@ Il servizio di raccolta dei rifiuti prevede plurime soluzioni di esecuzione:
 - CONFERIMENTO PRESSO ECO-STAZIONE MOBILE: Servizio di raccolta di rifiuti identificati come pericolosi mediante conferimento a eco-stazione mobile predisposta su automezzo itinerante fra i Comuni interessati dal servizio, nei punti di sosta e negli orari stabiliti e comunicati all'utenza con volantini ed altri mezzi idonei alla comunicazione. Il servizio è presidiato da almeno un operatore a cui compete il riconoscimento dell'utenza, la verifica del diritto al conferimento, il controllo del corretto conferimento ed eventuale assistenza.
 - RACCOLTA PRESSO UTENZE COMMERCIALI: Servizio di raccolta presso le utenze commerciali interessate dal servizio dotate di contenitori specifici. I contenitori sono specificatamente identificati e periodicamente svuotati per il trasporto dei rifiuti presso centri autorizzati.
 
-# I servizi di igiene ambientale
+Sacchi, bidoni e contenitori per la raccolta dei rifiuti sono identificati nelle loro caratteristiche tecniche e sono distribuiti all'utenza o resi disponibili all'utilizzo secondo le indicazioni dei singoli Comuni.
+
+I rifiuti raccolti sono trasportati con mezzi idonei verso impianti di trattamento autorizzati. In previsione dell'attivazione di un sistema di contabilizzazione del rifiuto indifferenziato, conferito dall'utenza mediante sacchi o contenitori rigidi, i mezzi impiegati nella raccolta sono predispo sti di un sistema di lettura dei dati relativi all'utenza riportati sui sacchi o contenitori. Il sistema di contabilizzazione sarà attivato su indicazione dei singoli Comuni.
+
+## I servizi di igiene ambientale
 SILEA offre ai Comuni che li abbiano espressamente affidati o richiesti su segnalazione degli utenti, i seguenti servizi di igiene urbana:
 - Spazzamento manuale e meccanizzato delle strade mediante impiego di attrezzatura idonea alla tipologia e dimensione delle strade, vicoli e viottoli di difficile accesso e alla presenza di autovetture lungo il percorso (minispazzatrici - spazzatrici a doppia spazzola per vie a senso unico ecc...). Il servizio è svolto avendo cura di contenere il sollevamento di polvere, rispettare le esigenze di circolazione stradale veicolare e pedonale, contenere la rumorosità e le emissioni di gas di scarico ed evitare il danneggiamento della pavimentazione stradale. Particolare attenzione di pulizia è prevista nei mesi autunnali ed invernali in relazione alla caduta delle foglie tipica di questi mesi. Gli itinerari e gli orari di spazzamento sono concordati con i Comuni e possono essere modificati, sempre in accordo con i Comuni, in relazione al manifestarsi di nuove esigenze. Nel caso il servizio non fosse svolto per ragioni inerenti la situazione atmosferica (pioggia o neve o spargimento sale) o per festività non lavorate verrà recuperato secondo le indicazioni dettate dai singoli Comuni.
 - Lavaggio strade, piazze ed aree pubbliche ad uso pubblico mediante utilizzo di mezzi idonei e impiego di acqua. Aree e frequenze sono identificate e definite con i singoli Comuni.
@@ -169,14 +173,15 @@ SILEA offre ai Comuni che li abbiano espressamente affidati o richiesti su segna
 - Raccolta di siringhe abbandonate da attivarsi previa segnalazione al Comune interessato, prevede l'intervento di operatori specializzati dotati di protezioni e attrezzatura specifica.
 - Raccolta rifiuti abbandonati attiva solo per alcuni Comuni, prevede la rimozione di rifiuti ingombranti e di qualunque altro rifiuto (es: cumuli di materiale inerte, piccoli rottami, materiale cartaceo, materiale vegetale, pneumatici usati, immondizie varie) abbandonato su suolo pubblico, classificato come urbano ai fini della raccolta. Qualora tra il materiale convenuto si riscontrassero rifiuti classificabili come speciali e/o pericolosi, prima della raccolta sono attivate, eventualmente incaricando ditte specializzate, le analisi necessarie al fine della corretta caratterizzazione e successivo smaltimento.
 
-# Miglioramento
+# ASCOLTARE PER MIGLIORARE
+## Miglioramento
 SILEA è orientata al miglioramento continuo delle proprie prestazioni e dei propri servizi. Pertanto, in aggiunta alle attività di monitoraggio effettuate da parte dei Comuni, SILEA si impegna a:
 - mantenere attiva la APP DIFFERENZIATI che permette agli utenti registrati di segnalare disservizi e ricevere informazioni e notifiche personali inviate da SILEA (chiusura segnalazioni e altro);
 - effettuare verifiche annuali sulla qualità ed efficacia dei servizi prestati in conformità agli standard di qualità definiti nella Carta dei Servizi;
 - verificare almeno annualmente il grado di soddisfazione dei clienti sulla qualità dei servizi forniti;
 - recepire i suggerimenti dei clienti e i reclami, al fine di migliorare la qualità dei servizi erogati e redigere statistiche delle segnalazioni e dei reclami (NUMERO VERDE).
 
-# Valutazione del grado di soddisfazione dell'utente
+## Valutazione del grado di soddisfazione dell'utente
 Il grado di soddisfazione degli utenti in merito alla qualità percepita del servizio reso viene rilevato da SILEA attraverso apposite indagini periodiche mirate a conoscere le esigenze dell'utente su alcuni aspetti specifici del servizio e condotte attraverso questionari cartacei e on line tramite sito web, APP e social media.
 
 I risultati delle indagini e gli standard medi di qualità raggiunti vengono analizzati periodicamente da SILEA al fine di sviluppare progetti ed iniziative per migliorare la qualità dei servizi erogati. Gli utenti possono far pervenire a SILEA suggerimenti e proposte attraverso la APP DIFFERENZIATI e il canale FACEBOOK.
@@ -193,10 +198,11 @@ Per facilitare i rapporti tra cittadino e SILEA sono attivi i seguenti strumenti
 - APP DIFFERENZIATI;
 - Pagina FACEBOOK.
 
-# Semplificazione delle procedure
+# TUTELA DEL RAPPORTO CON L'UTENZA
+## Semplificazione delle procedure
 SILEA provvede alla razionalizzazione, riduzione, semplificazione ed informatizzazione delle procedure, impegnandosi a ridurre, per quanto possibile, gli adempimenti richiesti agli utenti ed a fornire gli opportuni chiarimenti su di essi, adottando tutti gli strumenti necessari a questo fine (call center, sito web, etc.).
 
-# Informazione agli utenti
+## Informazione agli utenti
 SILEA si impegna a garantire una regolare informazione all'utenza in merito alle procedure, alle iniziative aziendali, agli aspetti normativi, ai contenuti del servizio, alle condizioni tecniche relative alla erogazione dello stesso. A tal fine:
 - ha istituito un sito internet e ne garantisce il regolare aggiornamento;
 - ha implementato e mette a disposizione dei cittadini un'applicazione (App Differenziati) per telefoni cellulari utilizzabile per scambi informativi bidirezionali;
@@ -206,11 +212,11 @@ SILEA si impegna a garantire una regolare informazione all'utenza in merito alle
 - effettua interventi di sensibilizzazione ambientale nelle scuole dell'infanzia, primarie e secondarie del territorio;
 - mantiene costanti rapporti con i mass media assicurando tramite questi un'ampia e pun- tuale informazione sulle modalità di erogazione del servizio e su eventuali interruzioni o modificazioni delle prestazioni fornite;
 - promuove tutte le iniziative utili per la trasparenza e la semplificazione nell'accesso ai servizi.
- 
-# Procedure di reclamo e richiesta di informazioni
+
+## Procedure di reclamo e richiesta di informazioni
 I reclami sul mancato rispetto dei principi o degli standard definiti nella presente Carta dei servizi o delle condizioni di erogazione del servizio previste dal contratto vanno di norma presentati a SILEA che ne darà comunicazione per conoscenza al Comune. Gli utenti possono presentare reclami e richieste di informazione inerenti al servizio sia in forma verbale che scritta, utilizzando i consueti canali d'accesso (numero verde, posta elettronica, PEC). Alle richieste di informazioni effettuate di persona o per telefono viene data immediata risposta, salvo casi particolari che richiedano verifiche o ricerche di documenti per i quali comunque il tempo massimo di risposta è pari a 3 giorni lavorativi. Alle richieste di informazioni ed ai reclami pervenuti per iscritto si prevede una risposta nel minor tempo possibile e comunque non oltre il tempo massimo di 5 giorni lavorativi. Tale risposta deve dare informazioni sugli accertamenti compiuti, sui termini in cui l'azienda provvederà ad eliminare le irregolarità e a riparare i danni eventualmente arrecati. Per richieste attinenti problemi che richiedono maggiori approfondimenti e/o la cui soluzione non dipenda unicamente dal soggetto gestore, il termine di 5 giorni lavorativi può essere prorogato con apposita comunicazione motivata con la quale l'utente viene informato anche sullo stato di avanzamento della pratica. In caso di mancata risposta o di risposte ritenute insoddisfacenti in merito a segnalazioni o reclami su qualsiasi servizio oggetto della presente Carta, il cittadino-utente può rivolgersi al Comune. SILEA riconosce il valore delle procedure conciliatorie extragiudiziali in ottica di prevenzione delle controversie giudiziali tra gestore e Utente. SILEA tiene conto dei reclami ricevuti nell'adozione di piani di miglioramento degli standard.
 
-# Tassa rifiuti
+## Tassa rifiuti
 La quota pagata da ciascuna utenza (utenza domestica e non domestica) per il servizio di gestione rifiuti e igiene urbana si chiama Tassa sui Rifiuti (TARI2) ed è corrisposta al Comune di appartenenza. Il sistema tariffario è di competenza di ogni singolo Comune.
 
 Tutti i cittadini sono tenuti ad accertarsi di essere in regola con questo pagamento per non incorrere in sanzioni. La TARI è dovuta da chiunque possieda o detenga a qualsiasi titolo locali o aree scoperte, a qualsiasi uso adibiti, suscettibili di produrre rifiuti urbani ed è suddivisa in:
@@ -219,5 +225,5 @@ Tutti i cittadini sono tenuti ad accertarsi di essere in regola con questo pagam
 
 Le informazioni sul sistema tariffario adottato e le modalità di pagamento sono reperibili presso il Comune di riferimento.
 
-# Penalità
+## Penalità
 Nel contratto di servizio sono stabilite penalità a carico di SILEA ed a favore del Comune interessato, in caso di inadempimento rispetto alle disposizioni contrattuali. Ai sensi del Contratto di servizio il Comune contesta in forma scritta l'inadempimento a SILEA che, entro dieci giorni lavorativi dal ricevimento, potrà a sua volta presentare le proprie controdeduzioni. Il contratto citato prevede altresì che l'eventuale mancato raggiungimento dei livelli qualitativamente attesi dei servizi resi, segnalato dal Comune dovrà essere risolto, mediante incontri con la società da tenersi entro massimo 5 giorni lavorativi, con spirito di leale collaborazione e con la sottoscrizione, ove necessario, di accordi.

@@ -1,7 +1,7 @@
 # 2. Cos'è la Carta della qualità del servizio e quali sono i suoi obiettivi
-La Carta di qualità del Servizio è uno strumento volto a racchiudere in un unico documento tutte le informazioni inerenti al servizio di Gestione tariffe e rapporti con gli utenti e di Spazzamento stradale, nel più ampio ambito del Servizio di gestione dei rifiuti urbani. 
+La Carta di qualità del Servizio è uno strumento volto a racchiudere in un unico documento tutte le informazioni inerenti al servizio di Gestione tariffe e rapporti con gli utenti e di Spazzamento stradale, nel più ampio ambito del Servizio di gestione dei rifiuti urbani.
 
-Essa fissa principi per l'erogazione del servizio, stabilisce standard generali riferibili alla qualità complessiva delle prestazioni e standard specifici che indicano prestazioni direttamente controllabili dagli utenti. La Carta è pertanto un impegno scritto assunto dal Comune nei confronti dei cittadini, orientato a rendere i pubblici servizi meglio rispondenti alle esigenze effettive degli utenti e a migliorarne la qualità complessiva. 
+Essa fissa principi per l'erogazione del servizio, stabilisce standard generali riferibili alla qualità complessiva delle prestazioni e standard specifici che indicano prestazioni direttamente controllabili dagli utenti. La Carta è pertanto un impegno scritto assunto dal Comune nei confronti dei cittadini, orientato a rendere i pubblici servizi meglio rispondenti alle esigenze effettive degli utenti e a migliorarne la qualità complessiva.
 
 Per sua stessa natura la Carta è caratterizzata da un linguaggio di facile accesso e comprensibilità e nella stessa trovano spazio sia le indicazioni necessarie al cittadino. La Carta intende infatti guidare il contribuente informandolo sui servizi forniti dal Comune nell'ambito della Gestione della Tassa sui Rifiuti (TARI) e dell'attività di Spazzamento stradale e fornendo gli elementi necessari per verificare in che misura vengono rispettati gli impegni che il Comune assume nei suoi confronti, garantendo i livelli di qualità dichiarati negli standard per rispondere sempre meglio alle aspettative dei contribuenti e perseguire il continuo miglioramento dei servizi resi.
 
@@ -10,20 +10,39 @@ La Carta ha validità pluriennale ed è soggetta a revisione del contenuto, sull
 # 3. Territorio di riferimento
 La presente Carta di Qualità del Servizio ha validità per tutto il territorio del Comune di Valfurva che si estende per 215 km² e conta una popolazione pari a 2 508 abitanti (dato al 1° gennaio 2022). Il numero di contribuenti totali a cui si rivolge il servizio è di circa 1.674 unità.
 
-
-# 4.1. SERVIZIO DI GESTIONE DELLE TARIFFE E RAPPORTO CON GLI UTENTI
+# 4. Principi di erogazione del servizio
+## 4.1. SERVIZIO DI GESTIONE DELLE TARIFFE E RAPPORTO CON GLI UTENTI
 Per la parte relativa alla Gestione delle Tariffe e Rapporto con gli Utenti, il Comune di Valfurva si impegna a rispettare i seguenti principi generali:
-- Imparzialità: Il Gestore adotta nei confronti degli utenti un comportamento ispirato a criteri di obiettività, giustizia e imparzialità.
-- Chiarezza, cortesia e comprensibilità delle informazioni (all'utenza): Il Comune assicura il proprio impegno per garantire l'esposizione corretta delle informazioni necessarie e la disponibilità degli Uffici ai fini del buon esito della pratica in fase di trattazione, ponendo anche la massima attenzione alla semplicità e alla chiarezza del linguaggio utilizzato. Tutti i rapporti con gli utenti sono improntati alla cortesia, alla disponibilità, all'ascolto, al rispetto e all'educazione reciproci.
-- Equità: Il Comune assicura che il prelievo tributario sia commisurato all'effettiva capacità contributiva garantendo l'emissione di atti di annullamento, sgravi e rimborsi inerenti atti impositivi inesatti o versamenti eccedenti il dovuto.
-- Semplificazione delle procedure: Il Comune assume iniziative volte a garantire che la modulistica sia messa a disposizione del contribuente in tempi utili per gli adempimenti e curando che le proprie comunicazioni ed istruzioni siano comprensibili; per quanto concerne i procedimenti disciplinati autonomamente, gli uffici prevedono che il contribuente possa adempiere ai propri obblighi nelle forme più rapide, agevoli e meno onerose, soprattutto mediante il ricorso sempre maggiore all'informatizzazione dei sistemi di accesso ai servizi.
 
-# 4.2. SERVIZIO DI GESTIONE DELLO SPAZZAMENTO STRADALE
+### Imparzialità
+Il Gestore adotta nei confronti degli utenti un comportamento ispirato a criteri di obiettività, giustizia e imparzialità.
+
+### Chiarezza, cortesia e comprensibilità delle informazioni (all'utenza)
+Il Comune assicura il proprio impegno per garantire l'esposizione corretta delle informazioni necessarie e la disponibilità degli Uffici ai fini del buon esito della pratica in fase di trattazione, ponendo anche la massima attenzione alla semplicità e alla chiarezza del linguaggio utilizzato. Tutti i rapporti con gli utenti sono improntati alla cortesia, alla disponibilità, all'ascolto, al rispetto e all'educazione reciproci.
+
+### Equità
+Il Comune assicura che il prelievo tributario sia commisurato all'effettiva capacità contributiva garantendo l'emissione di atti di annullamento, sgravi e rimborsi inerenti atti impositivi inesatti o versamenti eccedenti il dovuto.
+
+### Semplificazione delle procedure
+Il Comune assume iniziative volte a garantire che la modulistica sia messa a disposizione del contribuente in tempi utili per gli adempimenti e curando che le proprie comunicazioni ed istruzioni siano comprensibili; per quanto concerne i procedimenti disciplinati autonomamente, gli uffici prevedono che il contribuente possa adempiere ai propri obblighi nelle forme più rapide, agevoli e meno onerose, soprattutto mediante il ricorso sempre maggiore all'informatizzazione dei sistemi di accesso ai servizi.
+
+## 4.2. SERVIZIO DI GESTIONE DELLO SPAZZAMENTO STRADALE
 Per la parte relativa alla Gestione dello Spazzamento Stradale, il Comune di Valfurva si impegna a rispettare i seguenti principi generali:
-- Tutela dell'ambiente: Il Comune nello svolgimento del servizio e di ogni attività, garantisce, nei limiti delle proprie competenze, la tutela della salute e della sicurezza dei cittadini e dei lavoratori, nonché la salvaguardia dell'ambiente, impegnandosi a sviluppare strategie ed azioni finalizzate al risparmio delle risorse primarie.
-- Continuità: Il Comune garantisce la continuità e la regolarità delle attività. Si impegna, inoltre, ad adottare tutte le misure e i provvedimenti necessari per ridurre al minimo i tempi di risoluzione di eventuali disservizi e fornire tempestive informazioni sulle motivazioni e la durata degli stessi, garantendo le prestazioni indispensabili per la tutela della salute e della sicurezza dell'utente.
-- Efficienza ed efficacia: Il Comune pone il massimo impegno affinché i servizi siano erogati in modo da garantire un idoneo grado di efficienza ed efficacia, ponendo in essere le condizioni e le misure idonee al raggiungimento di tali obiettivi.
-- Privacy: Il Comune si impegna a garantire che il trattamento dei dati personali degli utenti avvenga nel rispetto delle disposizioni di cui al GDPR.
+
+### Tutela dell'ambiente
+Il Comune nello svolgimento del servizio e di ogni attività, garantisce, nei limiti delle proprie competenze, la tutela della salute e della sicurezza dei cittadini e dei lavoratori, nonché la salvaguardia dell'ambiente, impegnandosi a sviluppare strategie ed azioni finalizzate al risparmio delle risorse primarie.
+
+### Continuità
+Il Comune garantisce la continuità e la regolarità delle attività. Si impegna, inoltre, ad adottare tutte le misure e i provvedimenti necessari per ridurre al minimo i tempi di risoluzione di eventuali disservizi e fornire tempestive informazioni sulle motivazioni e la durata degli stessi, garantendo le prestazioni indispensabili per la tutela della salute e della sicurezza dell'utente.
+
+### Efficienza ed efficacia
+Il Comune pone il massimo impegno affinché i servizi siano erogati in modo da garantire un idoneo grado di efficienza ed efficacia, ponendo in essere le condizioni e le misure idonee al raggiungimento di tali obiettivi.
+
+### Privacy
+Il Comune si impegna a garantire che il trattamento dei dati personali degli utenti avvenga nel rispetto delle disposizioni di cui al GDPR.
+
+# 5. Gestori
+Sono di seguito riportate le informazioni inerenti ai gestori del servizio rifiuti ed i relativi contatti.
 
 # 6. Posizionamento nella matrice degli schemi regolatori
 Considerato quanto disposto con Deliberazione 15/2022 in relazione alla regolazione della qualità del servizio di gestione dei rifiuti urbani, preso atto dello schema regolatorio asimmetrico e graduale predisposto da ARERA nella suddetta Deliberazione, il Comune, in veste di Ente territorialmente competente, ha individuato, come indicato dall'art. 3, comma 1 del Testo unico per la regolazione della qualità del servizio di gestione dei rifiuti urbani (TQRIF), il posizionamento della gestione nella schema regolatorio I, sulla base del livello qualitativo di partenza.
@@ -31,22 +50,23 @@ Considerato quanto disposto con Deliberazione 15/2022 in relazione alla regolazi
 # 7. Obblighi di servizio e standard generali di qualità contrattuale e tecnica
 Dal momento che il Comune, in veste di Ente territorialmente competente, ha optato per lo schema regolatorio I di cui sopra con Deliberazione di Giunta Comunale n. 16 del 18/02/2022, la Gestione del Servizio non è soggetta, secondo quando disposto da ARERA rispettivamente al secondo e terzo comma art. 3 del TQRIF, a standard di qualità generali ma esclusivamente agli obblighi di servizio di cui all'APPENDICE 1 del TQRIF esposti nella seguente tabella.
 
-# 8.1. SERVIZIO DI GESTIONE DELLE TARIFFE E RAPPORTO CON GLI UTENTI
+# 8. Modalità di erogazione del servizio
+## 8.1. SERVIZIO DI GESTIONE DELLE TARIFFE E RAPPORTO CON GLI UTENTI
 Nel Comune di Valfurva il servizio di gestione della TARI è ricompreso tra le competenze dell'ufficio tributi; pertanto non sono destinate alla TARI specifiche risorse di personale e non è individuato un orario definito in quanto le attività sono condotte promiscuamente rispetto a quelle dell'ufficio suddetto.
 
-La gestione del rapporto con gli utenti, per quanto attiene la tariffazione del servizio, viene erogata mediante un servizio di sportello che osserva i seguenti orari: 
+La gestione del rapporto con gli utenti, per quanto attiene la tariffazione del servizio, viene erogata mediante un servizio di sportello che osserva i seguenti orari:
 - da lunedì a venerdì dalle ore 08:30 alle ore 12:00,
 - lunedì e mercoledì dalle ore 14:00 alle ore 16:00
 
 Lo sportello telefonico è attivo negli orari di lavoro dei dipendenti, per n. 36 ore settimanali.
 
-L'emissione e spedizione degli avvisi di pagamento avviene a mezzo postalizzazione ed invio attraverso ditta specializzata con consegna tramite posta massiva ordinaria. 
+L'emissione e spedizione degli avvisi di pagamento avviene a mezzo postalizzazione ed invio attraverso ditta specializzata con consegna tramite posta massiva ordinaria.
 
 Le richieste ricevute dall'utenza vengono gestite ed evase in base alle vigenti disposizioni entro il termine di 30 giorni, in applicazione dell'art. 2 legge 241/1990.
 
 Per la predisposizione del PEF, il Comune di Valfurva si avvale del supporto di un consulente esterno.
 
-Il servizio di gestione tariffa e rapporto con gli utenti si compone di una serie di attività riassunte nella tabella2 che segue. Per ogni attività erogata nell'ambito della gestione della TARI è indicato un parametro di valutazione della qualità del servizio reso. Al momento non sono previsti standard di qualità specifici da conseguire o livelli a cui associare una valutazione: essi potranno essere successivamente introdotti per decisione dell'Ente Territorialmente Competente o direttamente dall'Autorità. Potranno comunque essere individuate misurazioni a campione per valutare l'efficacia delle attività condotte.
+Il servizio di gestione tariffa e rapporto con gli utenti si compone di una serie di attività riassunte nella tabella che segue. Per ogni attività erogata nell'ambito della gestione della TARI è indicato un parametro di valutazione della qualità del servizio reso. Al momento non sono previsti standard di qualità specifici da conseguire o livelli a cui associare una valutazione: essi potranno essere successivamente introdotti per decisione dell'Ente Territorialmente Competente o direttamente dall'Autorità. Potranno comunque essere individuate misurazioni a campione per valutare l'efficacia delle attività condotte.
 
 # 8.2. SERVIZIO DI GESTIONE DELLO SPAZZAMENTO STRADALE
 Il Comune di Valfurva, in qualità di Gestore del servizio di spazzamento e lavaggio stradale, svolge direttamente tutte le attività ordinarie di pulizia manuale delle strade ovvero di rimozione di rifiuti sulle aree pavimentate pubbliche e di uso pubblico del territorio di competenza.
@@ -61,26 +81,27 @@ In ottemperanza a quanto disciplinato dall'articolo 42.1 del TQRIF il gestore de
 
 Si allega alla presente il documento sopra indicato.
 
-# 9.1. Reclami, richieste scritte di informazioni e richieste di rettifica degli importi addebitati
+# 9. Misure per la tutela degli utenti
+## 9.1. Reclami, richieste scritte di informazioni e richieste di rettifica degli importi addebitati
 L'utente può presentare al gestore della tariffa e rapporto con gli utenti eventuali richieste scritte di informazioni, di rettifica degli importi addebitati, segnalazioni di disservizi e reclami. I moduli dedicati sono disponibili presso lo Sportello fisico dell'Ufficio Tributi, o scaricabili dalla sezione trasparenza rifiuti del sito istituzionale del Comune consultabile al seguente link https://www.trasparenzatari.it/trasparenzatari/?COMUNE=L576. Le suddette richieste dovranno essere consegnate a mano presso i punti di contatto con l'utente o fatte pervenire all'Ufficio competente a mezzo posta o mediante Posta Elettronica Certificata.
 
 È inoltre facoltà dell'utente presentare tali richieste anche senza utilizzare l'apposita modulistica, purché la comunicazione contenga almeno le seguenti informazioni:
-- Nome, cognome e codice fiscale; 
+- Nome, cognome e codice fiscale;
 - Recapito postale e/o l'indirizzo di posta elettronica;
 - Il servizio cui di riferisce il reclamo (quindi, il gestore della raccolta e trasporto, spazzamento e lavaggio delle strade, gestione delle tariffe e rapporto con gli utenti)
 - Il codice utente (reperibile nell'avviso di pagamento TARI)
-- L'indirizzo e il codice utenza (reperibile nell'avviso di pagamento TARI) 
-- Le coordinate bancarie/postali per l'eventuale accredito degli importi addebitati (solo nel caso di richiesta scritta di rettifica degli importi) 
+- L'indirizzo e il codice utenza (reperibile nell'avviso di pagamento TARI)
+- Le coordinate bancarie/postali per l'eventuale accredito degli importi addebitati (solo nel caso di richiesta scritta di rettifica degli importi)
 
 Qualora il reclamo o la richiesta di informazione sia relativa ai servizi di raccolta e trasporto o spazzamento e lavaggio, il gestore della tariffa e rapporto con gli utenti rindirizzerà la richiesta al gestore di riferimento in tempo utile per consentirne un adeguato riscontro.
 
 I gestori si impegnano inoltre a rispondere ai reclami scritti e alle richieste scritte di informazioni con risposte motivate, complete, chiare e comprensibili.
 
-# 9.2 Modalità per adire le vie conciliative e giudiziarie
+## 9.2 Modalità per adire le vie conciliative e giudiziarie
 É impugnabile qualsiasi atto che porti nella sfera di conoscenza del contribuente una pretesa fiscale definita, senza necessità che la stessa, si vesta nella forma autoritativa di uno degli atti dichiarati impugnabili dall'art. 19 del D. Lgs. 546/1992. Sono impugnabili mediante ricorso ai giudici tributari:
-- l'avviso di accertamento del tributo; 
-- l'avviso di liquidazione del tributo o avviso ordinario; 
-- il provvedimento che irroga le sanzioni; 
+- l'avviso di accertamento del tributo;
+- l'avviso di liquidazione del tributo o avviso ordinario;
+- il provvedimento che irroga le sanzioni;
 - il ruolo e la cartella di pagamento;
 - l'avviso di mora;
 - gli atti relativi alle operazioni catastali

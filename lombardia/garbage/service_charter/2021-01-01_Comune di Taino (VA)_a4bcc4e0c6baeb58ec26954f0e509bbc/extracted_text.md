@@ -1,6 +1,16 @@
 # 1. Cos'è e che finalità ha la Carta
 La presente Carta dei Servizi è predisposta dal Comune ed è rivolta agli utenti e contribuenti del servizio di gestione delle tariffe e dei rapporti con gli utenti TARI. Ha la finalità di avvicinare il cittadino/contribuente alla individuazione delle attività di gestione della TARI e, in modo particolare, per conoscere gli strumenti che lo stesso può utilizzare per ricevere informazioni e/o servizi. La Carta fissa principi per l'erogazione del servizio, stabilisce standard generali riferibili alla qualità complessiva delle prestazioni e standard specifici che indicano prestazioni direttamente controllabili dal cittadino. La Carta della Qualità del Servizio TARI è un impegno scritto assunto dal Comune nei confronti dei cittadini, orientato a rendere i pubblici servizi meglio rispondenti alle esigenze effettive degli utenti e a migliorarne la qualità complessiva. Gli standard di livelli minimi di qualità previsti nell'erogazione di servizi, che il Comune s'impegna a garantire ai cittadini, sono derogabili soltanto se più favorevoli. In caso di mancato rispetto degli obiettivi e/o degli standard prefissati, il cittadino/utente può presentare reclamo con le modalità previste. Il riconoscimento della mancata o difettosa erogazione di una singola prestazione, può dare luogo ad azioni correttive e, se espressamente richiesto, ad un eventuale indennizzo/rimborso forfettario automatico, non avente carattere risarcitorio e distinto da questo. La Carta dei Servizi costituisce elemento integrativo della normativa. Pertanto tutte le condizioni più favorevoli per i cittadini/contribuenti contenute nella Carta integrano quelle previste dalla normativa. Per sua stessa natura la Carta è caratterizzata da un linguaggio di facile accesso e comprensibilità e nella stessa trovano spazio sia le indicazioni necessarie al cittadino che l'individuazione di quelli che sono gli standard di qualità con cui deve essere erogato il servizio. La Carta intende guidare il contribuente informandolo sui servizi messi a disposizione e fornendo gli elementi necessari per verificare in che misura vengono rispettati gli impegni che l'amministrazione si assume nei suoi confronti, garantendo i livelli di qualità dichiarati negli standard per rispondere sempre meglio alle aspettative dei contribuenti e perseguire il continuo miglioramento dei servizi resi. La Carta della Qualità del Servizio TARI è parte di un atteggiamento più ampio ed articolato di attenzione ai cittadini/contribuenti al fine di consentire un approccio globale alla qualità del servizio prestato. La Carta è quindi uno strumento nelle mani del cittadino e delle Associazioni di difesa dei cittadini consumatori, per consentire un dialogo continuo tra il Comune e gli utenti del servizio.
 
+# 2. Qual è il quadro legislativo e regolamentare
+La Carta è ispirata:
+- alla Direttiva del Presidente del Consiglio dei Ministri del 27 gennaio 1994, recante i Principi sull’erogazione dei servizi pubblici”;
+- alla Legge 27 luglio 2000, n. 212 “Statuto dei diritti del contribuente”;
+- D.P.C.M. 19/05/1995, in cui sono emanati schemi generali di riferimento di Carte di Servizi pubblici;
+- D.L. 30/07/1999 n. 286, art. 11, che prevede l’obbligo dell’utilizzo dello strumento della Carta dei Servizi da parte dei soggetti erogatori, al fine di assicurare la tutela dei cittadini e degli Utenti e la loro partecipazione, nelle forme, anche associative, riconosciute GEST | Carta dei Servizi di gestione dei rifiuti urbani dalla legge, alle inerenti procedure di valutazione e definizione degli standard qualitativi;
+- L. n. 244/2007, art. 2, c. 461, che prevede l’obbligo per il gestore di emanare una “Carta della Qualità dei Servizi”;
+- al D.Lgs. 27 ottobre 2009, n. 150 in materia di ottimizzazione del lavoro pubblico, di efficienza e trasparenza delle Pubbliche Amministrazioni, come modificato dal D.Lgs. n. 74/2017. Questo Decreto prevede, fra l’altro, la rilevazione del grado di soddisfazione dei destinatari delle attività e dei servizi, e lo sviluppo qualitativo e quantitativo delle relazioni con i cittadini, e in particolare con i destinatari dei servizi;
+- al D.Lgs. 14 marzo 2013 n. 33 in tema di “Riordino della disciplina riguardante gli obblighi di pubblicità, trasparenza e diffusione di informazioni da parte delle pubbliche amministrazioni”.
+
 # 3. Cos'è la TARI
 TARI è l'acronimo di TAssa RIfiuti, la nuova imposta comunale istituita con la legge di stabilità 2014. Essa in pratica prende il posto della vecchia TARES. Il presupposto della TARI è il possesso o la detenzione a qualsiasi titolo di locali o di aree scoperte, a qualsiasi uso adibiti, suscettibili di produrre rifiuti urbani. Quindi la nuova tassa sui rifiuti prevede che la somma da versare al Comune sia dovuta dagli inquilini, indipendentemente se proprietari o affittuari.
 
@@ -25,31 +35,44 @@ Il Comune è titolare della potestà impositiva relativamente alla TARI – Tass
 # 7. Quali sono i principi di erogazione del servizio
 Il Comune nell'erogazione del servizio si ispira ai principi di uguaglianza dei diritti degli utenti secondo criteri di obiettività, giustizia ed imparzialità, senza discriminazione di sesso, etnia o religione, garantendo uguaglianza di trattamento a parità di presupposti nell'ambito di tutto il territorio comunale, con particolare attenzione ai soggetti portatori di handicap, agli anziani ed ai cittadini appartenenti a fasce sociali deboli che non hanno particolare dimestichezza con la materia tributaria.
 
-Equità: Il Comune assicura che il prelievo tributario sia commisurato all'effettiva capacità contributiva garantendo l'emissione di atti di annullamento, sgravi e rimborsi inerenti atti impositivi inesatti o versamenti eccedenti il dovuto.
+## Equità
+Il Comune assicura che il prelievo tributario sia commisurato all'effettiva capacità contributiva garantendo l'emissione di atti di annullamento, sgravi e rimborsi inerenti atti impositivi inesatti o versamenti eccedenti il dovuto.
 
-Legalità: L'erogazione dei servizi e il generale funzionamento dell'Amministrazione comunale s'ispirano al principio di legalità, nel rispetto delle norme, delle leggi e dei regolamenti applicabili.
+## Legalità
+L'erogazione dei servizi e il generale funzionamento dell'Amministrazione comunale s'ispirano al principio di legalità, nel rispetto delle norme, delle leggi e dei regolamenti applicabili.
 
-Uguaglianza: L'erogazione dei servizi pubblici e il loro accesso si conformano al principio di uguaglianza dei diritti degli utenti, secondo regole uguali per tutti a prescindere da sesso, età, nazionalità, etnia, lingua, religione, opinione politica e condizione sociale. L'uguaglianza garantisce la parità di trattamento, escludendo ogni forma di discriminazione ingiustificata. Non va, in ogni caso, intesa come uniformità delle prestazioni (uguaglianza formale), che possono invece variare in funzione delle specifiche situazioni personali e sociali (uguaglianza sostanziale).
+## Uguaglianza
+L'erogazione dei servizi pubblici e il loro accesso si conformano al principio di uguaglianza dei diritti degli utenti, secondo regole uguali per tutti a prescindere da sesso, età, nazionalità, etnia, lingua, religione, opinione politica e condizione sociale. L'uguaglianza garantisce la parità di trattamento, escludendo ogni forma di discriminazione ingiustificata. Non va, in ogni caso, intesa come uniformità delle prestazioni (uguaglianza formale), che possono invece variare in funzione delle specifiche situazioni personali e sociali (uguaglianza sostanziale).
 
-Imparzialità: Il Comune di Taino eroga i servizi pubblici ai propri utenti secondo criteri di obiettività, giustizia e imparzialità. È assicurata la costante e completa conformità alle norme regolatrici di settore, in ogni fase di erogazione dei relativi servizi.
+## Imparzialità
+Il Comune di Taino eroga i servizi pubblici ai propri utenti secondo criteri di obiettività, giustizia e imparzialità. È assicurata la costante e completa conformità alle norme regolatrici di settore, in ogni fase di erogazione dei relativi servizi.
 
-Continuità: Nell'ambito delle modalità stabilite dalla vigente normativa regolatrice di settore, l'erogazione dei servizi pubblici avviene, salvo conclamati casi di forza maggiore o previsti da specifiche norme di legge, con continuità, regolarità e senza interruzioni. In caso di funzionamento irregolare o d'interruzione del servizio, sono adottate tutte le misure necessarie al fine di limitare al minimo i tempi dell'irregolarità, e di ridurre il più possibile i disagi all'utenza. Il Comune si impegna ad avvisare gli utenti interessati con adeguato anticipo (minimo due giorni - fino ad un massimo di 2 giorni), attraverso l'avviso sul sito internet istituzionale; la durata massima delle interruzioni non può superare i 2 giorni lavorativi.
+## Continuità
+Nell'ambito delle modalità stabilite dalla vigente normativa regolatrice di settore, l'erogazione dei servizi pubblici avviene, salvo conclamati casi di forza maggiore o previsti da specifiche norme di legge, con continuità, regolarità e senza interruzioni. In caso di funzionamento irregolare o d'interruzione del servizio, sono adottate tutte le misure necessarie al fine di limitare al minimo i tempi dell'irregolarità, e di ridurre il più possibile i disagi all'utenza. Il Comune si impegna ad avvisare gli utenti interessati con adeguato anticipo (minimo due giorni - fino ad un massimo di 2 giorni), attraverso l'avviso sul sito internet istituzionale; la durata massima delle interruzioni non può superare i 2 giorni lavorativi.
 
-Diritto di scelta: Laddove non lo impedisca la normativa di settore e, compatibilmente con le esigenze organizzative e funzionali, agli utenti è riconosciuta la facoltà di scegliere fra i diversi soggetti che erogano i servizi, in particolare distribuiti sul territorio.
+## Diritto di scelta
+Laddove non lo impedisca la normativa di settore e, compatibilmente con le esigenze organizzative e funzionali, agli utenti è riconosciuta la facoltà di scegliere fra i diversi soggetti che erogano i servizi, in particolare distribuiti sul territorio.
 
-Partecipazione: Il Comune s'impegna a promuovere la partecipazione dei cittadini alla prestazione del servizio pubblico, sia per tutelare il diritto alla corretta erogazione dei servizi, sia per favorirne il rapporto collaborativo. Il diritto di accesso agli atti amministrativi è consentito, nel rispetto della L. 241/90 a tutti coloro che risultino titolari di un interesse personale e concreto, finalizzato alla tutela di situazioni giuridicamente rilevanti. Per migliorare la prestazione dei servizi pubblici e la partecipazione attiva dei cittadini, questi possono produrre documenti, osservazioni o formulare suggerimenti, nonché presentare reclami per eventuali disservizi rilevati nell'erogazione dei servizi stessi. L'utente, in proprio o attraverso le Associazioni, ha la facoltà di presentare reclami ed istanze, produrre memorie e documenti, avanzare proposte e suggerimenti per il miglioramento del servizio. Per gli aspetti di relazione con l'utente, il Comune garantisce l'identificabilità del personale ed individua i responsabili degli uffici e dei servizi coinvolti. Il Comune promuove periodiche rilevazioni sul grado di soddisfazione degli utenti, circa la qualità dei servizi resi.
+## Partecipazione
+Il Comune s'impegna a promuovere la partecipazione dei cittadini alla prestazione del servizio pubblico, sia per tutelare il diritto alla corretta erogazione dei servizi, sia per favorirne il rapporto collaborativo. Il diritto di accesso agli atti amministrativi è consentito, nel rispetto della L. 241/90 a tutti coloro che risultino titolari di un interesse personale e concreto, finalizzato alla tutela di situazioni giuridicamente rilevanti. Per migliorare la prestazione dei servizi pubblici e la partecipazione attiva dei cittadini, questi possono produrre documenti, osservazioni o formulare suggerimenti, nonché presentare reclami per eventuali disservizi rilevati nell'erogazione dei servizi stessi. L'utente, in proprio o attraverso le Associazioni, ha la facoltà di presentare reclami ed istanze, produrre memorie e documenti, avanzare proposte e suggerimenti per il miglioramento del servizio. Per gli aspetti di relazione con l'utente, il Comune garantisce l'identificabilità del personale ed individua i responsabili degli uffici e dei servizi coinvolti. Il Comune promuove periodiche rilevazioni sul grado di soddisfazione degli utenti, circa la qualità dei servizi resi.
 
-Semplificazione delle procedure: Il Comune assume iniziative volte a garantire che la modulistica sia messa a disposizione del contribuente in tempi utili per gli adempimenti e curando che le proprie comunicazioni ed istruzioni siano comprensibili; per quanto concerne i procedimenti disciplinati autonomamente, gli uffici prevedono che il contribuente possa adempiere ai propri obblighi nelle forme più rapide, agevoli e meno onerose, soprattutto mediante il ricorso sempre maggiore all'informatizzazione dei sistemi di accesso ai servizi.
+## Semplificazione delle procedure
+Il Comune assume iniziative volte a garantire che la modulistica sia messa a disposizione del contribuente in tempi utili per gli adempimenti e curando che le proprie comunicazioni ed istruzioni siano comprensibili; per quanto concerne i procedimenti disciplinati autonomamente, gli uffici prevedono che il contribuente possa adempiere ai propri obblighi nelle forme più rapide, agevoli e meno onerose, soprattutto mediante il ricorso sempre maggiore all'informatizzazione dei sistemi di accesso ai servizi.
 
-Efficienza ed efficacia: Il Comune pone il massimo impegno affinché i servizi siano erogati in modo da garantire un idoneo grado di efficienza ed efficacia, ponendo in essere le condizioni e le misure idonee al raggiungimento di tali obiettivi, adottando in maniera continuativa soluzioni tecnologiche, organizzative e procedurali più funzionali al raggiungimento dello scopo, compatibilmente con le risorse disponibili.
+## Efficienza ed efficacia
+Il Comune pone il massimo impegno affinché i servizi siano erogati in modo da garantire un idoneo grado di efficienza ed efficacia, ponendo in essere le condizioni e le misure idonee al raggiungimento di tali obiettivi, adottando in maniera continuativa soluzioni tecnologiche, organizzative e procedurali più funzionali al raggiungimento dello scopo, compatibilmente con le risorse disponibili.
 
-Chiarezza e cortesia: Il Comune assicura il proprio impegno per garantire l'esposizione corretta delle informazioni necessarie e la disponibilità degli Uffici ai fini del buon esito della pratica in fase di trattazione, ponendo anche la massima attenzione alla semplicità e alla chiarezza del linguaggio utilizzato. Tutti i rapporti con gli utenti sono improntati alla cortesia, alla disponibilità all'ascolto, al rispetto e all'educazione reciproci.
+## Chiarezza e cortesia
+Il Comune assicura il proprio impegno per garantire l'esposizione corretta delle informazioni necessarie e la disponibilità degli Uffici ai fini del buon esito della pratica in fase di trattazione, ponendo anche la massima attenzione alla semplicità e alla chiarezza del linguaggio utilizzato. Tutti i rapporti con gli utenti sono improntati alla cortesia, alla disponibilità all'ascolto, al rispetto e all'educazione reciproci.
 
-Informazione: Il Comune considera l'informazione, tempestiva ed efficace, fondamentale per la qualità dei servizi erogati e dei rapporti con gli utenti. In tal senso, l'informazione costituisce il presupposto imprescindibile per una partecipazione piena e consapevole da parte dei cittadini alle modalità di erogazione dei servizi. All'utente è quindi garantita un'informazione comprensibile, semplice, completa e tempestiva riguardo alle procedure, ai tempi e ai criteri di erogazione dei servizi, nonché ai diritti e alle opportunità di cui può godere.
+## Informazione
+Il Comune considera l'informazione, tempestiva ed efficace, fondamentale per la qualità dei servizi erogati e dei rapporti con gli utenti. In tal senso, l'informazione costituisce il presupposto imprescindibile per una partecipazione piena e consapevole da parte dei cittadini alle modalità di erogazione dei servizi. All'utente è quindi garantita un'informazione comprensibile, semplice, completa e tempestiva riguardo alle procedure, ai tempi e ai criteri di erogazione dei servizi, nonché ai diritti e alle opportunità di cui può godere.
 
-Riservatezza: Il Comune si impegna a garantire che il trattamento dei dati personali degli utenti avvenga nel rispetto delle disposizioni di cui al GDPR.
+## Riservatezza
+Il Comune si impegna a garantire che il trattamento dei dati personali degli utenti avvenga nel rispetto delle disposizioni di cui al GDPR.
 
-Rispetto dell'ambiente: Il Comune si impegna a porre in essere ogni accorgimento affinché l'impatto con l'ambiente venga ridotto al minimo (impiego di attrezzature non inquinanti, utilizzo sempre maggiore di sistemi comunicativi non cartacei, raccolta differenziata dei rifiuti, consumo consapevole e responsabile).
+## Rispetto dell'ambiente
+Il Comune si impegna a porre in essere ogni accorgimento affinché l'impatto con l'ambiente venga ridotto al minimo (impiego di attrezzature non inquinanti, utilizzo sempre maggiore di sistemi comunicativi non cartacei, raccolta differenziata dei rifiuti, consumo consapevole e responsabile).
 
 # 8. Quali sono i servizi erogati
 La tabella che segue indica, per ogni singolo tributo, i servizi erogati, le modalità per accedere agli uffici, i referenti a cui rivolgersi, e l'elenco della modulistica che è possibile reperire consultando la home page dal sito www.comune.taino.va.it
@@ -102,7 +125,7 @@ I casi più frequenti di annullamento di un atto si hanno quando l'illegittimit�
 
 La correzione può avvenire a seguito di istanza presentata dal contribuente al Funzionario Responsabile o essere conseguente ad una iniziativa propria dell'ufficio. L'esercizio dell'autotutela è, comunque, una facoltà discrezionale il cui mancato esercizio non può costituire oggetto di impugnazione. L'autotutela può essere esercitata anche se è pendente un giudizio, o se l'atto è divenuto ormai definitivo perché sono decaduti i termini per ricorrere e anche se è stato presentato ricorso ma questo è stato respinto, con sentenza passata in giudicato, per motivi di ordine formale. Tale potere non è invece ammesso quando il ricorso è stato respinto per motivi riguardanti il merito della controversia e la sentenza sia divenuta definitiva. La presentazione dell'istanza di autotutela non sospende il termine per la presentazione del ricorso.
 
-# 1.1 Ricorso alle commissioni tributarie
+## Ricorso alle commissioni tributarie
 Nei casi in cui il contribuente ritenga illegittima o infondata la pretesa dell'ufficio ed esperito anche il tentativo di autotutela, può avviare l'iter del processo tributario. Il processo tributario disciplinato dal D.Lgs. n. 546/1992 e successive modificazioni si articola in tre gradi di giudizio:
 - 1° grado Commissione tributaria Provinciale;
 - 2° grado Commissione tributaria Regionale;
@@ -123,11 +146,11 @@ Ai sensi dell'art 7 dello Statuto del Contribuente, per consentire l'esercizio d
 
 Il ricorso/reclamo può essere proposto personalmente dal contribuente se il valore della lite è inferiore ad € 3.000,00; se supera tale valore vi è l'obbligo di assistenza da parte di un difensore abilitato (per valore della lite si intende l'importo del tributo al netto degli interessi e delle eventuali sanzioni irrogate).
 
-# 1.2 Termini della notifica
+## Termini della notifica
 A pena di inammissibilità, entro 60 giorni dalla data di notifica dell'atto da impugnare, il ricorso/reclamo intestato alla Commissione tributaria Provinciale di Varese deve essere notificato al Comune di Taino, al seguente indirizzo: Piazza Pajetta,5 -21020 TAINO(Varese);
 Successivamente, entro 30 giorni dal termine ultimo per la notifica del ricorso al Comune, in caso di tacito rifiuto, il ricorso, redatto in duplice copia, conformemente all'atto di reclamo, può essere proposto alla Commissione tributaria Provinciale di Varese (novantesimo giorno dalla notifica dell'atto da impugnare).
  
-# 1.3 Ricorso al garante del contribuente
+## Ricorso al garante del contribuente
 Con l'art. 13 della legge n. 212/2000 (nota come Statuto dei Diritti del Contribuente) è stata istituita la figura del Garante del Contribuente che opera presso la Direzione Regionale dell'Agenzia delle Entrate. È un organo collegiale che opera in piena autonomia ed è costituito da tre componenti scelti e nominati dal presidente della Commissione tributaria Regionale appartenenti alle categorie dei magistrati, docenti universitari, notai sia in attività che a riposo, dirigenti dell'amministrazione finanziaria ed ufficiali della Guardia di Finanza a riposo, avvocati, dottori commercialisti e ragionieri pensionati. Il garante del contribuente ha il compito di verificare le irregolarità e le disfunzioni dell'amministrazione fiscale, compresi gli enti locali, segnalate dai cittadini. In particolare:
 - accerta la qualità dei servizi di assistenza ed informazione per il contribuente e l'agibilità dei locali aperti al pubblico;
 - rivolge raccomandazioni ai dirigenti degli uffici ai fini della tutela del contribuente e della migliore organizzazione dei servizi;
@@ -173,7 +196,7 @@ Secondo l'Osservatorio del mercato mobiliare la superficie utile calpestabile è
 
 Nella determinazione della superficie assoggettabile alla TARI non si tiene conto di quella parte di essa ove si formano, in via continuativa e prevalente, rifiuti speciali, al cui smaltimento sono tenuti a provvedere a proprie spese i relativi produttori, a condizione che ne dimostrino l'avvenuto trattamento in conformità alla normativa vigente.
 
-# Commisurazione della tariffa TARI
+## Commisurazione della tariffa TARI
 La TARI è corrisposta in base a tariffa commisurata ad anno solare coincidente con un'autonoma obbligazione tributaria.
 
 I Comuni potranno decidere di applicare la TARI commisurando le tariffe o ai criteri determinati con il D.P.R. 158/1999 o, nel rispetto del principio chi inquina paga, alle quantità e qualità medie ordinarie di rifiuti prodotti per unità di superficie, in relazione agli usi e alla tipologia delle attività svolte nonchè al costo del servizio dei rifiuti.
@@ -185,10 +208,10 @@ La TARI, come in precedenza la TARES, si compone di una parte fissa ed una varia
 # 3. Quali sono i tempi e le modalità di pagamento della TARI
 Il Comune stabilisce le scadenze di pagamento della TARI, riportate nel riquadro sottostante. Il versamento della TARI e della tariffa di natura corrispettiva di cui ai commi 667 e 668, è effettuato secondo le disposizioni di cui all'articolo 17 del decreto legislativo n. 241 del 1997 ovvero tramite le altre modalità di pagamento offerte dai servizi elettronici di incasso e di pagamento interbancari e postali (in pratica tramite modello F24, bollettino di conto corrente postale, servizi elettronici di incasso e interbancari).
 
-# 3.1 Modalità di pagamento ammesse:
+## Modalità di pagamento ammesse:
 Il Comune di TAINO, assieme all'avviso TARI, invia i modelli F24 Semplificato per il pagamento, utilizzabili presso sportelli bancari, postali e più in generale presso gli intermediari abilitati; inoltre può essere utilizzato per il pagamento con Home Banking.
 
-# 3.2 Documenti di riscossione online:
+## Documenti di riscossione online:
 Il singolo contribuente TARI può accedere alla Sua posizione sia fiscale relativa alla tassa rifiuti (dati dell'immobile, avvisi di pagamento inviati, pagamenti effettuati, comunicare con l'ufficio Tributi) che relativa ai conferimenti dei rifiuti del secco effettuati e agli accessi alla piattaforma ecologica, mediante accesso al link sotto riportato.
 
 A tal fine il codice utente e la password di accesso sono indicati sull'avviso di pagamento della TARI ricevuto dal contribuente alla voce "Accesso sportello on-line" oppure, tali dati, possono essere richiesti all'ufficio tributi mediante la compilazione del modello qui sotto allegato.
@@ -198,10 +221,40 @@ La dichiarazione di inizio, di variazione o di cessazione del possesso, della oc
 
 La dichiarazione deve essere compilata e sottoscritta utilizzando l'apposito modello messo a disposizione dal proprio Comune ed ha effetto anche per gli anni successivi finché non si verifichi una modifica dei dati dichiarati cui consegua un diverso ammontare della tassa. La dichiarazione può essere presentata anche da uno solo degli occupanti, detentori o possessori, nel caso di occupazione, detenzione o possesso in Comune di un immobile.
 
+## Codici tributo TARI
+I codici F24 rinominati che identificano la TARI (o la tariffa) sono:
+- “3944” – TARI (e TARES)
+- “3945” – TARI (e TARES), interessi
+- "3946” – TARI (e TARES), sanzioni
+- “3950” – tariffa
+- “3951” – tariffa, interessi
+- “3952” – tariffa, sanzioni
+- “365E” – “TARI - tassa sui rifiuti - art. 1, c. 639, L. n. 147/2013 – TARES - art. 14 DL. n. 201/2011”
+- “368E” – “tariffa - art. 1, c. 668, L. n. 147/2013 - art. 14, c. 29, DL. n. 201/2011”
+- “366E” – “TARI - tassa sui rifiuti - art. 1, c. 639, L. n. 147/2013 - TARES - art. 14 DL. n. 201/2011 INTERESSI”
+- “367E” – “TARI - tassa sui rifiuti - art. 1, c. 639, L. n. 147/2013 - TARES - art. 14 DL. n. 201/2011 SANZIONI”
+- “369E” – “tariffa - art. 1, c. 668, L. n. 147/2013 - art. 14, c. 29 DL. n. 201/2011 - INTERESSI”
+- “370E” – “tariffa - art. 1, c. 668, L. n. 147/2013 - art. 14, c. 29 DL. n. 201/2011 - SANZIONI”
+
+Per ulteriori informazioni sui codici tributi è possibile consultare il sito dell'Agenzia delle Entrate. 
+
 # 5. Come avviene la rettifica dell'avviso di pagamento TARI
 Laddove nell'avviso di pagamento TARI fossero riscontrati dei dati non corrispondenti alla situazione del contribuente (avuto riguardo alla categoria di tassazione utilizzata per le utenze non domestiche, al numero dei componenti il nucleo familiare, alla superficie tassata o al periodo di occupazione) è possibile attivare la procedura di riesame in autotutela con la presentazione di una istanza tramite la modulistica comunale pubblicata nell'apposita sezione del sito. Nel caso in cui venga attivata la procedura di riesame in autotutela, l'Ufficio TARI esaminerà le osservazioni del contribuente e, qualora riconoscesse un errore nella quantificazione del tributo, provvede alla rettifica dell'avviso di pagamento entro 30 giorni dalla presentazione della richiesta da parte dell'utente. Il Comune provvederà inoltre alla restituzione degli importi eventualmente pagati in eccesso con conguaglio sull'annualità successiva o con liquidazione del rimborso al contribuente. Secondo l'articolo 1, comma 4, del dl sulla finanza locale (16/2014), nel caso in cui il contribuente abbia effettuato un versamento a un Comune diverso da quello destinatario dell'imposta, il Comune che viene a conoscenza dell'errato versamento, anche a seguito di comunicazione del contribuente, deve attivare le procedure più idonee per il riversamento al Comune competente delle somme indebitamente percepite. Nella comunicazione il contribuente indica gli estremi del versamento, l'importo versato, i dati catastali dell'immobile a cui si riferisce il versamento, il Comune destinatario delle somme e quello che ha ricevuto erroneamente il versamento. Il contribuente non può in nessun caso essere sanzionato.
 
-# 5.1 Segnalazioni errori importi
+## Segnalazioni errori importi
 In caso di errori nella determinazione degli importi addebitati e di errori e/o variazione nei dati relativi all'utente o alle caratteristiche dell'utenza rilevanti ai fini della commisurazione della tariffa, il contribuente si deve rivolgere all'ufficio tributi personalmente o tramite telefono al numero 0331-956405 interno 2 o via mail all'indirizzo : tributi@comune.taino.va.it.
 
 Si allega qui il modello da presentare per ottenere il rimborso in caso di versamento della TARI effettuato in misura superiore al dovuto.
+
+# 6. Cosa succede in caso di morosità
+Il mancato versamento di parte o dell'intero importo dovuto per la TARI annuale entro le scadenze indicate nell’avviso di pagamento, comporterà la notifica, previo sollecito, di un avviso di accertamento esecutivo e contestuale irrogazione di una sanzione del 30% calcolata sulle somme non versate o versate in ritardo, con l'addebito degli interessi moratori e delle spese di notifica. Il contribuente che è destinatario dell’accertamento può evitare l’applicazione delle sanzioni dimostrando l’avvenuto pagamento delle morosità o la regolarità della posizione, tramite l’apposito modulo di richiesta di riesame del provvedimento da trasmettere con le seguenti modalità:
+- Per posta indirizzandola a Piazza Pajetta,5 -21020 TAINO(Varese)
+
+## RAVVEDIMENTO OPEROSO: 
+Gli errori, le omissioni e i versamenti carenti possono essere regolarizzati eseguendo spontaneamente il pagamento (cd. RAVVEDIMENTO OPEROSO) dell’imposta dovuta, degli interessi calcolati al tasso legale annuo dal giorno in cui il versamento avrebbe dovuto essere effettuato a quello in cui viene effettivamente eseguito e della sanzione in misura ridotta. 
+
+## ACCERTAMENTO PER OMESSO/PARZIALE VERSAMENTO: 
+In caso di ritardato od omesso pagamento TARI, il comune di Taino invia un sollecito di pagamento, seguito dall'avviso di accertamento per omesso/parziale versamento, se il primo non viene pagato. Relativamente alle sanzioni:
+- In caso di omesso o insufficiente pagamento si applica la sanzione del 30% dell'imposta dovuta, ovvero della differenza dell'imposta dovuta.
+- In caso di omessa presentazione della dichiarazione originaria o di variazione si applica la sanzione del 100%
+- In caso di infedele o incompleta dichiarazione si applica la sanzione del 50%

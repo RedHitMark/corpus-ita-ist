@@ -5,6 +5,19 @@ La Carta è anche uno strumento di comunicazione, che intende migliorare la qual
 
 Questo documento è anche quindi uno strumento di controllo nelle mani dei cittadini e una finestra di dialogo fra l'Amministrazione Pubblica, il gestore dei Servizi e la comunità servita.
 
+# 2. Riferimenti normativi
+- Direttiva del Presidente del Consiglio dei Ministri del 27 gennaio 1994, "Principi sull'erogazione dei servizi pubblici"; all'art. 2 istituisce il Comitato permanente per la Carta dei servizi pubblici e prevede l'introduzione di standard di qualità.
+- Decreto-legge 12 maggio 1995, n. 163 "Misure urgenti per la semplificazione dei procedimenti amministrativi e per il miglioramento dell'efficienza delle pubbliche amministrazioni", convertito con modificazioni dalla L. 11 luglio 1995, n. 273; all'art. 2 dispone l'emanazione di schemi generali di riferimento di carte di servizi pubblici tramite decreti del Presidente del Consiglio dei Ministri e l'adozione di tali schemi da parte delle pubbliche amministrazioni entro 120 giorni dalla stessa pubblicazione.
+- Legge 14 novembre 1995, n.481; affida ad ARERA il compito - tra gli altri - di promuovere la tutela degli interessi di utenti e consumatori, tenuto conto della normativa comunitaria in materia e degli indirizzi di politica generale formulati dal Governo, nonché di contemperare, nella definizione del sistema tariffario, gli obiettivi economico-finanziari dei soggetti esercenti il servizio con gli obiettivi generali di carattere sociale.
+- Legge 24 dicembre 2007, n. 244 "Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 2008)"; in particolare, all'art. 1, comma 461, si prevede l'obbligo per il soggetto gestore di redigere e pubblicare la Carta dei Servizi in conformità a intese con le associazioni di tutela dei consumatori e con le associazioni imprenditoriali interessate, recante gli standard di qualità e di quantità relativi alle prestazioni erogate così come determinati nel Contratto di Servizio, nonché le modalità di accesso alle informazioni garantite, quelle per proporre reclamo e quelle per adire le vie conciliative e giudiziarie, nonché le modalità di ristoro dell'utenza.
+- Legge 24 marzo 2012, n. 27. Conversione, con modificazioni, del decreto-legge 24 gennaio 2012, n. 1, "Misure urgenti in materia di concorrenza, liberalizzazioni e infrastrutture".
+- Decreto legislativo 14 marzo 2013, n. 33 sul Riordino della disciplina riguardante il diritto di accesso civico e gli obblighi di pubblicità, trasparenza e diffusione di informazioni da parte delle pubbliche amministrazioni.
+- Legge 27 dicembre 2017, n. 205 "Bilancio di previsione dello Stato per l'anno finanziario 2018 e bilancio pluriennale per il triennio 2018-2020"; ha assegnato ad ARERA funzioni di regolazione e controllo in materia di rifiuti urbani, precisando che tali funzioni sono attribuite "con i medesimi poteri e nel quadro dei principi, delle finalità e delle attribuzioni, anche di natura sanzionatoria, stabiliti dalla legge 481/95".
+- Delibera ARERA 18 gennaio 2022 n.15/2022/R/rif sulla Regolazione della qualità del servizio di gestione dei rifiuti urbani.
+- D.Lgs. 152/2006 e s.m.i. - Capo III - Servizio di gestione integrata dei rifiuti.
+- Legge Regione Toscana n. 61/2007 - Modifiche alla legge regionale 18 maggio 1998, n. 25 (Norme per la gestione dei rifiuti e la bonifica dei siti inquinati) e norme per la gestione integrata dei rifiuti
+- Legge Regione Toscana n. 69/2011 - Istituzione dell'autorità idrica toscana e delle autorità per il servizio di gestione integrata dei rifiuti urbani. Modifiche alla L.R. n. 25/1998, alla L.R. n. 61/2007, alla L.R. n. 20/2006, alla L.R. n. 30/2005, alla L.R. n. 91/1998, alla L.R. n. 35/2011 e alla L.R. n. 14/2007.
+
 # 3. Gestori del servizio e territorio servito
 I servizi di gestione dei rifiuti urbani nel Comune vengono svolti dai seguenti soggetti:
 - Raccolta e trasporto: SEI Toscana
@@ -12,8 +25,8 @@ I servizi di gestione dei rifiuti urbani nel Comune vengono svolti dai seguenti 
 - Attività di gestione tariffe e rapporto con gli utenti: Amministrazione Comunale
 
 Il territorio nel quale i suddetti servizi vengono erogati è la totalità del territorio comunale.
- 
-# Presentazione del Gestore:
+
+## Presentazione del Gestore:
 SEI Toscana è il gestore del servizio integrato dei rifiuti urbani nelle province dell'ATO Toscana Sud (province di Arezzo, Grosseto e Siena e sei Comuni della provincia di Livorno). Raggruppa l'esperienza dei gestori operanti nel territorio della Toscana del Sud e si propone l'obiettivo di valorizzare il patrimonio territoriale e ambientale, gestendo il servizio in modo efficiente, efficace e sostenibile.
 
 L'ATO Toscana Sud è la prima Area Vasta a concludere il percorso tracciato dalla Legge Regionale n°61/2007 che ha accorpato i bacini in 3 macro ATO e ha previsto l'individuazione di un unico Gestore tramite gara. Si tratta dunque della prima gara nel settore dei rifiuti che arriva a conclusione in Toscana e una delle prime in assoluto in Italia.
@@ -27,7 +40,7 @@ Con il consolidamento della partecipazione societaria, a far data dal 01 luglio 
 L'operazione ha permesso, da un lato, di confermare il trend di crescita del Gruppo nel settore Ambientale sia con riferimento ai Servizi di Igiene Urbana che alle strutture impiantistiche, dall'altro alla Società di poter attingere ad un patrimonio di esperienza, competenze tecniche e a strumenti di gestione propri delle "grandi aziende".
 
 Il percorso di integrazione è in corso e vedrà sviluppare, nei prossimi anni, una serie di sinergie che contribuiranno ad efficientare i servizi e la loro organizzazione/gestione.
- 
+
 Un esempio di immediato riscontro dell'integrazione fra i sistemi, inerente le tematiche in esame, è l'interfaccia con gli utenti al fine di fornire loro risposte ed organizzare servizi dedicati, tracciando il processo ed assicurando il rispetto dei tempi stabiliti.
 
 Il consolidamento nel Gruppo Iren ha altresì permesso al personale impiegato di potersi confrontare con esperienze e competenze trasversali maturate nello stesso settore, ma in altri contesti, permettendo così di avviare un processo di crescita e di "job enrichment" sicuramente stimolante.
@@ -48,7 +61,7 @@ SEI TOSCANA srl - L'Azienda in cifre:
 
 L'ambito gestito da SEI Toscana si configura come uno dei territori più estesi a livello nazionale e con il maggior numero di Comuni. Il territorio gestito è caratterizzato da una bassa densità abitativa: 40 comuni con densità inferiore a 30 ab/kmq oltre che un elevato livello di eterogeneità morfologica e urbanistica.
 
-# Qualità e Sicurezza Sei Toscana srl
+## Qualità e Sicurezza Sei Toscana srl
 L'evoluzione continua delle aspettative e delle esigenze dei clienti, fortemente rafforzata dalla competitività del mercato, richiede modelli organizzativi flessibili e sistemi di gestione snelli, di cui occorre monitorare l'efficacia in termini di risultati attesi. Per questo il Gestore ha sviluppato un Sistema di Gestione Integrato (Qualità, Ambiente, Sicurezza - QAS) strutturato in modo da prevedere un adeguato controllo di tutti i processi operativi che influiscono sulla qualità del servizio, in un'ottica di sempre maggior orientamento al cliente.
 
 Quest'ottica, ha fatto sì che la società sia tra le aziende italiane del settore ad aver ottenuto la certificazione dei sistemi di gestione qualità, ambiente e sicurezza ai sensi delle norme:
@@ -62,7 +75,7 @@ Il Gestore mette a disposizione degli utenti tutte le certificazioni riconosciut
 Ai sensi della Deliberazione ARERA n° 15/2022 per ogni comune dell'Ambito ATO Toscana Sud deve essere individuato lo schema regolatorio di partenza tra quelli proposti da ARERA all'art. 3 dell'allegato alla suddetta Deliberazione "Testo unico per la regolazione della qualità del servizio di gestione dei rifiuti urbani".
 
 Con Delibera di Assemblea di Ambito ATO Toscana Sud n° 26 del 06/07/2022 è stato individuato il posizionamento del Comune nello schema regolatorio I.
- 
+
 Lo schema regolatorio scelto definisce gli obblighi e gli standard che devono essere rispettati da tutti i gestori del servizio integrato di gestione dei rifiuti urbani nel periodo 2023-2025.
 
 # 5. Principi
@@ -100,36 +113,36 @@ In generale i servizi raccolta, spazzamento, lavaggio strade e contenitori posso
 
 La funzionalità e l'utilizzo in sicurezza dei contenitori, invece, sono assicurati da SEI Toscana con verifiche condotte in concomitanza con il servizio di raccolta o su segnalazione da parte dell'Utente. Inoltre, è attivo un servizio di manutenzione programmata e su guasto.
 
-# 6.1 Descrizione dei servizi forniti da SEI Toscana
+## 6.1 Descrizione dei servizi forniti da SEI Toscana
 SEI Toscana svolge i servizi di raccolta utilizzando dei modelli di raccolta che possono variare da Comune a Comune nello specifico esegue servizi di raccolta stradale e raccolta domiciliare. Tali modalità possono convivere anche all'interno di uno stesso comune per i quali il Gestore esegue quindi una Raccolta mista. Questo deriva dalla necessità di adattare i servizi di raccolta il più possibile al territorio e alle esigenze delle utenze, sia domestiche che non domestiche.
 
 Una panoramica dei servizi a disposizione del cittadino è disponibile e sempre aggiornata su: "Comune serviti - Sei Toscana", dove è possibile trovare anche i calendari della raccolta domiciliare e gli orari di apertura del centro di raccolta (ove presenti).
- 
+
 Di seguito una tabella di sintesi per la rappresentazione dei servizi che il Gestore della raccolta e dello spazzamento svolge per ogni singolo Comune.
 
-# 6.1.1 Raccolta stradale
+### 6.1.1 Raccolta stradale
 Per raccolta stradale si intende la raccolta effettuata con contenitori di diversa tipologia e volumetria, ubicati su suolo pubblico. Si tratta di cassonetti, campane o bidoni che possono essere anche ad accesso controllato, ovvero dotati di dispositivo di riconoscimento dell'utenza e apribili attraverso l'uso della 6Card.
 
 I contenitori vengono svuotati periodicamente, attraverso un calendario concordato con l'amministrazione comunale e con frequenze diverse a seconda della tipologia di raccolta.
 
 I contenitori stradali hanno coperchi di diverso colore in base alla frazione raccolta e recano un adesivo informativo con le indicazioni per i corretti conferimenti e il numero verde di SEI Toscana.
- 
-# 6.1.2 Raccolta domiciliare
+
+### 6.1.2 Raccolta domiciliare
 Per raccolta domiciliare si intende la cosiddetta raccolta porta a porta, che viene effettuata solitamente in contesti territoriali e urbani particolari, come centri storici. Consiste nel ritiro del rifiuto su calendario fisso, con orari definiti da ordinanza comunale. Il calendario viene consegnato a tutte le utenze coinvolte ed è sempre reperibile sul portale di Sei Toscana. Il conferimento avviene in contenitori di tipologia e colori diversi (mastelli o sacchi) e il rifiuto indifferenziato può essere conferito in mastelli dotati di sistemi di riconoscimento dell'utenza.
 
-# 6.1.3 Raccolte dedicate alle utenze Non Domestiche
+### 6.1.3 Raccolte dedicate alle utenze Non Domestiche
 In linea generale il sistema è gestito secondo due linee di intervento:
 - grandi utenze, in aree ad elevata presenza di attività commerciali-artigianali, aggregate in specifici circuiti RUND a causa delle frequenze diverse rispetto al servizio domiciliare o per l'intercettazione di singole frazioni di rifiuto di grande produzione;
 - singole grandi utenze con contenitori dedicati; grandi produttori dotati di contenitori scarrabili per i quali è oggi svolto un servizio dedicato con frequenza variabile;
 - Servizi mirati ad attività commerciali anche di modeste dimensioni, ma produttrici, prevalentemente, di un cospicuo quantitativo di imballaggi in cartone.
 
-# 6.1.4 Ritiro a domicilio Rifiuti Ingombranti
+### 6.1.4 Ritiro a domicilio Rifiuti Ingombranti
 Il servizio di ritiro a domicilio dei rifiuti ingombranti di SEI Toscana è a disposizione dei cittadini su prenotazione, secondo le seguenti modalità:
 - attraverso il Numero Verde 800 127 484 (dal lunedì al giovedì dalle 9,00 alle 13,00 e dalle 13,30 alle 17,00 il venerdì dalle 9,00 alle 13,00).
 - compilando l'apposito form on line, alla sezione dedicata del sito www.seitoscana.it
 - inviando una mail a ingombranti@seitoscana.it.
 - utilizzando 6App, l'applicazione per Android o iOS dedicata ai servizi.
- 
+
 Nel territorio gestito il servizio di ritiro ingombranti stradale è strutturato per aree, con frequenza che dipende sia dalla densità abitativa sia dalla presenza di zone turistiche. L'esecuzione è garantita tra gli 8 e 15 giorni dalla richiesta da parte del cittadino, a seconda dell'area da cui questa proviene.
 
 Come previsto dal Regolamento per il Controllo della Gestione, SEI Toscana si impegna a uno svolgimento del servizio secondo le seguenti modalità:
@@ -171,18 +184,18 @@ Qualora il materiale per cui viene richiesto il ritiro ecceda per dimensioni o t
 
 Ritiro sfalci e potature: in alcuni comuni è previsto il servizio di ritiro a domicilio tramite prenotazione secondo le stesse modalità degli ingombranti. Il materiale deve essere esposto in sacchi o in fascine.
 
-# 6.1.5 Altre Raccolte
+### 6.1.5 Altre Raccolte
 Tale servizio riguarda la raccolta dei rifiuti quali medicinali scaduti e pile esauste, mediante contenitori per la raccolta collocati soprattutto presso i rivenditori o presso i centri di raccolta e stazioni ecologiche. Questi rifiuti possono essere conferiti anche alla stazione ecologica itinerante, nei comuni dove è attivo il servizio.
 
-# 6.1.6 Servizio di Lavaggio Contenitori Stradali
+### 6.1.6 Servizio di Lavaggio Contenitori Stradali
 Il servizio di Lavaggio Contenitori prevede la rimozione di ogni residuo solido o liquido nonché la completa igienizzazione dei contenitori dalla flora batterica patogena.
- 
+
 I contenitori di raccolta dei rifiuti sono lavati e/o sanificati con le modalità e le frequenze stabilite nel Contratto di Servizio, e declinate con i Comuni che lo richiedono allo scopo di:
 - Migliorare le condizioni igienico sanitarie
 - Migliorare l'aspetto esteriore dei contenitori
 - Migliorare l'utilizzo dei contenitori di raccolta
 
-# 6.1.7 Servizio di Spazzamento e Lavaggio Strade
+### 6.1.7 Servizio di Spazzamento e Lavaggio Strade
 La pulizia del suolo pubblico (strade, piazze, marciapiedi pubblici e/o privati ed ad uso pubblico) è effettuata attraverso lo spazzamento manuale, solo con utilizzo di spazzatrice (meccanizzato) o nella modalità mista ovvero utilizzando macchina spazzatrice ed operatore a terra che provvede a convogliare lo sporco presente nelle strade verso la spazzatrice; la modalità operativa e definita con l'Amministrazione comunale a seconda dell'assetto territoriale, della viabilità e delle esigenze delle varie aree servite, e comprende anche i servizi di lavaggio delle strade che non tutti Comuni richiedono. SEI Toscana attua tutti gli accorgimenti tecnici necessari ad evitare il sollevamento di polveri, l'ostruzione delle caditoie stradali e dei manufatti, l'emissione di odori sgradevoli, come pure i rumori molesti.
 
 Nel territorio gestito il servizio di spazzamento stradale è strutturato a seconda delle specifiche richieste delle amministrazioni comunali per aree, con frequenza che dipende sia dalla densità abitativa sia dalla presenza di zone turistiche, commerciali o industriali, di mercati o di aree adibite a manifestazioni di vario tipo ed è effettuato in determinate fasce orarie, a seconda della zona servita.
@@ -191,13 +204,13 @@ Il servizio comprende anche l'attività di svuotamento cestini, mentre la loro m
 
 Il lavaggio viene effettuato solo su richiesta delle Amministrazioni Comunali ad integrazione dello spazzamento. Il servizio è sospeso in caso di rischio di formazione di ghiaccio ed in condizioni climatiche particolarmente avverse o in caso di Pioggia.
 
-# 6.1.8 Servizio Pulizia Fiere e Mercati
+### 6.1.8 Servizio Pulizia Fiere e Mercati
 Il servizio di pulizia Fiere e Mercati viene effettuato in occasione di eventi programmabili in capo d'anno o straordinarie, quali mercati periodici, fiere, sagre, feste e manifestazioni svolti in aree pubbliche nonché su quelle private ad uso pubblico.
 
-# 6.1.9 Stazione Ecologica Itinerante
+### 6.1.9 Stazione Ecologica Itinerante
 La stazione ecologica itinerante è a disposizione dei cittadini per raccogliere particolari tipologie di rifiuto come pile, batterie, farmaci scaduti, olio alimentare esausto, piccoli rifiuti elettrici ed elettronici (cellulari, tastiere, mouse, phon, consolle, piccoli elettrodomestici), lampade a basso consumo, tubi a neon, bombolette spray.
 
-# 6.1.10 Centri di Raccolta
+### 6.1.10 Centri di Raccolta
 I centri di raccolta (strutture definite anche SSR – Strutture di Supporto alla Raccolta) sono strutture attrezzate per il deposito temporaneo di alcuni rifiuti conferiti in via differenziata da parte di privati cittadini.
 
 In generale i rifiuti conferibili nei centri di raccolta e nelle stazioni ecologiche sono: rifiuti ingombranti (tutti quei rifiuti che non possono essere conferiti nei cassonetti e tanto meno nelle loro vicinanze come vecchie reti e materassi, elettrodomestici, damigiane, stufe, termosifoni, mobili in genere, etc); apparecchiature elettriche ed elettroniche (RAEE); grandi sfalci d'erba e ramaglie; materiali e imballaggi in carta e cartone, plastica, alluminio, vetro; rifiuti ferrosi; legno; oli esausti; rifiuti speciali come pile, batterie, scarti edili, lampade a neon e a risparmio energetico.
@@ -206,14 +219,14 @@ Ogni cittadino può conferire gratuitamente queste tipologie di rifiuto all'inte
 
 Di seguito l'elenco dei Comuni in cui è presente almeno un centro di Raccolta ed il link della sezione dedicata in cui sarà possibile visualizzare gli orari di apertura dei centri e i rifiuti conferibili:
 
-# Accesso e funzionalità centri di raccolta e stazioni ecologiche
+#### Accesso e funzionalità centri di raccolta e stazioni ecologiche
 I centri di raccolta e le stazioni ecologiche sono aperti settimanalmente in funzione delle ore concordate con il comune, giorni e gli orari d'apertura al pubblico sono stabiliti in funzione delle esigenze locali. Le specifiche informazioni (rifiuti conferibili, località centro di raccolta, orario di apertura) per ogni struttura sono riportate nel sito di SEI Toscana, alla sezione dedicata al comune di appartenenza. e sono consultabili sul sito web, o attraverso il numero verde.
 
 L'accesso alle stazioni ecologiche o ai centri di raccolta è consentito a:
 - Utenze domestiche: o cittadini residenti o domiciliati nel comune servito; o utenti non residenti ma detentori di utenze domestiche ubicate nel territorio comunale;
 - Utenze non domestiche: o attività commerciali, direzionali, di servizio e produttive aventi sede o unità locali nel Comune servito, limitatamente alla parte di rifiuti da esse prodotti, secondo il vigente regolamento del servizio di gestione rifiuti urbani; l'accesso è consentito previo accreditamento da parte di SEI Toscana, utilizzando l'apposita modulistica reperibile sul sito di SEI Toscana.
 
-# Norme di comportamento
+#### Norme di comportamento
 I soggetti conferitori sono tenuti a:
 - Conferire esclusivamente i materiali ammessi;
 - Conferire i materiali possibilmente già suddivisi per tipologie, al fine di agevolarne la raccolta;
@@ -221,20 +234,21 @@ I soggetti conferitori sono tenuti a:
 - Seguire le indicazioni del personale preposto alla gestione del centro nonché quelle riportate dall'apposita segnaletica;
 - Soffermarsi nell'area esclusivamente per il tempo necessario al conferimento, evitando di trattenersi soprattutto nelle aree di ammasso e di movimentazione di materiali e containers;
 
-# 6.1.11 Sicurezza del servizio di gestione dei rifiuti urbani
+### 6.1.11 Sicurezza del servizio di gestione dei rifiuti urbani
 Per le situazioni di pericolo rispetto al servizio di gestione dei rifiuti urbani, il gestore SEI Toscana ha attivo un numero verde di pronto intervento pubblicato sul sito internet del Gestore attraverso il quale soggetti istituzionali, quali Amministrazione Comunale, Polizia Municipale, forze dell'ordine, vigili del fuoco, possano inoltrare le segnalazioni ed attivare l'intervento del gestore.
- 
-# 6.2.1 Sportelli fisici e online
+
+## 6.2 SEI Toscana e il rapporto con gli utenti
+### 6.2.1 Sportelli fisici e online
 SEI Toscana mette a disposizione uno sportello online, accessibile dalla home page del proprio sito internet o raggiungibile tramite applicazioni dedicate, attraverso cui l'utente può richiedere assistenza anche mediante apposite maschere o web chat https://seitoscana.it/.
 
 Lo sportello on line consente all'utente di inoltrare a SEI Toscana, per le attività di propria competenza, reclami, richieste di informazioni, richieste per il ritiro dei rifiuti su chiamata, segnalazioni per disservizi e richieste per la riparazione delle attrezzature per la raccolta domiciliare.
 
-# 6.2.2 Servizio telefonico
+### 6.2.2 Servizio telefonico
 SEI Toscana mette a disposizione dell'utente il numero verde gratuito, sia da rete fissa che da mobile, 800 127 484
 
 Attraverso il numero verde l'utente può per richiedere informazioni, segnalare disservizi, prenotare il servizio di ritiro su chiamata, richiedere la riparazione delle attrezzature.
 
-# 6.2.3 Richieste di informazioni
+### 6.2.3 Richieste di informazioni
 SEI Toscana mette a disposizione dell'utente, attraverso gli sportelli e il servizio telefonico, le seguenti informazioni circa:
 - Servizi domiciliari e stradali;
 - Servizi a chiamata;
@@ -242,7 +256,7 @@ SEI Toscana mette a disposizione dell'utente, attraverso gli sportelli e il serv
 - Centri di raccolta;
 - SEI card.
 
-# 6.2.4 Reclami e disservizi
+### 6.2.4 Reclami e disservizi
 SEI Toscana mette a disposizione, attraverso gli sportelli e il servizio telefonico, la possibilità di inoltrare reclami e segnalare disservizi circa:
 - Eventuale contenitore pieno;
 - Disservizio per marciapiedi parchi sporchi;
@@ -256,22 +270,21 @@ SEI Toscana mette a disposizione, attraverso gli sportelli e il servizio telefon
 - Siringhe abbandonate;
 - Altro.
 
-# 6.2.5 Soddisfazione degli utenti
+### 6.2.5 Soddisfazione degli utenti
 Il Gestore con cadenza annuale si riserva di effettuare un monitoraggio circa la soddisfazione degli utenti, somministrando un questionario ad un campione rappresentativo di cittadini per ciascun Comune servito. Il gestore, inoltre, si impegna ad attivare strumenti per il monitoraggio anche ad hoc per l'andamento di nuovi servizi o trasformazioni.
 
-# 6.2.6 Conciliazione
+### 6.2.6 Conciliazione
 Il Gestore SEI Toscana si impegna a redigere un protocollo d'intesa con le Associazioni dei consumatori ed utenti in tema di conciliazione.
 
-
-# 6.3 Trasparenza
+## 6.3 Trasparenza
 SEI Toscana, ai sensi della delibera 444/2019 e s.m.i., mette a disposizione del cittadino un sito web di cui si riporta il link Servizi Ecologici Integrati Toscana - Sei Toscana, attraverso il quale si impegna a fornire ai cittadini un'informazione completa riguardo tutte le fasi che caratterizzano il servizio e le modalità della sua erogazione utilizzando strumenti che possano garantire la completa accessibilità dei dati.
 
 Le informazioni specifiche di ogni Comune sono accessibili dopo aver selezionato il Comune di interesse.
- 
-# 6.4 Obblighi di servizio, indicatori e standard di qualità contrattuale e tecnica
+
+## 6.4 Obblighi di servizio, indicatori e standard di qualità contrattuale e tecnica
 Di seguito si riportano gli indicatori che permettono all'utenza di verificare il livello di qualità offerto da SEI Toscana con riferimento sia agli indicatori o agli standard previsti dal TQRIF (Allegato alla Deliberazione ARERA n. 15/2022/R/RIF) che a quelli già previsti dal Contratto di Servizio contrassegnati da (*).
 
-# 6.5 Privacy
+## 6.5 Privacy
 Sarà cura di SEI Toscana che il trattamento dei dati personali degli utenti avvenga nel rispetto delle disposizioni di legge ed in particolare dalla legge sulla privacy (d.lgs 196/2003), consentendo l'esercizio dei diritti previsti dall'art.7 del medesimo decreto.
 
 # 7. Validità della Carta del servizio
@@ -281,7 +294,8 @@ Qualsiasi tipo di modifica sarà comunicata agli utenti entro un tempo massimo d
 
 La Carta è disponibile sul sito internet di SEI Toscana e del Comune nella sezione Trasparenza.
 
-# Premessa
+# La Raccolta Differenziata
+## Premessa
 La qualità del servizio fornito e l'attenzione ai bisogni del cittadino-cliente sono gli obiettivi prioritari che guidano il Gestore nella conduzione dei servizi di igiene urbana nell'ambito del territorio delle province di Arezzo, Siena e Grosseto oltre che per i Comuni della Val di Cornia della provincia di Livorno.
 
 Operare nel settore dell'Igiene Ambientale è complesso in quanto i fattori esterni al lavoro svolto quotidianamente dall'azienda condizionano i risultati dell'impegno degli operatori.
@@ -304,27 +318,27 @@ Evitare di buttare in terra la carta del gelato o raccogliere con apposita palet
 
 Esattamente come ricordarsi che il cassonetto è fatto per mettervi i rifiuti all'interno e non all'esterno.
 
-# Cos'è la raccolta differenziata
+## Cos'è la raccolta differenziata
 Il Testo Unico Ambientale (d.lgs 152/2006) definisce la raccolta differenziata come: "la raccolta in cui un flusso di rifiuti è tenuto separato in base al tipo ed alla natura dei rifiuti al fine di facilitarne il trattamento specifico". La raccolta differenziata costituisce perciò il primo importante strumento per il raggiungimento degli obiettivi di riciclo e recupero e per il completamento del ciclo integrato dei rifiuti.
- 
-# A cosa serve
+
+## A cosa serve
 Spesso raccolta differenziata e riciclo vengono utilizzati come sinonimi, erroneamente. La raccolta differenziata è il presupposto imprescindibile alla realizzazione di quel processo industriale che va sotto il nome di riciclo (o riciclaggio) e che consente di risparmiare preziose materie prime ed energia per la produzione di nuovi oggetti. Dunque, la raccolta differenziata non è fine a sé stessa ma è sempre funzionale al ciclo integrato che prevede il recupero ed il riutilizzo diretto o mediante trattamenti specifici dei rifiuti raccolti con modalità differenziata.
 
-# Come si fa
+## Come si fa
 Nei diversi comuni dell'ATO Toscana Sud la raccolta differenziata è organizzata secondo diversi sistemi e modalità. In molti Comuni è attiva la raccolta porta a porta (o domiciliare), altri territori invece sono gestiti con la modalità della raccolta stradale attraverso contenitori dedicati contrassegnati da colori diversi. In molti Comuni plastica, metallo, poliaccoppiati e vetro sono raccolti nello stesso contenitore attraverso la modalità della raccolta del multimateriale; in altre realtà la raccolta del vetro viene effettuata separatamente. Generalmente le zone industriali, artigianali o commerciai hanno servizi specifici, organizzati per far fronte alle varie esigenze delle attività produttive e terziarie, come ad esempio la raccolta del cartone alle grandi utenze.
 
 Le specifiche sulle raccolte nei diversi Comuni possono essere reperite sulla pagina dedicata al Comune di riferimento del portale web https://seitoscana.it/.
 
-# I materiali
+## I materiali
 Solo una buona raccolta differenziata, una raccolta differenziata di qualità apre la strada al riciclo. È necessario che la raccolta differenziata venga effettuata con attenzione, seguendo semplici raccomandazioni.
 
-# Ingombranti e RAEE (rifiuti da apparecchiature elettriche ed elettroniche)
+### Ingombranti e RAEE (rifiuti da apparecchiature elettriche ed elettroniche)
 Vecchi mobili, reti, materassi, frigoriferi, lampade, televisori, ombrelloni, biciclette, ecc... appartengono a quella categoria di rifiuti che non può essere conferita nel cassonetto, possono essere portati ai Centri di Raccolta e Stazioni Ecologiche o può essere prenotato il Ritiro a Domicilio, chiamando il Numero Verde o compilando un modulo online.
 
-# Tessili usati
+### Tessili usati
 Abiti vecchi, lenzuola, coperte, asciugamani, scarpe, borse che non utilizziamo più possono essere raccolti all'interno di sacchi ben chiusi e conferiti all'interno di contenitori dedicati riconoscibili dall'apposito adesivo recante il logo di SEI Toscana. La raccolta dei tessili e degli indumenti usati è destinata al trattamento presso impianti autorizzati, dove si procede alla cernita e al recupero di materia.
 
-# Olio alimentare esausto
+### Olio alimentare esausto
 Olio di frittura, olio di conservazione (sott'oli, tonno, ecc..), grassi alimentari come strutto o burro in piccole quantità e di produzione domestica, devono essere raccolti separatamente e conferiti in appositi contenitori. In molti comuni sono attivi i seguenti servizi:
 - Raccolte presso impianti fissi: centri di raccolta o stazioni ecologiche
 - Raccolte stradali di prossimità, tramite box accessibili con tessera magnetica o tramite bidoni.

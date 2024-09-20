@@ -1,4 +1,5 @@
-# 1.1. Premessa
+# LA CARTA DELLA QUALITA’ 
+## 1.1. Premessa
 Il Comune di Milano assicura la gestione dei servizi di igiene urbana sul proprio territorio nel rispetto delle modalità, dei principi di qualità e degli standard dichiarati nella presente Carta della Qualità del servizio integrato di gestione dei rifiuti urbani (in seguito Carta della Qualità), nonché dei principi in materia di trasparenza e privacy di cui al Regolamento UE 2016/679.
 
 La Carta della Qualità è finalizzata a:
@@ -39,7 +40,7 @@ I cittadini possono avvalersi della collaborazione delle Associazioni dei Consum
 - informazioni sul servizio di raccolta e sui diritti/doveri di Amsa e dei cittadini Consumatori in tema di raccolta dei rifiuti.
 - assistenza in eventuali controversie con Amsa
 
-# Definizioni
+## 1.2. Definizioni
 - attivazione è l'avvio del servizio integrato di gestione dei rifiuti urbani;
 - attività di gestione tariffe e rapporto con gli utenti comprende le operazioni di: i) accertamento, riscossione (incluse le attività di bollettazione e l'invio degli avvisi di pagamento ovvero l'attività di fatturazione); ii) gestione del rapporto con gli utenti (inclusa la gestione reclami) anche mediante sportelli dedicati o call-center; iii) gestione della banca dati degli utenti e delle utenze, dei crediti e del contenzioso; iv) promozione di campagne ambientali; v) prevenzione della produzione di rifiuti urbani;
 - attività di raccolta e trasporto comprende le operazioni di raccolta (svolta secondo diversi modelli di organizzazione del servizio) e di trasporto dei rifiuti urbani verso impianti di trattamento, di smaltimento, di riutilizzo e/o recupero;
@@ -84,14 +85,14 @@ I cittadini possono avvalersi della collaborazione delle Associazioni dei Consum
 - utenza è l'immobile o l'area soggetta a tariffazione come definita all'articolo 2, comma 1, lettera c), del D.M. 20 aprile 2017;
 - variazione del servizio è la modifica dei presupposti per il pagamento della tariffa. Rientrano nella variazione del servizio anche le fattispecie disciplinate dall'articolo 238, comma 10, del decreto legislativo 152/06.
 
-# 1.3. Obblighi e standard di qualità del servizio di gestione dei rifiuti urbani
+## 1.3. Obblighi e standard di qualità del servizio di gestione dei rifiuti urbani
 La presente Carta della Qualità è aggiornata in ottemperanza alla Delibera ARERA 15/2022/R/rif e s.m.i. recante all'Allegato A il Testo unico per la regolazione della qualità del servizio di gestione dei rifiuti urbani (TQRIF).
 
 Ai sensi del TQRIF il Comune di Milano, nella sua qualità di Ente territoriale competente, ha scelto di posizionare la propria gestione nello Schema 1.
 
 Gli obblighi e standard generali di qualità contrattuale e tecnica applicabili allo schema regolatorio di riferimento sono riportati, rispettivamente, nell'Allegato 1 e 2 alla presente Carta della Qualità.
 
-# 1.4. Principi fondamentali dell'erogazione del servizio da parte del Comune di Milano e di Amsa
+## 1.4. Principi fondamentali dell'erogazione del servizio da parte del Comune di Milano e di Amsa
 La Carta della qualità trova il suo fondamento legislativo nella Direttiva del Presidente del Consiglio dei Ministri del 27 gennaio 1994 "Principi sull'erogazione dei servizi pubblici" che stabilisce i principi di erogazione del servizio e di rapporto con gli utenti. Il Comune di Milano e Amsa assumono tali principi come precisi obblighi e impegni nei confronti dei cittadini.
  
 Principio di eguaglianza: il Comune di Milano e Amsa, nell'erogazione del Servizio di gestione dei rifiuti urbani, rispettano il principio di eguaglianza dei diritti degli utenti e di non discriminazione per gli stessi. Nell'erogazione dei servizi non può essere compiuta nessuna distinzione per motivi di sesso, etnia, lingua, religione e opinione politica. Viene inoltre garantita la parità di trattamento del servizio prestato fra le diverse aree geografiche e fra le diverse categorie di utenti, nei limiti resi possibili dalle caratteristiche tecniche e funzionali del sistema infrastrutturale gestito. Il Comune di Milano e Amsa prestano una particolare attenzione e adottano particolari iniziative nell'erogazione dei servizi, nei confronti dei soggetti disabili, nonché degli anziani e di appartenenti a fasce sociali deboli.
@@ -110,7 +111,7 @@ Principio di continuità del servizio di igiene urbana: Il Comune di Milano gara
 - raccolta e trasporto, da cui sia possibile evincere, per ciascuna strada/via della gestione e su base giornaliera, il giorno e la fascia oraria prevista per lo svolgimento dell'attività e la frazione di rifiuto oggetto di raccolta.
 - spazzamento e lavaggio, da cui sia possibile evincere, per ciascuna strada e area mercatale, il giorno e la fascia oraria prevista per lo svolgimento dell'attività. Eventuali modifiche sostanziali al Programma, che comportino una variazione della frequenza di passaggio, finalizzate ad ottimizzare i tempi e i costi del servizio, devono essere opportunamente tracciate e approvate dal Comune.
 
-# L'impegno dei cittadini di Milano
+## 1.5 L'impegno dei cittadini di Milano
 Una città pulita e vivibile è il risultato sia del servizio di smaltimento e pulizia svolto da Amsa sia dell'impegno e dell'attenzione dei cittadini. Perciò il Comune di Milano e Amsa invitano tutti a rispettare le norme del Regolamento comunale per la gestione dei rifiuti e le disposizioni contenute nelle ordinanze vigenti. I cittadini di Milano si impegnano a:
 - non gettare a terra i rifiuti e i mozziconi di sigarette;
 - usare sempre i cestini stradali solo per piccoli rifiuti e non per rifiuti di provenienza domestica;
@@ -139,21 +140,23 @@ Il Comune di Milano è tenuto al rispetto degli obblighi di servizio riguardanti
 
 Il regolamento TARI applica e disciplina il tributo per la copertura dei costi relativi al servizio di gestione dei rifiuti urbani avviati allo smaltimento.
 
-# 3.1.1. Modalità per l'attivazione del servizio di gestione dei rifiuti urbani
-La richiesta di attivazione del servizio deve essere presentata dall'utente al Comune di Milano entro novanta (90) giorni solari dalla data di inizio del possesso o della detenzione dell'immobile, compilando l'apposito modulo direttamente online oppure in versione cartacea, scaricabile dalla pagina www.comune.milano.it/aree-tematiche/tributi/tari/dichiarazioni-tari-obbligatorie-per-appartamenti-e- immobili e disponibile presso gli sportelli fisici, con successivo invio a mezzo posta, via e-mail, via pec o mediante sportello fisico, con apposita prenotazione di appuntamento.
+## 3.1. Attivazione, variazione e cessazione del servizio
+### 3.1.1. Modalità per l'attivazione del servizio di gestione dei rifiuti urbani
+La richiesta di attivazione del servizio deve essere presentata dall'utente al Comune di Milano entro novanta (90) giorni solari dalla data di inizio del possesso o della detenzione dell'immobile, compilando l'apposito modulo direttamente online oppure in versione cartacea, scaricabile dalla pagina www.comune.milano.it/aree-tematiche/tributi/tari/dichiarazioni-tari-obbligatorie-per-appartamenti-e-immobili e disponibile presso gli sportelli fisici, con successivo invio a mezzo posta, via e-mail, via pec o mediante sportello fisico, con apposita prenotazione di appuntamento.
 
 Le richieste di attivazione del servizio producono i loro effetti dalla data in cui ha avuto inizio il possesso o la detenzione dell'immobile. L'assoggettamento al tributo decorre dal bimestre successivo all'inizio del possesso o detenzione dell'immobile.
 
-# 3.1.2. Modalità per la variazione o cessazione del servizio
+### 3.1.2. Modalità per la variazione o cessazione del servizio
 Le richieste di variazione e di cessazione del servizio devono essere inviate al gestore dell'attività di gestione tariffe e rapporto con gli utenti entro il bimestre in cui è intervenuta la variazione o cessazione compilando l'apposito modulo direttamente online oppure in versione cartacea, scaricabile dalla pagina www.comune.milano.it/aree-tematiche/tributi/tari/dichiarazioni-tari-obbligatorie-per-appartamenti-e- immobili e disponibile presso gli sportelli fisici, con successivo invio a mezzo posta, via e-mail, via pec o mediante sportello fisico, con apposita prenotazione di appuntamento. Le richieste di variazione del servizio comportano una modifica dell'importo da addebitare all'utente a partire dal bimestre successivo a quello in cui è intervenuta la variazione se la relativa richiesta è presentata entro il termine di cui sopra. Se la richiesta è presentata successivamente a tale termine, la variazione avrà effetto dal bimestre successivo a quello di presentazione, ovvero retroattivamente nel caso in cui la data della modifica sia dimostrata documentalmente.
 
-# 3.1.3. Risposta del gestore
+### 3.1.3. Risposta del gestore
 Il Comune di Milano garantisce risposte chiare e comprensibili alle richieste di occupazione, variazione e cessazione del servizio. La comunicazione contenente il riferimento alla richiesta pervenuta e la data dalla quale decorre, ai fini del pagamento della TARI, l'attivazione o la variazione o la cessazione del servizio viene inviata entro 30 giorni dal ricevimento della richiesta dell'utente.
 
-# 3.2.1. Termine per il pagamento
+## 3.2. Modalità e periodicità di pagamento, rateizzazione e rettifica dei dati delle utenze
+### 3.2.1. Termine per il pagamento
 Il termine di scadenza per il pagamento è fissato in almeno venti (20) giorni solari a decorrere dalla data di emissione dell'avviso di pagamento, con riferimento al pagamento in un'unica soluzione ovvero alla scadenza della prima rata, come riportato nel documento di riscossione. Disguidi dovuti ad eventuali ritardi nella ricezione del documento di riscossione saranno in nessun caso imputati all'utente.
 
-# 3.2.2. Modalità e strumenti di pagamento
+### 3.2.2. Modalità e strumenti di pagamento
 Le modalità previste per il pagamento del tributo TARI sono le seguenti:
 - di persona:
     - agli sportelli bancari, dal tabaccaio, in ricevitoria nei circuiti convenzionati
@@ -166,27 +169,28 @@ Le modalità previste per il pagamento del tributo TARI sono le seguenti:
     - in home banking alla voce CBILL oppure PagoPA – IUV, scansionando il QR code oppure inserendo manualmente i dati.
 - con addebito sul conto corrente bancario qualora richiesto dal contribuente compilando apposito modulo online sul sito del Comune di Milano www.comune.milano.it/servizi/tari-come-pagare
  
-# 3.2.3. Periodicità di riscossione
+### 3.2.3. Periodicità di riscossione
 Il gestore dell'attività di gestione tariffe e rapporto con gli utenti è tenuto ad inviare almeno una volta all'anno l'avviso di pagamento secondo le modalità e con i contenuti prescritti ai sensi del TQRIF, fatta salva la possibilità per il gestore di prevedere una maggiore frequenza di invio del documento di riscossione, comunque non superiore al bimestre.
 
 In presenza di una frequenza di riscossione annuale, il Comune di Milano è tenuto a garantire all'utente almeno due rate di pagamento, fermo restando la facoltà del medesimo utente di pagare in un'unica soluzione.
 
-# 3.2.4. Modalità e tempo di rettifica dei dati delle singole utenze
+### 3.2.4. Modalità e tempo di rettifica dei dati delle singole utenze
 Qualora le verifiche eseguite a seguito della richiesta scritta di rettifica evidenzino un credito a favore dell'utente, il gestore procede ad accreditare l'importo erroneamente addebitato a seguito di richiesta dell'utente, attraverso:
 - detrazione dell'importo non dovuto nel primo documento di riscossione ordinaria utile;
 - rimessa diretta, nel caso non esistano le condizioni per effettuare la compensazione descritta al punto precedente e comunque a seguito di istanza presentata dal cittadino e verifiche della posizione contributiva da parte del Comune di Milano.
 
-# 4.1. Certificazioni e registrazioni di Amsa
+# 4. PRESENTAZIONE DEL SERVIZIO DI IGIENE URBANA
+## 4.1. Certificazioni e registrazioni di Amsa
 Amsa, da sempre attenta alla qualità del proprio servizio, alle comunità, al territorio e alla tutela delle persone e dell'ambiente, opera da oltre 10 anni nel rispetto dei principi per la Qualità, l'Ambiente, la Salute, la Sicurezza e la Sicurezza Stradale che sono espressi anche nella Politica del Gruppo A2A (https://www.gruppoa2a.it/it/chi-siamo/documentazione/politiche-qas), basandosi sui valori e sui principi etici e di sostenibilità.
 
 Con il recepimento delle norme UNI ISO 9001:2015, ISO 14001:2015, ISO 45001:2018, ISO 39001:2012, le registrazioni EMAS di alcuni siti aziendali e la certificazione ReMade in Italy per il servizio di raccolta rifiuti, Amsa ha definito un modello di gestione Ambiente Salute e Sicurezza. In un'ottica di massima tutela, l'approccio all'implementazione prevede l'analisi dei principali processi di qualità, ambiente, salute e sicurezza aziendali disciplinati attraverso la redazione di procedure - istruzioni operative.
 
 L'impegno al miglioramento continuo di Amsa garantisce lo sviluppo dei propri servizi sia come incremento sul territorio in relazione alle esigenze dei clienti, dei cittadini e delle istituzioni, sia come modalità di erogazione dei servizi.
 
-# 4.2. Natura dei servizi
+## 4.2. Natura dei servizi
 I servizi contemplati sono da considerarsi ad ogni effetto servizi pubblici, costituendo quindi attività di pubblico interesse e non possono essere sospesi o abbandonati, salvo casi di forza maggiore.
 
-# 4.4. Servizi erogati da Amsa in seguito all'affidamento disposto dal Comune di Milano
+## 4.4. Servizi erogati da Amsa in seguito all'affidamento disposto dal Comune di Milano
 Il Contratto di servizio di Amsa con il Comune di Milano prevede, tra gli altri, la fornitura di servizi di raccolta differenziata dei rifiuti urbani provenienti da abitazioni private e da utenze non domestiche ubicate nel territorio del Comune di Milano.
  
 Il Contratto di servizio prevede, inoltre, servizi di pulizia delle strade del Comune con rimozione di rifiuti abbandonati negli spazi pubblici, raccolta di rifiuti tramite contenitori stradali, rimozione dei rifiuti derivanti da fiere e mercati, rimozione residui nevosi, ecc. come meglio dettagliato di seguito.
@@ -197,10 +201,10 @@ Il calendario dettagliato dei servizi gestiti da Amsa è consultabile sul sito w
 
 Le informazioni sui materiali da conferire in modo differenziato sono consultabili sul sito www.amsa.it, sulla App PULIamo e sulle locandine che possono essere ritirate presso il Servizio Clienti, in Via Olgettina 25 a Milano
 
-# 4.5. Raccolta differenziata "porta a porta" modalità e frequenza del servizio
+## 4.5. Raccolta differenziata "porta a porta" modalità e frequenza del servizio
 I rifiuti solidi urbani provenienti da abitazioni residenziali e utenze non domestiche vanno conferiti dai cittadini secondo le modalità in vigore e negli appositi contenitori/sacchi di raccolta differenziata dislocati presso gli stabili a cui fanno capo le suddette abitazioni ed esercizi. A Milano, infatti, la raccolta dei rifiuti avviene porta a porta.
 
-# 4.6. Modalità di conferimento
+## 4.6. Modalità di conferimento
 A Milano la raccolta rifiuti presso ogni stabile è articolata su due giorni alla settimana che possono essere:
 - lunedì e giovedì
 - martedì e venerdì
@@ -213,10 +217,42 @@ Gli orari di conferimento (esposizione) dei rifiuti per le utenze domestiche pos
 
 Alcune variazioni a quanto sopra descritto sono riportate nella vigente Ordinanza dirigenziale (reperibile in questa pagina https://www.comune.milano.it/aree-tematiche/ambiente/rifiuti), dove nel dettaglio sono indicate vie, tipologie di rifiuto e orari di esposizione dei rifiuti.
 
-# 4.7. Raccolta differenziata per punti di conferimento sul territorio
+## 4.7. Raccolta differenziata per punti di conferimento sul territorio
 La raccolta differenziata su tutto il territorio di Milano avviene prevalentemente con il sistema "porta a porta". Tuttavia in tutta la città, in aree apposite, sono dislocati anche vari tipi di contenitori e campane per la raccolta differenziata di carta, vetro, indumenti usati, pile, farmaci scaduti, olio vegetale esausto e cartucce esaurite di toner.
 
-# 4.8. Servizi Amsa offerti a pagamento diretto
+Sono presenti altri punti di raccolta: 
+- le Riciclerie, aree attrezzate e custodite dove i cittadini possono portare tutti i materiali riciclabili (anche voluminosi come ad es. il vetro in lastre o gli imballaggi in cartone), rifiuti ingombranti, materiali inerti (macerie, sanitari, calcinacci, ecc.) o rifiuti urbani pericolosi. 
+    - L’accesso è gratuito ed è consentito con veicoli privati o con furgoni a noleggio, ai cittadini residenti o domiciliati muniti di documento di identità. 
+    - L’accesso è gratuito ed è consentito alle utenze commerciali con sede nel Comune di Milano che conferiscono con veicoli di capacità non superiore a 18 quintali di portata complessiva. 
+    - Le operazioni di scarico sono a cura dell’utente. 
+    - Importante: Per gli automezzi con capacità superiore ai 18 quintali è possibile scaricare, a pagamento, presso la piattaforma per i rifiuti situata in via Riccardo Lombardi 13, previa autorizzazione da richiedere al Numero Verde Commerciale Amsa 800.24.11.42. 
+- il “Centro Ambientale Mobile” (CAM) è una piattaforma ecologica mobile dove i cittadini possono portare Rifiuti Elettrici ed Elettronici (RAEE) come i piccoli elettrodomestici, pile, lampadine a basso consumo e neon ed inoltre anche oli vegetali, contenitori spray e cartucce toner. Ogni cittadino può portare i rifiuti scegliendo la postazione più vicina al 
+proprio quartiere. 
+- Contenitori di diverse dimensioni dedicati: 
+    - Raccolta differenziata della carta e del vetro: Per servire i cittadini residenti negli stabili che non possono, per motivi strutturali, ospitare i cassonetti condominiali, Amsa ha creato alcuni punti di raccolta sul territorio comunale, attrezzati con una campana per il vetro ed una campana per la carta; lo svuotamento avviene con frequenza settimanale o quindicinale. Il numero dei punti di raccolta sul territorio è in corso di razionalizzazione, anche alla luce del rilievo da parte di Amsa che alcune postazioni sono state utilizzate da terzi come punti di scarico abusivo di rifiuti. 
+    - Raccolta differenziata delle pile esaurite: Avviene attraverso appositi contenitori da banco custoditi presso i rivenditori, in particolare presso la grande distribuzione. La vuotatura è su richiesta da parte dell’utente al Servizio Clienti Amsa. 
+    - Raccolta differenziata dei farmaci scaduti: È realizzata con appositi contenitori custoditi presso le farmacie e le parafarmacie. 
+    - Raccolta differenziata degli indumenti usati: Un’importante raccolta differenziata con scopi di solidarietà, con l’utilizzo di contenitori stradali gialli. Le cooperative sociali raccolgono con frequenza settimanale gli indumenti usati e provvedono al loro riutilizzo o riciclo. 
+    - Raccolta differenziata cartucce esaurite di toner: I cittadini possono consegnare, senza oneri di spesa, le cartucce esaurite per toner, nastri e cartucce per stampanti a getto d’inchiostro alle riciclerie Amsa, rispettando i limiti quantitativi stabiliti come meglio risultanti dalla vigente Ordinanza per la raccolta differenziata dei rifiuti, oppure presso le cartolibrerie convenzionate con l’azienda, a fronte di un nuovo acquisto. L’elenco è disponibile presso il Servizio Clienti di Amsa. 
+    - Altri tipi di rifiuti: I cittadini possono portare le seguenti tipologie di rifiuti domestici alle Riciclerie: 
+        - RAEE: apparecchiature refrigeranti (es. frigorifero, congelatore, condizionatore d’aria), grandi elettrodomestici bianchi (es. lavastoviglie, lavatrice), tv e monitor, piccoli elettrodomestici, apparecchiature informatiche, apparecchi d’illuminazione (lampadari), sorgenti luminose (lampade a basso consumo energetico, led e tubi fluorescenti) 
+        - sfalci, ramaglie, potature (esclusa la Ricicleria Corelli) 
+        - mobili ed ingombranti in legno 
+        - attrezzature ed ingombranti in ferro 
+        - lastre di vetro solo presso la Ricicleria di Via Riccardo Lombardi, 13. 
+        - damigiane in vetro 
+        - carta/cartone 
+        - oli minerali 
+        - oli e grassi vegetali 
+        - batterie ed accumulatori al piombo 
+        - contenitori di rifiuti chimici domestici (spray, solventi, vernici, insetticidi, ecc.) 
+        - cartucce e rifiuti da stampa elettronica 
+        - pile esauste 
+        - pneumatici solo presso la Ricicleria di Via Riccardo Lombardi 13. 
+
+Un elenco dettagliato sulle tipologie di rifiuti e i quantitativi autorizzati presso le Riciclerie Amsa è presente sulla vigente Ordinanza Dirigenziale, che è reperibile sul sito del Comune di Milano – sezione Ambiente. 
+
+## 4.8. Servizi Amsa offerti a pagamento diretto
 Amsa, oltre ai servizi istituzionali offerti alla città di Milano e definiti nel Contratto di Servizio con il Comune di Milano, offre, a fronte di un corrispettivo, dei servizi integrativi per gli utenti che hanno particolari necessità riguardo a frequenze e modalità diverse dai normali servizi.
 
 Amsa offre i seguenti interventi diversi di raccolta rifiuti o pulizia stradale di natura occasionale, regolati da accordi personalizzati per i clienti che desiderino fruirne:
@@ -244,8 +280,7 @@ Il Comune di Milano, oltre a quanto indicato nella descrizione dei principi di e
 
 Riguardo ai servizi erogati nell'ambito del pubblico servizio di igiene urbana, Amsa, per continuare a dare concreta attuazione ai principi fondamentali di efficacia ed efficienza, continuità e regolarità nella gestione del servizio, sottoscrive l'impegno ad erogare il servizio di gestione dei rifi uti urbani nel rispetto degli standard di qualità di seguito descritti.
 
-# 6.1. Qualità dei servizi e relativi controlli
-
+### Qualità dei servizi e relativi controlli
 Amsa si impegna a:
 - effettuare i servizi con continuità e regolarità. Il Comune di Milano tramite l'ufficio Unità Igiene Ambientale effettua in contradditorio controlli prestazionali a campione per verificare il rispetto da parte di Amsa degli obblighi contrattuali per i quali sono previste penali in caso di comprovata inadempienza;
 - scegliere le modalità di raccolta dei rifiuti che siano finalizzate al recupero dei materiali e che garantiscano la sicurezza del personale, dei cittadini e dell'ambiente in generale;
@@ -256,7 +291,8 @@ Amsa si impegna a:
 - registrare in apposito database tutti le segnalazioni e i reclami ricevuti;
 - nell'ottica della corretta applicazione dell'art.2, comma 461, della Legge Finanziaria 2008, a partecipare ad eventuali tavoli di lavoro, attivati dal Comune, con il Comune di Milano e le Associazioni Consumatori.
 
-# 7.1. Per la gestione della TARI – Comune
+# 7. PUNTI DI CONTATTO CON L’UTENTE 
+## 7.1. Per la gestione della TARI – Comune
 Il Comune di Milano mette a disposizione dei contribuenti che necessitano di consulenza in merito alla TARI la possibilità di:
 - prenotare appuntamenti presso sportelli telefonici e fisici, dislocati nei diversi Municipi della città. La prenotazione dell'appuntamento è possibile direttamente dal sito del Comune al link Info Tributi - assistenza e appuntamenti - Comune di Milano oppure tramite Fascicolo del cittadino oppure telefonando al Contact Center del Comune 020202
 - chiedere informazioni e verifiche, utilizzando i form distinti in base alla tipologia di utenza (domestica e non domestica) e presenti sul sito al link comune.milano.it/tari oppure attraverso il servizio SCRIVI https://www.comune.milano.it/scrivi, da cui è possibile anche presentare un reclamo. Per informazioni e verifiche è possibile inoltre contattare il Contact Center 020202.
@@ -265,7 +301,7 @@ Dal servizio Scrivi è inoltre possibile chiedere informazioni, inviare segnalaz
 
 Le comunicazioni e gli appuntamenti sono gestiti attraverso una piattaforma informatica (CRM) che ne consente il tracciamento univoco e il monitoraggio dei tempi di risposta.
 
-# 7.2. Per la gestione del servizio di raccolta e trasporto rifiuti e di spazzamento e lavaggio delle strade – AMSA
+## 7.2. Per la gestione del servizio di raccolta e trasporto rifiuti e di spazzamento e lavaggio delle strade – AMSA
 Amsa mette a disposizione il sito internet www.amsa.it completo ed esaustivo attraverso il quale è possibile:
 - Consultare i calendari di raccolta e pulizia
 - Consultare il motore di ricerca "dovelobutto" per la corretta separazione dei rifiuti
@@ -278,10 +314,11 @@ Amsa mette a disposizione il sito internet www.amsa.it completo ed esaustivo att
 
 Inoltre, Amsa mette a disposizione un Numero Verde gratuito raggiungibile da rete fissa e da rete mobile attraverso il quale è possibile avere informazioni, effettuare una segnalazione e richiedere servizi.
 
-# 7.3. Interventi per disservizi e riparazioni e/o sostituzione delle attrezzature per la raccolta domiciliare
-Modalità per la segnalazione di disservizi e la presentazione delle richieste di riparazione e/o sostituzione. La segnalazione per disservizi può essere presentata dall'utente al gestore della raccolta e trasporto, ovvero al gestore dello spazzamento e lavaggio delle strade, in relazione all'attività di propria competenza, mediante sportello online o tramite e-mail. La richiesta di riparazione e/o sostituzione delle attrezzature per la raccolta domiciliare può essere presentata dall'utente al gestore della raccolta e trasporto esclusivamente tramite il form presente alla sezione supporto. Solo gli amministratori condominiali possono richiedere le attrezzature a meno che non si tratti di abitazioni singole. I cassonetti condominiali per la raccolta di carta, vetro e rifiuti organici sono consegnati da Amsa in comodato d'uso gratuito in numero sufficiente per il fabbisogno dell'utenza; i cassonetti devono essere lavati dall'utente.
+## 7.3. Interventi per disservizi e riparazioni e/o sostituzione delle attrezzature per la raccolta domiciliare
+La segnalazione per disservizi può essere presentata dall'utente al gestore della raccolta e trasporto, ovvero al gestore dello spazzamento e lavaggio delle strade, in relazione all'attività di propria competenza, mediante sportello online o tramite e-mail. La richiesta di riparazione e/o sostituzione delle attrezzature per la raccolta domiciliare può essere presentata dall'utente al gestore della raccolta e trasporto esclusivamente tramite il form presente alla sezione supporto. Solo gli amministratori condominiali possono richiedere le attrezzature a meno che non si tratti di abitazioni singole. I cassonetti condominiali per la raccolta di carta, vetro e rifiuti organici sono consegnati da Amsa in comodato d'uso gratuito in numero sufficiente per il fabbisogno dell'utenza; i cassonetti devono essere lavati dall'utente.
 
-# 8.1. Come presentare un reclamo al Comune
+# 8. RECLAMI E RICHIESTE SCRITTE DI INFORMAZIONI  
+## 8.1. Come presentare un reclamo al Comune
 I reclami per la TARI e la richiesta scritta di rettifica degli importi possono essere presentati al Comune di Milano:
 - Online collegandosi al sito Istituzionale alla pagina Presenta un reclamo al Comune di Milano - Comune di Milano oppure nella sezione SCRIVI https://www.comune.milano.it/scrivi. I reclami e le richieste sono gestiti attraverso una piattaforma informatica (CRM) che ne consente il tracciamento univoco e il monitoraggio dei tempi di risposta.
 - Con "Modulo cartaceo", disponibile alla pagina Presenta un reclamo al Comune di Milano - Comune di Milano o presso qualsiasi ufficio o sportello dell'Ente. Il modulo compilato deve essere presentato al Protocollo Generale o al protocollo di uno dei nove Municipi e all'utente verrà rilasciata una ricevuta. Anche i reclami pervenuti attraverso il modulo cartaceo vengono inseriti nel sistema CRM.
@@ -291,3 +328,30 @@ Il cittadino può presentare richiesta scritta di informazioni sempre dal canale
 Con le stesse modalità è inoltre possibile presentare un reclamo o una richiesta di informazioni al Comune per la gestione della pulizia e della raccolta di rifiuti da parte di Amsa.
 
 Il cittadino può inviare un reclamo scritto o una richiesta scritta di rettifica degli importi addebitati senza utilizzare il modello prestabilito purché indichi tutti i dati utili e obbligatori per la gestione della richiesta.
+
+## 8.2. Come richiedere informazioni, effettuare una segnalazione o un reclamo ad Amsa 
+Il modulo per il reclamo scritto inerente al servizio operativo per la raccolta e il trasporto dei rifiuti e lo spazzamento e lavaggio delle strade è scaricabile dalla home page del sito internet del gestore, ovvero compilabile online. 
+
+È fatta salva la possibilità per l’utente di inviare al gestore il reclamo scritto senza utilizzare il modulo di cui sopra, purché la comunicazione contenga obbligatoriamente almeno gli stessi campi obbligatori sotto riportati: 
+- il recapito postale, di posta elettronica o fax al quale inviare la risposta; 
+- i dati identificativi dell’utente: 
+    - il nome, il cognome; 
+    - il recapito postale e/o l’indirizzo di posta elettronica; 
+    - il servizio a cui si riferisce il reclamo; 
+    - l’indirizzo a cui si riferisce il reclamo. 
+
+Amsa adotta criteri prudenziali nella classificazione di una segnalazione scritta inviata dall’utente, classificando tale segnalazione come reclamo esclusivamente quando è accertato che si tratti di un mancato servizio da parte del gestore stesso. 
+
+## 8.3. La risposta al reclamo 
+### COMUNE
+Il Comune si impegna a fornire una risposta scritta ai reclami e alle richieste scritte di informazioni entro trenta (30) giorni dal ricevimento. La risposta motivata, completa, chiara e comprensibile è formulata dalla Direzione Competente e inviata all’utente all’indirizzo indicato. 
+
+Il tempo di risposta motivata alle richieste scritte di rettifica degli importi addebitati è pari a sessanta (60) giorni lavorativi. 
+
+### AMSA 
+Qualora l’utente indichi nel proprio reclamo, ovvero nella richiesta scritta di informazioni, un recapito di posta elettronica, il gestore utilizza in via prioritaria tale recapito per l’invio della risposta motivata. 
+- Il gestore formula risposte motivate, complete, chiare e comprensibili, ai reclami scritti e alle richieste scritte di informazioni. 
+- Il cittadino può segnalare il mancato rispetto di quanto dichiarato in questa Carta della Qualità dei Servizi, formulando un reclamo ad Amsa attraverso i canali citati all’art. 8.2. 
+- Il cittadino deve fornire tutte le informazioni in suo possesso utili per la verifica e deve indicare le modalità attraverso le quali vuole ricevere la risposta dall’azienda. Il reclamo verrà esaminato da un incaricato del Customer Center che risponderà entro 30 giorni solari dalla data di ricezione dello stesso. I termini per la risposta decorrono dalla data di ricezione della comunicazione da parte di Amsa. 
+- Nella risposta scritta Amsa indicherà al cittadino consumatore non solo l’esito finale del reclamo, ma anche gli accertamenti compiuti e i termini entro i quali provvederà alla rimozione delle irregolarità riscontrate. Al cittadino verrà sempre inviata risposta, se necessario. 
+- Amsa ha stipulato una polizza di assicurazione idonea alla copertura dei rischi derivanti da danni che i suoi automezzi o il personale possano involontariamente produrre a terzi nel corso del loro lavoro istituzionale. 
