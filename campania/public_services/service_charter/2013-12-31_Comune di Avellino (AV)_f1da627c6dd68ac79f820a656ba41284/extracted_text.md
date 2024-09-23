@@ -1,26 +1,11 @@
-# Presentazione dell'azienda
-La società Alto Calore Servizi SpA opera nel settore dei servizi idrici con un bacino di utenza di oltre 400.000 abitanti.
+# 1. INFORMAZIONI SUL GESTORE E PRINCIPI FONDAMENTALI
+## 1.1 Presentazione dell'azienda
+La società Alto Calore Servizi SpA opera nel settore dei servizi idrici con un bacino di utenza di oltre 400.000 abitanti. ACS provvede alla gestione del ciclo integrato dell'acqua ed in particolare alla captazione, adduzione, potabilizzazione, distribuzione di acqua ad usi civili, nonché alla gestione dei servizi di fognatura e depurazione delle acque reflue. Assicura, inoltre, l'approvvigionamento di risorsa idrica in sub distribuzione ad Acquedotto Pugliese, gestore del servizio idrico integrato dell'Ato Puglia. La gestione integrata e sinergica di numerose attività riguardanti il comparto idrico costituisce uno dei principali punti di forza di ACS, oltre a determinare un forte elemento di unicità rispetto ad altri Enti e realtà del settore. Maggiori informazioni in merito alla società ed ai servizi gestiti sono disponibili sul sito internet aziendale www.altocalore.eu.
 
-ACS provvede alla gestione del ciclo integrato dell'acqua ed in particolare alla captazione, adduzione, potabilizzazione, distribuzione di acqua ad usi civili, nonché alla gestione dei servizi di fognatura e depurazione delle acque reflue.
+## 1.2 Cenni storici
+La Società Alto Calore Servizi S.p.A. gestisce il servizio di captazione, adduzione e distribuzione di acqua potabile per 126 Comuni delle Province di Avellino e di Benevento, nonché quello fognario e depurativo a favore di una popolazione di circa 435.000 abitanti (circa 213.000 utenze). L'odierna società è passata attraverso numerose trasformazioni: da consorzio, a azienda speciale, a consorzio multiservizi fino all'attuale status giuridico di società per azioni, costituita il 13 marzo 2003. I soci dell'attuale società sono 95 Comuni della provincia di Avellino, 31 Comuni della provincia di Benevento e l'Amministrazione Provinciale di Avellino.
 
-Assicura, inoltre, l'approvvigionamento di risorsa idrica in sub distribuzione ad Acquedotto Pugliese, gestore del servizio idrico integrato dell'Ato Puglia.
-
-La gestione integrata e sinergica di numerose attività riguardanti il comparto idrico costituisce uno dei principali punti di forza di ACS, oltre a determinare un forte elemento di unicità rispetto ad altri Enti e realtà del settore.
-
-Maggiori informazioni in merito alla società ed ai servizi gestiti sono disponibili sul sito internet aziendale www.altocalore.eu.
-
-# Cenni storici
-La Società Alto Calore Servizi S.p.A. gestisce il servizio di captazione, adduzione e distribuzione di acqua potabile per 126 Comuni delle Province di Avellino e di Benevento, nonché quello fognario e depurativo a favore di una popolazione di circa 435.000 abitanti (circa 213.000 utenze).
-
-L'odierna società è passata attraverso numerose trasformazioni: da consorzio, a azienda speciale, a consorzio multiservizi fino all'attuale status giuridico di società per azioni, costituita il 13 marzo 2003.
-
-I soci dell'attuale società sono 95 Comuni della provincia di Avellino, 31 Comuni della provincia di Benevento e l'Amministrazione Provinciale di Avellino.
-
-Il Consorzio Interprovinciale Alto Calore venne costituito il 18 maggio del 1938 ai sensi del Testo Unico n° 2578 del 1925. Composto da 31 Comuni della provincia di Avellino e 5 della provincia di Benevento, aveva quale scopo la costruzione e la manutenzione di un sistema acquedottistico in grado di alimentare i comuni consorziati.
-
-Nel 1938 la portata complessiva minima dell'acquedotto raggiungeva i 150 litri al secondo, vale a dire 13 milioni di litri al giorno.
-
-Oggi l'Alto Calore Servizi s.p.a. nato dal vecchio Consorzio, gestisce 58 milioni di metri cubi all'anno e ha visto aumentare notevolmente i Comuni consorziati (allo stato sono 126).
+Il Consorzio Interprovinciale Alto Calore venne costituito il 18 maggio del 1938 ai sensi del Testo Unico n° 2578 del 1925. Composto da 31 Comuni della provincia di Avellino e 5 della provincia di Benevento, aveva quale scopo la costruzione e la manutenzione di un sistema acquedottistico in grado di alimentare i comuni consorziati. Nel 1938 la portata complessiva minima dell'acquedotto raggiungeva i 150 litri al secondo, vale a dire 13 milioni di litri al giorno. Oggi l'Alto Calore Servizi s.p.a. nato dal vecchio Consorzio, gestisce 58 milioni di metri cubi all'anno e ha visto aumentare notevolmente i Comuni consorziati (allo stato sono 126).
 
 I più importanti gruppi sorgentizi sono rappresentati dalle sorgenti di Cassano Irpino, le sorgenti Alte del Calore, la sorgente Baiardo e quella di Sorbo Serpico, e dai pozzi di Volturara e di Fontana dell'Olmo, dai pozzi del Fizzo e dalle sorgenti Grotte e Sorgenza in tenimento della provincia di Benevento.
 
@@ -32,39 +17,43 @@ La prospettiva offerta dalla trasformazione in Società per Azioni, come da Stat
 
 Alla data del 20/04/2012 l'Assemblea dei Sindaci ha approvato la messa in liquidazione della società Alto Calore Patrimonio.
 
-# Principi fondamentali
+## 1.3 Principi fondamentali
 Il servizio idrico integrato deve essere garantito nel rispetto dei seguenti principi fondamentali:
 
+#### Eguaglianza ed imparzialità
 L'uguaglianza degli Utenti nei confronti della Società è garantita attraverso il regolamento di distribuzione dell'acqua potabile che disciplina in via generale i rapporti tra gli Utenti e la Società, specifica le norme in base al quale si svolge, si modifica e si estingue il rapporto contrattuale, gli obblighi e i diritti delle parti. Particolare attenzione è rivolta alle categorie che si trovano in situazione di svantaggio sociale, personale e fisico (stranieri, anziani, portatori di handicap).
 
 La Società s'impegna attraverso le proprie norme regolamentari e procedurali a trattare in modo univoco situazioni analoghe, evitando, ove possibile, di lasciare alla discrezione degli operatori le decisioni da assumere su una determinata problematica.
 
 I provvedimenti negativi saranno codificati e ipotizzati negli strumenti regolamentari e idoneamente motivati.
 
-La Società si obbliga ad erogare il servizio in modo continuo, regolare e senza interruzioni o diminuzioni di durata.
-
-Eventuali interruzioni del servizio potranno essere imputabili a:
+#### Continuità
+La Società si obbliga ad erogare il servizio in modo continuo, regolare e senza interruzioni o diminuzioni di durata. Eventuali interruzioni del servizio potranno essere imputabili a:
 - guasti e manutenzione ordinaria
 - manutenzioni straordinarie necessarie a garantire il corretto funzionamento delle opere e la qualità dell'acqua;
 - cause di forza maggiore (eventi franosi, sismici, alluvioni etc.)
 
 Qualora si dovessero verificare interruzioni del servizio, il Gestore s'impegna ad attivare servizi sostitutivi di emergenza dando le opportune informazioni nei tempi e nei modi previsti dal Regolamento. In tali casi saranno messi in atto i piani di distribuzione alternativa di acqua potabile, mediante sacchetti in PET da 5 litri o autobotti o sistemi fissi di distribuzione, con il coinvolgimento delle competenti autorità territoriali.
 
+#### Partecipazione
 L'Utente ha diritto di richiedere ed ottenere dal Gestore ogni informazione che lo riguarda secondo le modalità disciplinate dalla L. 7/08/1990 n. 241 e s.m.i. e può avanzare proposte, suggerimenti e inoltrare reclami.
 
-L'ACS garantisce l'identificabilità del personale preposto al front-office con i cartellini segna nome e l'individuazione del Responsabile Assistenza Clienti.
+L'ACS garantisce l'identificabilità del personale preposto al front-office con i cartellini segna nome e l'individuazione del Responsabile Assistenza Clienti. Periodicamente sono acquisite le valutazioni dell'Utente a mezzo di apposite indagini.
 
-Periodicamente sono acquisite le valutazioni dell'Utente a mezzo di apposite indagini.
-
+#### Cortesia
 Il personale dell'ACS è tenuto a curare in modo particolare il rispetto e la cortesia nei confronti dell'utente. In tal senso il gestore s'impegna a dare le opportune istruzioni ai dipendenti incaricati ai rapporti con il pubblico; essi sono tenuti, altresì, a rendersi identificabili dagli utenti, sia nel rapporto personale, sia nelle comunicazioni telefoniche.
 
+#### Efficacia ed efficienza
 L'Azienda persegue l'obiettivo di un continuo miglioramento dell'efficienza e dell'efficacia del servizio adottando soluzioni procedurali, organizzative e tecniche più funzionali allo scopo.
 
+#### Chiarezza e comprensibilità
 L'Alto Calore Servizi pone la massima attenzione alla efficiente semplificazione del linguaggio nel rapporto con gli utenti.
 
+#### Condizioni di fornitura 
 Le condizioni principali di fornitura del servizio sono riportate in allegato alla presente Carta.
 
-# Informazioni generali per l'utente
+# 2. Informazioni generali per l'utente
+## 2.1 Informazioni generali per l’utente 
 In un'ottica di trasparenza nei rapporti con l'utenza, il Gestore s'impegna a:
 - Fornire agli utenti tutte le informazioni circa le modalità e caratteristiche di qualità dei servizi prestati, le procedure e le iniziative aziendali d'interesse e i principali aspetti normativi, contrattuali e tariffari;
 - Convocare le associazioni dei consumatori firmatarie e quelle che ne facessero richiesta, per le consultazioni preventive all'emissione di nuove regolamentazioni dei Servizi;
@@ -72,20 +61,25 @@ In un'ottica di trasparenza nei rapporti con l'utenza, il Gestore s'impegna a:
 - Riportare nella Carta, in sintesi, le modalità di accesso agli atti, in conformità alle norme vigenti;
 - Rendere noti annualmente alle associazioni dei consumatori firmatarie ed agli utenti che ne facessero richiesta, i contenuti della relazione annuale in merito al numero di reclami ed al relativo esito.
 
-# Servizio informazioni telefonico, call center
+## 2.2 Servizio informazioni telefonico, call center
 Il Gestore fornisce il servizio informazioni telefonico per mezzo di un numero verde dal quale è possibile ottenere:
 - Informazioni di base ed orientamento (contratti, consumi e tariffe, modalità di pagamento, orari ed indirizzi);
 - Informazioni sui servizi ovvero nuovi contratti, variazioni dei contratti in essere, consumi e fatture, verifiche ed interventi;
 - Informazioni sulla qualità dell'acqua fornita.
 
-# Il sito Internet e il servizio clienti on line
+## 2.3 Il sito Internet e il servizio clienti on line
 L'indirizzo internet del sito dell'ACS è www.altocalore.eu
 
 Dal sito internet è possibile accedere, in qualsiasi giorno ed a qualsiasi ora ai servizi dello Sportello On Line.
 
 È possibile comunicare con ACS, per via telematica, via e-mail ai seguenti indirizzi:
 
-# I servizi forniti
+## 2.4 Segnalazione guasti 
+- Dalle ore 08:00 alle ore 14:00 numero 0825794330 
+- Dalle ore 14:00 alle ore 08:00 numero 3486928956
+
+## 2.5 I servizi forniti
+#### Condizioni di somministrazione dei servizi 
 Attraverso i diversi canali di comunicazione disponibili l'utente può richiedere la somministrazione dei servizi standard da parte di ACS fornendo i dati anagrafici e fiscali, i dati catastali, permesso di costruire, un recapito telefonico, la tipologia di contratto richiesto, l'ubicazione oggetto della fornitura richiesta, il recapito della fattura e l'eventuale indirizzo e-mail.
 
 In fase di sopralluogo da parte di ACS, l'utente normalmente sottoscrive il verbale, salvo casi eccezionali, dovutamente motivati. In caso di realizzazione di nuovo impianto, l'utente è tenuto ad indicare nel contratto la modalità di addebito (unica soluzione o rateale) del contributo per la costruzione dell'impianto di allacciamento alla rete.
@@ -109,36 +103,50 @@ Gli utenti che intendono recedere dal contratto di somministrazione devono forma
 
 L'utente è tenuto, comunque, al pagamento della fattura di fine rapporto.
 
-Il Gestore assicura la fornitura d'acqua a gestori terzi del servizio di distribuzione mediante la stipula di un'apposita convenzione.
-
-Il servizio è subordinato:
+#### Fornitura a gestori terzi (subdistributori)
+Il Gestore assicura la fornitura d'acqua a gestori terzi del servizio di distribuzione mediante la stipula di un'apposita convenzione. Il servizio è subordinato:
 - all'autorizzazione da parte dell'Autorità d'Ambito;
 - alla fornitura con portata massima erogabile, che dovrà essere definita nei limiti delle dotazioni idriche assegnate al Gestore dell'Autorità competente;
 - alla realizzazione delle opere necessarie alla fornitura, nel rispetto degli standard qualitativi e costruttivi stabiliti da ACS.
 
 La convenzione di sub distribuzione disciplina condizioni particolari di fornitura.
 
-Il Gestore somministra il servizio di distribuzione idrica per usi civili nei territori dei Comuni serviti, nei limiti della disponibilità idrica e compatibilmente con la possibilità di derivazione dalla reti gestite ed in esercizio. 
+#### Distribuzione idrica
+Il Gestore somministra il servizio di distribuzione idrica per usi civili nei territori dei Comuni serviti, nei limiti della disponibilità idrica e compatibilmente con la possibilità di derivazione dalla reti gestite ed in esercizio. Il Servizio è subordinato alla realizzazione delle opere di allacciamento necessarie.
 
-Il Servizio è subordinato alla realizzazione delle opere di allacciamento necessarie.
+#### Fognatura
+Il Gestore fornisce il servizio di fognatura nei territori dei Comuni serviti nei limiti delle capacità di ricezione delle reti gestite ed in esercizio, e, compatibilmente al sistema fognante depurativo. Il servizio è subordinato alla realizzazione delle opere di allacciamento necessarie che sarà assicurata secondo le modalità sopra descritte. Il Gestore provvede ad effettuare, sulla base di specifici programmi, controlli sugli scarichi degli insediamenti allacciati alla pubblica fognatura.
 
-Il Gestore fornisce il servizio di fognatura nei territori dei Comuni serviti nei limiti delle capacità di ricezione delle reti gestite ed in esercizio, e, compatibilmente al sistema fognante depurativo.
+#### Depurazione
+Il Gestore fornisce il servizio di depurazione nei territori dei comuni serviti, nei limiti delle capacità di ricezione dell'impianto gestito ed in esercizio compatibilmente con il rispetto dei limiti allo scarico dello stesso impianto. Tutte le acque depurate vengono periodicamente controllate nel rispetto delle norme vigenti prima di essere restituite all'ambiente.
 
-Il servizio è subordinato alla realizzazione delle opere di allacciamento necessarie che sarà assicurata secondo le modalità sopra descritte.
-
-Il Gestore provvede ad effettuare, sulla base di specifici programmi, controlli sugli scarichi degli insediamenti allacciati alla pubblica fognatura.
-
-Il Gestore fornisce il servizio di depurazione nei territori dei comuni serviti, nei limiti delle capacità di ricezione dell'impianto gestito ed in esercizio compatibilmente con il rispetto dei limiti allo scarico dello stesso impianto.
-
-Tutte le acque depurate vengono periodicamente controllate nel rispetto delle norme vigenti prima di essere restituite all'ambiente.
-
-# Informazioni specifiche per l'utente
+## 2.8 Informazioni specifiche per l'utente
+#### Qualità dell’acqua erogata
 La qualità dell'acqua erogata dal Gestore è corrispondente ai vigenti standard di legge di cui al D. Lgs. 31/2001 e s. m. i.
 
 Il Gestore dispone di propri laboratori di analisi che svolgono gli autocontrolli in accordo con le frequenze previste dalla Legge.
 
 L'ACS, in ottemperanza alla prima direttiva per la trasparenza dei documenti di fatturazione del SII, approvata con Deliberazione n. 586/2012/R/IDR del 28/12/2012 dell'Autorità per l'energia Elettrica ed il Gas, rende disponibili attraverso il sito internet aziendale i dati medi relativi ai seguenti parametri di qualità dell'acqua erogata:
+- pH 
+- conduttività µS/cm a 20°C 
+- Residuo fisso a 180°C 
+- Durezza totale in gradi (F) 
+- Conducibilità 
+- Calcio 
+- Magnesio 
+- Ammonio 
+- Cloruri 
+- Solfati 
+- Potassio 
+- Sodio 
+- Arsenico 
+- Cloro residuo 
+- Floruri 
+- Nitrati 
+- Nitriti 
+- Manganese
 
+#### Pagamenti
 Le fatture possono essere pagate secondo le seguenti modalità:
 - presso uffici postali;
 - presso sportelli bancari;
@@ -146,6 +154,7 @@ Le fatture possono essere pagate secondo le seguenti modalità:
 - attraverso i servizi di Home Banking offerti dalle banche e dalla Posta;
 - presso gli sportelli bancomat abilitati.
 
+#### Modalità di lettura e verifica dei misuratori
 La società, fatta salva l'ipotesi in cui il misuratore non sia accessibile per cause non dipendenti dalla propria volontà, effettua le letture dei misuratori di acqua presso gli utenti almeno una volta all'anno utilizzando un sistema ottico – digitale.
 
 Tale sistema consente di conservare la fotografia del quadrante del contatore e di certificare la data e la lettura effettuata.
@@ -167,10 +176,13 @@ L'ACS s'impegna a comunicare preventivamente la data dell'eventuale sostituzione
 
 Nel caso in cui la verifica accerti un'irregolarità di funzionamento, superiore al 5% in più o in meno, la rideterminazione dei consumi sarà effettuata da ACS in base al coefficiente di correzione (riduzione o incremento dei consumi registrati, nella percentuale risultata, in valore assoluto, oltre il 5%).
 
+#### Consumi
 L'ACS informa i propri utenti dei consumi imputabili per il pagamento tramite opportuno prospetto di dettaglio degli importi inviato, con cadenza trimestrale, in uno con la fattura.
 
+#### Scadenza delle fatture
 La fatturazione dei consumi è calcolata sulla base delle tariffe in vigore. L'ACS emette quattro fatture annue e relativi bollettini per il pagamento. La scadenza della fattura non è mai inferiore ai 15 giorni successivi la data di emissione della stessa.
 
+#### Tariffe
 L'art. 21 del D.L. 201/2011, convertito con modificazioni nella Legge 214 del 22/12/2011, ha assegnato le funzioni di regolazione e controllo dei servizi idrici all'Autorità per l'Energia Elettrica ed il Gas.
 
 L'ACS applica, dal 01.06.2013, per le utenze domestiche, le seguenti tariffe, determinate ed approvate con verbale n.56 del 29.04.2013:
@@ -187,6 +199,7 @@ La quota fissa di fognatura è applicata in modo identico a quella di acquedotto
 
 La tariffa per il servizio di depurazione è composta da una sola quota variabile commisurata ai volumi registrati per il servizio di fognatura.
 
+#### Reclami
 L'utente può presentare reclamo (recandosi al front office, via fax, via telefono, via posta e via internet) contro atti e comportamenti che impediscano o limitino la piena fruibilità dei servizi previsti contrattualmente o per il mancato rispetto degli standard fissati dalla Carta del Servizio Idrico Integrato.
 
 Nella predisposizione del reclamo ha l'obbligo di descrivere i fatti e di allegare in fotocopia gli atti ovvero i documenti che risultassero necessari. (modulo di reclamo in allegato alla pagina n. 39).
@@ -195,23 +208,29 @@ Per ogni reclamo è effettuata una verifica completa ed imparziale delle irregol
 
 In ogni caso, l'utente, attraverso gli stessi canali di comunicazione, può richiedere notizie sullo stato di avanzamento del reclamo, fornendo i propri dati identificativi.
 
+#### Consumi anomali
 L'ACS ha predisposto un sistema per segnalare agli utenti i casi in cui i consumi registrati si discostano da quelli abituali, al fine di favorire il controllo del proprio impianto interno.
 
 L'informazione circa i consumi anomali è riportata nella fattura consumi ovvero inviata attraverso sms o e-mail.
 
-# Dichiarazione d'impegno del Gestore
+# 3. Dichiarazione d'impegno del Gestore
+## 3.1 Dichiarazione d’impegno del Gestore 
 L'ACS s'impegna a fornire i servizi secondo i criteri descritti e le relative caratteristiche indicate nella presente Carta.
 
 Nel caso di mancato rispetto degli impegni assunti dal Gestore, per cause ad esso imputabili, l'utente ha diritto ad ottenere un indennizzo alle condizioni riportate nel successivo capitolo 4 paragrafo 4.1 presentando richiesta scritta entro 30 giorni dal mancato rispetto dell'impegno.
 
+#### Crisi qualitativa 
 Ove non sia possibile mantenere i livelli qualitativi nei limiti previsti dalla legge, il gestore può erogare acqua non potabile purché ne dia preventiva e tempestiva comunicazione alle autorità competenti, all'utenza ed alle associazioni dei consumatori firmatarie, salvo il rilascio del nulla osta delle ASL. Il Gestore informerà comunque i soggetti di cui sopra circa le azioni intraprese per superare la situazione di crisi ed i tempi previsti per il ripristino della normalità, secondo le modalità previste nel piano d'interruzione del servizio e nel Piano delle Emergenze approvato.
 
+#### Sistema per la Qualità e l’Ambiente
 ACS si è dotato di un Sistema Qualità sulla base della Norma UNI EN ISO 9001 per tutte le attività del Servizio Idrico Integrato, dalla progettazione e realizzazione delle infrastrutture alla gestione delle Utenze, a tutte le componenti materiali e immateriali del servizio.
 
+#### Livelli minimi di servizio
 L'ACS garantisce una dotazione per utenza alla consegna non inferiore al quantitativo stabilito in contratto, come modulo contrattuale, inteso come volume attingibile dall'utenza nelle 24 ore e una pressione non inferiore a 0.5 atmosfere misurate a valle del rubinetto d'arresto posto immediatamente dopo il misuratore dell'ACS.
 
 L'azienda s'impegna ad effettuare indagini a campione, al fine di valutare il grado di soddisfazione degli utenti sul servizio erogato, i cui risultati sono oggetto di analisi da parte di ACS per il miglioramento del servizio prestato.
 
+#### Ulteriori impegn
 ACS garantisce inoltre i seguenti servizi di controllo:
 - Servizio di controllo interno dell'acqua potabile distribuita attraverso i prelievi e le analisi di laboratorio che devono garantire, al punto di consegna, il rispetto dei limiti indicati dalle vigenti disposizioni di legge;
 - Servizio di controllo interno delle acque immesse nella fognatura, con prelievi e analisi di laboratorio verificando altresì la compatibilità tecnica degli scarichi con la capacità del sistema;
@@ -219,7 +238,7 @@ ACS garantisce inoltre i seguenti servizi di controllo:
 
 Non si considerano remunerati con la tariffa i controlli da effettuare sui reflui diversi da quelli domestici relativi a scarichi in fognatura e/o a conferimenti effettuati direttamente presso i depuratori gestiti.
 
-# Standard di qualità
+## 3.2 Standard di qualità
 L'azienda, in coerenza con le norme vigenti in materia, ha fissato tre tipologie di standard:
 - Standard generale - riferito ad un complesso di prestazioni fornite espresso come valore medio;
 - Standard specifico – riferito ad una specifica prestazione resa e misurabile con un valore massimo o minimo;
@@ -227,7 +246,7 @@ L'azienda, in coerenza con le norme vigenti in materia, ha fissato tre tipologie
 
 Gli standard espressi in giorni sono da intendersi lavorativi e dunque al netto delle festività e riposo settimanale
 
-# Avvio del rapporto contrattuale
+### 3.2.1 Avvio del rapporto contrattuale
 Gli standard definiti in questo paragrafo riguardano la durata delle attività che caratterizzano l'avvio o la modifica del rapporto contrattuale con l'Utente.
 
 I tempi di prestazione indicati di seguito sono considerati al netto del tempo necessario per le seguenti attività:
@@ -238,29 +257,34 @@ I tempi di prestazione indicati di seguito sono considerati al netto del tempo n
 
 Qualora per cause di forza maggiore, o imputabili a terzi, insorgano difficoltà nel rispetto delle scadenze garantite o già comunicate, l'azienda s'impegna a comunicare all'utente, il nuovo termine ed il motivo del rinvio.
 
-ACS ha definito il tempo massimo per la preventivazione dei costi per la realizzazione dell'impianto di allacciamento a decorrere dalla richiesta documentata dall'utente e fino alla data di consegna del Contratto /Contributo per accesso al servizio.
-
-Per richieste di nuovi allacciamenti o spostamenti e/o modifiche di quelli esistenti con sopralluogo
+#### Contributo per l’accesso al servizio
+ACS ha definito il tempo massimo per la preventivazione dei costi per la realizzazione dell'impianto di allacciamento a decorrere dalla richiesta documentata dall'utente e fino alla data di consegna del Contratto /Contributo per accesso al servizio. Per richieste di nuovi allacciamenti o spostamenti e/o modifiche di quelli esistenti con sopralluogo.
 
 Per situazioni più complesse in cui dovranno essere effettuati più sopralluoghi e/o posa di tubazioni stradali e/o si dovranno ricevere permessi di terzi, l'ACS invierà risposta scritta per precisare i tempi necessari per i successivi interventi.
 
+#### Allacciamento alla rete idrica pubblica
 Contestualmente alla formale accettazione del preventivo, di cui al punto precedente, l'utente deve acquisire a propria cura e spesa, le eventuali autorizzazioni per l'esecuzione lavori. La somministrazione del servizio è pertanto subordinata all'ottenimento, anche attraverso il Gestore, di tali autorizzazioni.
 
 A decorrere dalla data di acquisizione delle dovute autorizzazioni e, dove non necessarie, dalla data di accettazione del preventivo, i lavori per attivare la fornitura saranno completati entro un tempo, misurato in giorni al netto dei tempi per lavori d'intervento, estensione o adeguamento sulla rete stradale:
 
+#### Attivazione della fornitura
 Tempo di attivazione della fornitura misurato in giorni a partire dal giorno successivo al completamento delle opere di allacciamento:
 
+#### Riattivazione della fornitura
 Tempo di riattivazione della fornitura misurato in giorni a partire dal giorno successivo alla richiesta di attivazione:
 
+#### Cessazione della fornitura 
 Tempo massimo entro cui ACS provvede a disattivare la fornitura dell'acqua dal ricevimento della disdetta del contratto dell'utente:
 
+#### Allacciamento alla pubblica fognatura
 Successivamente alla formale accettazione del preventivo relativo ai costi per la realizzazione dell'impianto di allacciamento alla rete di fognatura, l'utente deve provvedere, a propria cura e spesa, all'esecuzione dei lavori. La somministrazione del servizio è pertanto subordinata all'ottenimento anche attraverso il Gestore, delle relative autorizzazioni.
 
 Il tempo massimo tra la data di accettazione del preventivo da parte dell'utente e il rilascio dell'autorizzazione, misurato in giorni, al netto dei tempi per eventuali autorizzazioni di terzi:
 
+#### Parere per autorizzazione allo scarico in pubblica fognatura
 L'azienda formula il parere per il rilascio o rinnovo delle autorizzazioni agli scarichi industriali produttivi in pubblica fognatura, alla data della relativa richiesta:
 
-# Accessibilità ai servizi
+### 3.2.2 Accessibilità ai servizi
 L'utente interagisce con il Gestore attraverso: Front Office di competenza territoriale, sito internet aziendale, Servizio Clienti on line, nonché a mezzo posta, per usufruire dei seguenti servizi:
 - Nuovi contratti;
 - Variazioni su contratti esistenti;
@@ -278,8 +302,10 @@ L'utente interagisce con il Gestore attraverso: Front Office di competenza terri
 
 Negli abitati sprovvisti di Uffici per i servizi all'utenza, con la collaborazione delle Amministrazioni Comunali che ne facciano richiesta, vengono installate postazioni telematiche in grado di dialogare on line con il sistema informatico del Gestore per assicurare le attività di assistenza agli utenti che siano impossibilitati, o abbiano significative difficoltà, ad accedere personalmente ai canali di comunicazione messi a disposizione da ACS. In appendice è disponibile l'elenco dei Comuni presso i quali sono attivate le postazioni e gli orari di apertura.
 
+#### Apertura al pubblico degli sportelli
 Presso il Front Office del Gestore, gli sportelli sono aperti al pubblico dal lunedì al venerdì nei seguenti orari:
 
+#### Svolgimento di pratiche per via telefonica e servizio informazioni
 L'accesso ai servizi, incluso il servizio informazioni è garantito per via telefonica, attraverso numero verde 800-215333.
 
 L'utente ha la possibilità di richiedere i seguenti servizi:
@@ -289,8 +315,22 @@ L'utente ha la possibilità di richiedere i seguenti servizi:
 - Richiesta lettura di controllo;
 - Segnalazione guasti.
 
+#### Svolgimento di pratiche per corrispondenza
 Per facilitare l'accesso ai servizi, l'ACS offre la possibilità di svolgimento di alcune pratiche per corrispondenza da inviare presso l'ufficio commerciale competente territorialmente, riportato in appendice e nell'apposito box della fattura consumi inviata all'utente.
+- Variazioni su contratti esistenti; 
+- Recessi o sospensioni della fornitura; 
+- Subentri 
+- Informazioni sui consumi, pagamenti e sui servizi erogati in genere; 
+- Addebiti lavori chiesti dall’utente; 
+- Reclami; 
+- Rimborsi; 
+- Richiesta interventi di manutenzione; 
+- Richiesta lettura di controllo; 
+- Segnalazione guasti; 
+- Verifica contatore; 
+- Copia fatture. 
 
+#### Procedure di pagamento delle fatture
 Per il pagamento delle fatture l'utente potrà avvalersi delle seguenti modalità:
 - a mezzo servizio MAV pagabile presso qualsiasi sportello bancario o postale e presso gli sportelli delle concessionarie indicate su bollettino di pagamento;
 - a mezzo domiciliazione bancaria o postale compilando il modello RID;
@@ -304,50 +344,71 @@ Nel caso in cui l'utente rilevi errori nella fattura può avanzare reclamo, nei 
 
 Gli sportelli degli Uffici Commerciali ACS prevedono agevolazioni e percorsi preferenziali per alcune tipologie di utenti, quali portatori di handicap, disabili, invalidi.
 
-Il numero degli sportelli presso il Gestore è finalizzato all'obiettivo di garantire agli utenti un tempo accettabile di attesa in funzione del numero di utenze da servire, contenere i costi di gestione.
+#### Tempi di attesa agli sportelli
+Il numero degli sportelli presso il Gestore è finalizzato all'obiettivo di:
+- garantire agli utenti un tempo accettabile di attesa in funzione del numero di utenze da servire, contenere i costi di gestione.
 
 Sono stati predisposti sportelli abilitati alla gestione di ogni tipo operazione, in modo tale da garantire i tempi medi di attesa pari a:
+- Tempo medio di attesa 30 min. 
 
+#### Risposta alle richieste scritte degli utenti
 L'ACS s'impegna a rispondere, in via definitiva e in via interlocutoria, alle richieste d'informazioni pervenute per iscritto dagli utenti, entro un tempo massimo di:
+- T max = 30 giorni di calendario dalla data di ricevimento (attestata dal protocollo aziendale) in via definitiva o interlocutoria.  
 
+#### Risposta ai reclam
 L'utente può presentare reclami contro atti e comportamenti che costituiscano impedimento o limitazione alla piena fruibilità dei servizi o al mancato rispetto di standard stabiliti nella presente Carta.
+
+L’ACS dalla ricezione del reclamo risponde all’utente entro un tempo massimo di: 
+- T max.  = 30 giorni 
 
 Se la complessità del reclamo non consente il rispetto del tempo di risposta su indicato, l'utente viene tempestivamente informato sullo stato di avanzamento della pratica di reclamo e sui tempi previsti di risposta.
 
-Il personale ACS è tenuto a rispettare i principi fondamentali stabiliti e descritti al paragrafo 1.3 della presente Carta con particolare riferimento a cortesia, chiarezza e comprensibilità
+#### Riconoscibilità, presentabilità, comportamenti, modi e linguaggi del personale dipendente
+Il personale ACS è tenuto a rispettare i principi fondamentali stabiliti e descritti al paragrafo 1.3 della presente Carta con particolare riferimento a cortesia, chiarezza e comprensibilità.
 
 È fatto assoluto divieto, al personale ACS e al personale delle imprese appaltatrici di lavori e servizi, di chiedere o ricevere compensi da parte degli utenti (Codice Etico di ACS) per le prestazioni eseguite per conto dell'azienda.
 
-# Gestione del rapporto contrattuale
+### 3.2.3 Gestione del rapporto contrattuale
+#### Fatturazione
 La fatturazione dei consumi è calcolata sulla base delle tariffe che vengono rese pubbliche attraverso i vari strumenti informativi previsti nella presente Carta.
 
 Il corrispettivo del servizio è fatturato all'utente di norma trimestralmente in acconto sui consumi, ovvero a conguaglio.
 
 I consumi in acconto sono determinati sulla base dei consumi pregressi o sulla scorta di quelli riconducibili mediamente in ragione del tipo di utenza. Resta l'obbligo per l'azienda di effettuare il conguaglio almeno due volte l'anno addebitando o accreditando all'utente la differenza tra l'effettivo consumo e quello presunto addebitato con le fatture di acconto o di anticipo salvo i casi in cui, per cause non dipendenti dall'azienda, non sia stato possibile effettuare la lettura dei consumi.
 
+#### Rettifiche dei corrispettivi del servizio
 Qualora nel processo di lettura e fatturazione vengano commessi errori in eccesso o in difetto, la società provvede alla correzione dello stesso, al ricalcolo dei corrispettivi ed all'emissione dei corrispondenti documenti di rettifica contabile, entro un tempo massimo di:
+- T max = 180 giorni dalla data della richiesta dell’utente.
 
+#### Morosità
 Per il periodo di ritardato pagamento la società applica gli interessi di mora, entro il limite fissato dalle leggi vigenti, addebitandoli nelle successive fatture.
 
-La società procede alla sospensione della fornitura provvedendo alla chiusura della presa stradale qualora non risultino pagate n. 4 fatture. L'ACS comunica, con raccomandata a/r la data a partire dalla quale può avvenire la sospensione del servizio nonché le modalità per evitare la sospensione allegando il bollettino di pagamento. Qualora l'utente successivamente alla sospensione del servizio, richieda la relativa riattivazione dovrà saldare le fatture non pagate e corrispondere oltre ai relativi interessi di mora e alle spese di recupero crediti, le spese per la chiusura e la riapertura della presa stradale.
+La società procede alla sospensione della fornitura provvedendo alla chiusura della presa stradale qualora non risultino pagate n. 4 fatture. L'ACS comunica, con raccomandata a/r la data a partire dalla quale può avvenire la sospensione del servizio nonché le modalità per evitare la sospensione allegando il bollettino di pagamento. Qualora l'utente successivamente alla sospensione del servizio, richieda la relativa riattivazione dovrà saldare le fatture non pagate e corrispondere oltre ai relativi interessi di mora e alle spese di recupero crediti, le spese per la chiusura e la riapertura della presa stradale. Il Gestore si riserva un tempo massimo: 
+- T max.: 5 giorni lavorativi 
 
 Per il riavvio della fornitura dalla dimostrata estinzione del debito (esibizione ricevuta di pagamento o sottoscrizione piano di rateizzazione con pagamento della 1 rata prevista) o su richiesta della competente Autorità. In quest'ultimo caso è facoltà del gestore porre in atto mezzi di limitazione della portata e della pressione di fornitura, comunicati in forma scritta all'utente.
 
-Tempo massimo per la verifica del contatore, a partire dalla richiesta dell'utente, il quale ha facoltà di presenziare alla prova di verifica o a delegare una persona di propria fiducia
+#### Verifica del contatore 
+Tempo massimo per la verifica del contatore, a partire dalla richiesta dell'utente, il quale ha facoltà di presenziare alla prova di verifica o a delegare una persona di propria fiducia:
+- T max.: 90 giorni 
 
 La società comunica i risultati della verifica per iscritto indicando altresì l'eventuale ricostruzione dei consumi non correttamente misurati. Tale ricostruzione verrà effettuata in base alla media dei consumi storici dell'utenza; in mancanza di tali riferimenti, si utilizzeranno i successivi consumi che verranno registrati dal nuovo misuratore.
 
+#### Verifica del livello di pressione
 L'utente può chiedere la verifica del livello di pressione, in contraddittorio con i tecnici dell'ACS.
 
 Qualora fosse riscontrata la regolarità del servizio, ovvero una pressione non inferiore a 0,5 atmosfere misurate a valle del rubinetto d'arresto posto immediatamente dopo il misuratore del Gestore, (fatto salvo il caso in cui il contratto sia stato sottoscritto con clausola di "precarietà") l'utente sarà tenuto al pagamento delle spese di verifica; in caso contrario le spese saranno a carico del Gestore.
 
 Tempo massimo per la verifica del livello di pressione, a partire dalla richiesta dell'utente, il quale ha facoltà di presenziare alla prova o delegare una persona di fiducia:
+T max. = 30 giorni 
 
+#### Strumenti informativi
 Il Gestore, in caso di necessità, provvede ad informare la popolazione servita, attraverso strumenti informativi di massa, e i singoli utenti attraverso strumenti personalizzati, nei tempi di seguito indicati a decorrere dall'accertamento dell'evento:
 
 Il Gestore si impegna a rendere note le eventuali interruzioni programmate del flusso idrico con almeno una delle prime tre modalità indicate nel prospetto.
 
-# Continuità del Servizio
+### 3.2.4 Continuità del Servizio
+#### Continuità e servizio di emergenza 
 L'interruzione del servizio può essere imputabile solo ad eventi di forza maggiore, guasti e manutenzioni necessarie al corretto funzionamento degli impianti utilizzati e per garantire la qualità e la sicurezza del servizio, informando adeguatamente e tempestivamente l'utenza.
 
 ACS indica come standard di qualità per la continuità del servizio il Rapporto tra la somma dei tempi di sospensione del servizio ed il numero di interventi con un tempo medio di intervento pari a:
@@ -356,14 +417,20 @@ Il Gestore si impegna ad attivare un servizio di emergenza sostitutivo alla dist
 
 La distribuzione alternativa avviene tramite autobotti per acqua potabile ed ove possibile con sacchetti di acqua potabile da 5 litri.
 
+#### Tempi di preavviso per interventi programmat
 In caso di sospensioni per interventi programmati, il Gestore si impegna ad informare la popolazione interessata, con le modalità definite al paragrafo 3.2.3 "Strumenti informativi", con un anticipo minimo rispetto alla sospensione di:
+- T min. = 3 giorni 
 
+#### Durata delle sospensioni programmate
 Il gestore assicura una durata massima delle sospensioni del servizio derivanti da interventi programmati di:
+- T max. = 1 giorno 
 
+#### Pronto intervento 
 Il Gestore assicura il servizio di pronto intervento 24 ore su 24 mediante chiamata al numero 0825-794330 o al numero della reperibilità 348 6928956
 
 Il Gestore ha classificato i guasti, (vedi nelle schede n. 4 e 5) garantendo i seguenti tempi di intervento:
 
+### Crisi idrica per scarsità
 In caso di scarsità della risorsa idrica, prevedibile o in atto, dovuta a fenomeni naturali o a fattori antropici comunque non dipendenti dall'attività di gestione, il Gestore con adeguato preavviso, informerà l'utenza, proponendo all'Autorità competente le misure da adottare per coprire il periodo di crisi.
 
 Tali misure possono comprendere:
@@ -374,39 +441,12 @@ Tali misure possono comprendere:
 
 Le modalità di intervento sono previste nel Piano di Emergenza, predisposto dal Gestore, per ogni specifica situazione.
 
-# Valutazione del grado di soddisfazione
+## 3.3 Valutazione del grado di soddisfazione
 Il Gestore, al fine di verificare la percezione della qualità dei servizi resi, il grado di soddisfazione dell'utente e programmare interventi di miglioramento della qualità del servizio, acquisisce secondo le modalità di volta in volta stabilite i giudizi dell'utenza.
 
 Gli utenti possono, attualmente, usufruire del "Questionario di Soddisfazione Utenza" per far pervenire al Gestore i suggerimenti volti al miglioramento del servizio fornito.
 
 Tele strumento è reperibile attraverso il sito internet di ACS.
-
-# Sintesi della Carta
-Senza lavori di adeguamento della rete, al netto di lavori a cura e spese dell'utente e salvo esigenze particolari ed autorizzazioni di terzi
-
-Tempo massimo per la riapertura del contatore e l'attivazione o la riattivazione della fornitura nei casi di subentro, al netto di eventuali autorizzazioni e/o certificazioni
-
-Senza lavori di adeguamento della rete, al netto di lavori a cura e spese dell'utente e salvo esigenze particolari ed autorizzazioni di terzi
-
-Tempo massimo tra l'accettazione del preventivo e l'esecuzione dell'allacciamento
-
-Tempo massimo tra la richiesta dell'utente ed il rilascio dell'autorizzazione o tra la scadenza ed il rinnovo
-
-Tipologia ed estensione di strumenti di supporto per particolari categorie di utenti
-
-Tempo massimo per la verifica del contatore su richiesta dell'utente
-
-Tempo massimo per la verifica del livello di pressione sulla rete su richiesta dell'utente
-
-Tempo oltre il quale si attiva il servizio sostitutivo alla distribuzione
-
-Tempo minimo di preavviso alla sospensione della fornitura per l'esecuzione di interventi programmati
-
-Provvedimenti che ACS si riserva di intraprendere in accordo con le Autorità competenti e secondo quanto previsto dal piano di Emergenza aziendale
-
-Fuga in strada con incanalamento dell'acqua in fogna o canaletta
-
-Fuga acqua in campagna o in luogo tale da non destare pericolo con piccole fughe che non pregiudicano il servizio sia alle reti che agli allacciamenti
 
 # CONSIGLI AL CONSUMATORE
 La superficie terrestre è composta per oltre il 70% d'acqua, di cui il 97% è costituito da acqua salata e solo il 3% da acqua dolce. La maggior parte di quest'ultima è racchiusa in ghiacciai e falde sotterranee, difficilmente accessibili.

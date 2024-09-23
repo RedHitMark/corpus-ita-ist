@@ -1,13 +1,19 @@
-# RAGIONI E FINALITÀ DELLA CARTA DEI SERVIZI
+# 1. PRESENTAZIONE DELLA CARTA DEI SERVIZI 
+## 1.1. RAGIONI E FINALITÀ DELLA CARTA DEI SERVIZI
 In ottemperanza alle normative vigenti per tutte le aziende che operano nel settore dei trasporti pubblici (decreto del Presidente del Consiglio dei Ministri del 30 dicembre 1998), la Carta della Mobilità di TROTTA offre all'utenza l'opportunità di conoscere l'attività dell'Azienda nei suoi diversi aspetti ed i principi a cui essa si ispira, mettendo a disposizione tutte le informazioni utili per la fruizione del servizio offerto.
 
 L'intento dell'Azienda è quello di avviare per mezzo dalla Carta della Mobilità un confronto ed una comunicazione permanente con i suoi Clienti, anche mediante lo strumento del sondaggio di opinione, già proficuamente applicato una prima volta e sintetizzato in questo documento: TROTTA può così dare voce ai suoi Clienti, permettendo loro di far conoscere le proprie esigenze e di vederle contemplate, nei limiti del possibile, nei piani di miglioramento del servizio.
 
 La Carta di TROTTA vuole quindi essere uno strumento immediato e concreto nei suoi contenuti, concentrandosi fondamentalmente sui fattori che costituiscono la qualità del servizio e i corrispondenti standard di qualità, espressi in forma non generica, bensì con precisi dati numerici che possano essere valutati e verificati dall'utenza. Solo così l'Azienda può perseguire lo scopo più generale di una crescita autentica e di una integrazione costantemente aggiornata nel territorio in cui opera.
 
-# DIRITTI GARANTITI AL CLIENTE
+## 1.2. RIFERIMENTI NORMATIVI PER LA CARTA DEI SERVIZI 
+- DPCM 27/01/1994 “Principi sull’erogazione dei pubblici servizi” 
+- DPCM 30/12/1998 ”Schema generale di riferimento per la predisposizione della carta dei servizi pubblici del settore trasporti” 
+
+## 1.3. DIRITTI GARANTITI AL CLIENTE
 La Ditta TROTTA si impegna ad operare nel rispetto di fondamentali principi e garanzie per il Cliente, ovvero:
 
+### UGUAGLIANZA E IMPARZIALITÀ
 La Ditta TROTTA si impegna ad improntare l'erogazione del pubblico servizio di trasporto al principio di uguaglianza dei diritti degli utenti-clienti inteso come divieto di ogni ingiustificata discriminazione per motivi di razza, sesso, lingua, religione ed opinioni politiche.
 
 Si impegna altresì a garantire:
@@ -15,28 +21,72 @@ Si impegna altresì a garantire:
 - impegno a migliorare l'accessibilità al servizio per persone in difficoltà, anziani, disabili
 - adozione di misure adeguate per favorire una parità di condizioni del servizio prestato, tra le differenti aree geografiche e tra le diverse fasce di utenza
 
+### EFFICIENZA ED EFFICACIA 
 La Ditta TROTTA si impegna ad erogare il servizio in modo da garantire:
 - il controllo costante delle condizioni di sicurezza per il viaggiatore
 - il rispetto degli standard di qualità dichiarati
 - l'adozione di misure atte a ridurre l'impatto ambientale, in particolare quello generato dai propri mezzi di trasporto
 - l'adozione di piani aziendali volti al continuo miglioramento nell'erogazione del servizio
 
+### CONTINUITÀ
 La Ditta TROTTA, nella normalità delle condizioni oggettive esistenti sul territorio, si impegna ad assicurare:
 - la regolarità ed il rispetto dell'orario pubblicato e diffuso
 - la tempestiva informazione per ogni necessaria variazione di orari o percorsi, al fine di arrecare minor disagio possibile all'utente
 - l'attivazione di servizi sostitutivi ove occorrano
 - l'erogazione del servizio minimo in caso di sciopero.
 
+### PARTECIPAZIONE E TRASPARENZA 
 La Ditta TROTTA si impegna a garantire e favorire la partecipazione dei cittadini al fine di tutelare il loro diritto alla adeguata fruizione del servizio. A tal fine:
 - adotta iniziative volte a favorire la partecipazione degli utenti anche attraverso organi di rappresentanza organizzata, come le Associazioni dei Consumatori, le quali fungono come mezzo di comunicazione tra azienda e Clienti, per fornire informazioni, ricevere suggerimenti o reclami, al fine di tutelare il diritto alla corretta erogazione del servizio
 - rileva periodicamente il livello della qualità del servizio percepita dall'utenza.
 
-# STRUTTURE
+# 2. PRESENTAZIONE DELL’AZIENDA 
+### 2.2. SETTORI OPERATIVI DELL’AZIENDA E RISORSE 
+La Ditta TROTTA  è strutturata per settori operativi, ed impiega i seguenti addetti: 
+- DIREZIONE E QUADRI N. 1 UNITA' 
+- COORDINATORE DI ESERCIZIO N.1 UNITA' 
+- OPERATORI DI ESERCIZIO N. 51 UNITA' FULL-TIME 
+- OPERATORE DI ESERCIZIO N.18 UNITA' PART-TIME 
+- ADDETTI ALL'ESERCIZIO N. 3 UNITA' 
+- ADDETTI AL SERVIZIO AMMINISTRATIVO N. 2 UNITA' 
+- ADDETTI AL SERVIZIO DEPOSITO E OFFICINA N. 6 UNITA' 
+- ADDETTI AL SERVIZIO COMMERCIALE N. 2 UNITA (di cui 1 p.t.) 
+- COORDINATORE AMMINISTRATIVO N.1 UNITA' 
+- ADDETTI AL SETTORE MOBILITA' N. 14 UNITA' 
+
+## 2.3. STRUTTURE
 La sede della ditta TROTTA per il trasporto urbano è sita in Benevento, in via Santa Colomba n° 139/141.
+
+Essa è composta da: 
+- Sede Legale 
+- Ufficio Deposito e officina 
+- Ufficio Movimento 
+- Ufficio Commerciale 
+- Ufficio Amministrativo
+
+L’azienda dispone di strutture a servizio della clientela, con appositi recapiti telefonici. 
+- Telefono 0824-363515 (Centralino) 
+- Telefono 0824-363528 (Ufficio commerciale)
+- NUMERO VERDE 800 999 295
 
 Il numero verde è attivo dalle 8:00 alle 14:00 per fornire informazioni e dalle 8:00 alle 19:00 per ricevere reclami e/o segnalazioni.
 
-# COPERTURA TERRITORIALE DEL SERVIZIO
+Ulteriori informazioni sono reperibili consultando il sito: www.trottabenevento.it
+
+## 2.4. PARCO MEZZI 
+La ditta TROTTA dispone di un totale di 49 autobus, così ripartiti: 
+- 8 IVECO 471 F1
+- 5 INBUS U150
+- 2 IVECO 480T
+- 3 BREDA 2001
+- 2 Pollicino 35P
+- 5 BREDA M230
+- 13 IRISBUS 491E 
+- 6 CITELIS 
+- 5 EUROPOLIS 
+
+# 3. OFFERTA COMMERCIALE 
+## 3.1. COPERTURA TERRITORIALE DEL SERVIZIO
 L'obiettivo della ditta TROTTA è quello di fornire un servizio di trasporto pubblico locale urbano e di creare un sistema integrato della mobilità in cui tutti gli operatori che gravitano nell'area della mobilità (parcheggi, ferrovie, taxi, altre aziende di trasporto) collaborino ad un programma coordinato e ad un utilizzo razionale delle risorse disponibili per allinearlo alle esigenze dei cittadini.
 
 A tal proposito le linee sono state articolate in maniera da permettere un collegamento diretto o tramite coincidenze in tutti i punti del territorio servito. Inoltre è a disposizione dell'utente una dettagliata MAPPA DEI TRASPORTI (consultabile sul sito web) con la configurazione di tutte le linee.
@@ -45,21 +95,48 @@ Il servizio è disponibile tutti i giorni dell'anno, escluse le festività di Na
 
 Nelle giornate di sciopero, il servizio viene assicurato in conformità alla legge 12 giugno 1990, n.146, con una copertura oraria dalle 6:30 alle 9:30 e dalle 11:45 alle 14:45.
 
-# ORARI ED INFORMAZIONI
+Nel seguente prospetto sono riportati i dati inerenti la copertura territoriale del servizio di trasporto: 
+- Area servita: Kmq2 130 
+- N° abitanti sul territorio coperto dalle linee: 65.000 
+- Lunghezza della rete: Km. 110 
+- N° linee (esclusi bis scolastici): 15 
+- N° mezzi impiegati sulle linee urbane: 41 
+- Percorrenza totale annua: Km. 1.204.876 
+- N° passeggeri annui trasportati: 2.000.000 
+- Copertura oraria del servizio: Dalle 5,30 alle 23,00 
+- N° corse giornaliere: 342 
+- Frequenza massima delle corse: 35 minuti 
+- N° fermate: 208 
+- N° paline (e pensiline): 109 (41) 
+- Distanza media fermate (metri): 350 
+- Personale impiegato da ATMS: 99 persone 
+
+## 3.2. ORARI ED INFORMAZIONI
 La Ditta TROTTA diffonde informazioni sui linee, percorsi ed orari attraverso i seguenti canali:
 - Uffici aziendali
 - Sito web
 - Opuscolo informativo
 - Espositori paline
 
-# IL SISTEMA TARIFFARIO
+## 3.3. IL SISTEMA TARIFFARIO
 La Ditta TROTTA aderisce al Consorzio UNICOCAMPANIA che gestisce l'integrazione tariffaria in Campania.
 
 Il titolo di viaggio per spostarsi nell'area urbana e suburbana di Benevento è denominato UNICOBENEVENTO.
 
-All'area suburbana appartengono i seguenti Comuni confinanti con il territorio comunale di Benevento:
+All'area suburbana appartengono i seguenti Comuni confinanti con il territorio comunale di Benevento: Apollosa, Castelpoto, Foglianise, Fragneto Monforte, Paduli, Pesco Sannita, Pietrelcina, San Giorgio del Sannio, San Leucio del Sannio, San Nicola Manfredi, Sant’Angelo a Cupolo, Torrecuso.
 
 I passeggeri devono salire a bordo già in possesso di regolare titolo di viaggio acquistato a terra; è possibile acquistare il biglietto orario a bordo, solo in caso di chiusura o non reperibilità dei punti vendita, pagando un sovrapprezzo di € 0,50 alla tariffa ordinaria.
+
+Le tipologie e le tariffe dei titoli di viaggio sono : 
+- biglietto orario 90 minuti: € 0,90 
+- biglietto giornaliero: € 2,00 
+- biglietto week-end giornaliero: € 1,60 
+- abbonamento settimanale:  € 7,20 
+- abbonamento mensile: € 20,00 
+- abbonamento annuale ordinario: € 173.50 
+- abbonamento ordinario ridotto ISSE < € 12.500,00:  € 133,50 
+- abbonamento annuale studenti promozionale: € 120,00 
+- abbonamento annuale studenti ridotto ISSE < € 12.500,00€: 100,00 
 
 Per le categorie protette la ditta TROTTA garantisce un servizio di trasporto pubblico gratuito oppure con agevolazioni di prezzo in funzione della fascia di reddito. Per avere le informazioni necessari all'accesso a tali agevolazioni è necessario rivolgersi presso gli Uffici Commerciali della sede sito in via Santa Colomba, 139/141 - Benevento oppure consultando il sito web www.unicocampania.it.
 
@@ -67,14 +144,15 @@ Anche per gli studenti la ditta TROTTA garantisce un servizio di trasporto pubbl
 
 Per le informazioni sulla integrazione tariffaria regionale i Clienti possono rivolgersi al: Consorzio UNICOCAMPANIA- PIAZZA Matteotti, Napoli tel.081/5513109 Sito web: www.unicocampania.it
 
-# REPERIBILITÀ DEI TITOLI DI VIAGGIO E SOSTA
+## 3.4 REPERIBILITÀ DEI TITOLI DI VIAGGIO E SOSTA
 La vendita dei biglietti e degli abbonamenti per gli autobus urbani nonché quella dei titoli dei parcheggi a raso viene effettuata presso tutti gli esercizi commerciali convenzionati.
 
 È possibile l'acquisto a bordo di biglietti solo in caso di chiusura o non reperibilità dei punti vendita autorizzati mediante il pagamento di un sovrapprezzo al biglietto ordinario.
 
 La vendita dei titoli relativi alla sosta all'autoparcheggio di via del Pomerio viene effettuata presso l'ufficio cassa addetto negli orari dalle 7:00 alle 22:000 con tel. 0824-28420.
 
-# Documenti di viaggio
+# 4. CONDIZIONI DI VIAGGIO 
+## 4.1. Documenti di viaggio
 I passeggeri devono salire a bordo già in possesso di regolare titolo di viaggio acquistato a terra; è possibile acquistare il biglietto a bordo pagando un sovrapprezzo alla tariffa ordinaria.
 
 Il documento di viaggio va convalidato immediatamente ed in ogni caso prima di sedersi e prima di raggiungere la fermata successiva.
@@ -85,10 +163,10 @@ In caso di irregolarità del documento di viaggio saranno applicate le sanzioni 
 
 In caso di guasti alle macchinette obliteratrici, i passeggeri devono prontamente segnalarlo al conducente ed annullare il documento di viaggio manualmente trascrivendo giorno, mese anno, ore e minuti del viaggio.
 
-# Trasporto bambini
+## 4.2. Trasporto bambini
 I bambini di altezza inferiore ad un metro sono trasportati gratuitamente purché non occupino posti a sedere e siano accompagnati da adulti.
 
-# Trasporto bagagli
+## 4.3. Trasporto bagagli
 I passeggeri possono trasportare gratuitamente una sola valigia, pacco o collo a mano, purché di dimensioni non superiori, anche in un solo lato, a cm. 50; in tutti gli altri casi il passeggero è tenuto all'acquisto di un biglietto per ogni collo.
 
 Non sono ammessi al trasporto gli oggetti eccessivamente ingombranti, sudici, nocivi e pericolosi.
@@ -97,17 +175,17 @@ I passeggini per bambini sono ammessi in vettura e trasportati gratuitamente pur
 
 I bagagli sono trasportati sotto cura e custodia esclusiva del viaggiatore senza alcuna responsabilità dell'azienda.
 
-# Trasporto animali domestici
+## 4.4. Trasporto animali domestici
 È vietato il trasporto di qualsiasi animale ad eccezione di:
 - cani accompagnatori di non vedenti, per i quali è consentito il trasporto gratuito, purché muniti museruola e tenuti al guinzaglio.
 - piccoli cani portati in braccio e muniti di museruola, previo pagamento di biglietto ordinario.
 
-# Comportamento in vettura
+## 4.5. Comportamento in vettura
 La salita e la discesa è regolamentata dalla apposita segnaletica affissa vicino alle porte.
 
 È fatto obbligo agli utenti di sorreggersi agli appositi sostegni e maniglie durante la marcia ed in particolare al momento dell'arresto dell'autobus alle fermate.
 
-# Divieti
+## 4.6. Divieti
 È vietato:
 - Salire o scendere quando la vettura è in marcia;
 - Salire nell'autobus in stato di ebrezza o in condizioni fisiche o psichiche che non consentono il corretto utilizzo del servizio o che possano arrecare danno a sé o agli altri;
@@ -121,17 +199,20 @@ La salita e la discesa è regolamentata dalla apposita segnaletica affissa vicin
 - Azionare apparecchi radiofonici, cantare, suonare, schiamazzare o comunque disturbare;
 - Esercitare all'interno degli autobus attività pubblicitarie o commerciali, anche se a scopo benefico, senza l'autorizzazione dell'Azienda.
 
-# Sanzioni
+## 4.7. Sanzioni
 Fatte salve le eventuali conseguenze di legge, possono essere esclusi dal trasporto ed allontanati, senza diritto ad alcun risarcimento, i passeggeri molesti e quelle persone che non prestassero ascolto alle osservazioni ed agli inviti del personale di servizio tendenti a far rispettare le presenti norme.
 
 La ditta Trotta si riserva ogni azione in sede civile e penale per assicurare il corretto andamento del servizio e salvaguardare il patrimonio aziendale.
 
-# Infortuni sui mezzi
+## 4.8. Infortuni sui mezzi
 In caso di infortuni, cadute, incidenti o altro verificatosi a bordo delle vetture, i passeggeri devono segnalare immediatamente al conducente il danno subito e successivamente, alla Ditta TROTTA con lettera raccomandata A/R.
 
 L'Azienda è in ogni caso esonerata da obblighi e responsabilità nel caso di danni dopo la discesa dalla fermata.
 
-# UFFICIO RELAZIONI ESTERNE
+# RELAZIONI CON I CLIENTI E TUTELA DEI LORO DIRITTI
+## 5.1. UFFICIO RELAZIONI ESTERNE
+Le relazioni con la clientela sono tenute da: Responsabili di Settore della ditta TROTTA  in Via Santa Colomba n.139/141 82100 Benevento. 
+
 Per ogni esigenza i Clienti possono rivolgersi ai Responsabili di settore, di persona, per iscritto o telefonicamente.
 
 Ad essi competono le seguenti funzioni:
@@ -141,7 +222,7 @@ Ad essi competono le seguenti funzioni:
 - fornire risposte immediate, ove sia possibile, alle richieste dei clienti che si rivolgono ad esso di persona o telefonicamente
 - fornire risposte scritte entro 30 gg. a segnalazioni, richieste, suggerimenti indirizzati dai Clienti per iscritto.
 
-# RECLAMI
+## 5.2 RECLAMI
 In caso di riscontrata violazione dei diritti dell'utente, mancanze rispetto agli impegni assunti dall'Azienda nella Carta di Mobilità o per suggerimenti, richieste di chiarimenti e/o informazioni, i reclami possono essere per iscritto inviandoli:
 - Tramite posta ordinaria indirizzandoli a Direzione Ditta TROTTA in Via S. Colomba n. 139/141 82100 Benevento.
 - Tramite fax a Direzione Ditta TROTTA al numero 0824/3635524
@@ -154,8 +235,12 @@ I reclami o le segnalazioni possono essere fatti anche a voce telefonando:
 
 La Ditta Trotta si impegna a dare risposta motivata entro 30 giorni dalla data di ricevimento di ciascuna richiesta scritta, procedendo se è il caso ad ulteriori contatti diretti per i necessari approfondimenti.
 
-# COPERTURA ASSICURATIVA
+## 5.3. COPERTURA ASSICURATIVA
 È stipulata un'assicurazione per la copertura totale del rischio Responsabilità Civile derivante dalla circolazione dei veicoli a motore (R.C.A.) a favore e tutela dei viaggiatori.
+
+# 6. IMPEGNI DELL’AZIENDA 
+## 6.1. POLITICA PER LA QUALITÀ 
+La missione della Ditta  TROTTA  è di contribuire allo sviluppo economico del territorio attraverso servizi di trasporto pubblico urbano ed il servizio di parcheggio coperto che si distinguano per l’efficienza, l’affidabilità e la capacità di soddisfare le esigenze della collettività. 
 
 La soddisfazione del cliente interno ed esterno (intendendo con questo termine tutti gli stakeholder) costituisce l'obiettivo primario delle attività di TROTTA e viene conseguita attraverso:
 - l'impegno costante del management per la realizzazione della missione;
@@ -174,7 +259,7 @@ La soddisfazione del cliente interno ed esterno (intendendo con questo termine t
 - governa efficientemente i propri processi;
 - assicura il miglioramento continuo del servizio attraverso i tre momenti di pianificazione, controllo e miglioramento dei processi e delle prestazioni.
 
-# STANDARD DI QUALITÀ DEL SERVIZIO GARANTITI DA TROTTA
+## 6.2 STANDARD DI QUALITÀ DEL SERVIZIO GARANTITI DA TROTTA
 Il Servizio di Trasporto presenta alcuni aspetti fondamentali definiti come fattori di qualità, su cui la Ditta sta concentrando il proprio impegno al fine di migliorare il livello del servizio erogato.
 
 Nell'ambito di tali fattori è possibile focalizzare degli elementi misurabili, ovvero indicatori di qualità, capaci di rappresentarli significativamente.
@@ -188,6 +273,13 @@ A fine di verificare la qualità del servizio offerto, sono previste un'indagine
 Al fine di assicurare che il campione dell'utenza intervistata sia rappresentativo dell'intera popolazione degli utenti, saranno individuati i seguenti criteri di segmentazione:
 - distribuzione oraria e giornaliera, in modo da coprire uniformemente le ore di erogazione del servizio;
 - distribuzione per capolinea di partenza delle linee.
+
+I questionari sono stati strutturati in due parti: 
+- aspetti generali, in cui si sono individuate: 
+    - la tipologia di utenza (età, sesso, occupazione, residenza) 
+    - le motivazioni relative all’utilizzo del servizio 
+    - la frequenza d’utilizzo
+- fattori di Qualità, con cui si è rilevato il livello di apprezzamento (con una scala da 1 a 10) dei diversi fattori di qualità e del servizio nel suo complesso. 
 
 I risultati dell'inchiesta consistono in:
 - rilevazione del grado di soddisfazione complessivo dell'utenza sui servizi offerti (Qualità Percepita)
