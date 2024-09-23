@@ -141,12 +141,12 @@ Gli interventi, di norma, sono di natura temporanea e finalizzati a liberare la 
 #### A CHI È RIVOLTO
 Hanno diritto ad accedere al servizio generalmente i cittadini ultrasessantacinquenni residenti nel Comune di Lavello che vivano da soli o con il coniuge che non può prendersi cura dell'altro e ove la rete parentale sia inesistente o insufficiente.
 
-### COME FARE
+#### COME FARE
 Gli interessati presentano la richiesta all'Ufficio Servizi Sociali del Comune di Lavello, ubicato presso il Centro Sociale "M. Di Gilio", presentandosi direttamente o tramite un parente. Gli operatori sociali effettuano il colloquio e la visita domiciliare per predisporre il piano di intervento.
 
 In seguito gli operatori del Servizio Sociale redigono il Piano Personalizzato e avviano il Servizio di Assistenza Domiciliare (SAD) insieme alla Cooperativa Sociale che gestisce il Servizio.
 
-### QUANTO COSTA
+#### QUANTO COSTA
 Gli utenti compartecipano al costo del servizio in quota percentuale ed in misura diversa in base all'attestazione ISEE in corso di validità. Le fasce di contribuzione al costo sono stabilite annualmente dalla Giunta Comunale.
 
 Su segnalazione motivata dei servizi sociali potranno essere concesse dalla Giunta Comunale esenzioni totali o parziali dal pagamento delle tariffe, in presenza di evidenti situazioni di disagio personale, familiare, economico.
@@ -520,7 +520,7 @@ Hanno diritto all'assegno le donne, cittadine italiane, comunitarie ovvero extra
 
 In casi particolari l'assegno può essere richiesto dal padre.
 
-### COME FARE
+#### COME FARE
 La domanda deve essere presentata mediante compilazione di apposito modulo ai competenti uffici comunali. A tale domanda deve essere allegata l'attestazione ISEE (Indicatore della Situazione Economica Equivalente) dell'anno in cui si è verificata la nascita o l'affidamento.
 
 La domanda deve essere presentata entro 6 mesi dalla data del parto o dell'ingresso del minore nella famiglia anagrafica in caso di affidamento preadottivo o adozione.

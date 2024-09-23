@@ -47,6 +47,10 @@ La Segreteria amministrativa, mediante l'utilizzo di strumenti e procedure infor
 
 ## "POLI SOCIALI TERRITORIALI"
 Il Servizio Sociale Territoriale, a partire dal 2014, si articola in quattro poli territoriali. Di seguito si indica la collocazione e il relativo recapito telefonico degli uffici dei Poli Sociali Territoriali:
+- Polo sociale territoriale 1: (Catona- Gallico – Archi – S. Caterina), Via Montello, Tel. n. 0965/45406
+- Polo sociale territoriale 2: (Pineta Zerbi – Centro storico – Ortì - Condera), Via Aschenez prolungamento n° 26, 812247, Tel n. 0965/811546
+- Polo sociale territoriale 3: (Modena – S. Sperato – Cannavò - Mosorrofa), Via Modena 46, Tel. n°0965/592470-623372-625323
+- Polo sociale territoriale 4: (Sbarre – Gebbione – Ravagnese – Gallina - Pellaro), Via Ravagnese Sup. (Centro Civico), Tel. n. 0965/638566-638568.
 
 # Principi procedure e accesso ai Servizi Sociali
 ## NORMATIVE DI RIFERIMENTO
@@ -447,7 +451,7 @@ I nidi d'infanzia comunali di Archi e Gebbione sono aperti dal 1 settembre al 31
 Il nido d'infanzia aziendale è aperto dal 1 settembre al 31 luglio dell'anno in corso, dal lunedì al venerdì con orario 7.30 – 14.30. Il martedì e il giovedì l'orario di frequenza sarà prolungato fino alle ore 17.30.
 
 ### Costo del servizio
-Per la fruizione del servizio é previsto il pagamento di un contributo mensile che varia in relazione al valore dell'indicatore della Situazione Economica Equivalente (ISEE) dichiarato e secondo la seguente tabella approvata dalla Giunta Comunale con Deliberazione n. 136 del 28 luglio 2016.
+Per la fruizione del servizio é previsto il pagamento di un contributo mensile che varia in relazione al valore dell'indicatore della Situazione Economica Equivalente (ISEE) dichiarato.
 
 Nel caso di due o più figli iscritti al nido, la quota contributiva mensile per bambino viene ridotta del 25%. Sono esenti dal pagamento delle quote contributive gli utenti appartenenti a nuclei familiari già seguiti dai servizi sociali e segnalati in tal senso dai medesimi.
 
@@ -506,7 +510,7 @@ Le prestazioni devono essere un effettivo aiuto all'utente e non una sostituzion
 ### Costo del servizio
 Agli aventi diritto sarà consegnato un numero di voucher pari al monte ore mensile previsto dal programma d'intervento.
 
-Gli utenti contribuiranno in percentuale su ogni voucher in rapporto al loro reddito ISEE secondo la seguente tabella:
+Gli utenti contribuiranno in percentuale su ogni voucher in rapporto al loro reddito ISEE.
 
 ### Tempo di attivazione del servizio
 L'utente sarà avviato al servizio entro 18 giorni dalla richiesta, se completa.
@@ -693,7 +697,6 @@ Il Servizio può cessare in caso di:
 - qualora vengano meno i requisiti di ammissione al servizio;
 - sospensione, per qualsiasi causa, del servizio stesso a cura del Comune di Reggio Calabria.
 
-
 ## Servizio "Laboratori sociali per disabili adulti"
 ### Tipologia e finalità
 Il servizio è finalizzato allo sviluppo ed al mantenimento delle capacità residue e dei livelli di autonomia raggiunti dai disabili adulti (18-64 anni) non gravi ed in assenza di patologia psichiatrica. Il servizio viene erogato in una struttura semiresidenziale aperta e flessibile, caratterizza per la promozione di interventi volti a favorire l'acquisizione, il potenziamento e le abilità pre lavorative.
@@ -760,7 +763,7 @@ L'accesso al servizio avviene previa presentazione della domanda.
 
 ### Documentazione necessaria:
 Istanza di partecipazione;
-- Attestazione ISEE e Dichiarazione sostitutiva unica prevista dall'articolo 4 del D.Lgs. 109/1998 integrato con il D..Lgs.130/2000;
+- Attestazione ISEE e Dichiarazione sostitutiva unica prevista dall'articolo 4 del D.Lgs. 109/1998 integrato con il D.Lgs.130/2000;
 - Certificato/i in originale o copia conforme rilasciato ai sensi della ex legge 104/92 o certificazione rilasciata dall'Unità Operativa di Neuropsichiatria Infantile;
 
 ### Prestazioni
@@ -1067,7 +1070,9 @@ Ugualmente ai cittadini è chiesto:
 ## FATTORI, INDICATORI, STANDARD DI QUALITÀ E OBIETTIVI DI MIGLIORAMENTO
 Il Settore Welfare si impegna a monitorare il grado di soddisfazione degli ospiti tramite la somministrazione di appositi questionari durante ed alla fine del servizio offerto. Tali dati verranno utilizzati per elaborare statistiche in merito alla frequenza e al valore degli indicatori qualitativi e quantitativi desunti dai questionari.
 
-Il Settore metterà a disposizione del pubblico i risultati delle indagini sulla soddisfazione dell'utente. L'analisi delle esigenze e aspettative degli utenti identificano gli elementi che vengono considerati come fattori di qualità del servizio erogato; per ciascuno di questi fattori si definiscono gli indicatori di prestazione e si fissa lo standard minimo di qualità.
+Il Settore metterà a disposizione del pubblico i risultati delle indagini sulla soddisfazione dell'utente.
+
+L'analisi delle esigenze e aspettative degli utenti identificano gli elementi che vengono considerati come fattori di qualità del servizio erogato; per ciascuno di questi fattori si definiscono gli indicatori di prestazione e si fissa lo standard minimo di qualità.
 
 La qualità di un servizio è l'insieme delle caratteristiche alle quali il cittadino attribuisce valore.
 
@@ -1076,4 +1081,6 @@ In altre parole, la qualità si misura in funzione della capacità del servizio 
 La presente Carta è uno strumento che si inserisce in un sistema più ampio per la qualità. Tale sistema comprende:
 - Le indagini di Customer Satisfaction: Tali indagini sono finalizzate a conoscere sia come i cittadini/clienti valutano il servizio erogato sia quali sono le aspettative degli stessi rispetto a quel servizio: il gap fra la percezione del servizio e le aspettative dei cittadini/clienti consente inoltre di individuare le aree critiche nell'erogazione del servizio. Inoltre le indagini consentono di mettere a punto gli "indicatori esterni" che forniscono una misura della percezione dei cittadini sulla qualità.
 - Gli indicatori di prestazione correlati ai bisogni dei cittadini: Gli standard, definiti a partire dalle esigenze dei cittadini, consentono la verifica della qualità offerta e il rispetto del livello garantito, configurando anche un obiettivo per il miglioramento. Inoltre consentono una misura oggettiva delle prestazioni dell'Ente, anche senza la consultazione diretta dei cittadini.
-- Le attività di miglioramento dei processi: una volta definiti gli standard da garantire, occorre mettere in moto tutte quelle azioni tese a raggiungere questi standard e a migliorare le performance. Il sistema per la Qualità come descritto sopra rappresenta un sistema dinamico, in continua evoluzione, di cui la Carta è un elemento che nasce dall'integrazione dei diversi strumenti e attraverso questi si verifica e si aggiorna.
+- Le attività di miglioramento dei processi: una volta definiti gli standard da garantire, occorre mettere in moto tutte quelle azioni tese a raggiungere questi standard e a migliorare le performance.
+
+Il sistema per la Qualità come descritto sopra rappresenta un sistema dinamico, in continua evoluzione, di cui la Carta è un elemento che nasce dall'integrazione dei diversi strumenti e attraverso questi si verifica e si aggiorna.

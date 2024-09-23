@@ -121,7 +121,7 @@ Dal 10.07.2017 puoi finanziare gli abbonamenti annuali di linea e di sosta. Infa
 
 Tramite la nostra APP "ATAM Trasporto e Sosta" è possibile acquistare tutte le tipologie di titoli di viaggio (biglietti e abbonamenti) urbani ed extraurbani.
 
-# 8.4 Diritti e doveri del viaggiatore
+## 8.4 Diritti e doveri del viaggiatore
 La gestione dell'azienda è orientata a produrre i propri servizi allo scopo di assicurare la soddisfazione dell'utente; al passeggero non è richiesto altro obbligo che quello di rispettare, nell'interesse suo e della collettività, le norme di viaggio e le leggi vigenti sui mezzi di pubblico trasporto che si richiamano brevemente nel seguito.
 
 ### 8.4.1 Diritti del viaggiatore
@@ -163,7 +163,9 @@ Ai passeggeri delle vetture è vietato:
 
 È ammesso il trasporto gratuito di un solo bagaglio, purché non superiore ai 10 Kg o non eccessivamente voluminoso. Per i bagagli che superino tali limiti il viaggiatore deve acquistare un biglietto per ciascun bagaglio. È ammesso il trasporto gratuito per utente di:
 - n. 1 passeggino, purché chiuso disposto in modo tale da ridurre al minimo l'ingombro;
-- n. 1 strumento musicale purché di dimensioni contenute. Non è ammesso il trasporto di biciclette.
+- n. 1 strumento musicale purché di dimensioni contenute.
+
+Non è ammesso il trasporto di biciclette.
 
 Eventuali oggetti rinvenuti in vettura devono essere consegnati al personale di linea che provvederà a recapitarli all'azienda. Gli oggetti rinvenuti potranno essere ritirati dal legittimo proprietario presso la centrale operativa movimento.
 
@@ -269,7 +271,9 @@ La sosta a pagamento viene gestita da ATAM su concessione dell'Amm.ne Comunale. 
 La sosta a pagamento è in vigore dalle 7.30 alle ore 19.30 con esclusione delle giornate domenicali e festive. Sul Lungomare Falcomatà è in vigore tutti i giorni feriali dalle ore 7.30 alle ore 21.30, fatta eccezione per il periodo estivo (1 luglio/15 settembre) in cui l'orario si prolunga fino alle ore 24.00 La tariffa oraria è pari a 1,00 € per tutte le aree di sosta a pagamento, frazionabile fino a 15 minuti. Per poter usufruire del servizio occorre acquistare i titoli sosta, che danno diritto parcheggiare sulle strisce blu. La mancata esposizione del titolo di sosta o le altre infrazioni commesse all'interno delle strisce blu comportano l'applicazione delle sanzioni previste dal Codice della Strada agli artt. 7, 157 e 158.
 
 ## 11.1 Il sistema tariffario
-La tariffa oraria è pari a 1 euro per tutte le aree di sosta a pagamento. I titoli di sosta devono essere esposti prima di allontanarsi dal veicolo.
+La tariffa oraria è pari a 1 euro per tutte le aree di sosta a pagamento.
+
+I titoli di sosta devono essere esposti prima di allontanarsi dal veicolo.
 
 Le diverse tipologie di titoli di sosta attualmente a disposizione degli utenti sono:
 - Tagliando ordinario (gratta e sosta): Il costo è pari a € 1,00 e consente di parcheggiare in tutte le aree per 60 minuti.

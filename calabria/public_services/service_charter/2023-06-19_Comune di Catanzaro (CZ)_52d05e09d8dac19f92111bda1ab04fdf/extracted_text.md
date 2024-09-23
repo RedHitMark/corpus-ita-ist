@@ -99,7 +99,7 @@ Nell'ambito del Corpo sono istituite le seguenti qualifiche che devono intenders
 
 L'inquadramento del personale è determinato dalle leggi e dai C.C.N.L. vigenti in materia
 
-# Comandante
+## Comandante
 Il Comandante del Corpo - Dirigente del Settore, riveste la qualifica di Ufficiale di PG, nel rispetto della legge 65/86 e della Legge Regionale 15/18, dei principi contenuti nel Regolamento del Corpo, ha la prerogativa di assolvere tutti i compiti, compreso l'adozione di tutti gli atti e provvedimenti che impegnano l'Amministrazione verso l'esterno, non compresi espressamente dalla Legge o dallo Statuto tra le funzioni di indirizzo e controllo politico – amministrativo.
 
 Il Comandante del Corpo di Polizia Municipale è responsabile verso il Sindaco o l'Assessore suo delegato dell'addestramento, della disciplina e dell'impiego tecnico - operativo degli appartenenti al Corpo.
@@ -115,7 +115,7 @@ Per l'organizzazione generale dei sevizi in conformità alle funzioni di istitut
 
 In caso di assenza o di impedimento il Comandante del Corpo è sostituito dal Vice Comandante, e, in assenza di questi, dall'appartenente al Corpo più alto in grado.
 
-# Vice Comandante
+## Vice Comandante
 Il Vice Comandante – riveste la qualifica di Ufficiale di PG ed è ricompreso tra gli Ufficiali del Corpo – collabora in modo diretto con il Comandante, al fine del raggiungimento degli obiettivi e delle finalità del Corpo. Supporta il Comandante negli interventi finalizzati alla pianificazione, organizzazione ed addestramento tecnico-operativo delle risorse umane, all'utilizzo delle risorse economico-finanziarie e di quelle strumentali, nonché nell'attività di ricerca e studio.
 
 In assenza od impedimento del Comandante esercita le funzioni vicarie di direzione del Corpo.
@@ -124,7 +124,7 @@ Qualora l'assenza o l'impedimento del Comandante sia prevista per un arco tempor
 
 Ha autonomia decisionale sui propri compiti istituzionali e può, di concerto con il Comandante, rappresentare l'Ente all'esterno.
 
-# Ufficiale Polizia Locale
+## Ufficiale Polizia Locale
 L'Ufficiale di Polizia Locale riveste la qualifica di Ufficiale di PG, nel rispetto delle funzioni e dei compiti specificati dal profilo professionale dettato dalle normative vigenti, è responsabile dell'Area e/o Ufficio ad esso assegnato e dei risultati derivanti dall'attività svolta.
 
 Collabora con il Comandante ed il Vice Comandante per il raggiungimento degli obiettivi e delle finalità del Corpo.
@@ -133,7 +133,7 @@ Dirige e coordina gli uffici/servizi posti alle sue dipendenze, curando la disci
 
 E'responsabile dei procedimenti assegnatigli.
 
-# Istruttore di vigilanza
+## Istruttore di vigilanza
 Gli Istruttori di vigilanza, nel rispetto delle funzioni e dei compiti specificati dal profilo professionale dettato dalle normative vigenti, espletano tutte le mansioni della categoria inerenti i servizi d'istituto.
 
 Devono svolgere con cura e diligenza i doveri d'ufficio e di servizio nel rispetto delle leggi, dei regolamenti, delle ordinanze, delle istruzioni e delle direttive ricevute dai superiori.
@@ -145,6 +145,7 @@ All'interno della categoria di appartenenza gli Istruttori di vigilanza sono sud
 - Agenti: rivestono la qualifica di agenti di PG, espletano tutte le mansioni inerenti alle funzioni d'istituto in riferimento all'Area e/o Ufficio a cui sono assegnati e secondo le direttive dei superiori. Sono ricompresi coloro i quali rivestono il grado di Agente, Agente Scelto, Appuntato, Appuntato Scelto, Vice Brigadiere, Brigadiere, Brigadiere Capo.
 
 # ACCESSO AI SERVIZI DELLA POLIZIA MUNICIPALE DI CATANZARO VIA DANIELE N. 15
+## La Centrale Operativa
 La Centrale Operativa gestisce risorse e pattuglie sul territorio in modo tempestivo, non solo rispondendo, ma prevedendo e se possibile anticipandole esigenze del territorio.
 
 È attiva 24 ore su 24, sette giorni su sette, e si pone come punto di riferimento per il cittadino rappresentando il "campanello di allarme" per l'attivazione delle risorse in caso di emergenza.
@@ -165,6 +166,7 @@ Le richieste di informazione vengono soddisfatte dall'operatore direttamente o t
 
 Per le richieste di intervento la Centrale Operativa viene contattata, nell'immediatezza del fatto, per ogni necessità ritenuta di emergenza e per i compiti specifici affidati alla Polizia Locale (rilievo incidenti stradali, passi carrabili ostruiti e posti disabili occupati, soccorso anziani ecc.)
 
+## L’Ufficio Protocollo
 L'Ufficio Protocollo si occupa:
 - della corrispondenza ordinaria
 - aggiorna il protocollo d'entrata e d'uscita, smistando la posta ai vari settori
@@ -186,12 +188,16 @@ L'invalido dovrà presentare al Comando n. 2 fotografie formato tessera e copia 
 
 In caso di persona impossibilitata alla firma o al ritiro del contrassegno deve essere delegato un familiare entro il 3° grado oppure un tutore nominato dal Tribunale.
 
+## L’Ufficio Verbali 
 L'Ufficio Verbali – collegato a livello informatico con il Pubblico Registro Automobilistico dell'ACI e con la Motorizzazione Civile per il controllo dei proprietari dei veicoli – si occupa del caricamento dei verbali accertati dagli agenti presenti sul territorio, della successiva notifica entro i termini previsti dal Codice della Strada (oggi sono 90 giorni dall'accertamento) e della verifica dei pagamenti degli stessi.
 
+## L’Ufficio Ricorsi Prefettura
 L'Ufficio Ricorsi Prefettura cura la trasmissione al Prefetto dei ricorsi presentati avverso i verbali del Codice della Strada corredandoli delle controdeduzioni di rito. Riceve le comunicazioni ai fini della decurtazione di punti sulla patente di guida. I termini per presentare ricorso al Prefetto sono di giorni 60 dalla contestazione o notificazione del verbale. Chi intende proporre ricorso, al Prefetto, non deve effettuare il pagamento della sanzione.
 
+## L’Ufficio Ricorsi Giudice di Pace
 L'Ufficio Ricorsi Giudice di Pace cura la trasmissione al Giudice di Pace dei ricorsi presentati avverso i verbali del Codice della Strada costituendosi in giudizio per la difesa dell'Ente. I termini per presentare ricorso al Giudice di Pace sono di giorni 30 dalla contestazione o notificazione del verbale. Chi intende proporre ricorso, al Giudice di Pace, non deve effettuare il pagamento della sanzione.
 
+## L’Ufficio Cartelle Esattoriali
 L'Ufficio Cartelle Esattoriali verifica i verbali del Codice della Strada non pagati e provvede all'emissione del ruolo, a seguito del quale vengono notificate le cartelle esattoriali dall'agente della riscossione. Presso l'Ufficio Verbali, il cittadino può richiedere informazioni sui verbali elevati ai sensi del Codice della Strada, ricevere assistenza e chiarimenti. Può essere fatto di persona durante gli orari di ricevimento pubblico, sia telefonicamente, che a mezzo mail. E' possibile, previa presentazione dell'istanza di accesso agli atti in carta semplice, visionare e ottenere copia di atti relativi ai verbali, alla loro notifica, altri documenti amministrativi relativi al procedimento. Può usufruire del Servizio il cittadino interessato o un delegato, con delega scritta e fotocopia del documento di identità dell'interessato.
 
 # COME SI PAGA UNA MULTA:
@@ -272,7 +278,7 @@ Il cittadino che decide di presentare ricorso non deve pagare la sanzione indica
 
 Non è ammesso ricorso prima della notifica del verbale, avverso l'avviso trovato sul parabrezza del veicolo.
 
-# RICORSI IN PREFETTURA
+## RICORSI IN PREFETTURA
 Il cittadino che decide di presentare ricorso non deve pagare la sanzione indicata sul verbale e può presentarlo direttamente al Prefetto oppure per il tramite del Comando di Polizia Municipale che ne curerà l'inoltro.
 
 Il ricorso indirizzato al Prefetto di Catanzaro deve essere presentato entro 60 giorni dalla contestazione della violazione su strada oppure dal ricevimento della notificazione del verbale (art. 201 Codice della Strada).
@@ -283,7 +289,7 @@ Il ricorso può essere redatto in carta semplice ed occorre indicare il numero e
 
 Può essere presentato, negli orari di ricezione pubblico, direttamente all'Ufficio Protocollo del Comando oppure inviato via posta con raccomandata con ricevuta di ritorno.
 
-## ESITO DEL RICORSO IN PREFETTURA:
+### ESITO DEL RICORSO IN PREFETTURA:
 ricorso accolto: il Prefetto, esaminati il verbale e gli atti prodotti dal Comando accertatore, nonché il ricorso e i documenti allegati, sentiti gli interessati che ne abbiano fatta richiesta, se ritiene infondato l'accertamento adotta, entro centoventi giorni decorrenti dalla data di ricezione degli atti da parte dell'ufficio accertatore, ordinanza di archiviazione degli atti, comunicandola integralmente al Comando cui appartiene l'organo accertatore, il quale ne dà notizia ai ricorrenti.
 
 ricorso respinto: il Prefetto, esaminati il verbale e gli atti prodotti dal Comando accertatore, nonché il ricorso e i documenti allegati, sentiti gli interessati che ne abbiano fatta richiesta, se ritiene fondato l'accertamento adotta, entro centoventi giorni decorrenti dalla data di ricezione degli atti da parte dell'ufficio accertatore, ordinanza motivata con la quale ingiunge il pagamento di una somma determinata, nel limite non inferiore al doppio del minimo edittale per ogni singola violazione.
@@ -292,7 +298,7 @@ ricorso respinto: il Prefetto, esaminati il verbale e gli atti prodotti dal Coma
 
 Decorsi i termini di cui sopra, senza che sia stata adottata l'ordinanza del prefetto, il ricorso si intende accolto.
 
-# RICORSI AL GIUDICE DI PACE
+## RICORSI AL GIUDICE DI PACE
 Entro 30 giorni dalla data di contestazione della violazione o dalla notifica del verbale è possibile presentare ricorso direttamente al Giudice di Pace di Catanzaro, in alternativa al ricorso al Prefetto.
 
 Il ricorso va obbligatoriamente sottoscritto da parte del ricorrente, pena l'inammissibilità dello stesso. Nel ricorso occorre indicare il recapito, le motivazioni e le richieste (es. annullamento del verbale, sospensione dell'efficacia della sanzione, ecc.), allegando il verbale.

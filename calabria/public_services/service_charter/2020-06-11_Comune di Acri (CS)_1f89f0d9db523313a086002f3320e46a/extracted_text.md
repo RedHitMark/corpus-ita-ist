@@ -922,4 +922,3 @@ Il Gestore, nei casi in cui l'utente risulti moroso, sospende l'erogazione dell'
 Eventuali possibili discordanze con:
 - il testo del Regolamento del Servizio Idrico Integrato saranno risolte dando prevalenza al relativo documento adottato dal Consiglio Comunale;
 - le disposizioni dettate dalle preposte Autorità, prevalgono sui contenuti della Carta.
-
