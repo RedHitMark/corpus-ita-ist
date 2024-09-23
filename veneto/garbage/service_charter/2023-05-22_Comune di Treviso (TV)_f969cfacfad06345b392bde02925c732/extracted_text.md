@@ -10,6 +10,17 @@ La Carta della qualità individua, in conformità alle previsioni della discipli
 - gli indicatori e i relativi standard di qualità contrattuale e tecnica prevista da ARERA, nonché degli eventuali standard ulteriori o migliorativi stabiliti a livello locale (per disposizione contrattuale o regolamentare);
 - le modalità per adire le vie conciliative e giudiziarie.
 
+# RIFERIMENTI NORMATIVI, REGOLATORI E REGOLAMENTARI
+- Direttiva del Presidente del Consiglio dei Ministri del 27 gennaio 1994, "Principi sull'erogazione dei servizi pubblici";
+- Articolo 11 Decreto legislativo 30 luglio 1999, n. 286 recante "Riordino e potenziamento dei meccanismi e strumenti di monitoraggio e valutazione dei costi, dei rendimenti e dei risultati dell'attività svolta dalle amministrazioni pubbliche, a norma dell'articolo 11 della legge 15 marzo 1997, n. 59";
+- Articolo 2, comma 461 della Legge 24 dicembre 2007, n. 244 "Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 2008)";
+- Art. 25 del Decreto legislativo 23 dicembre 2022, n. 201 recante "Riordino della disciplina dei servizi pubblici locali di rilevanza economica
+- Articolo 1, comma 527 della Legge 27 dicembre 2017, n. 205 "Bilancio di previsione dello Stato per l'anno finanziario 2018 e bilancio pluriennale per il triennio 2018-2020" che ha assegnato all'Autorità di Regolazione per Energia Reti e Ambiente (ARERA) funzioni di regolazione e controllo in materia di rifiuti urbani, precisando che tali funzioni sono attribuite "con i medesimi poteri e nel quadro dei principi, delle finalità e delle attribuzioni, anche di natura sanzionatoria, stabiliti dalla legge 481/95";
+- Deliberazione ARERA 31 ottobre 2019 n. 444/2019/R/rif (TITR) in materia di Trasparenza nel servizio di gestione dei rifiuti urbani;
+- Deliberazione ARERA 18 gennaio 2022 n.15/2022/R/rif sulla Regolazione della qualità del servizio di gestione dei rifiuti urbani;
+- Regolamento di bacino per il servizio di gestione dei rifiuti (deliberazione dell'Assemblea del Consiglio di bacino n. 2 del 19/04/2016;
+- Regolamento di bacino per l'applicazione della tariffa corrispettiva per la gestione dei rifiuti urbani (deliberazione dell'Assemblea del Consiglio di bacino n. 5 del 29/04/2022).
+
 # VALIDITÀ
 La presente Carta della qualità ha validità pluriennale.
 
@@ -34,7 +45,7 @@ La società ha sede legale a Spresiano (TV) e conta su circa 750 persone impiega
 Contarina gestisce i rifiuti attraverso un modello che ha come elementi fondamentali la raccolta porta a porta di tutte le principali frazioni di rifiuto e la tariffa puntuale, che calcola una parte dell'importo della fattura sulla base dell'effettiva produzione di rifiuto, secondo il principio comunitario "paga quanto produci".
 
 Il bacino territoriale servito da Contarina coincide col territorio dei 49 Comuni aderenti al Consiglio di Bacino Priula ed il servizio viene svolto in maniera omogenea e unitaria sull'intero bacino.
- 
+
 # CERTIFICAZIONI DI QUALITÀ
 Nell'espletamento delle proprie attività Contarina SpA garantisce l'applicazione di un sistema di gestione integrato per
 - la Qualità, certificato ai sensi della norma ISO 9001 che assicuri la soddisfazione delle legittime esigenze ed aspettative (espresse o implicite) degli utenti;
@@ -43,31 +54,32 @@ Nell'espletamento delle proprie attività Contarina SpA garantisce l'applicazion
 
 Ad ulteriore garanzia di trasparenza nei confronti dei vari portatori di interessi, Contarina SpA ha adottato un modello organizzativo ai sensi del D. Lgs. 231 del 2001 in materia di "Responsabilità amministrativa delle persone giuridiche e delle società", sostanzialmente integrato all'interno del sistema di gestione qualità sicurezza e ambiente, che garantisce, attraverso l'applicazione del Codice Etico e delle indicazioni contenute nei documenti che compongono il modello e nelle procedure aziendali, il rispetto delle normative richiamate dal D. Lgs. 231 medesimo. Il Codice Etico si può scaricare dal sito www.contarina.it.
 
-# UGUAGLIANZA E IMPARZIALITÀ DI TRATTAMENTO
+# PRINCIPI FONDAMENTALI NELL'EROGAZIONE DEL SERVIZIO DI GESTIONE DEI RIFIUTI URBANI
+## UGUAGLIANZA E IMPARZIALITÀ DI TRATTAMENTO
 Contarina SpA si impegna a gestire i propri servizi nel pieno rispetto del principio di uguaglianza, secondo criteri di obiettività, giustizia ed imparzialità, senza discriminazione di sesso, razza o religione.
 
 Pertanto, garantisce l'uniformità di trattamento degli utenti a parità di condizioni del servizio offerto, nell'ambito di aree e categorie omogenee di fornitura, e presta particolare attenzione ai soggetti portatori di handicap, agli anziani e ai cittadini appartenenti a fasce sociali deboli.
 
-# CONTINUITÀ
+## CONTINUITÀ
 Contarina SpA si impegna ad assicurare e garantire l'erogazione dei servizi pubblici in modo continuativo e regolare; qualora ciò non fosse possibile per cause indipendenti dalla volontà aziendale, si impegna comunque a limitare al massimo gli eventuali disagi arrecati.
 
 Tali precauzioni saranno adottate anche in caso di sciopero del personale, evidenziando altresì le modalità di astensione dal lavoro ed i servizi assicurati.
 
-# CORTESIA E ONESTÀ
+## CORTESIA E ONESTÀ
 Contarina SpA si impegna a garantire agli utenti un rapporto basato sulla cortesia, sul rispetto, sull'onestà ed integrità morale nell'effettuazione dei propri compiti.
 
 A tal fine tutti i dipendenti sono tenuti ad agevolare gli utenti nell'esercizio dei diritti e nell'adempimento degli obblighi; sono altresì tenuti, se espressamente richiesto, ad indicare le proprie generalità, sia nel rapporto personale che nelle comunicazioni telefoniche.
 
-# EFFICACIA ED EFFICIENZA
+## EFFICACIA ED EFFICIENZA
 Contarina SpA persegue l'obiettivo del progressivo e continuo miglioramento dell'efficienza e dell'efficacia del servizio, sviluppando e adottando le soluzioni tecnologiche, organizzative e procedurali più funzionali allo scopo.
 
-# INFORMAZIONE
+## INFORMAZIONE
 Contarina SpA assicura una chiara ed esaustiva informazione agli utenti circa le modalità di prestazione dei servizi; in particolare rende note, tramite appositi avvisi, opuscoli, proprio sito internet e i Punti Contarina dislocati sul territorio, le condizioni economiche e tecniche relative all'erogazione dei servizi; predispone inoltre idonei strumenti di informazione, all'occorrenza anche tramite l'attivazione di linee di comunicazione telefoniche e telematiche specifiche. Se del caso, mantiene rapporti con gli organi di informazione e predispone pubblicazioni divulgative illustranti i dati aziendali più significativi.
 
-# CHIAREZZA E COMPRENSIBILITÀ
+## CHIAREZZA E COMPRENSIBILITÀ
 Contarina SpA garantisce agli utenti procedure amministrative moderne, semplici e chiare, utilizzando un linguaggio ed una simbologia comprensibile ed efficace
- 
-# PARTECIPAZIONE
+
+## PARTECIPAZIONE
 Contarina garantisce sempre la partecipazione dell'utente alla prestazione del servizio, sia per tutelare il diritto alla corretta erogazione del servizio, che per favorire la collaborazione nei confronti dei soggetti erogatori.
 
 L'utente può produrre reclami cui Contarina è tenuta a dare riscontro, memorie e/o documenti o prospettare osservazioni, a cui Contarina potrà dare riscontro in forma privata o pubblica.
@@ -75,13 +87,14 @@ L'utente può produrre reclami cui Contarina è tenuta a dare riscontro, memorie
 Contarina acquisisce periodicamente la valutazione dell'utente circa la qualità del servizio reso, secondo le modalità indicate nel prosieguo della presente Carta.
 
 L'utente ha comunque diritto di accedere ai documenti ed alle informazioni detenuti da Contarina rispetto ai quali l'utente medesimo vanti un interesse diretto, concreto e attuale, corrispondente ad una situazione giuridicamente tutelata e collegata al documento al quale è chiesto l'accesso, ai sensi di quanto stabilito dagli artt. 22 e ss. della Legge 7 agosto 1990 n. 241 recante "Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi" e s.m.i. Le modalità di esercizio del diritto di accesso sono regolate dall'art. n. 25 della medesima Legge e possono essere esercitate inviando richiesta formale tramite i seguenti canali:
-- pec: (protocollo@cert.contarina.it) 
+- pec: (protocollo@cert.contarina.it)
 - mail: (contarina@contarina.it)
 
-# PRIVACY
+## PRIVACY
 Contarina SpA si impegna a garantire che il trattamento dei dati personali degli utenti avvenga nel rispetto delle disposizioni di cui al Regolamento Unione Europea n. 2016/679 e al D. Lgs. 196/2003 e successive modificazioni ed integrazioni. L'informativa ex art.13 del Regolamento EU 2016/679, denominata "Informativa servizi raccolta rifiuti", è consultabile all'indirizzo https://contarina.it/informative-privacy o reperibile presso tutti gli sportelli di Contarina S.p.A.
 
-# GLI SPORTELLI FISICI (PUNTI CONTARINA)
+# PUNTI DI CONTATTO
+## GLI SPORTELLI FISICI (PUNTI CONTARINA)
 I Punti Contarina sono degli sportelli situati nel territorio servito, dove i cittadini possono gestire le pratiche per i servizi ambientali, per esempio: attivare o chiudere il contratto, attivare nuovi servizi, ritirare i contenitori e/o sostituirli, ecc. Questi uffici, concepiti come punti di incontro tra il gestore e gli utenti, sono dislocati nel bacino territoriale di competenza in modo da garantire una copertura omogenea del territorio e la massima fruibilità per l'utenza: i cittadini possono accedere a qualsiasi Punto Contarina indipendentemente dal proprio comune di residenza.
 
 Gli indirizzi dei Punti Contarina sono consultabili:
@@ -90,7 +103,7 @@ Gli indirizzi dei Punti Contarina sono consultabili:
 - nell'app di Contarina.
 
 L'accesso ai Punti Contarina avviene su prenotazione, con appuntamento concordato chiamando il numero verde (800.07.66.11).
- 
+
 Le principali pratiche che possono essere svolte dagli utenti presso i Punti Contarina sono:
 - presentazione delle richieste di attivazione, cessazione, variazione dei servizi;
 - ritiro delle attrezzature per la raccolta dei rifiuti (contenitori e sacchetti);
@@ -107,7 +120,7 @@ Le principali pratiche che possono essere svolte dagli utenti presso i Punti Con
 
 Gli operatori addetti ai Punti Contarina indicano all'utente le modalità per la presentazione dei reclami scritti e delle richieste scritte di rettifica degli importi addebitati.
 
-# LO SPORTELLO ON LINE
+## LO SPORTELLO ON LINE
 Contarina ha reso disponibile uno sportello online accessibile agli utenti registrati dalla home page del sito alla sezione sportellonline.servizicontarina.it.
 
 Attraverso lo sportello online, l'utente può:
@@ -144,7 +157,7 @@ Infine, nella sezione "ARERA Trasparenza" accessibile dall'home page del sito ww
 
 Questi moduli possono poi essere inviati dall'utente a Contarina seguendo le indicazioni previste per ogni tipologia di richiesta, come meglio specificato di seguito.
 
-# IL NUMERO VERDE (CONTACT CENTER)
+## IL NUMERO VERDE (CONTACT CENTER)
 Contarina ha predisposto un servizio di contact center, totalmente gratuito sia da telefono fisso che da telefonia mobile, per la gestione delle chiamate telefoniche provenienti dall'utenza al Numero Verde: 800.07.66.11.
 
 Tale servizio è attivo con operatore dal lunedì al venerdì dalle 8.30 alle 18.00 e il sabato dalle 8.30 alle 13.00
@@ -161,7 +174,7 @@ Attraverso il servizio di contact center gli utenti possono:
 - prenotare il servizio di consegna e ritiro a domicilio dei contenitori;
 - richiedere le modalità per presentare reclami scritti e richieste scritte di rettifica degli importi addebitati.
 
-# CONTENUTI INFORMATIVI MINIMI DEI VARI PUNTI DI CONTATTO CON L'UTENTE (SPORTELLI FISICI, SPORTELLO ON LINE E CONTACT CENTER)
+## CONTENUTI INFORMATIVI MINIMI DEI VARI PUNTI DI CONTATTO CON L'UTENTE (SPORTELLI FISICI, SPORTELLO ON LINE E CONTACT CENTER)
 Tutti i punti di contatto appena illustrati consentono inoltre all'utente di richiedere informazioni o istruzioni relativamente a:
 - frequenza, giorni e orari delle raccolte e dello spazzamento e lavaggio delle strade per le zone di interesse;
 - elenco dettagliato e aggiornato di tutti i rifiuti conferibili ed eventuale calendario dei ritiri istituito dal gestore;
@@ -181,7 +194,7 @@ L'utente è tenuto a trasmettere la richiesta di attivazione, debitamente compil
 - via email all'indirizzo attivazioni@contarina.it;
 - mediante presentazione ad uno degli sportelli fisici (PUNTI CONTARINA) presenti sul territorio;
 - via posta all'indirizzo Contarina spa via Vittorio Veneto, 6 31027 Lovadina di Spresiano (TV).
- 
+
 La richiesta di attivazione si ritiene valida solo se il modulo viene compilato in tutte le sue parti.
 
 Contarina è tenuta a rispondere alle richieste di attivazione del servizio nel termine di 30 giorni lavorativi decorrenti dalla data di ricevimento della singola richiesta, indicando in modo chiaro e comprensibile i seguenti elementi:
@@ -255,7 +268,7 @@ L'utente è tenuto a trasmettere le richieste di variazioni, debitamente compila
 - mediante presentazione ad uno degli sportelli fisici (PUNTI CONTARINA) presenti sul territorio;
 - via posta all'indirizzo Contarina spa via Vittorio Veneto, 6 31027 Lovadina di Spresiano (TV).
 
-La richiesta di variazioni si ritengono valide solo se il modulo viene compilato in tutte le sue parti e viene trasmesso unitamente a tutti gli allegati eventualmente previsti. 
+La richiesta di variazioni si ritengono valide solo se il modulo viene compilato in tutte le sue parti e viene trasmesso unitamente a tutti gli allegati eventualmente previsti.
 
 Contarina è tenuta a rispondere alle richieste di variazione del servizio nel termine di 30 giorni lavorativi decorrenti dalla data di ricevimento della singola richiesta, indicando in modo chiaro e comprensibile i seguenti elementi:
 - il riferimento alla richiesta di variazione del servizio;
@@ -277,7 +290,7 @@ La richiesta di cessazione si ritengono valide solo se il modulo viene compilato
 
 Contarina è tenuta a rispondere alle richieste di attivazione del servizio nel termine di 30 giorni lavorativi decorrenti dalla data di ricevimento della singola richiesta, indicando in modo chiaro e comprensibile i seguenti elementi:
 - il riferimento alla richiesta di cessazione del servizio;
-- il codice contratto; 
+- il codice contratto;
 - la data a partire dalla quale decorre, ai fini del pagamento della tariffa corrispettiva, la cessazione del servizio.
 
 Per perfezionare la pratica di chiusura contratto è inoltre necessario restituire i contenitori per la raccolta differenziata. A tal fine l'utente, per i contenitori di volumetria standard (ossia fino 22 lt per l'umido, fino a 120 lt per secco, carta, vetro-plastica-lattine e fino a 240 lt per vegetale) l'utente può provvedere direttamente alla riconsegna presso uno degli sportelli fisici (Punti Contarina) presenti sul territorio, previo appuntamento oppure richiedere il servizio di ritiro a domicilio che viene effettuato entro 30 giorni lavorativi dal ricevimento della richiesta.
@@ -306,7 +319,7 @@ La suddetta risposta scritta deve riportare i seguenti elementi minimi:
 - il codice identificativo del riferimento organizzativo incaricato di fornire, ove necessario, eventuali ulteriori chiarimenti.
 
 Qualora l'utente indichi nella propria richiesta scritta di informazioni un recapito di posta elettronica, Contarina utilizza in via prioritaria tale recapito per l'invio della risposta motivata.
- 
+
 # RECLAMI SCRITTI
 L'utente può presentare a Contarina un reclamo scritto se ritiene di dover lamentare la non coerenza del servizio ottenuto rispetto a uno o più requisiti definiti da leggi o provvedimenti amministrativi o dal regolamento di servizio (ad esempio, comportamento degli operatori addetti alla raccolta non conforme al regolamento di servizio; violazione in genere di disposizioni regolamentari o di legge; apertura in ritardo/chiusura in anticipo di uno sportello fisico o di un ecocentro). Il reclamo scritto non può essere utilizzato per segnalare disservizi o per richiedere la rettifica degli importi addebitati.
 
@@ -337,7 +350,7 @@ Tale risposta deve riportare i seguenti elementi minimi:
 - l'elenco della eventuale documentazione allegata.
 
 Qualora l'utente indichi nel proprio reclamo un recapito di posta elettronica, Contarina utilizza in via prioritaria tale recapito per l'invio della risposta motivata.
- 
+
 Contarina è tenuta a classificare e gestire in via prudenziale come reclamo ogni richiesta dell'utente per la quale non sia agevole stabilire se trattasi di una richiesta scritta di informazioni o di un reclamo.
 
 # RICHIESTE DI RETTIFICA DEGLI IMPORTI NON DOVUTI
@@ -369,7 +382,7 @@ La suddetta risposta scritta deve riportare i seguenti elementi minimi:
 - il codice identificativo del riferimento organizzativo incaricato di fornire, ove necessario, eventuali ulteriori chiarimenti;
 - la valutazione della fondatezza o meno della richiesta di rettifica corredata dalla documentazione e dai riferimenti normativi da cui si evince la correttezza delle tariffe applicate in conformità alla normativa vigente; i dati di produzione dei rifiuti prodotti ed il dettaglio del calcolo effettuato per l'eventuale rettifica sono riportati nella nuova fattura emessa;
 - l'elenco della eventuale documentazione allegata.
- 
+
 Qualora l'utente indichi nella propria richiesta scritta di rettifica un recapito di posta elettronica, Contarina utilizza in via prioritaria tale recapito per l'invio della risposta motivata.
 
 # MODALITÀ DI RIMBORSO IN CASO DI RETTIFICA DEGLI IMPORTI
@@ -397,7 +410,7 @@ Qualora invece la verifica confermi il disservizio, Contarina ne garantisce il r
 
 Le mancate raccolte dovute a cause di forza maggiore (quali ad esempio eventi atmosferici che limitino l'operatività delle raccolte, interruzione completa della viabilità per cause non imputabili al Soggetto Gestore, ecc.) vengono recuperate non appena possibile. Nel caso di proclamazione di scioperi da parte delle organizzazioni sindacali di settore, il Soggetto Gestore garantisce la preventiva e adeguata diffusione di informazione all'utenza circa la possibilità di mancata esecuzione dei servizi di raccolta.
 
-# ATTREZZATTURE PER LA RACCOLTA DANNEGGIATE O SMARRITE O RUBATE
+# RICHIESTE DI RIPARAZIONE O DI SOSTITUZIONE DELLE ATTREZZATTURE PER LA RACCOLTA DANNEGGIATE O SMARRITE O RUBATE
 In caso di danneggiamento, smarrimento o furto, per richiedere la riparazione/sostituzione delle attrezzature per la raccolta domiciliare l'utente può:
 - contattare il numero verde (800.07.66.11) e richiedere un appuntamento per la sostituzione del contenitore direttamente presso uno degli sportelli o la sostituzione a domicilio;
 - inoltrare una richiesta a sportellonline.servizicontarina.it accessibile dall'home page del sito www.contarina.it;
@@ -421,7 +434,6 @@ Gli indirizzi degli sportelli fisici (Punti Contarina) sono consultabili:
 - nella pagina del sito web: www.contarina.it/cittadino/raccolta-differenziata/ecosportello/mappa-degli-ecosportelli.
 - nell'app di Contarina.
 
-
 # PRENOTAZIONE SERVIZIO DI RACCOLTA PER LE UTENZE NON DOMESTICHE CON SERVIZIO A PESATURA
 Le utenze non domestiche che, avendo un'elevata produzione di una o più tipologie di rifiuto simile, hanno attivato il servizio a pesatura (per contenitori di volumetria superiore a 360 litri) devono prenotare il servizio di svuotamento attraverso la sezione dedicata "RICHIEDI SERVIZI A CHIAMATA" all'interno della sezione sportellonline.servizicontarina.it accessibile dall'home page del sito www.contarina.it.
 
@@ -444,7 +456,7 @@ Contarina garantisce il ritiro dei rifiuti ingombranti entro 15 giorni lavorativ
 Il servizio di ritiro a domicilio dei rifiuti ingombranti è soggetto a tariffa unitaria approvata dal Consiglio di bacino Priula e può essere consultata nel sito www.priula.it alla sezione "Gestione rifiuti: tariffe e affidamento".
 
 Per gli utenti che dichiarino (anche mediante autocertificazione ex DPR 445/2000) di essere beneficiari del bonus sociale per disagio economico previsto per i settori elettrico e/o gas e/o per il settore idrico e che si trovino in una condizione di impossibilità fisica ad accedere, direttamente o a mezzo terzi, ai centri di raccolta, il costo del servizio non è corrisposto dall'utente ma è sostenuto mediante imputazione ad apposito fondo della tariffa del Comune in cui ha sede l'utenza beneficiaria della misura ovvero direttamente da tale Comune.
- 
+
 Per le utenze non domestiche o per esigenze superiori al servizio ordinario è possibile richiedere a Contarina un servizio di ritiro a domicilio di rifiuti ingombranti o di sgombero locali da quantificarsi sulla base di un sopralluogo a cui segue preventivo da sottoporre al richiedente. La richiesta di preventivo può essere fatta con le medesime modalità di cui sopra.
 
 # FATTURAZIONE ORDINARIA DEL SERVIZIO
@@ -495,7 +507,7 @@ Contarina garantisce agli utenti la possibilità di pagare in modalità gratuita
 I dettagli delle singole modalità di pagamento sono pubblicati sul sito www.contarina.it al seguente percorso:
 - dalla home page del sito Contarina, entrare nella sezione "CITTADINO", cliccare su "Raccolta differenziata", cliccare nuovamente su "Fatture e pagamenti" ed infine cliccare "Modalità di pagamento".
 - dalla home page del sito Contarina, entrare nella sezione "IMPRESA", cliccare su "Raccolta differenziata", "Fatture e pagamenti" ed infine cliccare "Modalità di pagamento".
- 
+
 # INTERESSI E SPESE PER I PAGAMENTI EFFETTUATI OLTRE LA SCADENZA
 Ai sensi del vigente regolamento di bacino per la Tariffa corrispettiva (art. 32), i pagamenti effettuati oltre il termine di scadenza indicato in fattura saranno gravati da:
 - interessi di mora calcolati come segue:
@@ -568,13 +580,18 @@ Contarina provvede ad istruire la pratica e a dare comunicazione del suo esito (
 # PROGRAMMA DELLE ATTIVITÀ DI RACCOLTA E TRASPORTO
 Contarina predispone annualmente un apposito Programma delle attività di raccolta e trasporto (denominato "Programma di raccolta") per tutti i comuni del bacino Priula in conformità alle previsioni regolamentari e contrattuali vigenti.
 
-Tale Programma contiene l'indicazione, su base giornaliera, dei servizi programmati di raccolta domiciliare delle varie frazioni di rifiuto (umido; carta e cartone; vetro-plastica-lattine; rifiuto urbano residuo; rifiuto vegetale) e della fascia oraria prevista per lo svolgimento di ciascuna raccolta: l'indicazione è unica a livello comunale nel caso di Comune ricadente in un'unica zona territoriale omogenea, mentre è differenziata per ciascuna strada/via in caso di Comune con zone territoriali omogenee differenziate (es. zona standard e centro storico ).
+Tale Programma contiene l'indicazione, su base giornaliera, dei servizi programmati di raccolta domiciliare delle varie frazioni di rifiuto (umido; carta e cartone; vetro-plastica-lattine; rifiuto urbano residuo; rifiuto vegetale) e della fascia oraria prevista per lo svolgimento di ciascuna raccolta: l'indicazione è unica a livello comunale nel caso di Comune ricadente in un'unica zona territoriale omogenea, mentre è differenziata per ciascuna strada/via in caso di Comune con zone territoriali omogenee differenziate (es. zona standard e centro storico).
 
 Il Programma di raccolta consente di verificare la puntualità dei servizi programmati di raccolta domiciliare espletati e di tracciare le eventuali interruzioni.
 
 Ciascun utente può consultare, per ciascun Comune, il calendario giornaliero dei servizi di raccolta domiciliare delle varie frazioni di rifiuto (umido; carta e cartone; vetro-plastica-lattine; rifiuto urbano residuo; rifiuto vegetale) attraverso l'Ecocalendario che viene consegnato a ciascuna utenza al momento dell'attivazione e, successivamente, con cadenza annuale.
- 
+
 L'Ecocalendario dei singoli Comuni del bacino Priula può essere visionato e/o scaricato anche mediante accesso al sito www.contarina.it, sezione "Cittadino".
+
+# SERVIZI DI RACCOLTA NON EFFETTUATI PUNTUALMENTE E INTERRUZIONI DI SERVIZIO
+I servizi di raccolta e trasporto non effettuati puntualmente rispetto al PROGRAMMA DI RACCOLTA che riguardano uno o più Comuni o interi quartieri ovvero porzioni più circoscritte come alcune vie o porzioni di via devono essere recuperati da Contarina entro 24 ore, decorrenti dal termine della fascia oraria del servizio risultante dal Programma di raccolta.
+
+Se non ripristinati entro tale termine diventano interruzioni di servizio e devono essere effettivamente espletati entro le successive 24 ore.
 
 # SERVIZIO DI PRONTO INTERVENTO
 Per consentire le segnalazioni di situazioni di pericolo inerenti al servizio Contarina ha istituito un servizio telefonico di Pronto intervento: 800600300.
@@ -605,7 +622,7 @@ I servizi di spazzamento e lavaggio non effettuati puntualmente rispetto al Prog
     - in caso di servizio di spazzamento a frequenza mensile: entro 3 giorni lavorativi decorrenti dalla mezzanotte del giorno in cui il servizio era programmato.
 
 Se non ripristinati entro tali termini i servizi non effettuati puntualmente diventano interruzioni di servizio e devono essere effettivamente espletati entro le successive 24 ore.
- 
+
 # SERVIZI DI NETTURBINO DI QUARTIERE E SERVIZIO DI MANTENIMENTO E DECORO CENTRI STORICI
 Il Netturbino di Quartiere è un servizio di pulizia del territorio che prevede la raccolta di rifiuti abbandonati, con volume inferiore a 1 mc, su strade pubbliche, fossati, marciapiedi e piste ciclabili. Le tipologie di rifiuto raccolte nell'esecuzione di questo servizio sono le medesime di quelle oggetto di raccolta domiciliare o conferibili presso gli Ecocentri, ad esclusione dei rifiuti pericolosi.
 
@@ -623,11 +640,11 @@ Tali richieste possono essere inoltrate tramite:
 - il numero verde: 800.07.66.11.
 
 Se l'abbandono è superiore a 1 mc o in caso di abbandono di rifiuti pericolosi, il gestore lo segnala tempestivamente al Comune dove si è verificato e, in seguito all'accettazione del preventivo, il gestore avvia la fase di raccolta con proprio personale o affidando il servizio a terzi.
- 
+
 L'abbandono o il deposito di rifiuti in prossimità dei contenitori adibiti al servizio porta a porta non viene raccolto poiché viene considerato una difformità dei conferimenti.
 
 Per i centri storici dei Comuni di Treviso, Asolo, Castelfranco e Montebelluna si esegue un servizio specifico di "Mantenimento e decoro centro storico" che prevede la raccolta dei rifiuti anche di piccole dimensioni giacenti su strade, parchi e giardini, aree pubbliche. Il servizio si esegue con spazzamento manuale o con un aspiratore elettrico ed è un servizio che integra lo spazzamento meccanizzato, il servizio di svuotamento dei cestini e il servizio di netturbino di quartiere.
- 
+
 # PROCEDURE CONCILIATIVE
 L'utente che ha proposto un reclamo, qualora non sia soddisfatto della risposta ricevuta, può:
 - richiedere a Contarina spa, in forma scritta via posta all'indirizzo via Vittorio Veneto, 6 31027 Lovadina di Spresiano (TV), un incontro di approfondimento della questione in oggetto. Contarina SpA si impegna ad attivarsi entro 20 giorni lavorativi per organizzare un incontro, a cui sarà presente il referente del servizio coinvolto o, in caso di impedimento, suo delegato interno al Servizio o componente di organo aziendale gerarchicamente superiore, che è delegato a svolgere funzioni di controllo interno e di garanzia del corretto rispetto delle procedure e dei tempi indicati nella Carta attraverso la verifica ed il monitoraggio degli standard;
