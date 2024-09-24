@@ -8,7 +8,7 @@ Nel ricoprire un "ufficio pubblico" l'onestà è una precondizione, la competenz
 # Cenni storici
 In generale le origini della Polizia Municipale affondano le radici nella Roma Imperiale dove per municipius si identificava la città romana abitat a dai municipes, cioè da coloro che partecipano ai pubblici oneri e relativi onori della città.
 
-Il primo imperatore romano Ottaviano Caio (nominato dal Senato Augustus = degno di venerazione), nel 27 A.C. istituì quelle che potremmo definire le antesignane dei vigili urbani, ossia le Cohortes Urbanae un vero e proprio servizio di sicurezza armato (forze ausiliarie dei Pretoriani con il compito di mantenere l'ordine nelle città) e la Militia Vigilum (con compiti di spegnimento degli incendi, di vigilanza notturna, vigilanza sugli schiavi, sulle scorte d'acqua e sulle terme) 
+Il primo imperatore romano Ottaviano Caio (nominato dal Senato Augustus = degno di venerazione), nel 27 A.C. istituì quelle che potremmo definire le antesignane dei vigili urbani, ossia le Cohortes Urbanae un vero e proprio servizio di sicurezza armato (forze ausiliarie dei Pretoriani con il compito di mantenere l'ordine nelle città) e la Militia Vigilum (con compiti di spegnimento degli incendi, di vigilanza notturna, vigilanza sugli schiavi, sulle scorte d'acqua e sulle terme)
 
 Tralasciando l'evoluzione che nei secoli hanno avuto le guardie cittadine, in particolare durante il medioevo, a Cantù nei primi mesi del 1869 dopo lunghe discussioni in merito all'entrata in vigore del regolamento di Polizia urbana e rurale e la pubblicazione del bando di concorso per le guardie campestri e forestali, vennero nominati i primi quattro "cappelloni", il cui compito era quello di tutelare con una diligente polizia rurale le proprietà.
 
@@ -35,18 +35,18 @@ In ultimo la legge 48 del 18 aprile 2017, conversione con modificazione del decr
 Il 21 gennaio 2017, è stato celebrato il 148° anno di fondazione del Corpo di Polizia Locale di Cantù
 
 # Linee Guida alla consultazione
-La Carta dei servizi è il mezzo attraverso il quale qualsiasi soggetto che eroga un servizio pubblico individua gli standard della propria prestazione, dichiarando i propri obiettivi e riconoscendo specifici diritti in capo al cittadino, utente, consumatore. Attraverso la Carta dei servizi i soggetti erogatori di servizi pubblici si impegnano, dunque, a rispettare determinati standard qualitativi e quantitativi, con l'intento di monitorare e migliorare le modalità di fornitura e somministrazione. 
+La Carta dei servizi è il mezzo attraverso il quale qualsiasi soggetto che eroga un servizio pubblico individua gli standard della propria prestazione, dichiarando i propri obiettivi e riconoscendo specifici diritti in capo al cittadino, utente, consumatore. Attraverso la Carta dei servizi i soggetti erogatori di servizi pubblici si impegnano, dunque, a rispettare determinati standard qualitativi e quantitativi, con l'intento di monitorare e migliorare le modalità di fornitura e somministrazione.
 
 La Carta dei Servizi è uno strumento di comunicazione atto ad implementare la qualità dei servizi pubblici erogati, anche attraverso una maggiore informazione e partecipazione attiva degli utenti destinatari non più passivi dei servizi medesimi.
 
-Fondamentalmente essa è un ponte, una connessione, tra utenza e Comando di Polizia Locale pensata per informare i cittadini dei servizi a disposizione, come accedere agli stessi e degli standard di qualità e che gli appartenenti al Corpo di Polizia Locale si impegnano a rispettare, nella prospettiva di perseguire la massima trasparenza ed imparzialità, garantendo un'azione professionale, efficiente, efficace ed economica nel rispetto dell'ordinamento giuridico vigente.
+Fondamentalmente essa è un ponte, una connessione, tra utenza e Comando di Polizia Locale, pensata per informare i cittadini dei servizi a disposizione, come accedere agli stessi e degli standard di qualità che gli appartenenti al Corpo di Polizia Locale si impegnano a rispettare, nella prospettiva di perseguire la massima trasparenza ed imparzialità, garantendo un'azione professionale, efficiente, efficace ed economica nel rispetto dell'ordinamento giuridico vigente.
 
 In altre parole è un patto che si stringe con i cittadini, grazie al quale il Comando di Polizia Locale, come fosse una casa di vetro, invita i fruitori del servizio ad entrare al proprio interno, conoscere il modo di operare, essere partecipi dell'azione svolta, scegliere se e come fruire di un servizio, stimolare il miglioramento attraverso i meccanismi di riesame e aggiornamento della carta stessa.
 
-Per agevolare all'utente la consultazione del documento ed individuare il servizio di cui lo stesso necessita, le singole Unità Operative che compongono il Comando di Polizia Locale vengono trattate separatamente e per ognuna di esse sono indicati: 
-- la composizione; 
-- le modalità di contatto; 
-- i principali servizi erogati; 
+Per agevolare all'utente la consultazione del documento ed individuare il servizio di cui lo stesso necessita, le singole Unità Operative che compongono il Comando di Polizia Locale vengono trattate separatamente e per ognuna di esse sono indicati:
+- la composizione;
+- le modalità di contatto;
+- i principali servizi erogati;
 - i costi se previsti
 
 Sono stati fissati standard di natura diversa per misurare la qualità delle prestazioni il cui rispetto è verificato attraverso un rigoroso controllo di gestione, ma soprattutto essi rappresentano i parametri direttamente esigibili dai cittadini quando beneficiano di una attività del Comando di Polizia Locale.
@@ -55,16 +55,31 @@ A seconda del tipo di servizio si troveranno indicatori di natura: temporale, os
 
 # Riferimenti normativi
 Per la redazione della Carta dei Servizi si è avuto riferimento alla seguente normativa:
+- La Direttiva del Presidente del Consiglio dei Ministri del 27.01.1994 ("Principi sull'erogazione dei Servizi Pubblici");
+- La Direttiva del Presidente del Consiglio dei Ministri del 11.10.1994 ("Direttiva sui principi per l'istituzione ed il funzionamento degli uffici per le relazioni con il pubblico");
+- Il Decreto del Presidente del Consiglio dei Ministri del 19.05.1995 ("Prima individuazione dei settori di erogazione dei servizi pubblici ai fini della emanazione degli schemi generali di riferimento di Carte dei servizi");
+- Il Decreto legislativo n. 286 del 30.07.1999, art. 11 "Qualità dei servizi pubblici e Carte dei servizi";
+- Raccomandazione 10, Adottata dal Comitato dei Ministri del Consiglio d'Europa il 19 Settembre 2001 "Codice Europeo di etica per la Polizia";
+- La Direttiva del Ministro della Funzione Pubblica del 24.03.2004 "Rilevazione della qualità percepita dai cittadini";
+- Il Decreto Legislativo 27.10.2009, n. 150 "Ottimizzazione della produttività del lavoro pubblico e di efficienza e trasparenza delle pubbliche amministrazioni";
+- L. 7.12.2012, n. 213 Conversione in legge, con modificazioni, del decreto-legge 10.10.2012, n. 174, recante disposizioni urgenti in materia di finanza e funzionamento degli enti territoriali, nonché ulteriori disposizioni in favore delle zone terremotate nel maggio 2012. Proroga di termine per l'esercizio di delega legislativa;
+- Il Decreto legislativo n. 33 del 14.03.2013 "Riordino della disciplina riguardante gli obblighi di pubblicità, trasparenza e diffusione di informazioni da parte delle pubbliche amministrazioni";
+- Il decreto legislativo 25 maggio 2016, n° 97 "Revisione e semplificazione delle disposizioni in materia di prevenzione della corruzione, pubblicità e trasparenza";
+- Delibera Autorità Nazionale anticorruzione n. 1309 del 28/12/2016 "Linee guida recanti indicazioni operative ai fini della definizione delle esclusioni e dei limiti all'accesso civico di cui all'art. 5 co. 2 del d.lgs. 33/2013 art. 5 - bis, comma 6, del d.lgs. n. 33 del 14/03/2013 recante "riordino della disciplina riguardante il diritto di accesso civico e gli obblighi di pubblicità, trasparenza e diffusione di informazioni da parte delle pubbliche amministrazioni";
+- Delibera Autorità Nazionale anticorruzione n. 1310 del 28/12/2016 "Prime linee guida recanti indicazioni sull'attuazione degli obblighi di pubblicità, trasparenza e diffusione di informazioni contenute nel d.lgs. 33/2013 come modificato dal d.lgs. 97/2016".
 
 # I principi della Carta dei Servizi
 Nel rispetto della Direttiva del Presidente del Consiglio dei Ministri 27 Gennaio 1994 e delle successive disposizioni legislative e normative di carattere integrativo, l'attività e le prestazioni del Corpo di Polizia Locale di Cantù si compiono secondo i fondamentali principi di seguito riassunti:
 
+## Eguaglianza e Imparzialità
 La Polizia Locale eroga il proprio servizio ispirandosi al principio di eguaglianza dei cittadini, giustizia ed imparzialità; le regole che disciplinano i rapporti con gli utenti e l'accesso ai servizi devono essere uguali per tutti. Nessuna distinzione nell'erogazione del servizio può essere compiuta per motivi riguardanti sesso, razza, lingua, religione ed opinioni politiche. Va garantita la parità di trattamento, a parità di condizioni del servizio prestato, sia fra le diverse aree geografiche di utenza, anche quando le stesse non siano agevolmente raggiungibili, sia fra le diverse categorie o fasce di utenti.
 
 La Polizia Locale si prodiga altresì ad adottare tutte le iniziative necessarie per adeguare le modalità di prestazione del servizio alle esigenze degli utenti diversamente abili.
 
+## Continuità
 La Polizia Locale di Cantù si impegna ad offrire un servizio 365 giorni l'anno (366 nei giorni bisestili), regolare e senza interruzioni con orari stabiliti nell'ambito dei contratti collettivi nazionali e locali nonché nell'ambito delle modalità organizzative interne. I casi di funzionamento irregolare sono disciplinati in modo da adottare misure volte ad arrecare il minor disagio possibile agli utenti.
 
+## Partecipazione
 La partecipazione del cittadino alla prestazione del servizio, intesa anche come diritto alla conoscenza, è sempre garantita, sia per tutelare il diritto alla corretta erogazione del servizio, sia per favorire la collaborazione nei confronti del Comando di Polizia Locale.
 
 L'utente ha diritto ad accedere a qualsiasi informazione in possesso del Comando di Polizia Locale, fatti salvi i limiti imposti dalla legge, ed in ogni caso di conoscere il responsabile di ogni procedimento, le modalità per contattarlo, avere riscontro ad un'istanza, anche attraverso lo strumento del differimento, nel termine massimo di 30 giorni.
@@ -73,10 +88,12 @@ L'utente ha diritto di accesso alle informazioni in possesso del soggetto erogat
 
 Il Comando di Polizia Locale almeno due volte nel corso dell'anno comunica i risultati della propria attività attraverso comunicato stampa e pubblicazione sulla Homepage del sito internet del Comune di Cantù, parimenti acquisisce la valutazione dell'utente circa la qualità del servizio reso.
 
+## Efficacia ed Efficienza
 Il Comando di Polizia Locale agisce in modo da garantire l'efficienza e l'efficacia dei servizi offerti, attraverso una cultura organizzativa orientata al risultato e non all'adempimento burocratico formale, all'individuazione di obiettivi strategici da perseguire, alla misurazione del grado di raggiungimento degli stessi, all'analisi delle cause di scostamento.
 
 Annualmente vengono pianificati ed implementati programmi per il miglioramento organizzativo e per la valorizzazione del capitale umano attraverso percorsi di formazione continua, revisione e sostituzione della dotazione logistica (veicoli, vestiario, strumentazione operativa, ecc.) e tecnologica (tablet, pc, software, stampanti, ecc,) affetti da processi di deterioramento ed obsolescenza.
 
+## Etica professionale
 I servizi erogati dalla Polizia Locale migliorano nettamente se essi godono del consenso e della collaborazione dei cittadini.
 
 L'obiettivo della Polizia Locale è garantire, in coordinamento con le altre forze di Polizia, il presidio del territorio e la sicurezza urbana, assicurando il rispetto della norma e della legalità comprendendo due doveri diversi ma interrelati: il dovere di applicare le norme e il dovere connesso di rispettare i limiti dei poteri prescritti, astenendosi da atti arbitrari, rispettando i diritti e le libertà individuali dei cittadini.
@@ -90,31 +107,22 @@ Il servizio si svolge prevalentemente in uniforme, quando gli appartenenti opera
 
 Il parco veicoli consta di 11 autovetture (di cui una "civetta" per le attività di polizia giudiziaria, un ufficio mobile a supporto delle azioni di polizia di prossimità) e due motocicli, quest'ultimi impiegati prevalentemente nei servizi di scorta in occasione di manifestazioni civili, sportive e religiose che interessano il sedime stradale.
 
-Un apparato per il foto segnalamento, ovvero indispensabile per acquisire i rilievi foto dattiloscopici, antropometrici per l'identificazione di una persona sprovvista di un documento valido. In altre parole è utilizzato per l'acquisizione delle impronte digitali nonché della fotografia fronte e lato del soggetto. I suddetti parametri successivamente vengono riportati in un apposito modello ministeriale unitamente a tutti gli elementi ritenuti utili all'identificazione delle persone quali: colore degli occhi, segni particolari come cicatrici e tatuaggi, altezza, colore della pelle ecc.
-
-Un Kit per sopralluogo scientifico, in quanto l'intervento sulla scena del crimine è forse il momento più importante delle indagini di un delitto ed il valore e l'input che un efficiente sopralluogo può fornire alle indagini è inestimabile. In altre parole il sopralluogo ed il repertamento rappresentano le fasi iniziali di ogni indagine e sono finalizzati all'acquisizione discriminata e scrupolosa di elementi che possano risultare utili alle ulteriori indagini, sia analitiche di laboratorio, sia investigative utili alla ricostruzione del fatto delittuoso ed alla individuazione degli autori del fatto.
-
-Un telelaser per la misurazione della velocità dei veicoli in transito;
-
-Due etilometri per la misurazione del livello di alcool nel sangue dei conducenti dei veicoli, necessari per l'accertamento dell'illecito di guida sotto l'effetto di sostanze alcoliche;
-
-Un droga-test digitale, per l'identificazione di sostanze stupefacenti o psicotrope presenti all'interno dell'organismo di un conducente di veicolo e finalizzato al contrato della condotta delittuosa di guida sotto l'effetto di droghe;
-
-Un'apparecchiatura per l'analisi dell'originalità dei documenti di guida e circolazione utilizzato in caso di presunti reati quali la: contraffazione di documenti, la sostituzione di persona, ecc.;
-
-Un autoscan, dispositivo per l'accertamento della copertura assicurativa e della regolare revisione dei veicoli in transito;
-
-Ventidue personal computer da tavolo per l'attività istituzionale;
-
-trenta tablet per l'attività esterna che permettono, tra l'altro, di: 
-- redigere in modalità automatica le sanzioni; 
-- consultare le banche dati; 
-- redigere le relazioni di servizio; 
-- rilevare i sinistri stradali;
- 
-Un kit per il controllo dell'autotrasporto nazionale ed internazionale;
-
-Quattro software dedicati alla gestione: delle sanzioni amministrative, della polizia giudiziaria, dell'infortunistica stradale, del controllo di gestione.
+La dotazione strumentale contempla:
+- Un apparato per il foto segnalamento, ovvero indispensabile per acquisire i rilievi foto dattiloscopici, antropometrici per l'identificazione di una persona sprovvista di un documento valido. In altre parole è utilizzato per l'acquisizione delle impronte digitali nonché della fotografia fronte e lato del soggetto. I suddetti parametri successivamente vengono riportati in un apposito modello ministeriale unitamente a tutti gli elementi ritenuti utili all'identificazione delle persone quali: colore degli occhi, segni particolari come cicatrici e tatuaggi, altezza, colore della pelle ecc.
+- Un Kit per sopralluogo scientifico, in quanto l'intervento sulla scena del crimine è forse il momento più importante delle indagini di un delitto ed il valore e l'input che un efficiente sopralluogo può fornire alle indagini è inestimabile. In altre parole il sopralluogo ed il repertamento rappresentano le fasi iniziali di ogni indagine e sono finalizzati all'acquisizione discriminata e scrupolosa di elementi che possano risultare utili alle ulteriori indagini, sia analitiche di laboratorio, sia investigative utili alla ricostruzione del fatto delittuoso ed alla individuazione degli autori del fatto.
+- Un telelaser per la misurazione della velocità dei veicoli in transito;
+- Due etilometri per la misurazione del livello di alcool nel sangue dei conducenti dei veicoli, necessari per l'accertamento dell'illecito di guida sotto l'effetto di sostanze alcoliche;
+- Un droga-test digitale, per l'identificazione di sostanze stupefacenti o psicotrope presenti all'interno dell'organismo di un conducente di veicolo e finalizzato al contrato della condotta delittuosa di guida sotto l'effetto di droghe;
+- Un'apparecchiatura per l'analisi dell'originalità dei documenti di guida e circolazione utilizzato in caso di presunti reati quali la: contraffazione di documenti, la sostituzione di persona, ecc.;
+- Un autoscan, dispositivo per l'accertamento della copertura assicurativa e della regolare revisione dei veicoli in transito;
+- Ventidue personal computer da tavolo per l'attività istituzionale;
+- trenta tablet per l'attività esterna che permettono, tra l'altro, di:
+    - redigere in modalità automatica le sanzioni;
+    - consultare le banche dati;
+    - redigere le relazioni di servizio;
+    - rilevare i sinistri stradali;
+- Un kit per il controllo dell'autotrasporto nazionale ed internazionale;
+- Quattro software dedicati alla gestione: delle sanzioni amministrative, della polizia giudiziaria, dell'infortunistica stradale, del controllo di gestione.
 
 L'ufficio relazione con il pubblico è aperto dal lunedì al sabato dalle ore 09:00 alle 12:00 con chiusura giovedì e domenica, ma come si apprenderà leggendo la presente carta dei servizi tutte le istanze possono essere presentate anche on-line senza limiti di orario.
 
@@ -132,6 +140,7 @@ Il rispetto di criteri fondamentali di Economicità, Efficacia ed Efficienza cui
 
 Nell'anno 2016, infatti, attraverso un emendamento al contratto collettivo decentrato dell'Ente, è stato disciplinato il concetto di flessibilità oraria di inizio e fine turno, per donare elasticità al servizio e renderlo il più possibile rispondente alle esigenze della Città.
 
+## Breve riepilogo attività svolta nell'anno 2016
 Nel corso 2016, sono state erogate 41963,5 ore di servizio, 13281 ore di pronto intervento diurno, 2886 dedicate all'attività di vigilanza di quartiere, oltre a 2863,5 in servizio straordinario. Sono state gestite 39 manifestazioni, effettuati 3 servizi di contrasto alle stragi del sabato sera, 5 sessioni didattiche presso plessi scolastici (di cui una nel Comune di Figino Serenza) con tanto di open-day tenutosi a fine anno scolastico.
 
 Tra i dati più significativi si evidenziano il numero dei veicoli sorpresi a circolare senza revisione 708, dato in aumento rispetto ai 244 nel 2015 ed ai 192 del 2014. Il risultato si è ottenuto con una diversa modalità di controllo suffragata da un dispositivo tecnologico di ultima generazione che interroga le banche dati in tempo reale.
@@ -149,17 +158,14 @@ All'interno del territorio comunale i servizi tipicamente erogati dal Comando di
 
 Il Corpo di Polizia Locale adotta un modello di misurazione della performance che permette di digitalizzare (inteso come riduzione ad unità elementari) i singoli processi di lavoro, conoscere le ore dedicate alle singole attività, il numero di procedimenti governati ed il tempo impiegato per la gestione di un singolo procedimento, i risultati conseguiti con il fine ultimo di misurare la qualità del servizio offerto.
 
-Ai fini dell'individuazione degli standard fissati nella Carta dei Servizi ci si è basati sulle dimensioni della qualità indicate nelle linee guida nazionali
+Ai fini dell'individuazione degli standard fissati nella Carta dei Servizi ci si è basati sulle dimensioni della qualità indicate nelle linee guida nazionali:
+- accessibilità: intesa come massima estensione possibile di accesso fisico agli uffici con l'eliminazione di barriere architettoniche, senza grossi limiti temporali visto che oltre l'orario di apertura dell'U.R.P. è assicurata la possibilità di fissare appuntamenti. In ultimo vengono fissate le modalità per l'accesso agli atti, i tempi massimi per il completamento delle procedure e per il rilascio dei documenti ed individuati i canali alternativi di comunicazione ed interazione con l'indicazione, per ciascuna di esse, di tempi e termini di utilizzo;
+- tempestività: intesa come tempi di risposta all'emergere del bisogno del cittadino/utente, così per ogni Unità Operativa sono stati fissati degli standard temporali che devono essere tassativamente rispettati, fatti salvi particolari profili di complessità di cui il richiedente deve essere messo a conoscenza. Ed ancora monitoraggio del tempo intercorrente fra la richiesta del servizio da parte dell'utente (o la promessa di servizio da parte dell'amministrazione) e l'effettiva erogazione dello stesso, declinabile, a seconda dei casi, come tempo massimo di erogazione del servizio, tempo di risposta, frequenza di erogazione (in caso di servizio ripetitivo)
+- trasparenza: intesa come semplicità per l'utente di reperire, acquisire e comprendere le informazioni necessarie per poter usufruire al meglio del servizio di proprio interesse, di conseguenza ad ogni Unità Operativa, ed in generale ad ogni richiesta di informazione, è prevista l'indicazione dei responsabili, oltre alla pubblicazione sul sito internet dell'Ente delle azioni di monitoraggio del rispetto degli standard fissati dalla presente carta dei servizi e dalle azioni messe in campo per superare le criticità rilevate.
 
-accessibilità intesa come massima estensione possibile di accesso fisico agli uffici con l'eliminazione di barriere architettoniche, senza grossi limiti temporali visto che oltre l'orario di apertura dell'U.R.P. è assicurata la possibilità di fissare appuntamenti. In ultimo vengono fissate le modalità per l'accesso agli atti, i tempi massimi per il completamento delle procedure e per il rilascio dei documenti ed individuati i canali alternativi di comunicazione ed interazione con l'indicazione, per ciascuna di esse, di tempi e termini di utilizzo;
-
-tempestività intesa come tempi di risposta all'emergere del bisogno del cittadino/utente, così per ogni Unità Operativa sono stati fissati degli standard temporali che devono essere tassativamente rispettati, fatti salvi particolari profili di complessità di cui il richiedente deve essere messo a conoscenza. Ed ancora monitoraggio del tempo intercorrente fra la richiesta del servizio da parte dell'utente (o la promessa di servizio da parte dell'amministrazione) e l'effettiva erogazione dello stesso, declinabile, a seconda dei casi, come tempo massimo di erogazione del servizio, tempo di risposta, frequenza di erogazione (in caso di servizio ripetitivo)
-
-trasparenza intesa come semplicità per l'utente di reperire, acquisire e comprendere le informazioni necessarie per poter usufruire al meglio del servizio di proprio interesse, di conseguenza ad ogni Unità Operativa, ed in generale ad ogni richiesta di informazione, è prevista l'indicazione dei responsabili, oltre alla pubblicazione sul sito internet dell'Ente delle azioni di monitoraggio del rispetto degli standard fissati dalla presente carta dei servizi e dalle azioni messe in campo per superare le criticità rilevate.
-
-Il Comando ritiene fondamentale valutare la soddisfazione dell'utenza in relazione al servizio erogato al fine di: 
+Il Comando ritiene fondamentale valutare la soddisfazione dell'utenza in relazione al servizio erogato al fine di:
 - individuare i bisogni e le attese dei cittadini rispetto al servizio reso;
-- definire il grado di soddisfazione degli utenti; 
+- definire il grado di soddisfazione degli utenti;
 - cogliere eventuali esigenze non soddisfatte per lo sviluppo di percorsi di miglioramento, concretamente percorribili e verificabili.
 
 Gli appositi questionari predisposti misurano la qualità del servizio offerto secondo quattro dimensioni:
@@ -167,7 +173,7 @@ Gli appositi questionari predisposti misurano la qualità del servizio offerto s
 - Dimensione relazionale che comprende tutti quei fattori che riguardano la capacità di relazione con i cittadini, la cortesia, la disponibilità;
 - Dimensione organizzativa che comprende tutti i fattori che riguardano l'aspetto organizzativo del servizio, dagli orari d'apertura ai tempi di attesa;
 - Dimensione ambientale che comprende tutti i fattori relativi all'ambiente quali la facilità di accesso alla struttura.
- 
+
 Il questionario è strutturato in tre parti: la prima composta da n.11 domande a risposta chiusa, esplora in dettaglio il grado di soddisfazione delle quattro dimensioni (tecnico-relazionale, organizzativa ed ambientale), la seconda è dedicata alla raccolta dei dati anagrafici dell'utenza (sesso, età, istruzione, professione) che consente una migliore individuazione del tipo di utenza e facilita gli interventi correttivi dal punto di vista organizzativo, l'ultima riservata ai suggerimenti.
 
 Il giudizio viene espresso attraverso una scala di valutazione di tipo "semantico" con un punteggio da assegnare: 1 (per niente soddisfatto), 2 (minimamente soddisfatto), 3 (abbastanza soddisfatto), 4 (soddisfatto), 5 (molto soddisfatto).
@@ -183,7 +189,7 @@ La soddisfazione dell'utenza è possibile solo se quest'ultima percepisce l'affi
 
 Il richiamato obiettivo è raggiungibile anche attraverso un'idonea capacità di comunicare intesa come disponibilità al confronto costante con la collettività, grazie al contatto diretto degli operatori con i cittadini, moltiplicando i canali di interazione, laddove accanto a quelli tradizionali come recarsi all'U.R.P. o effettuando una semplice telefonata, si affiancano gli indirizzi e-mail, la misurazione della customer satisfaction, le relazioni sull'andamento dell'attività nelle assemblee di quartiere.
 
-Ad ogni segnalazione presa in carico, ad eccezione di quelle pretestuose e/o anonime, verrà data contezza dell'esito, delle azioni messe in atto, dei risultati raggiunti, di eventuali trasmissioni e ad altri Enti che il Comando ritenesse di dover inoltrare. 
+Ad ogni segnalazione presa in carico, ad eccezione di quelle pretestuose e/o anonime, verrà data contezza dell'esito, delle azioni messe in atto, dei risultati raggiunti, di eventuali trasmissioni e ad altri Enti che il Comando ritenesse di dover inoltrare.
 
 Gli appartenenti al Corpo di Polizia Locale assumono un comportamento consono alle proprie funzioni, attraverso il loro operato autorevole nei contenuti ma cortese e disponibile nei modi alle richieste dei cittadini intervengono direttamente o li indirizzano secondo criteri di legittimità, opportunità ed equità.
 
@@ -193,37 +199,25 @@ Ogni appartenente al Corpo di Polizia Locale ed ogni ufficio è dotato di un ind
 Tramite il sito internet il cittadino può visualizzare news aggiornate sulla vita del Comune, l'operato dell'Amministrazione, ricevere inviti a manifestazioni ed eventi, inviare segnalazioni di intervento agli uffici di competenza, contattare rapidamente i numeri di emergenza, ed interagire con moltissime funzioni.
 
 # Unità Operativa di tutela del Cittadino e del Territorio
+È composta da tre nuclei specialistici, coordinati da un Ufficiale di Polizia Locale
+
+## Nucleo Polizia Giudiziaria
 Svolge un'azione di supporto alle singole Unità Operative in caso di procedimenti penali legate alle specificità di queste ultime, occupandosi di tutte le attività investigative, anche in abiti civili, d'iniziativa o su delega dell'autorità giudiziaria.
 
 Si occupa anche di tutti i fattori di rischio per la sicurezza urbana quali: l'occupazione abusiva degli immobili, il deturpamento delle aree pubbliche, l'abuso di sostanze alcoliche, lo smercio di beni contraffatti o falsificati, nonché di fenomeni di accattonaggio invasivo che comportino turbativa del pubblico utilizzo degli spazi pubblici.
 
 Spetta alla suddetta Unità Operativa l'adozione delle misure di sicurezza personale quali ad esempio: avviso orale e foglio di via obbligatorio (il cui atto finale spetta al Questore) nei confronti di persone la cui condotta ed il cui tenore di vita debba ritenersi, sulla base di elementi di fatto, che vivono abitualmente o in parte con i proventi di attività delittuose, costituenti pertanto minaccia per l'ordine e sicurezza pubblica.
 
-I componenti di tale nucleo vengono impiegati secondo necessità anche in attività di pattugliamento del territorio rafforzando l'aliquota del nucleo radiomobile. 
+I componenti di tale nucleo vengono impiegati secondo necessità anche in attività di pattugliamento del territorio rafforzando l'aliquota del nucleo radiomobile.
 
-test preliminari sostanze stupefacenti e/o psicotrope;
-
-Ricezione di ogni utile informazione al momento del contatto con l'uffici o (indicazione responsabile del procedimento, recapiti, orari, iter dell'istanza)
-
-Modalità per il successivo accesso agli atti e/o per conoscere l'esito del procedimento
-
+## Nucleo di Polizia Annonaria, Commerciale e Tutela del consumatore;
 Si interfaccia con lo Sportello Unico Attività Produttive del Comune e con gli altri Enti per gli argomenti che riguardano le norme che regolano il commercio su area pubblica e/o privata, la vendita e la somministrazione di alimenti e bevande, l'igiene e la salubrità dei luoghi in stretto coordinamento con l'azienda territoriale sanitaria (A.T.S.) e la direzione provinciale del lavoro (D.P.L.). Predispone gli atti preparatori di specifica competenza del Comando per la commissione comunale di vigilanza.
 
 Gestisce gli esposti relative al disturbo della quiete pubblica ovvero che riguardino il fenomeno dell'abuso delle sostanze alcoliche, soprattutto da parte dei giovani, dal quale possono mutuare condotte violente contro il patrimonio o la persona, ed in generale a nocumento della sicurezza urbana.
 
 I componenti di tale nucleo vengono impiegati secondo necessità anche in attività di pattugliamento del territorio rafforzando l'aliquota del nucleo radiomobile.
 
-gestione del ciclo delle sanzioni amministrative legate alle specifiche competenze ivi comprese generazione di ordinanze ingiunzione, di lettere pre ruolo e predisposizione ruoli;
-
-controlli delle attività produttive di qualsiasi natura;
-
-predisposizione di atti di specifica competenza del Comando in tema di fiere e mercati e non già di competenza del SUAP;
-
-rappresenta il Comandante in seno ai lavori preparatori alla Commissione Comunale di Vigilanza sui Pubblici Spettacoli;
-
-predisposizione delle ordinanze viabilistiche in occasione di fiere e mercati.
-
-# Nucleo Operativo di tutela del territorio
+## Nucleo Operativo di tutela del territorio
 Cura tutte le attività legate alla vigilanza edilizia ed ambientale sia d'iniziativa che a seguito di esposti pervenuti, collaborando con l'Area "Servizio al Territorio" dell'Ente nell'ambito dell'unità operativa mista (cfr. con tecnici dell'ufficio urbanistica) creata con provvedimento della Giunta Comunale, a salvaguardia del decoro e della sicurezza degli edifici e degli spazi pubblici.
 
 L'attività si concentra, tra l'altro, sulla verifica dei cantieri dal punto di vista dei titoli abilitativi legittimanti ma anche in termini di sicurezza sui luoghi di lavoro e di regolarità della posizione lavorativa delle persone impiegate di concerto con la direzione provinciale del lavoro.
@@ -234,7 +228,7 @@ Interagisce con Enti ed Istituzioni (Procura della Repubblica, A.T.S, A.R.P.A., 
 
 I componenti di tale nucleo vengono impiegati secondo necessità anche in attività di pattugliamento del territorio rafforzando l'aliquota del nucleo radiomobile.
 
-# Unità Operativa di Pronto Intervento
+## Unità Operativa di Pronto Intervento
 L'unità agisce in sinergia con la Centrale Operativa, costituendo quest'ultima il primo contatto tra la Polizia Locale ed il cittadino, essendo la prima occasione di riferimento e di coordinamento per ogni attività di emergenza e di soccorso.
 
 Fanno capo alla predetta unità le pattuglie dislocate sul territorio, il servizio integrato di quartiere, servizi al cui svolgimento sono chiamati a partecipare tutti gli agenti, nonché il nucleo infortunistica stradale, ed ha il compito preminente di vigilare sulle norme poste a tutela della sicurezza stradale dell'ordine e della sicurezza pubblica e su tutte le violazioni avente rilievo amministrativo e/o penale.
@@ -251,14 +245,7 @@ Al fine di meglio comprendere le dinamiche dell'incidente gli agenti di Polizia 
 
 La Polizia Locale, nel caso in cui la dinamica dell'incidente e le responsabilità delle parti siano chiare, contesta immediatamente le violazioni riscontrate, negli altri casi provvede all'emissione delle sanzioni una volta definiti questi elementi in un momento successivo e comunicata ai soggetti interessati mediante notifica dei relativi verbali di violazione.
 
-interventi in caso di emergenza, di soccorso pubblico per calamità naturali o infortuni;
-
-Intervento in tutti gli incidenti stradali classificati con codice rosso dal Servizio di Emergenza Sanitaria o con esito mortale entro 15 minuti dalla richiesta;
-
-Intervento per spazi di sosta riservati a persone invalide occupati abusivamente entro 45 minuti dalla richiesta.
-
-Evasione del 100% delle richieste pervenute per manifestazioni, che saranno valutate in base alla disponibilità di operatori di Polizia Locale in caso di accoglimento verrà predisposto un adeguato servizio di viabilità
-
+## Infortunistica stradale
 Si occupa di tutto il ciclo in back office amministrativo, civile e penale di competenza del Comando di Polizia Locale mutuato dal verificarsi di un sinistro stradale ed alla mobilità urbana, vede impegnato un Assistente di Polizia Locale per tre giorni a settimana, i restanti tre lo stesso è in servizio esterno.
 
 In maniera esemplificativa ma non esaustiva l'attività (compresa la predisposizione dei precipui atti) riguarda tra l'altro:
@@ -268,14 +255,19 @@ In maniera esemplificativa ma non esaustiva l'attività (compresa la predisposiz
 - Front office per gli atti di competenza;
 - Grazie alla georeferenziazione degli eventi infortunistici, individua le aree a più alto rischio per pianificazione dei servizi mirati in tema di sicurezza stradale.
 
+### Cosa occorre fare per avere copia del rapporto di incidente
 Il singolo Cittadino, nonché avvocati ed operatori delle compagnie di assicurazione specificatamente delegati dagli interessati, possono rivolgersi allo sportello informativo dell'ufficio infortunistica stradale per avere informazioni sulla possibilità di ottenere, mediante presentazione di specifico modulo denominato richiesta rapporto incidente, copia del rapporto di incidente nonché notizie sullo stato di avanzamento della pratica.
 
 Per garantire il rilascio H24, 365 giorni l'anno, è stato attivato lo sportello di rilascio copie sinistri stradali, collegandosi all'indirizzo www.incidentistradali.com.
 
 Il cittadino trova, accedendo con il suo profilo utente, nella tendina dei Comuni il COMUNE DI CANTU'. La prima registrazione al portale è semplice e richiede pochi passaggi.
 
-Con le abituali modalità di richiesta in uso sul portale, lo stesso utente può effettuare richieste e attendere la rilasciabilità dell'atto necessitato, corredato da eventuali rilievi fotografici e/o planimetrici,
-a seguito dell'avvenuto pagamento del servizio.
+Con le abituali modalità di richiesta in uso sul portale, lo stesso utente può effettuare richieste e attendere la rilasciabilità dell'atto necessitato, corredato da eventuali rilievi fotografici e/o planimetrici, a seguito dell'avvenuto pagamento del servizio.
+
+Il pagamento potrà essere effettuato:
+- Mediante POS (solo pago bancomat);
+- Mediante versamento sul c.c.p. 358226 intestato a Comune di Cantù, Comando Polizia Locale;
+- Mediante bonifico sul CONTO CORRENTE IBAN IT55V0843051060000000988500 intestato a Comune di Cantù servizio tesoreria.
 
 Il rapporto di incidente può essere richiesto anche:
 - per posta;
@@ -289,25 +281,26 @@ In particolare le compagnie di assicurazione e gli avvocati delegati possono pre
 
 Per alleggerire le procedure burocratiche legate all'autorizzazione avvocati e periti assicurativi possono inoltrare le deleghe generali delle assicurazioni che rappresentano per permettere il rilascio di atti al cui interno è presente una delle compagnie per le quali operano.
 
+### Chi può richiedere il rapporto di incidente
 Il rapporto di incidente stradale è rilasciato dall'Ufficio Incidenti solo agli aventi diritto, cioè:
 - persone coinvolte nell'incidente (conducente, proprietario, passeggeri) o altri soggetti con delega scritta e fotocopia del documento del delegante;
 - assicuratori rappresentanti la compagnia assicurativa del veicolo coinvolto, muniti di delegata della stessa compagnia assicuratrice interessata al ritiro;
 - avvocati di parte, muniti di incarico firmato dal proprio assistito.
 
+### Ritiro degli atti
 Gli atti possono essere ritirati anche direttamente all'U.R.P. del Comando di Polizia Locale in Via Vittorio Veneto, 10/b nei seguenti giorni ed orari dal lunedì al sabato dalle 09:00 alle 12:00.
 
 Si ricorda che l'ufficio provvederà a spedire il rapporto di incidente stradale al ricevimento della ricevuta del bollettino di conto corrente postale.
 
+### Costi per il rilascio del rapporto di incidente
 € 20,00 per il rilascio della copia cartacea del rapporto di incidente stradale comprensivo delle planimetrie, e delle fotografie in formato digitale.
 
-Rilevazione di non meno dell'ottantacinque per cento degli incidenti verificatisi in città
-
-# Unità Operativa Procedure Sanzionatorie
+## Unità Operativa Procedure Sanzionatorie
 Si occupa d ella gestione di tutto il ciclo procedimentale delle sanzioni amministrative pecuniarie ed accessorie derivanti dalla violazioni di norme di leggi, regolamenti ed ordinanze.
 
 Afferiscono alla suddetta Unità il Front Office del Comando il cui orario di apertura è articolato dalle 09:00 alle 12:00 dal lunedì al sabato con chiusura giovedì e domenica. Al summenzionato sportello possono essere presentate, alternativamente agli strumenti on-line messi a disposizione, tutte le istanze e richieste di informazioni, di estrazioni di atti oggetto dell'attività del Comando.
 
-Accanto all'U.R.P. tradizionale il Comando ha costruito un U.R.P. virtuale affinché l'utente abbia la possibilità di usufruire di un servizio H 24, 365 giorni l'anno. 
+Accanto all'U.R.P. tradizionale il Comando ha costruito un U.R.P. virtuale affinché l'utente abbia la possibilità di usufruire di un servizio H 24, 365 giorni l'anno.
 
 Infatti accedendo al sito internet www.comune.cantu.co.it, inserendo il numero di targa ed il numero di verbale, è possibile procedere:
 - alla visione ed al rilascio di documenti, per aventi diritto (intestatari) o delegati, in relazione a verbali di accertamento di violazioni amministrative ed ai verbali che hanno dato origine all'emissione di cartelle esattoriali e ingiunzioni fiscali;
@@ -315,63 +308,64 @@ Infatti accedendo al sito internet www.comune.cantu.co.it, inserendo il numero d
 - visione di immagini relativi ai verbali per superamento del semaforo rosso accertati in modalità automatica;
 - visione delle immagini per superamento dei limiti di velocità non contestate immediatamente all'utente ma notificate in un momento successivo.
 
-Le nuove modalità organizzative hanno prodotto una semplificazione all'utenza ma anche un aumento del tasso di efficienza ed economicità del servizio, dando così la possibilità destinare due operatori ad altre mansioni (vedasi tabelle seguenti). 
+Le nuove modalità organizzative hanno prodotto una semplificazione all'utenza ma anche un aumento del tasso di efficienza ed economicità del servizio, dando così la possibilità destinare due operatori ad altre mansioni (vedasi tabelle seguenti).
 
 In ultimo si sottolinea che i componenti dell'Unità operativa in narrativa sono impiegati, in caso di necessità, anche in attività di pattugliamento del territorio rafforzando l'aliquota del nucleo radiomobile
 
-Procedure sanzionatorie relative a violazioni al codice della strada ed ai regolamento comunali;
+### L'iter delle violazioni del codice della strada
+Codice della Strada
+- I "preavvisi" di violazione al Codice della Strada, apposti solo sul veicolo in sosta, possono essere pagati entro 5 giorni. Gli stessi vengono redatti anche a mezzo tablet e stampati con dispositivo portatile di conseguenza sul parabrezza dell'auto si può rinvenire un atto delle dimensioni di uno scontrino fiscale sottoscritto dall'agente verbalizzante; Tale modalità permette l'inserimento immediato nel database del Comando dell'atto rendendo possibile la visione dell'utente e riducendo i passaggi del procedimento amministrativo successivo non ché l'impiego di ulteriori operatori per il data entry. Qualora il pagamento non avvenga nei termini indicati verrà effettuata notifica a mezzo posta del "verbale" di accertamento della violazione al proprietario del veicolo, aggiungendo però alla sanzione pecuniaria le spese di procedimento;
+- I "verbali" contestati direttamente sulla strada dagli operatori di Polizia Locale possono essere pagati entro 60 giorni. Qualora il pagamento non avvenga nei termini indicati verrà effettuata notifica, a mezzo posta, del verbale di accertamento della violazione al proprietario del veicolo, aggiungendo alla sanzione pecuniaria le spese di procedimento. È possibile beneficiare di una riduzione del 30% sull'importo delle sanzioni pecuniarie derivanti da violazioni al Codice della strada nel caso in cui il pagamento venga effettuato entro 5 giorni Decorsi 60 giorni dalla contestazione diretta o dalla notificazione del verbale, l'importo della sanzione pecuniaria raddoppia. In caso di mancato pagamento verrà inviato un ulteriore "sollecito" di pagamento, per posta ordinaria, che potrà essere pagato entro 10 giorni dal ricevimento; in caso contrario, l'Amministrazione procederà alla riscossione coattiva del credito.
 
-I "preavvisi" di violazione al Codice della Strada, apposti solo sul veicolo in sosta, possono essere pagati entro 5 giorni. Gli stessi vengono redatti anche a mezzo tablet e stampati con dispositivo portatile di conseguenza sul parabrezza dell'auto si può rinvenire un atto delle dimensioni di uno scontrino fiscale sottoscritto dall'agente verbalizzante;
-
-Tale modalità permette l'inserimento immediato nel database del Comando dell'atto rendendo possibile la visione dell'utente e riducendo i passaggi del procedimento amministrativo successivo non ché l'impiego di ulteriori operatori per il data entry. Qualora il pagamento non avvenga nei termini indicati verrà effettuata notifica a mezzo posta del "verbale" di accertamento della violazione al proprietario del veicolo, aggiungendo però alla sanzione pecuniaria le spese di procedimento;
-
-I "verbali" contestati direttamente sulla strada dagli operatori di Polizia Locale possono essere pagati entro 60 giorni. Qualora il pagamento non avvenga nei termini indicati verrà effettuata notifica, a mezzo posta, del verbale di accertamento della violazione al proprietario del veicolo, aggiungendo alla sanzione pecuniaria le spese di procedimento. È possibile beneficiare di una riduzione del 30% sull'importo delle sanzioni pecuniarie derivanti da violazioni al Codice della strada nel caso in cui il pagamento venga effettuato entro 5 giorni Decorsi 60 giorni dalla contestazione diretta o dalla notificazione del verbale, l'importo della sanzione pecuniaria raddoppia. In caso di mancato pagamento verrà inviato un ulteriore "sollecito" di pagamento, per posta ordinaria, che potrà essere pagato entro 10 giorni dal ricevimento; in caso contrario, l'Amministrazione procederà alla riscossione coattiva del credito.
-
+### L'iter delle violazioni altre norme (regolamenti, ordinanze o altre disposizioni legislative)
 I "verbali" di violazione a regolamenti, ordinanze o altre disposizioni legislative, contestati direttamente o notificati dalla Polizia Locale (a mezzo posta entro 90 giorni dalla accertata violazione), possono essere pagati entro 60 giorni ovvero, si può proporre ricorso entro 30 giorni.
 
-Se il trasgressore non ha presentato ricorso o non ha effettuato il pagamento della sanzione pecuniaria, verrà emessa e notificata apposita ordinanza-ingiunzione di pagamento, ulteriormente ricorribile entro 30 giorni. In caso di omesso pagamento o ricorso della ordinanza ingiunzione, l'Amministrazione procederà alla riscossione coattiva del credito (iscrizione a ruolo esattoriale). 
+Se il trasgressore non ha presentato ricorso o non ha effettuato il pagamento della sanzione pecuniaria, verrà emessa e notificata apposita ordinanza-ingiunzione di pagamento, ulteriormente ricorribile entro 30 giorni. In caso di omesso pagamento o ricorso della ordinanza ingiunzione, l'Amministrazione procederà alla riscossione coattiva del credito (iscrizione a ruolo esattoriale).
 
+### Dove pagare?
+- U.R.P. Comando negli orari di apertura al pubblico;
+- Uffici Postali con il bollettino allegato o con versamento su c/c postale n. 358226 intestato a Comune Cantù - Comando Polizia Locale - Servizio Tesoreria – C.so Unità d'Italia 1;
+- Filiali banca credito Canturino mediante versamento sul c/c bancario n. IBAN IT55V0843051060000000988500 intestato a Comune di Cantù servizio tesoreria - Comando di Polizia Locale - 22063 Cantù, riportando nella causale il numero di verbale;
+- Ricevitorie Lotto che aderiscono all'iniziativa "Il Comune sotto Casa" utilizzando il codice ISTAT del Comune di Cantù;
+- Internet all'indirizzo: www.comune.cantu.co.it, pagamento multe on–line;
+
+### Ricorsi per violazione Codice della Strada
 Entro 60 giorni dalla contestazione o notificazione della violazione al Codice della Strada, gli interessati possono presentare ricorso al Prefetto di Como, compilando uno scritto difensivo, del quale è disponibile un fac simile presso l'U.R.P. o scaricabile dal sito internet: www.comune.cantu.it/polizialocale. Il ricorso può essere presentato direttamente al Comando della Polizia Locale di Cantù, inviato via e mail all'indirizzo di posta elettronica certificata (PEC): polizialocale.cantu@pec.it, corredato da copia di un documento di riconoscimento del dichiarante, o via posta con raccomandata A/R indirizzata alla Polizia Locale di Cantù e/o al Prefetto di Como. In alternativa, entro 30 giorni dalla contestazione o notificazione della violazione al Codice della Strada, 60 se l'avente diritto risiede all'estero, gli interessati possono presentare ricorso al Giudice di Pace di Como, compilando uno scritto difensivo da depositare presso la cancelleria di competenza o da inviare con raccomandata A/R
 
+### Ricorsi a violazioni altre norme (regolamenti, ordinanze o altre disposizioni legislative)
 Per violazioni a regolamenti, ordinanze o altre disposizioni legislative, è possibile proporre ricorso entro 30 giorni dalla contestazione o notificazione del verbale alla autorità amministrativa indicata sul verbale di conte stazione
 
-# Unità Operativa Mobilità Urbana, Sicurezza Stradale
+## Unità Operativa Mobilità Urbana, Sicurezza Stradale
 Si occupa dei fenomeni del traffico sulle strade e della mobilità delle persone, proponendo specifici provvedimenti viabilistici atti a migliorare la circolazione e la sicurezza stradale nel rispetto delle norme esistenti.
 
 È impegnata a risolvere i temi legati alla fluidificazione del traffico, della sicurezza stradale, dei trasporti e della mobilità urbana in occasioni di manifestazioni e lavori stradali rappresentando il Comando nelle conferenze e riunioni operative in tema di piano urbano del traffico.
 
-Nel caso sia necessaria l'adozione di un'ordinanza temporanea, la relativa richiesta dovrà pervenire via pec, corredata dal documento di riconoscimento del richiedente, e/o espressa delega dello stesso alla persona preposta, dallo schema del cantiere, ovvero dal percorso della manifestazione, con almeno 20 giorni di anticipo, analogamente le autorizzazione di occupazioni di suolo pubblico, i pareri, nulla osta, ecc. verranno rilasciati non prima di dieci giorni successivi all'istanza. 
+Nel caso sia necessaria l'adozione di un'ordinanza temporanea, la relativa richiesta dovrà pervenire via pec, corredata dal documento di riconoscimento del richiedente, e/o espressa delega dello stesso alla persona preposta, dallo schema del cantiere, ovvero dal percorso della manifestazione, con almeno 20 giorni di anticipo, analogamente le autorizzazione di occupazioni di suolo pubblico, i pareri, nulla osta, ecc. verranno rilasciati non prima di dieci giorni successivi all'istanza.
 
-Sopralluoghi congiunti con gli altri Uffici Comunali/Enti o Istituzioni, preliminari al l'adozione di provvedimenti viabilistici di carattere temporaneo o definitivo;
-
-Rilascio autorizzazioni per le occupazioni di qualsiasi natura e durata con adozione della relative ordinanze se necessarie;
-
-# Ufficio controllo di gestione e pianificazione strategica
+## Ufficio controllo di gestione e pianificazione strategica
 Svolge azione di segreteria del Comandante, nonché di supporto nell'individuazione ed analisi degli indicatori di economicità, efficienza ed efficacia del servizio, rilevando i fabbisogni formativi (svolgendo funzioni di segreteria per corsi e seminari organizzati dal Comando quale sede di Polo formativo per la Provincia di Como) e suggerendo strategie per l'ammodernamento dell'infrastruttura tecnologica.
 
 Supporta il Comandante nel monitorare la contabilità finanziaria (cfr. flussi di entrata e di uscita) e quella economico/patrimoniale, rilevando i risultati raggiunti, anche intermedi, in base agli obiettivi assegnati alle singole unità.
 
-Raccolta dati ed elaborazione statistica sull'intera attività del Comando con elaborazione di indici di efficienza, efficacia ed economicità del servizio;
-
-Si occupa delle richieste di pagamento, adottando gli atti di liquidazione, dei fornitori, dei cittadini in caso di erroneo pagamento di sanzioni, dei Comuni a seguito di atti notificati in nome e per conto del Comando;
-
 # Accesso Agli Atti
-"accesso documentale" l'accesso disciplinato dal capo V della legge n. 241/1990 ed il cui fine è quello di porre i soggetti interessati in grado di esercitare al meglio le facoltà - partecipative e/o oppositive e difensive - che l'ordinamento attribuisce loro a tutela delle posizioni giuridiche qualificate di cui sono titolari. L'accesso documentale opera sulla base di norme e presupposti diversi da quelli afferenti l'accesso civico (generalizzato e non);
-
-"accesso civico" (o accesso civico "semplice") l'accesso ai documenti oggetto degli obblighi di pubblicazione sancisce il diritto di chiunque di richiedere i documenti, le informazioni o i dati che l'ente abbia omesso di pubblicare pur avendone l'obbligo ai sensi del decreto trasparenza;
-
-"accesso generalizzato" è riconosciuto allo scopo di favorire forme diffuse di controllo sul perseguimento delle funzioni istituzionali e sull'utilizzo delle risorse pubbliche e di promuovere la partecipazione al dibattito pubblico.
+Quando si parla di accesso agli atti è bene precisare che bisogna differenziare tra:
+- "accesso documentale" l'accesso disciplinato dal capo V della legge n. 241/1990 ed il cui fine è quello di porre i soggetti interessati in grado di esercitare al meglio le facoltà - partecipative e/o oppositive e difensive - che l'ordinamento attribuisce loro a tutela delle posizioni giuridiche qualificate di cui sono titolari. L'accesso documentale opera sulla base di norme e presupposti diversi da quelli afferenti l'accesso civico (generalizzato e non);
+- "accesso civico" (o accesso civico "semplice") l'accesso ai documenti oggetto degli obblighi di pubblicazione sancisce il diritto di chiunque di richiedere i documenti, le informazioni o i dati che l'ente abbia omesso di pubblicare pur avendone l'obbligo ai sensi del decreto trasparenza;
+- "accesso generalizzato" è riconosciuto allo scopo di favorire forme diffuse di controllo sul perseguimento delle funzioni istituzionali e sull'utilizzo delle risorse pubbliche e di promuovere la partecipazione al dibattito pubblico.
 
 La legge n. 241/1990 esclude perentoriamente l'utilizzo del diritto di accesso al fine di sottoporre l'Amministrazione ad un controllo generalizzato.
 
+## Chi può avanzare istanza di accesso?
 L'esercizio dell'accesso documentale, civico e dell'accesso generalizzato non è sottoposto ad alcuna limitazione quanto alla legittimazione soggettiva del richiedente; chiunque può esercitare tale diritto indipendentemente dall'essere cittadino italiano o residente nel territorio dello Stato.
 
 L'istanza di accesso, contenente le complete generalità del richiedente con i relativi recapiti e numeri di telefono, identifica i dati, le informazioni o i documenti richiesti. Le istanze non devono essere generiche ma consentire l'individuazione del dato, del documento o dell'informazione di cui è richiesto l'accesso.
 
 Non è ammissibile una richiesta meramente esplorativa volta a scoprire di quali informazioni l'Amministrazione dispone.
 
+## In quale modo?
 Con un'istanza inoltrata a mezzo pec all'indirizzo: polizialocale.cantu@pec.it debitamente sottoscritta mediante la firma digitale o la firma elettronica qualificata il cui certificato è rilasciato da un certificatore qualificato. Ovvero con deposito all'ufficio relazioni con il pubblico del Comando di Polizia Locale negli orari di apertura dello stesso (lunedì, martedì, mercoledì, venerdì e sabato dalle ore 09:00 alle ore 12:00)
 
+## Quali sono i termini di conclusione del procedimento
 Il procedimento di accesso documentale o civico si concluderà con provvedimento espresso e motivato nel termine di trenta giorni dalla presentazione dell'istanza con la comunicazione del relativo esito al richiedente e agli eventuali soggetti controinteressati. Tali termini sono sospesi nel caso di comunicazione dell'istanza ai controinteressati durante il tempo stabilito dalla norma per consentire agli stessi di presentare eventuale opposizione (10 giorni dalla ricezione della comunicazione).
 
 In caso di accoglimento, il Comando di Polizia Locale provvederà a trasmettere tempestivamente al richiedente i dati o i documenti richiesti, ovvero, nel caso in cui l'istanza riguardi l'accesso civico, a pubblicare sul sito i dati, le informazioni o i documenti richiesti e a comunicare al richiedente l'avvenuta pubblicazione dello stesso, indicandogli il relativo collegamento ipertestuale.
@@ -379,18 +373,6 @@ In caso di accoglimento, il Comando di Polizia Locale provvederà a trasmettere 
 Qualora vi sia stato l'accoglimento della richiesta di accesso generalizzato nonostante l'opposizione del controinteressato, il Comando ne darà comunicazione a quest'ultimo. I dati o i documenti richiesti possono essere trasmessi al richiedente non prima di quindici giorni dalla ricezione della stessa comunicazione da parte del controinteressato, ciò anche al fine di consentire a quest'ultimo di presentare eventualmente richiesta di riesame o ricorso al difensore civico, oppure ricorso al giudice amministrativo.
 
 Nel caso di richiesta di accesso generalizzato, il Comando di Polizia Locale motiverà l'eventuale rifiuto, differimento o la limitazione dell'accesso con riferimento ai soli casi e limiti stabiliti dall'art. 5-bis del decreto trasparenza.
-
-Illustrare il motivo della richiesta, precisando quale sia l'interesse diretto, concreto ed attuale, corrispondente ad una situazione giuridicamente tutelata e collegata ai documenti per i quali si presenta richiesta allegare fotocopia di un documento di identità del richiedente;
-
-in caso di richiesta eseguita in luogo del diretto interessato da un suo rappresentate o delegato occorre allegare atto di delega del diretto interessato nonché copia documento di identità del delegante e del delegato;
-
-in caso di richiesta di un legale rappresentante allegare copia della documentazione attestante i propri poteri rappresentativi 
-
-l'esame per sola visione di atti e documenti È GRATUITO;
-
-il rilascio di copia di atti e documenti amministrativi è subordinato al rimborso del costo di riproduzione.
-
-Previa registrazione è possibile richiedere copie dei soli atti relativi ad un incidente stradale. Nel momento in cui l'incidente sarà disponibile verrà inviata una mail con le istruzioni per il download della documentazione richiesta.
 
 # Gli strumenti di tutela a disposizione del cittadino
 Il reclamo costituisce lo strumento più diretto e di facile utilizzazione, che il cittadino può inoltrare nei confronti del Corpo di Polizia Locale.
@@ -410,8 +392,6 @@ Nel caso in cui il reclamo non riguardi il Corpo di Polizia Locale, ma risulti r
 
 # Verifica esposti e segnalazione scritti
 Nel caso di un esposto scritto lo stesso dovrà pervenire con lettera indirizzata a Polizia Locale, via Vittorio Veneto 10/b, 22063 Cantù, e mail: polizia.segreteria@comune.cantu.it - polizialocale.cantu@pec.it, fax 031/717474, relativo alle materie di competenza delle singole Unità Operative sarà contattato entro 10 giorni dal ricevimento dello stesso dalla Ufficio Controllo di Gestione e Pianificazione Strategica per la comunicazione della presa in carico del problema.
-
-Ai sensi e per gli effetti di quanto disposto dal D. Lgs. 30/06/2003 n. 196 "Codice in materia di protezione dei dati personali" autorizzo il Comune di Cantù ad utilizzare i dati sopra riportati esclusivamente per l'approfondimento dei fatti segnalati.
 
 # Il monitoraggio della qualità dei servizi erogati
 Il monitoraggio e la misurazione della qualità delle prestazioni erogate, costituisce al tempo stesso strumento e momento imprescindibile per valutare l'efficacia e l'efficienza dei servizi alla cittadinanza. A questo proposito sono stati identificati, in relazione a tutte le aree, gli indicatori di processo finalizzati a misurarne il trend che trimestralmente vengono pubblicati sul sito internet www.comune.cantu.co.it/polizialocale
