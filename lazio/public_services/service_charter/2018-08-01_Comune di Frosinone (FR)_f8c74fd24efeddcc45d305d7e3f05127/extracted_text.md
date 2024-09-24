@@ -7,7 +7,8 @@ Inoltre, rappresenta il documento nel quale sono definiti i criteri per l'access
 
 La Carta dei Servizi Sociali rappresenta per questa Amministrazione un'importante opportunità di dialogo con i cittadini e nasce con l'intento di comunicare con la maggiore chiarezza possibile tutte le informazioni sulle attività socio-assistenziali e renderne trasparenti le modalità di erogazione.
 
-# 1. La Carta dei Servizi
+# PREMESSA
+## 1. La Carta dei Servizi
 La Carta dei Servizi Sociali indica quali impegni l'Amministrazione Comunale concretamente assume con i cittadini italiani e stranieri residenti e quali servizi offre, come si accede ai Servizi Sociali, quale qualità minima è garantita, quali procedure i cittadini devono osservare per presentare istanze. In essa sono sanciti i principi a cui i servizi si uniformano e riporta tutte le informazioni su quanto è necessario sapere per utilizzarli al meglio.
 
 La Carta dei Servizi non è solo un documento cartaceo, ma è parte integrante di un processo di programmazione e comunicazione dei Servizi. Deve essere intesa come strumento di ridefinizione costante della progettazione in virtù dei suggerimenti che di volta in volta vengono presentati dai diversi attori sociali e dai cittadini.
@@ -22,7 +23,7 @@ La Carta è l'espressione del programma di questa Amministrazione Comunale, qual
 L'auspicio è che essa possa veramente essere una guida ai servizi alla persona di una Città che mette al primo posto le persone, le famiglie, i giovani, gli anziani, le loro storie ed i loro bisogni, tutti protagonisti e tutti necessari nella vita della nostra Comunità.
 
 L'indicato documento mappa e descrive il sistema locale di Welfare promosso e realizzato dal Comune di Frosinone in favore dei propri cittadini, anche in qualità di Comune Capofila del Distretto Sociale B.
- 
+
 Detta carta rappresenta:
 - uno strumento di informazione in quanto permette ad ogni cittadino di conoscere le opportunità a sua disposizione, illustrando in maniera semplice i servizi socio-sanitari attivati;
 - un patto che il Comune stabilisce con i propri cittadini circa la qualità dei servizi erogati;
@@ -32,7 +33,7 @@ Detta carta rappresenta:
 
 Ed è proprio attorno a queste tre parole chiave (informazione, consapevolezza e partecipazione) che si snodano le finalità ed i contenuti del presente documento.
 
-# 2. Il Comune di Frosinone
+## 2. Il Comune di Frosinone
 Capoluogo dell'omonima Provincia, Frosinone è una città di 46.120 abitanti (dato ISTAT al 01.01.2017) con una superficie di poco inferiore a 47 Kmq e una densità di 984,5 ab/Kmq. Centro industriale e commerciale, costituisce un importante nodo di comunicazione del Lazio meridionale.
 
 I Servizi Sociali del Comune di Frosinone costituiscono una serie articolata di interventi e prestazioni coordinati tra loro, rivolti ai cittadini residenti, di ogni fascia di età, con particolare riferimento alle persone in stato di maggior bisogno e fragilità.
@@ -40,6 +41,12 @@ I Servizi Sociali del Comune di Frosinone costituiscono una serie articolata di 
 Scopo degli interventi socio–assistenziali e socio-sanitari promossi dall'Ente è la promozione, il mantenimento ed il recupero del benessere dei cittadini nonché il pieno sviluppo della persona all'interno del contesto familiare e sociale.
 
 Il funzionamento dei Servizi Sociali è garantito dalla collaborazione fra gli operatori che sono in possesso delle necessarie competenze professionali, organizzative, gestionali ed amministrative.
+
+Il Dirigente del Settore Servizi Sociali è l'Avv. Antonio Loreto
+
+Il personale della segreteria del Settore Servizi Sociali è il seguente:
+- sig.ra Rossana Paniccia
+- dr.ssa Anna Galassi
 
 Dal dicembre 2002, con la sottoscrizione di uno specifico Accordo di Programma, il Comune di Frosinone è Capofila del Distretto Sociale B di Frosinone, vale a dire dell'ambito territoriale ottimale, individuato dalla Regione Lazio, per la realizzazione del sistema integrato di interventi e servizi sociali di cui alla L. n. 328/2000 e quindi per la programmazione e l'erogazione unitaria delle prestazioni socio-assistenziali e socio-sanitarie in favore dei cittadini residenti, anche in raccordo con la ASL di riferimento.
 
@@ -63,40 +70,40 @@ Il Distretto Sociale B di Frosinone opera attraverso un ufficio comune con compe
 
 L'Ufficio di Piano del Distretto Sociale B ha sede presso il Comune di Frosinone – Settore Servizi Sociali, via Armando Fabi, snc. 03100 Frosinone
 
-# 3. I valori e i principi fondamentali
+## 3. I valori e i principi fondamentali
 Il sistema locale di welfare attivato dal Comune di Frosinone si ispira e uniforma ai principi generali enunciati dalla Carta costituzionale e dalla normativa nazionale e regionale vigente, con particolare riferimento alla Legge 8 novembre 2000, n. 328 "Legge quadro per la realizzazione del sistema integrato di interventi e servizi sociali" e alla L. R. 10 agosto 2016, n.11 "Sistema integrato degli interventi e dei Servizi Sociali della Regione Lazio".
 
-Nell'erogazione delle prestazioni, i servizi comunali e distrettuali si ispirano ai seguenti principi fondamentali:
+Nell'erogazione delle prestazioni, i servizi comunali e distrettuali si ispirano ai seguenti principi fondamentali
 
-## Eguaglianza
+### Eguaglianza
 L'erogazione dei servizi è ispirata al principio dell'eguaglianza dei diritti dei cittadini ed al rispetto delle disposizioni che disciplinano i diversi interventi. L'eguaglianza è intesa come divieto di ogni discriminazione di sesso, razza, lingua, religione ed opinioni politiche e non già come assoluta uniformità delle prestazioni. Queste ultime, infatti, variano in base alle esigenze personali, sociali ed economiche del cittadino, nel rispetto di un Progetto personalizzato che gli operatori dei Servizi Sociali condividono con l'utente.
 
-## Imparzialità
+### Imparzialità
 Ogni cittadino è trattato in maniera obiettiva e pertinente alle prestazioni, nel rispetto della legislazione vigente.
 
-## Rispetto
+### Rispetto
 Ogni cittadino è accolto e seguito con premura, cortesia e attenzione nel rispetto della persona e della sua dignità.
 
-## Accesso e trasparenza
+### Accesso e trasparenza
 L'Ente si impegna a fornire ai cittadini interventi e prestazioni, garantendo la massima informazione, visibilità, diffusione e accessibilità.
 
 L'utente ha il diritto di accesso alle informazioni in possesso dell'Ente che lo riguardano, secondo quanto previsto dalla normativa vigente e può richiedere, in ogni momento, di conoscere lo stato dei procedimenti amministrativi che lo riguardano.
 
-## Partecipazione
+### Partecipazione
 La partecipazione del cittadino alla prestazione del servizio quale soggetto attivo, è garantita al fine di una migliore efficacia dell'intervento e nell'ottica di una stretta collaborazione con gli operatori del Servizio Sociale.
 
-## Efficacia ed efficienza
+### Efficacia ed efficienza
 L'obiettivo di offrire al cittadino servizi di qualità è realizzato con le risorse disponibili, adottando le soluzioni tecniche, organizzative e procedurali più adeguate alle finalità dei servizi stessi.
 
-## Professionalità
+### Professionalità
 L'Ente si impegna per un costante aggiornamento della professionalità dei propri dipendenti in relazione ai ruoli professionali ricoperti, in modo da assicurare agli utenti dei servizi interlocutori efficaci.
 
-## Comunicazione
+### Comunicazione
 L'impegno dei servizi nella comunicazione con i cittadini è quello della massima attenzione alla semplicità ed alla comprensibilità del messaggio. L'Ente si impegna, inoltre, a curare il rispetto della dignità dei cittadini che accedono ai servizi, tutelando la loro privacy ed in modo particolare quella delle persone più fragili e svantaggiate.
 
-## Verifica e valutazione delle prestazioni
+### Verifica e valutazione delle prestazioni
 L'Ente assume quali fattori di qualità delle prestazioni rese, la celerità nell'erogazione, il rispetto dei termini fissati, la chiarezza e la completezza delle informazioni, la facilità di accesso alle stesse, la partecipazione da parte dei cittadini al miglioramento dei servizi, la disponibilità e la cortesia degli operatori, la loro professionalità e competenza. A tale scopo concorre anche il presente documento, per la sua natura di patto con i propri cittadini, strumento di promozione e controllo della qualità dei servizi.
- 
+
 # 1.1 Segretariato Sociale e Sportello per la famiglia
 ## Cos'è
 Il Segretariato Sociale è un servizio di ascolto, orientamento, accompagnamento ed invio del cittadino alla rete dei servizi territoriali.
@@ -115,20 +122,9 @@ Le attività principali dello Sportello consistono in:
 
 ## A chi è rivolto
 Persone e famiglie che si trovino in condizione di bisogno o di disagio sociale derivante da inadeguatezza di reddito, difficoltà socio-lavorative, condizioni di scarsa autonomia o non autosufficienza.
- 
+
 ## Come fare
 Gli interventi possono essere richiesti dai cittadini italiani o stranieri residenti nel Comune di Frosinone, secondo le procedure previste per ciascun tipo di prestazione offerta e rese note presso lo Sportello.
-
-## A chi possiamo rivolgerci
-Per ogni informazione è possibile rivolgersi alla Segreteria del Settore Servizi Sociali oppure allo Sportello per la Famiglia, Via Armando Fabi, snc. nei seguenti giorni e orari:
-- Lunedì
-    - dalle ore 9,30 alle ore 12,30
- - dalle ore 15,30 alle ore 17,30
-- Mercoledì 
-    - dalle ore 9,30 alle ore 12,30
- - dalle ore 15,30 alle ore 17,30
-- Venerdì 
-    - dalle ore 9,30 alle ore 12,30
 
 # 1.2 Servizio Sociale Professionale
 ## Cos'è
@@ -150,9 +146,6 @@ Il Servizio Sociale Professionale dell'Ente assicura alle persone ed alle famigl
 ## Come fare
 Gli interventi di competenza del Servizio Sociale Professionale possono essere richiesti dai cittadini residenti nel Comune di Frosinone, nel rispetto delle procedure previste per l'accesso e la presa in carico. Il servizio si avvale di differenti professionalità (assistenti sociali, psicologi, sociologi e personale amministrativo) e dispone di specifiche risorse finalizzate all'erogazione di prestazioni socio-assistenziali e socio-sanitarie.
 
-## A chi possiamo rivolgerci
-Per ogni informazione o richiesta è possibile rivolgersi al personale del Servizio Sociale Professionale, via Armando Fabi, snc. nei seguenti giorni e orari:
-
 # 1.3 PUNTO UNICO DI ACCESSO (PUA) - DISTRETTO B
 ## Cos'è
 Con la DGR n. 315/2011 la Regione configura il Punto Unico di Accesso (PUA) come elemento nodale dell'integrazione socio-sanitaria, luogo di presa in carico e gestione multidisciplinare del bisogno di salute dei cittadini. Con la L. R. n. 11 del 10 agosto 2016 "Sistema integrato degli interventi e dei servizi sociali della Regione Lazio", si individua il Distretto socio-sanitario quale ambito territoriale ottimale non solo per la gestione associata dei servizi sociali ma anche per l'integrazione socio-sanitaria e quindi per l'organizzazione e l'erogazione unitaria delle prestazioni socio-assistenzali e socio- sanitarie. In particolare la legge stabilisce l'istituzione in ogni Distretto socio-sanitario del Punto Unico di Accesso ai servizi socio-sanitari, al fine di favorire la fruizione da parte degli utenti dei servizi sociali, socio-sanitari e sanitari erogati nell'ambito.
@@ -164,7 +157,7 @@ L'Azienda Sanitaria Locale di Frosinone e i quattro Distretti socio-sanitari pre
 La sede del PUA di Frosinone è sita in viale Mazzini snc, presso il Distretto Sanitario B (ex Ospedale Umberto I). L'apertura al pubblico è garantita dal lunedì al venerdì, con orario 9.00/12.00. Sono in corso di attivazione altre 3 sedi PUA, presso le Case della Salute di Ceprano, Ferentino e il Presidio Sanitario di Ceccano.
 
 Presso il PUA sono garantite l'accoglienza e l'ascolto dei bisogni portati dall'utenza. Ne segue un'attività di orientamento e/o l'attivazione di specifici servizi e un corretto assessment delle componenti sanitarie e sociali del bisogno rilevato. Svolgono le funzioni PUA (accoglienza, ascolto e orientamento) anche gli sportelli di segretariato sociale e il Servizio Sociale professionale attivi presso i singoli Comuni del Distretto, che si configurano quali nodi PUA/segretariato sociale del territorio distrettuale.
- 
+
 ## A chi è rivolto
 Il PUA è rivolto alle persone fragili portatrici sia di bisogni semplici che di bisogni complessi, afferenti alle otto aree di interesse dell'integrazione socio-sanitaria:
 - materno-infantile;
@@ -185,8 +178,6 @@ Il cittadino impossibilitato a recarsi personalmente può delegare persona di su
 
 ## A chi possiamo rivolgerci
 Per ogni informazione è possibile rivolgersi direttamente alla sede PUA della ASL di Frosinone, sita in viale Mazzini snc, presso il Distretto Sanitario B (ex Ospedale Umberto I). L'apertura al pubblico è garantita dal lunedì al venerdì, con orario 9.00/12.00.
-
-Per ogni informazione è possibile rivolgersi all'Ufficio di Piano del Distretto Sociale B, Via Armando Fabi, snc. nei seguenti giorni e orari:
 
 # 1.4 UFFICIO DI SUPPORTO AL GARANTE DELL'INFANZIA E DELL'ADOLESCENZA DELLA REGIONE LAZIO – Sede decentrata di Frosinone
 ## Cos'è
@@ -210,9 +201,6 @@ L'ufficio decentrato di supporto al Garante di Frosinone sarà dotato di una sed
 
 Le modalità organizzative di funzionamento della sede decentrata saranno declinate nelle Linee Guida Operative che il Comune di Frosinone ed il Garante dell'Infanzia e dell'Adolescenza della Regione Lazio concorderanno in seguito alla sottoscrizione del Protocollo.
 
-## A chi possiamo rivolgerci
-Per ogni informazione è possibile rivolgersi al Servizio Sociale ed all'Ufficio di Piano del Distretto Sociale B, Via Armando Fabi, snc. nei seguenti giorni e orari:
-
 # 2.1 Assistenza economica
 ## Cos'è
 L'assistenza economica è diretta a sostenere la persona singola o il nucleo familiare in particolari difficoltà finanziarie. Il contributo economico non è fine a se stesso ma rientra in un quadro di intervento globale a favore dell'utente a rischio di esclusione o di emarginazione sociale. L'intervento consente di fruire di sussidi economici straordinari o continuativi limitati nel tempo, finalizzati a rimuovere o limitare significativamente lo stato di disagio. Il sussidio viene corrisposto quando è comprovato che l'aiuto economico possa contribuire ad alleviare situazioni di vita precaria. Può comprendere anche contributi diretti all'assistenza abitativa, alternativi a quella attivata dal Distretto Sociale B.
@@ -223,16 +211,13 @@ L'intervento è disciplinato da un apposito Regolamento per l'erogazione di inte
 Gli interventi di assistenza economica possono essere richiesti dai cittadini residenti nel Comune di Frosinone. Al momento della richiesta la persona deve fornire idonea documentazione attestante le reali condizioni di difficoltà economica (Modello ISEE). La misura è infatti rivolta a cittadini adulti e nuclei familiari che abbiano un parametro risultante dalla certificazione ISEE inferiore alla soglia di € 7.500,00, fatta eccezione per l'abitazione principale e le relative pertinenze, il cui valore catastale non superi € 65.000,00. Per motivi di salute, in deroga al limite di reddito prefissato, la soglia da non superare è stabilita in € 13.500,00.
 
 Gli interventi di assistenza economica sono programmati annualmente sulla base delle risorse a disposizione dell'Amministrazione comunale. Nel caso di insufficienza dei fondi, si garantiscono, in via prioritaria, gli interventi diretti a nuclei familiari con minori, con anziani ultra sessantacinquenni e con portatori di handicap, previa proposta motivata dell'Assistente Sociale.
- 
+
 Per l'accertamento dello stato di bisogno del richiedente, il Servizio Sociale comunale si riserva la più ampia facoltà di verifica e controllo.
 
 ## Come fare
 La richiesta di assistenza economica avviene attraverso apposito modulo prestampato, reperibile presso lo Sportello per la Famiglia dell'Ente. Il richiedente deve allegare: copia del documento di riconoscimento in corso di validità; attestazione ISEE; certificato di disoccupazione; certificato di iscrizione al Centro per l'Impiego o presso Agenzia di fornitura di lavoro temporaneo; eventuale documentazione sanitaria; ricevute di pagamento del canone di locazione; libretto di pensione; eventuale busta paga e quanto altro necessario a documentare lo stato di disagio riferito a tutti i membri del nucleo familiare.
 
 A conclusione del procedimento, accertato lo stato di bisogno, verrà comunicato l'esito favorevole all'interessato e si procederà alla definizione del tipo di contributo. Nel caso in cui l'accertamento dia esito negativo, verrà comunque comunicato all'interessato il motivo del rifiuto all'erogazione del contributo.
-
-## A chi possiamo rivolgerci
-Per ogni informazione è possibile rivolgersi alla Segreteria del Settore Servizi Sociali oppure allo Sportello per la Famiglia, Via Armando Fabi, snc. nei seguenti giorni e orari:
 
 # 2.2 Assegno di maternità
 ## Cos'è
@@ -250,11 +235,8 @@ L'assegno non è cumulabile con altri trattamenti previdenziali ad eccezione del
 
 L'importo dell'assegno è rivalutato ogni anno per le famiglie di operai e impiegati, sulla base della variazione dell'indice dei prezzi al consumo ISTAT. L'INPS pubblica ogni anno l'importo nella circolare sui salari medi convenzionali.
 
-## Per le madri che lavorano…
+### Per le madri che lavorano...
 Nel caso in cui fruiscano di altre forme di tutela economica della maternità diverse dall'assegno di maternità e di valore inferiore allo stesso, possono comunque richiedere al Comune l'erogazione dell'assegno, che sarà di un importo pari alla differenza tra l'assegno di maternità e quanto già percepito.
-
-## A chi possiamo rivolgerci
-Per ogni informazione è possibile rivolgersi alla Segreteria del Settore Servizi Sociali oppure allo Sportello per la Famiglia, Via Armando Fabi, snc. nei seguenti giorni e orari:
 
 # 2.3 Assegno per nuclei familiari con tre o più figli minori
 ## Cos'è
@@ -290,9 +272,6 @@ La domanda va presentata ai Centri di Assistenza Fiscale (CAF) convenzionati con
 Il Comune, riscontrata la sussistenza di tutti i requisiti, dispone ai Centri di Assistenza Fiscale la trasmissione dell'Istanza all'INPS per il relativo mandato di pagamento.
 
 Dal 1 dicembre 2017 i cittadini in possesso dei requisiti per l'accesso al REI, possono presentare istanza per l'assegno ai nuclei familiari con tre o più figli minori contestualmente alla domanda REI, compilando lo specifico spazio presente nel modulo.
-
-## A chi possiamo rivolgerci
-Per ogni informazione è possibile rivolgersi alla Segreteria del Settore Servizi Sociali oppure allo Sportello per la Famiglia, Via Armando Fabi, snc. nei seguenti giorni e orari:
 
 # 2.4 Dal SIA AL REI
 Il Sostegno per l'Inclusione Attiva (SIA) è una misura nazionale di contrasto alla povertà introdotta dalla legge 28 dicembre 2015, n. 208 (Legge di Stabilità 2016) e disciplinata dal Decreto 26 maggio 2016, emanato dal Ministero del Lavoro e delle Politiche Sociali, di concerto con il Ministero dell'Economia e delle Finanze, come modificato dal Decreto 16 marzo del 2017, entrato in vigore il 30 aprile 2017.
@@ -331,7 +310,7 @@ Il REI è riservato a coloro che sono in possesso dei seguenti requisiti:
     - un valore ISEE in corso di validità non superiore ad € 6.000;
     - un valore ISRE (indicatore reddituale ISEE diviso scala di equivalenza, al netto delle maggiorazioni) non superiore ad € 3.000;
     - un valore del patrimonio immobiliare diverso dalla casa di abitazione non superiore ad € 20.000;
-    - un valore del patrimonio mobiliare (depositi, conti correnti, etc) non superiore ad € 10.000 (ridotto ad € 8.000 per due persone e a € 6.000 per la persona sola. 
+    - un valore del patrimonio mobiliare (depositi, conti correnti, etc) non superiore ad € 10.000 (ridotto ad € 8.000 per due persone e a € 6.000 per la persona sola.
 - Per accedere al REI è, inoltre, necessario che ciascun componente il nucleo:
     - Non percepisca già prestazioni di assicurazione sociale per l'impiego (NASPI) o altri ammortizzatori sociali di sostegno al reddito in caso di disoccupazione involontaria
     - Non possieda autoveicoli o motoveicoli immatricolati la prima volta nei 24mesi antecedenti la richiesta (sono esclusi gli autoveicoli e i motoveicoli per cui è prevista una agevolazione fiscale in favore delle persone con disabilità)
@@ -339,9 +318,6 @@ Il REI è riservato a coloro che sono in possesso dei seguenti requisiti:
 
 ## Come fare
 Per accedere al contributo REI, i cittadini interessati in possesso dei requisiti richiesti dovranno presentare all'Ufficio Protocollo del Comune di Frosinone, sito in Piazza VI Dicembre, snc. la domanda redatta sull'apposito Modello disponibile presso lo Sportello per la Famiglia del Comune di Frosinone o reperibile sul sito internet www.comune.frosinone.it allegando la documentazione richiesta (documento d'identità, Attestazione ISEE e DSU).
-
-## A chi possiamo rivolgerci
-Per ogni informazione è possibile rivolgersi alla Segreteria del Settore Servizi Sociali oppure allo Sportello per la Famiglia, Via Armando Fabi, snc. nei seguenti giorni e orari:
 
 # 2.6 Fondo di Solidarietà Consumi Gas
 ## Cos'è
@@ -358,7 +334,7 @@ Possono accedere al predetto Fondo di solidarietà i cittadini residenti nel Com
 - cittadinanza italiana o di uno Stato membro dell'Unione Europea, ovvero di uno Stato non appartenente all'Unione Europea purché muniti di regolare permesso o carta di soggiorno valido o in fase di rinnovo. In tal caso, al momento della domanda si dovrà provare di aver inoltrato richiesta di rinnovo del permesso o della carta di soggiorno e prima dell'erogazione del contributo dovrà essere documentato l'avvenuto rinnovo del predetto documento.
 - Residenza anagrafica nel Comune di Frosinone da almeno un anno;
 - Indicatore della Situazione Economica Equivalente (ISEE) non superiore ad € 15.000,00
- 
+
 ## Come fare
 Per accedere al Fondo Solidarietà Consumi GAS, i cittadini interessati dovranno presentare la domanda di contributo sull'apposito Modello disponibile presso lo Sportello per la Famiglia del Comune di Frosinone o reperibile sul sito internet www.comune.frosinone.it allegando alla domanda la documentazione prevista a pena di esclusione e quella che si ritiene eventualmente utile per certificare la situazione del richiedente e del suo nucleo familiare.
 
@@ -369,21 +345,18 @@ Nel caso in cui l'entità dei contributi assegnati sia superiore al fondo dispon
 Nel caso in cui l'entità dei contributi assegnati sia inferiore al fondo disponibile, l'Amministrazione si riserva la facoltà di riaprire i termini del bando.
 
 La graduatoria verrà formata assegnando i seguenti punteggi ai requisiti economico-sociali di seguito specificati:
-- Nucleo formato da soli anziani ultrasessantacinquenni 3
-- Nucleo residente in alloggio in locazione non avente proprietà immobiliari 2
-- Presenza nel nucleo di uno o più minori e/o anziani ultrasessantacinquenni 2
-- Perdita del lavoro da parte del principale percettore di reddito del nucleo familiare e non fruizione di ammortizzatori sociali negli ultimi tre mesi 3
-- ISEE del nucleo familiare inferiore a € 4.000,00 2
-- ISEE del nucleo familiare pari a zero 3
+- Nucleo formato da soli anziani ultrasessantacinquenni: 3 punti
+- Nucleo residente in alloggio in locazione non avente proprietà immobiliari: 2 punti
+- Presenza nel nucleo di uno o più minori e/o anziani ultrasessantacinquenni: 2 punti
+- Perdita del lavoro da parte del principale percettore di reddito del nucleo familiare e non fruizione di ammortizzatori sociali negli ultimi tre mesi: 3 punti
+- ISEE del nucleo familiare inferiore a € 4.000,00: 2 punti
+- ISEE del nucleo familiare pari a zero: 3 punti
 
 A parità di punteggio, la graduatoria si forma in base al valore ISEE in ordine decrescente.
 
 I contributi saranno assegnati agli aventi diritto nei limiti delle risorse disponibili; qualora le risorse disponibili non siano sufficienti per soddisfare integralmente tutte le richieste pervenute, al contributo assegnato a ciascun richiedente sarà applicata una riduzione percentuale, uguale per tutti i richiedenti e determinata in base alla proporzione tra l'importo complessivo dei contributi da assegnare e le risorse disponibili.
 
 I contributi verranno erogati direttamente al richiedente ovvero, in caso di morosità, al soggetto creditore.
- 
-## A chi possiamo rivolgerci
-Per ogni informazione è possibile rivolgersi alla Segreteria del Settore Servizi Sociali oppure allo Sportello per la Famiglia, Via Armando Fabi, snc. nei seguenti giorni e orari:
 
 # 2.7 Bonus Energia Elettrica Compensazione spesa sostenuta per la fornitura di Energia Elettrica
 ## Cos'è
@@ -402,7 +375,7 @@ Hanno inoltre diritto al Bonus Elettrico per disagio fisico tutti i clienti dome
 - il tipo di apparecchiatura utilizzata;
 - l'indirizzo presso il quale l'apparecchiatura è istallata;
 - la data a partire dalla quale il cittadino utilizza l'apparecchiatura.
- 
+
 ## Come fare
 La domanda va presentata presso i Centri di Assistenza Fiscale (CAF) in convenzione con il Comune di Frosinone utilizzando gli appositi moduli.
 
@@ -437,20 +410,20 @@ Lo stato di avanzamento della propria richiesta di bonus può essere verificato:
 
 La domanda di bonus prima di tradursi nello sconto in bolletta deve superare una serie di passaggi di verifica che vengono effettuati da parte del Comune e di SGATE, il sistema informativo on line che gestisce l'intero iter necessario ad attivare il bonus a favore dei cittadini in possesso dei requisiti. Collegandosi al sito www.bonusenergia.anci.it, nella sezione riservata "Controlla on line la tua pratica" è possibile verificare lo stato di avanzamento della propria richiesta. Le credenziali (User ID e password) vengono rilasciate dal Comune o dal CAF presso cui si è presentata la richiesta per il bonus.
 
-## Come si rinnova la domanda di bonus
+### Come si rinnova la domanda di bonus
 Per il disagio economico il bonus è riconosciuto per 12 mesi. Al termine di tale periodo, per ottenere un nuovo bonus, il cittadino deve rinnovare la richiesta presentando apposita domanda.
 
 Il rinnovo può essere effettuato solo se sussistono ancora le condizioni di ammissione (ISEE, residenza e quanto altro) e si richiede presentando domanda presso i Centri di Assistenza Fiscale in Convenzione con il Comune, circa un mese prima della scadenza dell'agevolazione in corso (se, ad esempio, il periodo di agevolazione va dal 01.01.2018 al 31.12.2018, il rinnovo deve essere presentato nel mese di novembre 2018 al fine di garantire la continuità dell'erogazione). Il sistema SGATE invia un'apposita comunicazione a tutti i clienti che ricevono già il bonus in prossimità della scadenza, per ricordare la data utile per il rinnovo.
 
 Al momento del rinnovo il cliente deve presentare un'attestazione ISEE valida per il periodo in cui decorre l'agevolazione (circa 1-2 mesi dopo la presentazione della domanda). Quindi quando si presenta la domanda di rinnovo, la propria attestazione ISEE deve avere una data di scadenza non inferiore a 1-2 mesi.
 
-## Cosa bisogna fare in caso di variazioni (famiglia/reddito/residenza)
+### Cosa bisogna fare in caso di variazioni (famiglia/reddito/residenza)
 Le variazioni possono essere comunicate al sistema al momento del rinnovo. Quindi, se durante i 12 mesi di agevolazione, cambia ad esempio, il numero dei componenti familiari o la situazione reddituale e patrimoniale del cittadino, queste possono essere recepite da SGATE solo al momento del rinnovo della domanda di ammissione al bonus. Solo in caso di cambio di residenza durante il periodo in cui è già attivo il bonus elettrico, il cittadino deve recarsi presso il nuovo Comune (CAF) di residenza presentando il modulo VR (variazione residenza). Il bonus viene così trasferito in continuità sul nuovo contratto di fornitura elettrica (che deve essere attivo) fino alla scadenza originaria del diritto. Ad esempio, se il cittadino aveva un bonus elettrico per il periodo dal 1 settembre 2013 al 31 agosto 2014 e a gennaio del 2014 trasferisce la propria residenza in altra città, deve presentare la domanda di variazione residenza nel nuovo comune e i mesi di bonus che mancano alla fine del periodo di agevolazione, vengono automaticamente scontati sulle bollette elettriche della fornitura attivata nella nuova residenza.
 
-## Cosa succede in caso di cambio del venditore di energia elettrica
+### Cosa succede in caso di cambio del venditore di energia elettrica
 In caso di cambio del venditore o del tipo di contratto (ad esempio si passa da un contratto dal mercato di maggior tutela ad uno nel mercato libero), il bonus continua ad essere erogato senza interruzioni fino al termine della validità del diritto.
 
-## Quando si interrompe l'erogazione del bonus
+### Quando si interrompe l'erogazione del bonus
 In alcuni casi, quando il Comune o il distributore competente rileva la mancanza o la variazione di una delle condizioni indispensabili per aver diritto all'agevolazione si procede alla revoca del beneficio in oggetto. Questa eventualità può avvenire nelle sottoindicate fattispecie:
 - i dati anagrafici dichiarati non sono corretti;
 - la dichiarazione ISEE risulta non veritiera o non conforme ai limiti stabiliti;
@@ -459,9 +432,6 @@ In alcuni casi, quando il Comune o il distributore competente rileva la mancanza
 - la tariffa da "uso domestico" diventa "uso non domestico".
 
 In tal caso il cliente riceve una comunicazione da SGATE nella quale viene informato dell'interruzione (o revoca) della compensazione e dei motivi per cui ciò viene fatto. Se il cliente non ha più i requisiti per il bonus (ad esempio cambia il soggetto intestatario della fornitura) deve informare il proprio venditore. In caso contrario, se il cliente continua a percepire il bonus senza averne titolo, viene attivata una procedura di recupero delle somme erogate a cui non ha più diritto.
-
-## A chi possiamo rivolgerci
-Per ogni informazione è possibile rivolgersi alla Segreteria del Settore Servizi Sociali oppure allo Sportello per la Famiglia, Via Armando Fabi, snc. nei seguenti giorni e orari:
 
 # 2.8 Bonus Gas Compensazione spesa sostenuta per la fornitura di Gas
 ## Cos'è
@@ -488,9 +458,6 @@ Attraverso lo SGATE la domanda è acquisita dal fornitore per la validazione. Se
 - per zona climatica di residenza (in modo da tenere conto delle specifiche esigenze di riscaldamento delle diverse località).
 
 Il Bonus ha durata di un anno, trascorso il quale sarà possibile formulare di nuovo l'istanza.
-
-## A chi possiamo rivolgerci
-Per ogni informazione è possibile rivolgersi alla Segreteria del Settore Servizi Sociali oppure allo Sportello per la Famiglia, Via Armando Fabi, snc. nei seguenti giorni e orari:
 
 # 2.9 Convenzioni tra il Comune di Frosinone e i Centri di Assistenza Fiscale (CAF)
 Con l'obiettivo di agevolare il cittadino nell'espletamento delle pratiche, il Comune di Frosinone ha stipulato delle Convenzioni con i Centri di Assistenza Fiscale (CAF) presenti sul territorio per le funzioni relative ad alcune prestazioni sociali agevolate ed al rilascio delle attestazioni ISEE, ai sensi del DPCM 159/2013 e del Decreto del Ministero del Lavoro e delle Politiche Sociali 7 novembre 2014.
@@ -522,9 +489,6 @@ Le Convenzioni in essere, sottoscritte tra il Comune di Frosinone ed i Centri di
 - 19/2017 CAF UNSIC
 - 20/2017 CAF USPPIDAP
 
-## A chi possiamo rivolgerci
-Per ogni informazione è possibile rivolgersi alla Segreteria del Settore Servizi Sociali oppure allo Sportello per la Famiglia, Via Armando Fabi, snc. nei seguenti giorni e orari:
-
 # Assegnazioni di alloggi di Edilizia Residenziale Pubblica (ERP)
 ## Cos'è
 Il Comune di Frosinone è competente ad assegnare in locazione le unità immobiliari ad uso abitativo di Edilizia Residenziale Pubblica (ERP), soggette alla disciplina della Legge regionale n. 12 del 6 agosto 1999. I cittadini che ottengono l'assegnazione di un alloggio ERP hanno diritto di abitarvi, pagando un canone locativo commisurato al reddito familiare percepito.
@@ -548,7 +512,7 @@ Nel caso di parità di punteggio tra più richiedenti si terrà conto nell'ordin
 - in caso di ulteriore parità, si darà luogo a sorteggio.
 
 ## Come fare
-La domanda di assegnazione di alloggio ERP va redatta su apposito modello reperibile presso l'Ufficio Casa del Comune di Frosinone e deve essere spedita al Comune di Frosinone - Ufficio Casa, Piazza VI Dicembre – 03100 Frosinone, esclusivamente a mezzo raccomandata A/R. Il timbro apposto dall' Ufficio Postale attesta la data di presentazione della domanda, anche al fine di stabilire l'anzianità della stessa.
+La domanda di assegnazione di alloggio ERP va redatta su apposito modello reperibile presso l'Ufficio Casa del Comune di Frosinone e deve essere spedita al Comune di Frosinone - Ufficio Casa, Piazza VI Dicembre – 03100 Frosinone, esclusivamente a mezzo raccomandata A/R. Il timbro apposto dall'Ufficio Postale attesta la data di presentazione della domanda, anche al fine di stabilire l'anzianità della stessa.
 
 Il modulo di domanda va inviato allegando fotocopia del documento di riconoscimento del richiedente in corso di validità e i documenti relativi al possesso delle condizioni di priorità dichiarati nella domanda.
 
@@ -559,9 +523,6 @@ L'Ufficio Casa, dopo aver verificato la completezza e la regolarità delle doman
 I richiedenti che risulteranno utilmente collocati in graduatoria dovranno dimostrare il possesso dei requisiti alla data di pubblicazione del Bando e la permanenza degli stessi e delle condizioni, al momento della consegna dell'alloggio.
 
 Qualora la situazione del richiedente subisse modificazioni, il medesimo può presentare ulteriore domanda di aggiornamento in rapporto alle nuove condizioni createsi. Il canone di locazione degli alloggi ERP è determinato a carico del beneficiario, ai sensi della L.R. 6 agosto 1999, n.12.
- 
-## A chi possiamo rivolgerci
-Per ogni informazione è possibile rivolgersi all'Ufficio Casa, Via Armando Fabi, snc. nei seguenti giorni e orari:
 
 # 2.11 ABBATTIMENTO DI BARRIERE ARCHITETTONICHE
 ## Cos'è
@@ -571,14 +532,11 @@ Consiste nella realizzazione di opere per l'eliminazione di barriere architetton
 La richiesta di contributo viene presentata dal disabile o da chi ne esercita la patria potestà o la tutela; la persona deve essere residente a Frosinone e l'abitazione deve essere situata nel territorio comunale.
 
 ## Come fare
-Per accedere al beneficio, la persona disabile (o chi ne esercita la patria potestà o la tutela) deve presentare al Sindaco istanza su apposita modulistica, reperibile presso l'Ufficio Casa, allegando il preventivo di spesa dell'intervento da effettuare e la certificazione sanitaria attestante lo stato di invalidità (totale o parziale). 
+Per accedere al beneficio, la persona disabile (o chi ne esercita la patria potestà o la tutela) deve presentare al Sindaco istanza su apposita modulistica, reperibile presso l'Ufficio Casa, allegando il preventivo di spesa dell'intervento da effettuare e la certificazione sanitaria attestante lo stato di invalidità (totale o parziale).
 
-Il termine per la presentazione delle domande è fissato al 1° marzo di ciascun anno. 
+Il termine per la presentazione delle domande è fissato al 1° marzo di ciascun anno.
 
 L'entità del contributo concesso dalla Regione Lazio, a seguito di apposita istruttoria del progetto, è determinato proporzionalmente alla spesa da sostenere; il pagamento del contributo è subordinato alla presentazione della relativa fattura.
-
-## A chi possiamo rivolgerci
-Per ogni informazione è possibile rivolgersi all'Ufficio Casa, Via Armando Fabi, snc. nei seguenti giorni e orari:
 
 # 2.12 CONTRIBUTO PER IL PAGAMENTO DEL CANONE DI LOCAZIONE
 ## Cos'è
@@ -620,9 +578,6 @@ Nel caso in cui nel nucleo figurino soggetti non autosufficienti, l'istanza deve
 
 A seguito dell'istruttoria delle domande pervenute, la Commissione prevista dal Regolamento predispone una graduatoria provvisoria, verso la quale è possibile presentare ricorsi debitamente motivati; dopo l'esame degli eventuali ricorsi, si provvede alla definizione della graduatoria definitiva, approvata con Determinazione Dirigenziale.
 
-## A chi possiamo rivolgerci
-Per ogni informazione è possibile rivolgersi all'Ufficio di Piano del Distretto Sociale B, Via Armando Fabi, snc. nei seguenti giorni e orari:
-
 # 2.13 LA CARTA DELLA FAMIGLIA
 ## Cos'è
 Con Decreto Interministeriale del 20 settembre 2017 è stata istituita la Carta della Famiglia, una delle più importanti novità introdotte dalla Legge di Stabilità 2016.
@@ -657,10 +612,6 @@ L'iniziativa vede il coinvolgimento di:
 - Le Regioni e le Province Autonome che stipulano convenzioni con soggetti pubblici o privati di rilevanza regionale.
 - I Comuni che stipulano convenzioni con soggetti pubblici o privati di rilevanza locale o riduzione di tariffe dei servizi pubblici locali erogati direttamente o indirettamente e rilasciano la carta alle famiglie o nuclei familiari che ne fanno richiesta.
 
-## A chi possiamo rivolgerci
-Per ogni informazione è possibile rivolgersi alla Segreteria del Settore Servizi Sociali
-oppure allo Sportello per la Famiglia, Via Armando Fabi, snc. nei seguenti giorni e orari:
-
 # 2.14 Bonus Idrico Modalità applicative del bonus idrico per gli utenti economicamente disagiati
 ## Cos'è
 È uno sconto sulla bolletta, introdotto dal Governo e reso operativo dall'Autorità per l'energia elettrica, il gas ed il sistema idrico con la collaborazione dei Comuni, per assicurare un risparmio sulla spesa per il servizio idrico alle famiglie in condizione di disagio economico ed alle famiglie numerose.
@@ -673,7 +624,7 @@ L'ANCI, a seguito della Delibera dell'Autorità per l'Energia Elettrica e il Gas
 
 ## A chi è rivolto
 È rivolto ai cittadini residenti nei singoli Comuni in situazione di disagio economico.
- 
+
 Possono accedere al Bonus Idrico i clienti domestici, intestatari di una fornitura idrica nell'abitazione di residenza.
 
 Gli utenti che vorranno richiedere il bonus idrico 2018 potranno presentare domanda al proprio Comune di residenza tramite i C.A.F. in convenzione.
@@ -698,18 +649,11 @@ Per il disagio economico il bonus è riconosciuto per 12 mesi. Al termine di tal
 
 Il rinnovo può essere effettuato solo se sussistono ancora le condizioni di ammissione (ISEE, residenza e quanto altro) e si richiede presentando domanda presso i Centri di Assistenza Fiscale in Convenzione con il Comune almeno un mese prima della scadenza.
 
-## A chi possiamo rivolgerci
-Per ogni informazione è possibile rivolgersi alla Segreteria del Settore Servizi Sociali oppure allo Sportello per la Famiglia, Via Armando Fabi nei seguenti giorni e orari:
-
 # 3.1 Servizio Sociale Professionale per minori
 ## Cos'è
 Il Servizio Sociale Professionale per Minori è preposto alla tutela dei minori che vivono situazioni personali, familiari e sociali pregiudizievoli per il loro sviluppo. Esso opera attraverso la definizione e valutazione delle problematiche presenti nel nucleo familiare, per poi formulare un progetto finalizzato al sostegno ed al superamento delle difficoltà.
 
 Il Servizio Sociale interviene su segnalazione dell'Autorità Giudiziaria, della Questura, della scuola, di altri Servizi o dei diretti interessati.
-
-## A chi possiamo rivolgerci
-Per ogni informazione è possibile rivolgersi al Servizio Sociale Professionale Minori,
-Via Armando Fabi, snc. nei seguenti giorni e orari:
 
 # 3.2 Centro Mediazione Familiare e Spazio Neutro
 ## Cos'è
@@ -744,9 +688,6 @@ Per accedere al Centro per la famiglia è sufficiente un contatto telefonico per
 
 Non ci sono particolari documenti o modulistica da produrre. Il servizio è gratuito.
 
-## A chi possiamo rivolgerci
-La sede del Centro di Mediazione Familiare è sita in Via Mascagni, snc. c/o Delegazione Scalo del Comune di Frosinone - 03100 Frosinone
-
 # 3.3 Spazio di Ascolto
 ## Cos'è
 Quando si attraversano momenti di difficoltà legati principalmente a situazioni di disagio relazionale, l'interessato può rivolgersi allo "Spazio di Ascolto", che opera all'interno del Servizio Sociale professionale del Comune di Frosinone. Lo Sportello si configura come un "luogo" di accoglienza e di ascolto della persona, con astensione di giudizio e con garanzia di assoluta riservatezza.
@@ -755,9 +696,6 @@ In uno spazio "privato" lo Sportello offre una consultazione breve (da uno a tre
 
 ## A chi è rivolto
 Il servizio è rivolto ai cittadini residenti sul territorio comunale che attraversano un momento critico della vita, non riferibile ad una patologia psichiatrica o ad un malessere profondo. Il sostegno offerto intende favorire l'espressione del disagio e valorizzare le risorse personali. L'accesso è gratuito e viene garantita la riservatezza.
-
-## A chi possiamo rivolgerci
-Per ogni informazione è possibile rivolgersi al Servizio Sociale, Via Armando Fabi, snc.
 
 # 3.4 Affidamento familiare
 ## Cos'è
@@ -777,9 +715,6 @@ La famiglia affidataria non si sostituisce alla famiglia di origine ma si aggiun
 ## Come fare
 Per diventare affidatari è necessario approfondire la propria disponibilità attraverso un percorso conoscitivo e formativo, offerto dal Servizio Sociale professionale di riferimento spesso anche con il supporto e la collaborazione del Terzo Settore.
 
-## A chi possiamo rivolgerci
-Per ogni informazione è possibile rivolgersi al Servizio Sociale professionale Via Armando Fabi, snc.
-
 # 3.5 Adozione
 ## Cos'è
 L'adozione costituisce la realizzazione del desiderio di una coppia di avere un figlio, creando nel proprio rapporto uno spazio, non solo fisico ma soprattutto psicologico, per l'accoglienza di un bambino generato da altri. Il bambino ha una sua storia personale da proseguire con dei nuovi genitori, con cui formerà una vera famiglia. Per il bambino è la possibilità di essere amato, riconosciuto e gratificato nei suoi bisogni di crescita.
@@ -793,23 +728,11 @@ In primo luogo gli interessati devono contattare il Gruppo Integrato Lavoro Adoz
 La domanda di adozione va invece presentata presso il Tribunale per i Minorenni.
 
 Il percorso per l'adozione prevede una valutazione di idoneità della coppia su incarico del Tribunale. Tale valutazione consiste in: accertamenti sanitari riguardanti lo stato di benessere psico-fisico della coppia; colloqui psico-sociali svolti dagli operatori del GIL Adozioni; compilazione di un apposito questionario. A conclusione del percorso e ottenuto il Decreto di idoneità emesso con sentenza dal Tribunale per i Minorenni, la coppia può accogliere il bambino che, inizialmente, è collocato in affidamento preadottivo per un periodo di un anno (prorogabile). In questo periodo la famiglia è seguita dagli operatori del
- 
+
 GIL Adozioni che relazionano periodicamente al Tribunale. Successivamente, viene disposta l'adozione vera e propria e rilasciato il Decreto definitivo.
 
-## A chi possiamo rivolgerci
-Per informazioni presso il Comune di Frosinone – Servizi Sociali, via Armando Fabi, snc:
-- dr.ssa Maria Grazia Facci – psicologa 0775/2656265
-
-Per informazioni presso il GIL Adozioni - ASL Frosinone, Viale Mazzini, snc:
-- Ass. Sociale dr.ssa Loredana Cancelli 0775/2072631 e 0775/2072630 (fax)
-
-È possibile partecipare agli incontri di informazione ed orientamento per le coppie presso la sede centrale del GIL Adozioni - ASL Frosinone, Viale Mazzini, snc. 0775/2072631
-
-## Per le adozioni internazionali…
+## Per le adozioni internazionali...
 Per le adozioni internazionali, la coppia, ottenuto il decreto di idoneità dal Tribunale per i Minorenni, si dovrà rivolgere ad uno degli Enti autorizzati, indicati dal Tribunale medesimo e accreditati dalla Commissione per l'Adozione Internazionale.
-
-Per informazioni presso il Comune di Frosinone – Servizi Sociali, via Armando Fabi, snc:
-- dr.ssa Maria Grazia Facci – psicologa 0775/2656265
 
 # 3.6 Struttura residenziale per minori Gruppo Appartamento Minori (GAM)
 ## Cos'è
@@ -827,9 +750,6 @@ Il target dei minori ospitati è il seguente:
 
 ## Come fare
 I minori possono accedere al Gruppo Appartamento esclusivamente su decisione del Tribunale per i minorenni e del Servizio Sociale professionale, opportunamente documentata (Decreto del Tribunale e/o Relazione socio-ambientale del Servizio Sociale professionale).
-
-## A chi possiamo rivolgerci
-Per ogni informazione è possibile rivolgersi al Servizio Sociale professionale Via Armando Fabi, snc. 0775/2656214 e 0775/2656462 nei seguenti giorni e orari:
 
 # 3.7 CENTRO SOCIALE INTEGRATO (CSI)- Sezione Minori
 ## Cos'è
@@ -849,9 +769,6 @@ La Sezione Minori del CSI di Frosinone è destinata a minori prevalentemente app
 ## Come fare
 Gli utenti possono accedere al CSI Minori su richiesta del Servizio Sociale dell'Ente, che predispone uno specifico Progetto educativo individualizzato, concordato con l'equipe educativa della struttura, con la famiglia e con la scuola.
 
-## A chi possiamo rivolgerci
-Per ogni informazione è possibile rivolgersi al Servizio Sociale professionale Via Armando Fabi, snc. 0775/2656214 e 0775/2656462 nei seguenti giorni e orari:
-
 # 3.8 SBLOCCHI DI PARTENZA
 ## Cos'è
 Il Comune di Frosinone è stato individuato dalla Regione Lazio quale Capofila dell'Ambito sovra-distrettuale relativo alla Provincia di Frosinone, per la presentazione di un progetto finanziato a valere sul POR Lazio-FSE 2014 – 2020 Asse II – Inclusione sociale e Lotta alla povertà.
@@ -864,12 +781,9 @@ I Distretti socio-assistenziali dell'Ambito hanno definito in modo condiviso i c
 
 ## A chi è rivolto
 A ragazzi di 11-19 anni appartenenti a nuclei familiari disagiati in carico al Servizio Sociale professionale, in cui uno o entrambi i genitori siano disoccupati o inoccupati; la finalità è la promozione dell'inclusione sociale attiva attraverso la pratica sportiva.
- 
+
 ## Come fare
 La selezione dei beneficiari è in capo al Servizio Sociale professionale dei Comuni afferenti ai 4 Distretti socio-sanitari afferenti all'Ambito sovra-distrettuale provinciale.
-
-## A chi possiamo rivolgerci
-Per ogni informazione è possibile rivolgersi all'Ufficio di Piano del Distretto Sociale B, Via Armando Fabi, snc. nei seguenti giorni e orari:
 
 # 3.9 CENTRO POLIVALENTE SOCIALE
 ## Cos'è
@@ -878,9 +792,6 @@ Nel corso del 2016 il Settore Servizi Sociali ha assunto in consegna il nuovo Ce
 L'obiettivo è quello di organizzare la struttura in modo da creare un servizio polivalente di aggregazione e socializzazione, rivolto alle diverse fasce di popolazione, per rispondere alle diverse esigenze e ai differenti bisogni espressi dai cittadini, singoli o associati.
 
 È in fase di definizione una specifica regolamentazione del Centro Polivalente Sociale che disciplini attentamente le modalità ed i tempi di utilizzo della struttura, in modo da garantire pari opportunità di accesso e fruizione a tutti i cittadini di Frosinone. L'obiettivo è fare della struttura un punto di riferimento per iniziative socio-culturali e socio-ricreative in favore della città.
-
-## A chi possiamo rivolgerci
-Per ogni informazione è possibile rivolgersi al Servizio Sociale professionale Via Armando Fabi, snc. 0775/2656214 e 0775/2656462 nei seguenti giorni e orari:
 
 # 3.10 ISTITUZIONE ELENCO COMUNALE TUTORI LEGALI VOLONTARI
 ## Cos'è
@@ -917,11 +828,8 @@ Gli interessati all'iscrizione all'Elenco dei tutori legali volontari comunale, 
 I soggetti interessati dovranno far pervenire la propria domanda, redatta su apposito modello reperibile sul sito www.comune.frosinone.it mediante servizio postale, a mano o tramite PEC presso l'Ufficio Protocollo del Comune di Frosinone sito in Piazza VI Dicembre, snc. 03100 Frosinone. Alla domanda dovrà essere allegata:
 - fotocopia del documento di identità in corso di validità;
 - copia del curriculum vitae, dei titoli formativi posseduti, attinenti alla figura del tutore volontario ed ogni altra documentazione ritenuta idonea.
- 
-Le persone che avranno dimostrato di possedere i requisiti richiesti dall'Avviso pubblico, potranno partecipare ad un corso di formazione. Il percorso formativo sarà gratuito, tenuto dal personale del Servizio Sociale, con il supporto di esperti, di Giudici del Tribunale Ordinario – Settore Pubbliche Tutele, del Tribunale per i Minorenni di Roma e del Garante per l'Infanzia e l'Adolescenza della Regione Lazio.
 
-## A chi possiamo rivolgerci
-Per ogni informazione è possibile rivolgersi al Servizio Sociale professionale Via Armando Fabi, snc. 0775/2656214 e 0775/2656462 nei seguenti giorni e orari:
+Le persone che avranno dimostrato di possedere i requisiti richiesti dall'Avviso pubblico, potranno partecipare ad un corso di formazione. Il percorso formativo sarà gratuito, tenuto dal personale del Servizio Sociale, con il supporto di esperti, di Giudici del Tribunale Ordinario – Settore Pubbliche Tutele, del Tribunale per i Minorenni di Roma e del Garante per l'Infanzia e l'Adolescenza della Regione Lazio.
 
 # 4.1 Accesso ai servizi per i cittadini stranieri
 ## Cos'è
@@ -936,15 +844,12 @@ Cittadini stranieri regolarmente soggiornanti nel territorio italiano e resident
 Gli operatori dello Sportello assicurano l'accoglienza dei cittadini stranieri e forniscono informazioni anche nella lingua madre, ove possibile. Garantiscono un primo orientamento su tutti i servizi accessibili sul territorio e indicazioni su come presentare le richieste di assistenza economica, integrazione al reddito, contribuzione per il pagamento dei canoni di locazione, assegno di maternità, assegno per il nucleo familiare o per l'assegnazione di alloggi ERP.
 
 Al servizio è preposta un'assistente sociale che si occupa esclusivamente dei nuclei familiari immigrati e delle situazioni di maggiore complessità che interessano la tutela dei minori, in particolare: minori a rischio, minori vittime di tratta, minori abbandonati e minori stranieri non accompagnati.
- 
+
 Il servizio è rivolto alle famiglie residenti nel Comune che presentano disagio socio- economico e problematiche relazionali, soprattutto rispetto ai figli minori. L'assistente sociale curerà i casi segnalati dal Tribunale per Minorenni di Roma, dal Giudice Tutelare, dalla Questura o dai Carabinieri e dalle Associazioni di Volontariato. Sul nucleo preso in carico verrà predisposto un Progetto di intervento volto a favorire lo sviluppo psico-fisico dei minori, al fine di supportare la genitorialità mediante la prevenzione e l'educazione degli adulti e di promuovere il benessere dell'intera famiglia.
 
 Oltre ai progetti individuali e familiari, l'assistente sociale seguirà progetti di comunità a favore di donne e minori, in collaborazione con la sociologa incaricata e con gli altri professionisti dell'Ente e con i soggetti del Terzo Settore del territorio che si occupano dell'integrazione socio-culturale dei cittadini immigrati.
 
-## A chi possiamo rivolgerci
-Per ogni informazione è possibile rivolgersi al Servizio Sociale professionale Via Armando Fabi, snc. 0775/2656214 nei seguenti giorni e orari:
-
-## Collaborazione con la ASL di Frosinone…
+## Collaborazione con la ASL di Frosinone...
 Il Servizio Multietnico della ASL di Frosinone è rivolto a tutti gli immigrati regolarmente soggiornanti in Italia o in situazione di irregolarità, in quanto il diritto alla salute è garantito per tutti. Il servizio offre orientamento ed informazione su tutti i servizi sanitari che possono interessare i nuclei familiari stranieri e dà la possibilità di fruire gratuitamente di prestazioni sanitarie di medicina di base, ginecologiche e dermatologiche, attraverso il rilascio dei tesserini sanitari STP (per cittadini extracomunitari presenti temporaneamente) ed ENI (per cittadini comunitari senza residenza).
 
 Nel servizio operano mediatori culturali di diverse nazionalità e sono disponibili guide ai servizi in diverse lingue.
@@ -971,9 +876,6 @@ Per fruire delle prestazioni assicurate dal Centro Servizi, è sufficiente un co
 L'apertura è prevista dal lunedì al sabato ore 09.00/12.00 e giovedì pomeriggio ore 17.00/19.00.
 
 Non ci sono documenti o modulistica da produrre in particolare, se non quelli previsti per attivare specifiche procedure.
- 
-## A chi possiamo rivolgerci
-Per ogni eventuale informativa in merito è possibile rivolgersi presso la sede del Centro Servizi: Viale Grecia, n. 71, 03100 Frosinone (Fr)
 
 # 4.3 PROGETTO SPRAR
 ## Cos'è
@@ -986,7 +888,7 @@ La nascita del Sistema – avviato con la sperimentazione del Programma Nazional
 Le caratteristiche principali del Sistema di protezione sono:
 - il carattere pubblico delle risorse messe a disposizione e degli Enti politicamente responsabili dell'accoglienza (Ministero dell'Interno ed Enti Locali), secondo una logica di governance multilivello;
 - la volontarietà degli Enti Locali nella partecipazione alla rete dei progetti di accoglienza;
-- il decentramento degli interventi di "accoglienza integrata"; 
+- il decentramento degli interventi di "accoglienza integrata";
 - le sinergie avviate sul territorio con i cc.dd. "enti gestori", soggetti del Terzo Settore che contribuiscono in maniera essenziale alla realizzazione degli interventi;
 - la promozione e lo sviluppo di reti locali, con il coinvolgimento di tutti gli attori e gli interlocutori privilegiati per la riuscita delle misure di accoglienza, protezione, integrazione in favore di richiedenti e titolari di protezione internazionale.
 
@@ -1003,9 +905,6 @@ Ad integrazione della Convenzione è intervenuto il Protocollo di New York nel 1
 L'ammissione ai Centri di accoglienza del Sistema, fino a esaurimento dei posti complessivamente disponibili, è disposta dal Servizio Centrale istituito dal Ministero dell'Interno - Dipartimento per le Libertà Civili e l'Immigrazione - su segnalazione dei singoli progetti territoriali o di Enti terzi (Prefetture, Questure, Associazioni).
 
 Il richiedente protezione internazionale è la persona che, fuori dal proprio Paese d'origine, presenta in un altro Stato domanda per il riconoscimento della protezione internazionale. Il richiedente rimane tale, finché le autorità competenti (in Italia le Commissioni territoriali per il riconoscimento della protezione internazionale) non decidono in merito alla stessa domanda di protezione.
-
-## A chi possiamo rivolgerci
-Per ogni informazione è possibile rivolgersi al Settore Servizi Sociali, Via Armando Fabi, snc. 0775/2656214 nei seguenti giorni e orari:
 
 # 4.4 MINORI STRANIERI NON ACCOMPAGNATI
 ## Cos'è
@@ -1029,23 +928,17 @@ L'autorità di pubblica sicurezza dà immediata comunicazione della presenza di 
 
 Il tutore possiede le competenze necessarie per l'esercizio delle proprie funzioni e svolge i propri compiti in conformità al principio dell'interesse superiore del minore.
 
-## A chi possiamo rivolgerci
-Per ogni informazione è possibile rivolgersi al Servizio Sociale professionale Via Armando Fabi, snc. 0775/2656214 nei seguenti giorni e orari:
-
 # 4.5 FONDI FNPSA DI ACCOGLIENZA ORDINARIA
 ## Cos'è
 Con DGC n. 354 del 30.08.2017, l'Amministrazione ha deliberato la disponibilità del Comune di Frosinone a sottoscrivere Protocolli di Intesa volti a porre in essere percorsi finalizzati a superare la condizione di passività dei migranti ospitati nel territorio comunale, attraverso l'individuazione di attività di volontariato, al fine di assicurare loro maggiori prospettive di integrazione nel tessuto sociale.
 
 In esecuzione del DM 7.8.2015, l'Amministrazione Comunale, a seguito di individuazione di soggetto gestore delle attività progettuali a mezzo procedura ad evidenza pubblica, sta procedendo all'attuazione dell'indicato progetto, della durata di due anni, in collaborazione con la Cooperativa Sociale Diaconia di Frosinone. Il progetto concerne l'accoglienza di 42 immigrati adulti ed il loro inserimento socio-lavorativo ed è finanziato dal Ministero dell'Interno, nell'ambito del Fondo Nazionale Politiche e Servizi Asilo – FNPSA.
- 
+
 ## A chi è rivolto
 Il progetto è rivolto esclusivamente ai richiedenti asilo e a coloro che sono in attesa della definizione del ricorso (in caso di impugnativa della decisione negativa della competente Commissione Territoriale) in quanto per i titolari di Protezione Internazionale sono previsti altri percorsi di inserimento lavorativo.
 
 ## Come fare
 I volontari saranno selezionati dalla Cooperativa Sociale Diaconia tramite colloquio motivazionale ed inseriti in affiancamento al personale già impiegato dal Comune di Frosinone nei servizi previsti dal progetto, secondo le modalità e le esigenze di volta in volta concordate con l'Ente.
-
-## A chi possiamo rivolgerci
-Per ogni informazione è possibile rivolgersi al Settore Servizi Sociali, Via Armando Fabi, snc. 0775/2656214 nei seguenti giorni e orari:
 
 # 5.1 Accesso ai servizi per i cittadini con disabilità
 ## Cos'è
@@ -1060,8 +953,10 @@ Il primo e fondamentale passaggio per l'accesso ai servizi di welfare è a cura 
 - per le situazioni di particolare gravità si può chiedere il riconoscimento dello stato di disabilità ai sensi della Legge n. 104/1992, presentando domanda all'INPS per il tramite del medico di famiglia. L'accertamento verrà effettuato da un'apposita Commissione medica.
 
 ## A chi possiamo rivolgerci
+### Condizioni di disabilità riguardanti i minori
 Per informazioni sui servizi erogati dalla ASL di Frosinone relativi alla disabilità di bambini e ragazzi, ci si può rivolgere al Servizio Tutela della Salute Mentale e Riabilitazione dell'Età Evolutiva (TSMREE): ASL/FR, via Armando Fabi, snc.
- 
+
+### Condizioni di disabilità riguardanti le persone adulte
 Per informazioni sui servizi erogati dalla ASL di Frosinone relativi alla disabilità adulta, ci si può rivolgere al Dipartimento Salute Mentale e Patologie da Dipendenza (DSMPD) e/o al Dipartimento Assistenza Primaria e Cure Intermedie (DAPCI) c/o ASL/FR, via Armando Fabi, snc.
 
 # 5.2 SERVIZIO DI ASSISTENZA DOMICILIARE - SAD
@@ -1079,7 +974,7 @@ Il SAD erogato dal Comune di Frosinone può integrarsi con il servizio di assist
 
 ## Come fare
 Per poter fruire del SAD, è necessario che l'interessato si rechi presso il Servizio Sociale professionale, deputato all'attivazione dell'assistenza, per compilare la richiesta. Seguirà una visita domiciliare da parte dell'Assistente Sociale e del referente della cooperativa incaricata all'erogazione del servizio, finalizzata alla conoscenza reciproca, alla rilevazione delle necessità dell'utente e alla condivisione del percorso assistenziale.
- 
+
 In base all'esito della visita e alle risorse disponibili, l'Assistente Sociale referente del caso invierà alla cooperativa comunicazione sul monte ore settimanale assegnato e sulla distribuzione delle prestazioni; concordato il Progetto di intervento dell'utente (obiettivi, giornate e fasce orarie, operatori di riferimento), si procederà all'attivazione del servizio.
 
 La domanda di accesso al SAD va compilata su apposito modello, reperibile presso lo Sportello per la Famiglia dell'Ente, in cui deve esser specificato il tipo di prestazione richiesta. All'istanza vanno allegati i seguenti documenti:
@@ -1087,9 +982,6 @@ La domanda di accesso al SAD va compilata su apposito modello, reperibile presso
 - Dichiarazione sostitutiva di atto di notorietà per i redditi non soggetti a tassazione IRPEF;
 - Certificazione sanitaria;
 - eventuale altra utile documentazione attestante lo stato di disagio.
-
-## A chi possiamo rivolgerci
-Per ogni informazione è possibile rivolgersi allo Sportello per la Famiglia, Via Armando Fabi, snc. nei seguenti giorni e orari:
 
 # 5.3 CENTRO SOCIALE INTEGRATO (CSI) Sezione Disabili
 ## Cos'è
@@ -1145,9 +1037,6 @@ La domanda di ammissione deve essere redatta su appositi moduli e avanzata dalla
 All'atto dell'ammissione alla struttura, il richiedente dovrà presentare inoltre:
 - certificazione del medico curante o specialista attestante la sana costituzione per la vita in comunità;
 - certificato del medico curante attestante lo stato di salute, le patologie pregresse ed in atto, le eventuali intolleranze alimentari, le eventuali diete seguite, le terapie farmacologiche somministrate con la certificazione dei dosaggi giornalieri e dei tempi e modalità di somministrazione.
- 
-## A chi possiamo rivolgerci
-Per ogni informazione è possibile rivolgersi al Servizio Sociale professionale Via Armando Fabi, snc. 0775/2656214 e 0775/2656462 nei seguenti giorni e orari:
 
 # 5.4 CENTRO DIURNO ALZHEIMER "Madonna della Speranza" - Giuliano di Roma
 ## Cos'è
@@ -1182,8 +1071,6 @@ La retta giornaliera per l'accesso alla struttura è di € 48,88. Gli utenti so
 ## A chi possiamo rivolgerci
 Il Centro Diurno Alzheimer "Madonna della Speranza" è sito in località Madonna della Speranza, snc. a Giuliano di Roma (Fr) 0775/621087 È aperto tutto l'anno, dal lunedì al venerdì, dalle ore 9.00 alle ore 16.00, escluso i giorni festivi infrasettimanali.
 
-Per ogni informazione è possibile rivolgersi all'Ufficio di Piano del Distretto Sociale B, Via Armando Fabi, snc. nei seguenti giorni e orari:
-
 # 5.5 INTERVENTI A FAVORE DI PERSONE AFFETTE DA SCLEROSI AMIOTROFICA (SLA)
 ## Cos'è
 La Regione Lazio, con la DGR n. 233/2012 e la Det. Dir. n. B08766/2012, ha promosso e finanziato il primo Programma di interventi in favore di persone affette da Sclerosi Laterale Amiotrofica (SLA) da attivare a livello distrettuale. In particolare è stata avviata l'Azione 1 "Assistenza domiciliare e aiuto personale", allo scopo di facilitare e supportare la permanenza del malato di SLA nel proprio contesto familiare, con interventi di sostegno alla domiciliarità e di riconoscimento del lavoro di cura svolto dai familiari caregiver.
@@ -1195,9 +1082,6 @@ Nel corso del 2013, il Distretto Sociale B ha pubblicato un Avviso pubblico rivo
 Una Commissione multidisciplinare integrata con la ASL di Frosinone, ha provveduto all'esame delle istanze pervenute ai fini dell'ammissione al contributo ed ha predisposto l'elenco dei beneficiari, fissando l'entità degli assegni di cura in ragione della stadi azione della malattia, sulla base delle indicazioni regionali.
 
 L'intervento è stato riproposto con le stesse modalità negli anni successivi, fino al 2017, a seguito dei fondi regionali ricevuti. Nel 2017 la Regione Lazio ha dichiarato concluso il finanziamento degli interventi specifici in favore dei malati di SLA ed ha previsto un fondo destinato più genericamente alla Disabilità Gravissima. A partire dal 2018, pertanto, i pazienti affetti da SLA residenti nel territorio distrettuale potranno accedere ai contributi economici a sostegno della domiciliarità, nell'ambito del suddetto fondo in favore delle persone con disabilità gravissima, secondo le procedure appositamente previste dalla Regione Lazio, che saranno rese operative dal Comune di Frosinone, Capofila del Distretto B.
-
-## A chi possiamo rivolgerci
-Per ogni informazione è possibile rivolgersi all'Ufficio di Piano del Distretto Sociale B, Via Armando Fabi, snc. nei seguenti giorni e orari:
 
 # 5.6 INTERVENTI IN FAVORE DELLA DISABILITÀ GRAVISSIMA
 ## Cos'è
@@ -1217,9 +1101,6 @@ Il Distretto attiverà ulteriori interventi di assistenza domiciliare indiretta 
 
 Tempi, modalità di accesso, importo dei contributi economici, professionalità richieste e quanto altro previsto per l'erogazione degli servizi di assistenza in ambito domiciliare a persone in condizioni di disabilità gravissima, saranno disciplinati con idoneo Avviso pubblico rivolto alla cittadinanza, predisposto ai sensi delle norme regionali vigenti.
 
-## A chi possiamo rivolgerci
-Per ogni informazione è possibile rivolgersi all'Ufficio di Piano del Distretto Sociale B, Via Armando Fabi, snc. nei seguenti giorni e orari:
-
 # 5.7 PROGETTO HOME CARE PREMIUM
 ## Cos'è
 Nel gennaio 2013 il Comune di Frosinone, in qualità di Capofila del Distretto Sociale B, ha sottoscritto con l'INPS - Gestione ex INPDAP, un Accordo di Programma per la realizzazione operativa sul territorio distrettuale di un progetto denominato "Home Care Premium 2012", in favore di soggetti non autosufficienti e fragili, finanziato per un totale di € 540.000,00.
@@ -1235,7 +1116,7 @@ Il progetto iniziale è stato prorogato dall'INPS e successivamente rinnovato co
 Il progetto HCP 2017 è a tutt'oggi in corso di realizzazione; la sua durata è prevista per 18 mesi (luglio 2017/dicembre 2018) e per inoltrare domanda è necessario utilizzare la piattaforma web appositamente dedicata e accessibile dal sito istituzionale dell'INPS. Gli aventi diritto sulla base di una graduatoria nazionale, che siano residenti nel territorio distrettuale ed abbiano diritto alle prestazioni integrative, sono "assegnati" al Distretto B per accedere a queste ultime, sulla base delle risultanze della valutazione del bisogno assistenziale condotta dall'assistente sociale individuata.
 
 Attraverso il progetto HCP, l'INPS intende rafforzare il sistema del welfare integrando gli interventi pubblici destinati alle persone non autosufficienti e fragili, con particolare riguardo ai dipendenti e pensionati pubblici e ai loro familiari, avvalendosi della collaborazione degli Ambiti territoriali sociali di cui alla L. n. 328/2000.
- 
+
 ## A chi è rivolto
 I soggetti beneficiari delle prestazioni socio assistenziali devono essere dipendenti o pensionati pubblici, utenti INPS - Gestione Dipendenti Pubblici, loro coniugi conviventi o loro familiari di primo grado, non autosufficienti o fragili, residenti nei Comuni afferenti il Distretto Sociale B di Frosinone.
 
@@ -1243,9 +1124,6 @@ Nei progetti fin qui gestiti, il Distretto ha garantito mediamente assistenza a 
 
 ## Come fare
 La presentazione dell'istanza, a seguito dell'apertura di uno specifico Bando a cura dell'INPS, va fatta con le modalità e i tempi previsti da quest'ultimo. Come già evidenziato, per HCP 2017 la domanda prevedeva una procedura online da attivare attraverso il sito web dell'INPS e con accesso mediante PIN individuale fornito dall'Istituto.
-
-## A chi possiamo rivolgerci
-Per ogni informazione è possibile rivolgersi all'Ufficio di Piano del Distretto Sociale B, Via Armando Fabi, snc. nei seguenti giorni e orari:
 
 # 5.8 PROVVIDENZE PER SOGGETTI DISAGIATI PSICHICI
 ## Cos'è
@@ -1261,7 +1139,7 @@ Così come previsto dal Regolamento Regionale n. 10/2011, le provvidenze economi
 
 ## A chi è rivolto
 Soggetti affetti da disagio psichico residenti nel territorio dei Comuni del Distretto Sociale B, in carico alla ASL di Frosinone (Dipartimento Salute Mentale e Patologie da Dipendenza DSMPD).
- 
+
 ## Come fare
 Come già evidenziato, le richieste di erogazione delle provvidenze sono avanzate dall'èquipe curante alla Commissione integrata ASL/Distretto Sociale B, che ha il compito di autorizzare l'erogazione delle stesse a seguito della valutazione dell'istanza.
 
@@ -1269,8 +1147,6 @@ In caso di esito positivo, il servizio che ha in carico l'utente presso il Dipar
 
 ## A chi possiamo rivolgerci
 Per ogni informativa da parte dell'utenza, è possibile rivolgersi alla ASL di Frosinone - Dipartimento Salute Mentale e Patologie da Dipendenza (DSMPD), Via Armando Fabi, snc. Frosinone.
-
-Per ogni informazione è possibile rivolgersi all'Ufficio di Piano del Distretto Sociale B, Via Armando Fabi, snc. nei seguenti giorni e orari:
 
 # 5.9 CASA FAMIGLIA PER DISABILI GRAVI "MARANO COME NOI"- Ceccano
 ## Cos'è
@@ -1280,7 +1156,7 @@ Nella Casa Famiglia l'ospite fruisce di attività individuali e di gruppo, progr
 
 La Casa Famiglia, inoltre, collabora con il Servizio Sociale di riferimento dell'ospite per mantenere i suoi contatti con il contesto di provenienza, facilitando e promuovendo i rapporti con familiari, parenti ed amici, favorendo visite, incontri e quando possibile anche brevi soggiorni presso parenti.
 
-La Casa Famiglia ha sede in Via Marano n.465, 03023 Ceccano (FR); titolare e gestore del servizio è la cooperativa sociale Va-lentina:
+La Casa Famiglia ha sede in Via Marano n.465, 03023 Ceccano (FR); titolare e gestore del servizio è la cooperativa sociale Va-lentina.
 
 ## A chi è rivolto
 A persone adulte con disabilità grave, prive di assistenza familiare.
@@ -1343,8 +1219,6 @@ Soggetti con dipendenza (droghe, alcool e nuove dipendenze) in trattamento o usc
 ## A chi possiamo rivolgerci
 Per ogni eventuale informativa, da parte dell'utenza, è possibile rivolgersi al Dipartimento Salute Mentale Patologie e Dipendenze (DSMPD) della ASL di FR/B – Via Armando Fabi – Frosinone e all'Ufficio Esecuzione Penale Esterna (UEPE) del Ministero della Giustizia – Frosinone.
 
-Per informazioni relative ai fondi disponibili per l'attivazione degli interventi di contrasto alle dipendenze è possibile rivolgersi all'Ufficio di Piano del Distretto Sociale B, Via Armando Fabi, snc. nei seguenti giorni e orari:
-
 # 7.1 CENTRI SOCIALI PER ANZIANI (CSA)
 ## Cos'è
 Il Comune di Frosinone promuove da anni iniziative, occasioni e spazi per l'aggregazione e la socializzazione delle persone anziane, ai fini della partecipazione attiva alla vita sociale e per contrastare il rischio di esclusione e marginalità sociale. L'Ente comunale ha istituito, quindi, diversi Centri Sociali per Anziani (CSA), luoghi dove è possibile incontrarsi, trascorrere in compagnia il tempo libero e partecipare a varie attività sia spontanee che organizzate, quali ad esempio: gite culturali e ricreative (ivi compresi soggiorni marini e termali), tornei, feste e cene sociali, giochi da tavolo.
@@ -1360,7 +1234,7 @@ Il Comune di Frosinone ad oggi ha sei Centri Sociali per Anziani funzionanti:
 - CSA "M.Messia" sito in Via Portogallo
 - CSA "M.C.Luinetti" sito in Via Adige
 - CSA G.P. Woitjla sito in Via Cavoni.
- 
+
 ## A chi è rivolto
 Alle attività dei Centri possono partecipare tutti i cittadini di Frosinone che abbiano compiuto 60 anni se uomini e 55 anni se donne; per chi è pensionato l'iscrizione è indipendente dall'età. Per l'iscrizione è sufficiente rivolgersi ad uno dei Centri attivi.
 
@@ -1368,9 +1242,6 @@ Alle attività dei Centri possono partecipare tutti i cittadini di Frosinone che
 È necessario recarsi presso il Centro Sociale Anziani più vicino alla propria abitazione e presentare istanza su appositi modelli reperibili in loco.
 
 L'iscrizione in un Centro non comporta il divieto di partecipare alle iniziative degli altri Centri.
-
-## A chi possiamo rivolgerci
-Per ogni informazione è possibile rivolgersi all'Ufficio Servizi Sociali Via Armando Fabi, snc. 0775/2656214 e 0775/2656462 nei seguenti giorni e orari:
 
 # 7.2 INIZIATIVE SOCIO-RICREATIVE E CULTURALI PER ANZIANI
 ## Cos'è
@@ -1396,9 +1267,6 @@ Alle attività dei Centri Sociali Anziani ed ai laboratori possono partecipare t
 È necessario recarsi presso il Centro Sociale Anziani più vicino alla propria abitazione e presentare istanza su appositi modelli reperibili in loco.
 
 L'iscrizione in un Centro non comporta il divieto di partecipare alle iniziative degli altri Centri.
-
-## A chi possiamo rivolgerci
-Per ogni informazione è possibile rivolgersi all'Ufficio Servizi Sociali Via Armando Fabi, snc. 0775/2656214 e 0775/2656462 nei seguenti giorni e orari:
 
 # Servizio Assistenza Domiciliare (SAD) in favore degli anziani
 ## Cos'è
@@ -1433,9 +1301,6 @@ La domanda di accesso al SAD va compilata su apposito modello, reperibile presso
 - Certificazione sanitaria;
 - eventuale altra utile documentazione attestante lo stato di disagio.
 
-## A chi possiamo rivolgerci
-Per ogni informazione è possibile rivolgersi allo Sportello per la Famiglia, Via Armando Fabi, snc. nei seguenti giorni e orari:
-
 # 7.4 INTERVENTI IN FAVORE DI PERSONE AFFETTE DA ALZHEIMER E LORO FAMILIARI
 ## Cos'è
 Nel corso del 2017, a seguito dell'apertura di uno specifico Avviso pubblico, il Comune di Frosinone, Capofila del Distretto Sociale B, ha attivato gli interventi in favore delle persone affette da Alzheimer, come previsti dalla Regione Lazio ai sensi della Determinazione Dirigenziale n. G00122 del 15.01.2016 che dispone Linee guida integrative per la continuità di gestione delle azioni di sistema in favore dei malati di Alzheimer e loro familiari.
@@ -1454,11 +1319,8 @@ Per fruire degli interventi previsti, gli interessati hanno presentato istanza d
 - attestazione ISEE in corso di validità e di regolarità;
 - documento di identità in corso di validità del richiedente il contributo (se diverso dal beneficiario);
 - documento di identità in corso di validità del beneficiario del contributo.
- 
-Le domande regolarmente pervenute sono state esaminate da una Commissione Multidisciplinare integrata con la ASL di Frosinone, che ha valutato la loro accoglibilità e ha predisposto la graduatoria degli ammessi al beneficio.
 
-## A chi possiamo rivolgerci
-Per ogni informazione è possibile rivolgersi all'Ufficio di Piano del Distretto Sociale B, Via Armando Fabi, snc. nei seguenti giorni e orari:
+Le domande regolarmente pervenute sono state esaminate da una Commissione Multidisciplinare integrata con la ASL di Frosinone, che ha valutato la loro accoglibilità e ha predisposto la graduatoria degli ammessi al beneficio.
 
 # 7.5 ACCOGLIENZA IN CASE DI RIPOSO
 ## Cos'è
@@ -1471,9 +1333,6 @@ Il servizio è rivolto soprattutto a persone anziane autosufficienti o parzialme
 
 ## Come fare
 Per beneficiare dell'integrazione alla retta di inserimento in Casa di Riposo, occorre presentare richiesta all'Ufficio Servizi Sociali su apposita modulistica, reperibile presso l'Ufficio stesso, corredata della documentazione indicata in precedenza. Successivamente alla presentazione dell'istanza, l'Assistente Sociale di riferimento provvederà all'indagine valutativa per disporre l'accoglibilità o meno della richiesta.
-
-## A chi possiamo rivolgerci
-Per ogni informazione è possibile rivolgersi all'Ufficio Servizi Sociali Via Armando Fabi, snc. 0775/2656214 e 0775/2656462 nei seguenti giorni e orari:
 
 # 7.6 Struttura Residenziale per Anziani IPAB "Ferrari" - Ceprano
 ## Cos'è
@@ -1495,7 +1354,7 @@ L'IPAB "Ferrari" risulta inserita nella rete dei servizi socio-assistenziali e s
 La struttura accoglie persone anziane di ambo i sessi che abbiano compiuto il 60esimo anno di età, autosufficienti e parzialmente non autosufficienti. Ai sensi dell'art. 31 della L. R. 10 agosto 2016, n. 11 "Sistema integrato degli interventi e dei servizi sociali della Regione Lazio", nelle strutture a ciclo residenziale e semiresidenziale è prevista l'accoglienza anche di persone non autosufficienti che non necessitano di assistenza sanitaria e presenza infermieristica per l'intero arco della giornata.
 
 Non si tiene conto dell'età nel caso di persone inabili, sole e prive di persone tenute per legge alla loro assistenza.
- 
+
 La retta mensile attualmente in vigore (anno 2018) da corrispondere per l'ospitalità, e comprendente le prestazioni di vitto, alloggio e assistenza, è fissata in € 800,00 mensili per i residenti provenienti dai Comuni afferenti il Distretto Sociale "B" ed € 900,00 per i residenti provenienti da altri Comuni.
 
 ## Come fare
@@ -1530,10 +1389,8 @@ Il servizio è rivolto soprattutto ad anziani e disabili e comunque a persone no
 ## Come fare
 Occorre presentare richiesta all'Ufficio Servizi Sociali su apposita modulistica reperibile presso l'Ufficio stesso, corredata della documentazione indicata. Seguirà valutazione da parte dell'Assistente Sociale di riferimento.
 
-## A chi possiamo rivolgerci
-Per ogni informazione è possibile rivolgersi all'Ufficio Servizi Sociali Via Armando Fabi, snc. 0775/2656214 e 0775/2656462 nei seguenti giorni e orari:
-
-# 8.1 Reclami e suggerimenti
+# 8. STRUMENTI
+## 8.1 Reclami e suggerimenti
 Il reclamo è una forma di tutela per gli utenti e costituisce un contributo importante che il Comune di Frosinone può utilizzare per il miglioramento dei servizi sociali e socio- sanitari erogati sia con valenza comunale che distrettuale.
 
 Entro 15 giorni dalla data dell'avvenuta disfunzione, il cittadino può presentare il proprio reclamo all'Ente attraverso il modulo appositamente predisposto e posto di seguito, sia in forma digitale che cartacea.
