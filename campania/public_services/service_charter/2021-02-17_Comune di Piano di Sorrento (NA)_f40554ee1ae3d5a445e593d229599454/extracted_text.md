@@ -33,6 +33,9 @@ L'attuale dotazione effettiva risulta essere di n. 13 unità complessive ed è c
 - n.1 Comandante del Corpo;
 - n. 12 Istruttori amministrativi di vigilanza cat. C, operatori di polizia locale
 
+Alla precedente dotazione del Corpo va ad aggiungersi per le competenze funzionali del Settore ulteriori figura professionale così composta:
+- n. 1 operai manutenzione e segnaletica cat. B
+
 # FUNZIONI E COMPITI DELL'OPERATORE DI POLIZIA MUNICIPALE
 Le funzioni di polizia locale, in base al combinato disposto art. 5 della Legge n.65 del 1986 e art. 11 della Legge regionale n.12 del 2003 nonché alla normativa in ordine alla sicurezza delle città, sono:
 - polizia amministrativa
@@ -55,31 +58,42 @@ Unitamente alle altre forze di polizia e agli altri soggetti istituzionali conco
 # STRUTTURA E ORGANIZZAZIONE DEL SETTORE
 Il 6° settore Polizia Municipale, risulta articolato su due livelli ovvero il settore (il livello apicale cui è preposto il Comandante), e l'ufficio (unità organizzativa semplice cui è preposto un dipendente di categoria C).
 
+Gli Uffici in cui risulta attualmente articolato sono:
+- Ufficio Polizia Stradale - Segreteria comando – Rilascio Autorizzazioni
+- Ufficio Polizia Ambientale e Amministrativa
+- Ufficio Polizia Edilizia
+- Ufficio Polizia Commerciale e annonaria
+- Ufficio Servizio Gestione Contravvenzioni e Contenzioso e Sanzioni Amministrative
+- Ufficio Segnaletica Stradale e del Traffico
+
 # ORARIO DI APERTURA DEGLI UFFICI
 Gli uffici del Comando di polizia municipale sono aperti al pubblico e ricevono nei giorni di
-
-L' Ufficio Servizio Gestione Contravvenzioni e Contenzioso e Sanzioni Amministrative Ufficio Segnaletica Stradale e del Traffico
+- Ufficio ricezione:
+    - dal lunedì alla domenica dalle ore 09.00 alle ore 13.00 e dalle ore 15.00 alle 19.00
+- Ufficio Polizia Stradale - Segreteria comando – Rilascio Autorizzazioni:
+    - martedì dalle ore 15.00 alle ore 18.00
+- Ufficio Polizia Ambientale e Amministrativa:
+    - lunedì dalle ore 15.00 alle ore 18.00
+- Ufficio Polizia Edilizia:
+    - lunedì dalle ore 10.00 alle ore 12.00
+- Ufficio Polizia Commerciale e annonaria:
+    - lunedì dalle ore 10.00 alle ore 12.00
+- Ufficio Servizio Gestione Contravvenzioni e Contenzioso e Sanzioni Amministrative e Ufficio Segnaletica Stradale e del Traffico:
+    - martedì dalle ore 09.00 alle ore 12.00
+    - venerdì dalle ore 15.00 alle ore 18.00
 
 # SERVIZI STANDARD RIFERITI AI PROCEDIMENTI AMMINISTRATIVI
-Adozione ordinanze di carattere temporaneo in materia di viabilità
+- Adozione ordinanze di carattere temporaneo in materia di viabilità
+- Rilascio autorizzazione e/o nulla osta per competizioni sportive su strada
+- Rilascio concessioni di suolo pubblico inerente Cds (traslochi, cantieri edili e stradali)
+- Rilascio contrassegno ad uso disabili
+- Notifica sanzioni Codice della Strada al cittadino
+- Rilascio informazioni/copie atti dei rilievi di incidente stradale
+- Rilascio autorizzazione installazione striscioni stradali
+- Rilascio autorizzazione di polizia previste dal TULPS
+- Accertamenti relativi a pratiche anagrafiche
 
-Rilascio autorizzazione e/o nulla osta per competizioni sportive su strada
-
-Rilascio concessioni di suolo pubblico inerente Cds (traslochi, cantieri edili e stradali)
-
-Rilascio contrassegno ad uso disabili
-
-Notifica sanzioni Codice della Strada al cittadino
-
-Rilascio informazioni/copie atti dei rilievi di incidente stradale
-
-Rilascio autorizzazione installazione striscioni stradali
-
-Rilascio autorizzazione di polizia previste dal TULPS
-
-Accertamenti relativi a pratiche anagrafiche
-
-# INCIDENTE STRADALE
+# COSA FARE IN CASO DI INCIDENTE STRADALE:
 In caso di incidenti stradali, qualora non sussistano danni alle persone, si può compilare il modulo di constatazione amichevole, da trasmettere completo direttamente alle Assicurazioni, senza chiedere l'intervento della Polizia Municipale.
 
 Per richiedere l'intervento, segnalare telefonicamente alla sala operativa della Polizia Municipale, ed attendere l'arrivo degli operatori sul posto.
@@ -95,27 +109,23 @@ A seconda del grado di priorità della segnalazione e della complessità dell'in
 
 Qualora le condizioni della strada o degli arredi urbani causino un danno a veicoli o persone, in sosta o transito, fare una segnalazione immediata alla centrale operativa per richiederne la constatazione attendendo gli operatori senza allontanarsi.
 
-# I PAGAMENTI E I RICORSI
-entro il termine di 60 giorni dalla notifica o contestazione, si può pagare con versamento sul CC. Postale n. 22994800 intestato al Comune di Piano di Sorrento - Servizio Tesoreria con la specifica causale di versamento, la data e il numero del verbale. Ricevuta dell'avvenuto pagamento deve essere esibita al Comando Polizia Locale di Piano di Sorrento, con sede alla via Gennaro Maresca 29, per evitare ulteriori atti ingiuntivi
-
-entro il termine di 30 giorni dalla contestazione o notificazione del verbale, gli interessati possono far pervenire al Sindaco di Piano di Sorrento scritti difensivi, o chiedere di essere sentiti (ma i ricorsi non interrompono ne prorogano i termini).
+# SANZIONI: I PAGAMENTI E I RICORSI
+In caso di verbale per infrazione alle norme e ai regolamenti comunali:
+- entro il termine di 60 giorni dalla notifica o contestazione, si può pagare con versamento sul CC. Postale n. 22994800 intestato al Comune di Piano di Sorrento - Servizio Tesoreria con la specifica causale di versamento, la data e il numero del verbale. Ricevuta dell'avvenuto pagamento deve essere esibita al Comando Polizia Locale di Piano di Sorrento, con sede alla via Gennaro Maresca 29, per evitare ulteriori atti ingiuntivi
+- entro il termine di 30 giorni dalla contestazione o notificazione del verbale, gli interessati possono far pervenire al Sindaco di Piano di Sorrento scritti difensivi, o chiedere di essere sentiti (ma i ricorsi non interrompono ne prorogano i termini).
 
 L'Autorità competente, sentiti gli interessati, ove questi ne abbiano fatto richiesta, ed esaminati gli scritti ed i documenti prodotti, se ritiene fondato l'accertamento, respinge il ricorso e determina con ordinanza-ingiunzione motivata la somma dovuta per la violazione e ne ingiunge il pagamento, insieme con le spese di procedimento e notifica del verbale e dell'ordinanza–ingiunzione all'autore della violazione ed alle persone obbligate in solido. Altrimenti, la stessa Autorità emette ordinanza motivata di archiviazione del verbale comunicandola integralmente ai soggetti interessati ed all'organo che ha redatto il rapporto. Qualora entro 30 giorni non sia intervenuto il pagamento in misura ridotta e non sia stato presentato ricorso avverso il verbale di accertamento e contestazione, l'Autorità competente, determina con ordinanza motivata la somma dovuta per la violazione e ne ingiunge il pagamento, insieme con le spese di procedimento e notifica del verbale e dell'ordinanza-ingiunzione all'autore della violazione ed alle persone obbligate in solido. Contro l'ordinanza-ingiunzione di pagamento gli interessati possono proporre opposizione davanti al Giudice di Pace di Piano di Sorrento entro 30 giorni dalla notificazione della stessa mediate deposito presso la cancelleria del giudice. Decorso inutilmente il termine fissato per il pagamento dell'ordinanza-ingiunzione si procede entro 5 anni alla riscossione coattiva delle somme dovute in base a quanto previsto dall'art. 27 della Legge 689/81.
 
-il proprietario del veicolo ed il trasgressore sono obbligati in solido al pagamento delle somme dovute per l'infrazione ed il pagamento effettuato da uno ha effetti liberatorio anche per l'altro
+In caso di verbale per infrazione al Codice della strada:
+- il proprietario del veicolo ed il trasgressore sono obbligati in solido al pagamento delle somme dovute per l'infrazione ed il pagamento effettuato da uno ha effetti liberatorio anche per l'altro
+    - entro 5 giorni dalla notifica o contestazione si può pagare in misura ridotta (riduzione del 30%); entro il termine di 60 giorni dalla notifica o contestazione, si può pagare il minimo edittale ma non con la riduzione del 30% con bollettino riportando la specifica causale di versamento indicata sul verbale, la data ed il numero del verbale o mediante versamento sul cc. postale n. 18106807 intestato al Comune di Piano di Sorrento – Comando Polizia Municipale oppure tramite bonifico su cc IBAN: IT96Y0760103400000018106807.
+    - entro 60 giorni dalla contestazione o notificazione della violazione gli interessati possono presentare ricorso al Prefetto di Napoli, direttamente o tramite il Comando di Polizia Municipale, compilando l'apposito modello disponibile presso l'Ufficio Contravvenzioni o in allegato. Le modalità di presentazione del ricorso possono essere: per il tramite della Polizia Municipale presso l'Ufficio Contravvenzioni o a mezzo pec: polizialocale@pec.comune.pianodisorrento.na.it; con raccomandata A/R indirizzata al Prefetto di Napoli. Nel caso di rigetto del ricorso il Prefetto emetterà motivata ordinanza di ingiunzione al pagamento di una somma determinata non inferiore al doppio del minimo edittale.
+    - Entro 30 giorni dalla contestazione o notificazione gli interessati possono altresì presentare opposizione direttamente all'Autorità Giudiziaria (Giudice di Pace di Sorrento). L'opposizione deve essere depositata unitamente al versamento del contributo unificato per le spese degli atti giudiziari, alla cancelleria del Giudice di Pace.
+- Qualora non sia stato presentato ricorso o effettuato il pagamento in misura ridotta, entro i termini previsti, il verbale costituisce titolo esecutivo per la riscossione coatta della somma pari alla metà del massimo della sanzione edittale più le spese di procedimento.
+- Se una violazione contestata comporta la decurtazione di punti sulla patente (sanzione accessoria), al proprietario del veicolo è fatto obbligo di fornire i dati personali e della patente di guida (allegandone copia) del trasgressore al Comando di P.M. entro 60 giorni (come da modulo allegato). In mancanza sarà applicata la sanzione prevista.
+- In caso di trasferimento di proprietà del veicolo, è indispensabile comunicare al Comando di Polizia Municipale (Ufficio Contravvenzioni), entro 15 giorni dalla data di notifica del verbale, le generalità del nuovo proprietario, con relativa documentazione (atto di vendita).
 
-entro 5 giorni dalla notifica o contestazione si può pagare in misura ridotta (riduzione del 30%); entro il termine di 60 giorni dalla notifica o contestazione, si può pagare il minimo edittale ma non con la riduzione del 30% con bollettino riportando la specifica causale di versamento indicata sul verbale, la data ed il numero del verbale o mediante versamento sul cc. postale n. 18106807 intestato al Comune di Piano di Sorrento – Comando Polizia Municipale oppure tramite bonifico su cc IBAN: IT96Y0760103400000018106807.
-
-entro 60 giorni dalla contestazione o notificazione della violazione gli interessati possono presentare ricorso al Prefetto di Napoli, direttamente o tramite il Comando di Polizia Municipale, compilando l'apposito modello disponibile presso l'Ufficio Contravvenzioni o in allegato. Le modalità di presentazione del ricorso possono essere: per il tramite della Polizia Municipale presso l'Ufficio Contravvenzioni o a mezzo pec: polizialocale@pec.comune.pianodisorrento.na.it; con raccomandata A/R indirizzata al Prefetto di Napoli. Nel caso di rigetto del ricorso il Prefetto emetterà motivata ordinanza di ingiunzione al pagamento di una somma determinata non inferiore al doppio del minimo edittale.
-
-Entro 30 giorni dalla contestazione o notificazione gli interessati possono altresì presentare opposizione direttamente all'Autorità Giudiziaria (Giudice di Pace di Sorrento). L'opposizione deve essere depositata unitamente al versamento del contributo unificato per le spese degli atti giudiziari, alla cancelleria del Giudice di Pace.
-
-Qualora non sia stato presentato ricorso o effettuato il pagamento in misura ridotta, entro i termini previsti, il verbale costituisce titolo esecutivo per la riscossione coatta della somma pari alla metà del massimo della sanzione edittale più le spese di procedimento.
-
-Se una violazione contestata comporta la decurtazione di punti sulla patente (sanzione accessoria), al proprietario del veicolo è fatto obbligo di fornire i dati personali e della patente di guida (allegandone copia) del trasgressore al Comando di P.M. entro 60 giorni (come da modulo allegato). In mancanza sarà applicata la sanzione prevista.
-
-In caso di trasferimento di proprietà del veicolo, è indispensabile comunicare al Comando di Polizia Municipale (Ufficio Contravvenzioni), entro 15 giorni dalla data di notifica del verbale, le generalità del nuovo proprietario, con relativa documentazione (atto di vendita).
-
+# MODULISTICA
 Di seguito sono allegati i modelli per le richieste da inoltrare agli uffici competenti secondo le richieste specifiche:
 - richiesta di accesso agli atti e documenti amministrativi
 - delega a ritiro atti
@@ -127,24 +137,6 @@ Di seguito sono allegati i modelli per le richieste da inoltrare agli uffici com
 - richiesta di rimborso per erroneo pagamento di verbale di infrazione al codice della strada
 - modulo di comunicazione dei dati del conducente
 - modello di customer satisfaction
-
-Certificato sanitario rilasciato dall'ASL NA3SUD attestante la riduzione della capacità di deambulazione o copia del verbale della COMMISSIONE MEDICA PER L'ACCERTAMENTO DELL'INVALIDITÀ (ai sensi dell'art. 20 della Legge 3 agosto 2009, n° 102) ove viene attestato che trattasi di "persona con effettiva capacità di deambulazione impedita o sensibilmente ridotta (art. 381 del DPR 495/1992 e succ. mod. art. 12 DPR 503/1996)" o comunque che "ricorrono le previsioni di cui all'art. 381 del DPR 495/1992;
-
-Per il rinnovo delle autorizzazioni il cui primo certificato era a tempo indeterminato cioè pari a 5 anni – certificato del medico curante attestante il permanere delle condizioni di invalidità;
-
-Per il rinnovo delle autorizzazioni a tempo determinato, cioè inferiore a 5 anni, certificato dell'ASL NA3SUD;
-
-Di essere consapevole delle sanzioni penali cui può andare incontro in caso di falsità negli atti e dichiarazioni mendaci, così come previsto dall'art. 76 del DPR 445 del 28.12.2000;
-
-Di essere consapevole che in caso di dichiarazioni non veritiere il sottoscritto decade dai benefici conseguenti al provvedimento eventualmente emanato sulla base della presente dichiarazione, così come stabilito dall'art. 75 del DPR 445 del 28.12.2000;
-
-Di essere informato che, se il contrassegno per la circolazione e la sosta, dichiarato smarrito o sottratto, dovesse essere rinvenuto o restituito, deve essere immediatamente distrutto;
-
-Di essere informato, che i propri dati personali verranno trattati ai sensi del D.Lgs. n° 196/2003. Il titolare del trattamento dei dati è il Comune di Piano di Sorrento (NA). Le informazioni saranno utilizzate esclusivamente per la gestione del presente procedimento.
-
-ATTENZIONE: il rilascio di copie di relazione di incidente stradale è subordinato al preventivo pagamento delle somme così come previsto dalla Delibera di Giunta Comunale n. 60 del 30.11.2016. La copia dell'avvenuto pagamento dovrà essere OBBLIGATORIAMENTE allegata alla presente domanda, diversamente non potrà essere evasa. Informativa ai sensi dell'art. 13 del D. Lgs. 30/06/2003 n,196 "Codice in materia di protezione dei dati personali".
-
-Il presente modulo è messo a disposizione per facilitare l'adempimento degli obblighi previsti ai fini della decurtazione dei punti dalla patente di guida della persona che, nelle circostanze di tempo e di luogo indicate nel verbale notificato, si trovava alla guida del veicolo. La compilazione e sottoscrizione da parte della persona che si trovava alla guida del veicolo al momento della commessa violazione evita l'applicazione delle ulteriori spese di procedimento pari a € 14,50.
 
 # CUSTOMER SATISFACTION
 Conoscere l'opinione degli utenti aiuta a migliorare la qualità dei servizi. Si invitano pertanto gli utenti a esprimere il proprio giudizio e la propria soddisfazione riguardo alla propria esperienza con questo Settore.
