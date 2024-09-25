@@ -29,7 +29,7 @@ La Carta, infine, rappresenta l'impegno del gestore ad assicurare la qualità ne
 L'utente interessato può trovare la Carta dei Servizi sul sito della SAPRODIR e in formato cartaceo presso gli Sportelli informativi dedicati al pubblico. Di seguito si riporta una tabella di sintesi con i riferimenti utili per gli utenti.
 
 # 2. SERVIZIO DI GESTIONE DEI RIFIUTI URBANI
-# 2.1. PRESENTAZIONE AZIENDALE
+## 2.1. PRESENTAZIONE AZIENDALE
 Alla data odierna gestisce i servizi di raccolta rifiuti porta a porta nei Comuni di Antrodoco, Ascrea, Belmonte in Sabina, Borgo Velino, Cantalice, Cantalupo in Sabina, Casaprota, Casperia, Castel di Tora, Castel Sant'Angelo, Castelnuovo di Farfa, Cittaducale, Collalto Sabino, Colle di Tora, Collegiove, Colli sul Velino, Configni, Contigliano, Cottanello, Fiamignano, Forano, Frasso Sabino, Greccio, Labro, Longone Sabino, Mompeo, Montasola, Montebuono, Monteleone Sabino, Montenero Sabino, Montopoli di Sabina, Morro Reatino, Nespolo, Orvinio, Paganico Sabino, Pescorocchiano, Petrella Salto, Poggio Catino, Poggio Mirteto, Poggio Moiano, Poggio Nativo, Poggio San Lorenzo, Posta, Pozzaglia Sabina, Rivodutri, Rocca Sinibalda, Roccantica, Salisano, Scandriglia, Selci, Tarano, Toffia, Torri in Sabina, Torricella in Sabina, Turania, Vacone.
 
 I servizi svolti in virtù del Contratto di Servizio sono riconducibili alle seguenti macrocategorie:
