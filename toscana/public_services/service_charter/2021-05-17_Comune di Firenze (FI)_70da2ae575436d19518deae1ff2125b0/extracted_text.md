@@ -7,6 +7,18 @@ La carta dei servizi rappresenta dunque, lo strumento fondamentale, attraverso i
 
 Al fine di assicurare la costante corrispondenza fra la carta dei servizi e la realtà dell'organizzazione, il documento viene periodicamente riesaminato ed aggiornato.
 
+# Riferimenti normativi
+A norma dell'art. 13 del Decreto Legislativo 14 marzo 2013 n. 33 sono di seguito riportati i riferimenti normativi alle norme di legge statale, regionale e comunale che regolano l'istituzione, l'organizzazione e l'attività del Corpo:
+- L. 7 Marzo 1986 N. 65 Legge-quadro sull'ordinamento della Polizia Municipale
+- L.R. 19 Febbraio 2020 N.11 Norme in materia di sicurezza urbana integrata e polizia locale
+- Norme in materia di uniformi, veicoli e strumenti della polizia locale - D.P.G.R. 2 Marzo 2009, N. 6/R
+- Norme in materia di formazione e aggiornamento periodico della polizia comunale e provinciale - D.P.G.R. 2 Ottobre 2008, N. 49/R
+- Codice di comportamento dei dipendenti pubblici
+- Codice disciplinare e Codice di condotta
+- Polizia Municipale - Regolamento disciplina armamento
+- Determinazione di tariffe per l'esecuzione di attività comunque afferenti al pubblico interesse e previste tra le attività della polizia locale, che comportino l'utilizzo, straordinario o esclusivo, di personale e mezzi assegnati alla polizia locale
+- Polizia urbana - Regolamento civile convivenza in città
+
 # Presentazione del Corpo di Polizia Municipale del Comune Di Firenze
 Il Corpo di Polizia Municipale di Firenze svolge dal 1854 le funzioni di polizia locale nella città. Secondo quanto previsto dalla normativa vigente (Legge 15 marzo 1986 n. 65 e da L.R. 19 febbraio 2020 n.11 Norme in materia di sicurezza urbana integrata e polizia locale). La Polizia Municipale espleta una molteplicità di compiti e funzioni che nel tempo si sono notevolmente ampliate e diversificate al fine di rispondere alle mutevoli esigenze della città e dei cittadini, al fine di garantire la convivenza civile e la tutela dei diritti di ognuno. Infatti, la Polizia Municipale opera per prevenire e reprime le violazioni alle norme contenute in leggi, regolamenti e provvedimenti dello Stato, della Regione e del Comune attraverso le funzioni di polizia stradale, giudiziaria e di pubblica sicurezza; opera altresì in ambito di informazione, notificazione, accertamento e rilevazione connessi alle proprie funzioni istituzionali. Inoltre vigila sulla integrità e conservazione del patrimonio pubblico e presta opera di soccorso alla popolazione e collabora ai servizi e alle operazioni di protezione civile.
 
@@ -33,28 +45,35 @@ Importanza trasversale è rivestita dalla Sezione Supporto Giuridico che cura lo
 L'obiettivo generale di una città più vivibile e sicura è perseguito, in ordine alle competenze proprie della polizia locale, attraverso l'attivazione di un sistema di qualità dei servizi, che tenga conto delle esigenze dei cittadini e delle istanze dell'Amministrazione. La riorganizzazione e razionalizzazione delle procedure interne ed esterne, il riordino della documentazione e la completa informatizzazione della struttura anche mediante l'utilizzo di nuovi strumenti e programmi informatici garantiscono il mantenimento del Sistema di Qualità.
 
 L'organizzazione di una Polizia Municipale efficiente, risponde alla logica protesa al contatto sistematico e duraturo con il cittadino, a cui vengono offerti i servizi e con questo condivisi. La Carta dei Servizi del Corpo rappresenta la conclusione sintetica di un lungo lavoro di razionalizzazione delle attività, sedi, mezzi e risorse, e, a sua volta costituisce l'avvio di un nuovo modo di intendere i rapporti con la cittadinanza in un'ottica di miglioramento continuo dei servizi offerti.
- 
+
 Il Corpo, durante il periodo dell'emergenza sanitaria, ha reagito in maniera coordinata e flessibile alle nuove esigenze, adottando un nuovo modello organizzativo sia per quanto riguarda i servizi esterni che l'organizzazione interna senza trascurare l'esigenza di tutelare della salute degli operatori. Forte è stato l'impegno per l'attuazione delle disposizioni emanate con i controlli richiesti e resisi necessari a tutela della salute pubblica, anche collaborando con altre forze dell'ordine, effettuando servizi mirati alle verifiche per il corretto uso dell'utilizzo delle mascherine, il rispetto del distanziamento sociale e divieto di assembramento, la vigilanza del rispetto delle normative sugli spostamenti, le restrizioni alla mobilità e alle attività commerciali in relazione alle varie normative, la sorveglianza sulle aree verdi e il presidio delle strade cittadine, anche quelle deserte, per garantire la sicurezza. Importante anche l'attività svolta davanti alle scuole e alle fermate di tram e autobus con interventi di presidio per il rientro ordinato a scuola degli studenti.
 
 # I principi fondamentali della direttiva del Presidente del Consiglio dei Ministri del 27 gennaio 1994
 La Direttiva, conosciuta come "Direttiva Ciampi-Cassese", enuncia i principi fondamentali ai quali deve essere uniformata l'erogazione dei pubblici servizi.
 
+## 1. Eguaglianza
 Tutti i cittadini hanno lo stesso diritto all'erogazione del servizio pubblico ed è vietata qualunque discriminazione fondata sul sesso, razza, religione ed opinioni politiche. Deve essere assicurata inoltre l'erogazione del servizio pubblico ai soggetti portatori di handicap oltre che a soggetti dislocati nelle diverse aree geografiche di utenza.
 
+## 2. Imparzialità
 Il servizio deve essere erogato con criteri di obiettività, giustizia ed imparzialità; pertanto le norme che regolano l'esercizio dell'attività del Corpo di Polizia Municipale sono applicate in ossequio ai criteri sopra enunciati.
 
+## 3. Continuità
 Il servizio pubblico deve essere erogato con continuità, regolarità e senza interruzioni. Nel caso di funzionamento irregolare o di interruzione parziale, comunque disciplinati dalle leggi dello Stato, devono essere adottate tutte le misure volte ad arrecare alla collettività il minor disagio possibile.
 
+## 4. Diritto di scelta
 Qualora consentito dalla legislazione vigente, il cittadino può scegliere fra diversi soggetti idonei ad erogare lo stesso servizio sul territorio. Il Corpo di Polizia Municipale ha lo scopo fondamentale di garantire la convivenza civile all'interno del Comune e la sicurezza dei cittadini, assicura l'erogazione del servizio con le stesse modalità presso tutte le sedi dislocate sul territorio.
 
+## 5. Partecipazione
 La partecipazione del cittadino alla prestazione del servizio pubblico deve essere sempre garantita, sia per tutelare il diritto alla corretta erogazione del servizio, sia per favorire la collaborazione nei confronti dei soggetti erogatori. Il diritto di accesso è disciplinato dalla legge 7 agosto 1990, n. 241 e dalle successive modifiche e integrazioni. Il cittadino può formulare reclami, suggerimenti per il miglioramento del servizio, nonché produrre memorie o documenti. Il Corpo di Polizia Municipale assicura immediata risposta ai cittadini in merito a quesiti, proposte e reclami.
 
 # La qualità del servizio erogato
-Il Corpo di Polizia Municipale ha adottato un modello organizzativo finalizzato alla certificazione di qualità in conformità alla norma UNI EN ISO 9001.
-Tra i fattori, che incidono sulla capacità di risposta ai bisogni del cittadino, sono stati individuati come fondamentali, i seguenti:
-trasparenza del servizio reso, intesa, sia come conoscenza delle modalità operative adottate, sia come accessibilità alla documentazione, sia come possibilità di interazione; tempestività delle risposte, sia in termini di valutazione che in termini di risposta alle richieste del cittadino. A questo proposito, sono stati definiti gli standard temporali che ogni area del Corpo di Polizia Municipale intende rispettare, compatibilmente con le esigenze tecniche di fornire risposte a quesiti complessi; affidabilità dell'istituzione, intesa come fiducia che il cittadino può riporre nell'operato della Polizia Municipale e nella professionalità di tutti gli operatori della struttura; capacità di comunicare con il cittadino, ovvero la messa a disposizione di strumenti efficaci ed immediati di interazione con la collettività, sia attraverso la facile accessibilità al sito web, sia attraverso la cortesia degli operatori degli sportelli aperti al pubblico, sia attraverso progetti specifici con la collaborazione dei cittadini.
+Il Corpo di Polizia Municipale ha adottato un modello organizzativo finalizzato alla certificazione di qualità in conformità alla norma UNI EN ISO 9001. Tra i fattori, che incidono sulla capacità di risposta ai bisogni del cittadino, sono stati individuati come fondamentali, i seguenti:
+- trasparenza del servizio reso, intesa, sia come conoscenza delle modalità operative adottate, sia come accessibilità alla documentazione, sia come possibilità di interazione; 
+- tempestività delle risposte, sia in termini di valutazione che in termini di risposta alle richieste del cittadino. A questo proposito, sono stati definiti gli standard temporali che ogni area del Corpo di Polizia Municipale intende rispettare, compatibilmente con le esigenze tecniche di fornire risposte a quesiti complessi;
+- affidabilità dell'istituzione, intesa come fiducia che il cittadino può riporre nell'operato della Polizia Municipale e nella professionalità di tutti gli operatori della struttura;
+- capacità di comunicare con il cittadino, ovvero la messa a disposizione di strumenti efficaci ed immediati di interazione con la collettività, sia attraverso la facile accessibilità al sito web, sia attraverso la cortesia degli operatori degli sportelli aperti al pubblico, sia attraverso progetti specifici con la collaborazione dei cittadini.
 
-# La trasparenza
+## La trasparenza
 La trasparenza che costituisce uno degli obiettivi permanenti del Corpo di Polizia Municipale, definisce e rende note le modalità operative adottate, i tempi, nonché i criteri che portano all'erogazione del servizio nel suo complesso, rivedendolo periodicamente in un'ottica di miglioramento continuo.
 
 Seguendo le indicazioni del modello proposto dalla norma internazionale ISO 9001, la trasparenza ha evidenze di applicazione sia dal punto di vista organizzativo interno, consentendo di standardizzare e chiarire le procedure adottate, sia verso l'esterno rendendo accessibili gli atti e i documenti amministrativi.
@@ -73,10 +92,10 @@ La visione dei documenti è gratuita, così come il rilascio di copie se sono in
 
 Per accedere agli atti relativi ad incidenti stradali e ai procedimenti sanzionatori si rimanda agli appositi paragrafi.
 
-# La tempestività
+## La tempestività
 Il Corpo di Polizia Municipale ha definito i tempi di risposta al cittadino in relazione ai servizi richiesti. A questo proposito è costantemente in atto un processo di informatizzazione dell'organizzazione, che consente di ottimizzare i tempi di gestione delle pratiche e di assicurare la corretta archiviazione e conservazione dei dati.
- 
-# L'affidabilità
+
+## L'affidabilità
 Tutti gli operatori svolgono la loro attività in modo professionale ed altamente qualificato, perseguendo il comune intento di contribuire a soddisfare le esigenze del cittadino e della collettività del Comune di Firenze.
 
 Negli ultimi anni si è sviluppata una nuova sensibilità verso la qualità della vita e la vivibilità della città garantendo il presidio del territorio per prevenire situazioni di degrado, per la tutela dei bisogni dei cittadini nel pieno godimento da parte di tutti degli spazi dove si svolgono le attività umane e si formano i rapporti sociali.
@@ -122,34 +141,40 @@ I servizi indispensabili, che devono essere mantenuti per tutta la durata dell'a
 - servizio in centrale operativa: la Centrale Operativa dovrà attenersi a disporre del personale esclusivamente per i servizi indispensabili previsti dalla normativa vigente consistenti in: disposizioni dell'Autorità Giudiziaria, rilievo incidenti stradali, servizi sgombraneve;
 - servizio a disposizione dell'Autorità Giudiziaria con l'impiego di personale in divisa.
 
-# TEMPI DI INTERVENTO DELLE PATTUGLIE
-Per incidenti stradali classificati con codice rosso dal Servizio di Emergenza Sanitaria o con esito mortale (codice 4) entro 15 minuti dalla richiesta;
+## TEMPI DI INTERVENTO DELLE PATTUGLIE
+- Per incidenti stradali classificati con codice rosso dal Servizio di Emergenza Sanitaria o con esito mortale (codice 4) entro 15 minuti dalla richiesta;
+- per incidenti stradali con ferito fino a codice giallo con blocco della circolazione o grave impatto sulla viabilità con impatto sulla circolazione (codice 3) entro 20 minuti dalla richiesta;
+- per spazi di sosta riservati a persone invalide occupati abusivamente entro 45 minuti dalla richiesta.
 
-per incidenti stradali con ferito fino a codice giallo con blocco della circolazione o grave impatto sulla viabilità con impatto sulla circolazione (codice 3) entro 20 minuti dalla richiesta;
-
-per spazi di sosta riservati a persone invalide occupati abusivamente entro 45 minuti dalla richiesta.
-
-# INCIDENTI STRADALI
+## INCIDENTI STRADALI
 Il soggetto che desidera fare richiesta di accesso agli atti deve contattare preventivamente l'Ufficio Infortunistica Stradale
 - tramite e-mail a: pm.richiesteincidenti@comune.fi.it;
-- telefonicamente ai numeri 055 3283468, 055 3283469, 055 3283470 
+- telefonicamente ai numeri 055 3283468, 055 3283469, 055 3283470
 
-# VERBALI E NOTIFICHE, RUOLI E INGIUNZIONI FISCALI
+L'Ufficio comunicherà l'effettiva disponibilità del verbale di rilievo indicando il numero di protocollo del sinistro stradale indispensabile per effettuare il pagamento tramite PagoPA al link:
+- https://serviz.comune.fi.it/servizi/rimborsi-per-copia-atti-sinistri
+
+La richiesta di accesso agli atti dovrà essere formalizzata inviando una mail all'indirizzo pm.richiesteincidenti@comune.fi.it, allegando i seguenti documenti indispensabili al rilascio:
+- la ricevuta completa del pagamento effettuato tramite PagoPA;
+- eventuale delega o conferimento di incarico o mandato alle liti;
+- il modulo di accesso agli atti compilato in ogni sua parte (in allegato);
+- eventuale nullaosta rilasciato dalla Procura (se indicata la necessità).
+
+I referti medici inerenti sinistri stradali dovranno essere tempestivamente inviati a pm.referti@comune.fi.it (per informazioni chiamare 055 3283468).
+
+Per eventuali comunicazioni o qualsiasi altra problematica contattare l'indirizzo mail pm.sinistri@comune.fi.it o i numeri telefonici 055 3283469, 055 3283470.
+
+## VERBALI E NOTIFICHE, RUOLI E INGIUNZIONI FISCALI
 L'attività del Front Office Unico (Via delle Cascine, 9) relativa alla visione ed al rilascio di documenti agli aventi diritto (intestatari) o delegati in relazione a verbali di accertamento di violazioni amministrative e a verbali che hanno dato origine all'emissione di cartelle esattoriali e ingiunzioni fiscali, si esplica con le modalità sotto meglio specificate e con possibilità di accesso telematico ovvero di persona.
 
 Si precisa che in tutti i casi in cui gli atti richiesti non siano immediatamente disponibili, saranno a disposizione dell'avente diritto a partire dal 25° giorno dalla ricezione della richiesta e qualora sia impossibile rispettare il termine suddetto, sarà cura dell'ufficio avvisare gli interessati tramite comunicazione telefonica o e-mail.
+- Presa visione dei verbali originali e delle prove dell'avvenuta notifica dei verbali (ricevute di ritorno ecc.): l'avente diritto o il suo delegato recatisi di persona allo sportello di norma accedono immediatamente al servizio mediante presa visione degli atti; se l'atto non è disponibile, è formalizzata richiesta scritta.
+- Rilascio copie semplici o copie conformi di verbali e delle prove dell'avvenuta notifica dei verbali (ricevute di ritorno ecc.): si accede al servizio tramite richiesta scritta dell'avente diritto o di un suo delegato; se l'atto non è immediatamente disponibile, sarà a disposizione dell'avente diritto a partire dal 25° giorno dalla ricezione della richiesta.
+- Visione e rilascio copie immagini rilevate a mezzo porte telematiche: Le immagini possono essere visionate dall'avente diritto accedendo direttamente dalla rete civica del Comune di Firenze pertanto, l'avente diritto o il suo delegato accede immediatamente al servizio; se per qualsiasi motivo non sia possibile la visione deve essere formalizzata richiesta scritta.
+- Visione delle fotografie/immagini rilevate a mezzo postazioni di misuratori di velocità: Le immagini possono essere visionate dall'avente diritto accedendo direttamente dalla rete civica del Comune di Firenze; se per qualsiasi motivo non sia possibile la visione deve essere formalizzata richiesta scritta.
+- Presa visione e rilascio copie immagini rilevate a mezzo di rilevatori di infrazioni semaforiche: Normalmente l'avente diritto o il suo delegato accede immediatamente al servizio, se per qualsiasi motivo non sia possibile, per il rilascio delle copie delle immagini deve essere formalizzata richiesta scritta.
 
-l'avente diritto o il suo delegato recatisi di persona allo sportello di norma accedono immediatamente al servizio mediante presa visione degli atti; se l'atto non è disponibile, è formalizzata richiesta scritta.
-
-si accede al servizio tramite richiesta scritta dell'avente diritto o di un suo delegato; se l'atto non è immediatamente disponibile, sarà a disposizione dell'avente diritto a partire dal 25° giorno dalla ricezione della richiesta.
-
-Le immagini possono essere visionate dall'avente diritto accedendo direttamente dalla rete civica del Comune di Firenze pertanto, l'avente diritto o il suo delegato accede immediatamente al servizio; se per qualsiasi motivo non sia possibile la visione deve essere formalizzata richiesta scritta.
-
-Le immagini possono essere visionate dall'avente diritto accedendo direttamente dalla rete civica del Comune di Firenze; se per qualsiasi motivo non sia possibile la visione deve essere formalizzata richiesta scritta.
-
-Normalmente l'avente diritto o il suo delegato accede immediatamente al servizio, se per qualsiasi motivo non sia possibile, per il rilascio delle copie delle immagini deve essere formalizzata richiesta scritta.
-
-il rilascio di copie di atti e documenti da parte della Polizia Municipale è subordinato al preventivo pagamento del rimborso spese determinato con Delibera della Giunta Municipale n. 384/261 del 20.05.2003 oltre alle eventuali spese di spedizione postale.
+ATTENZIONE: il rilascio di copie di atti e documenti da parte della Polizia Municipale è subordinato al preventivo pagamento del rimborso spese determinato con Delibera della Giunta Municipale n. 384/261 del 20.05.2003 oltre alle eventuali spese di spedizione postale.
 
 # Segnalazioni alla Polizia Municipale
 I cittadini possono presentare segnalazioni relative allo spazio pubblico e gestito con manutenzioni ordinarie, oppure relative a problemi inerenti al degrado per i quali possa intervenire la Polizia Municipale (a titolo esemplificativo piccole manutenzioni all'arredo urbano o al verde pubblico, abbandono di relitti o di rifiuti) e fare proposte per migliorare l'impatto ambientale e la percezione della sicurezza.
@@ -157,7 +182,7 @@ I cittadini possono presentare segnalazioni relative allo spazio pubblico e gest
 # Il monitoraggio della qualità dei servizi erogati
 Il monitoraggio e la misurazione della qualità delle prestazioni erogate, costituisce al tempo stesso strumento e momento imprescindibile per valutare l'efficacia e l'efficienza dei servizi alla cittadinanza. A questo proposito sono stati identificati, in relazione a tutte le aree, gli indicatori di processo finalizzati a misurarne il trend. In collaborazione con l'Ufficio Statistica dell'Amministrazione Comunale, è stato individuato uno strumento d'indagine, rivolto a verificare la qualità percepita dagli utenti, identificando un campione rappresentativo della Città di Firenze. È obiettivo della Polizia Municipale ripetere periodicamente questo genere di iniziativa, sia per avere un feedback sul livello di qualità percepita dai cittadini in merito ai servizi erogati, sia per individuare le aree di miglioramento che possono essere implementate.
 
-# Gli strumenti di tutela a disposizione del cittadino
+## Gli strumenti di tutela a disposizione del cittadino
 Il reclamo costituisce lo strumento più diretto e di facile utilizzazione, che il cittadino può inoltrare nei confronti del Corpo di Polizia Municipale.
 
 Il reclamo sia esso formale o informale, assolve ad una funzione di prevenzione del contenzioso ed è fondamentale per adottare tutte le azioni correttive necessarie qualora si rilevi la fondatezza del reclamo proposto.

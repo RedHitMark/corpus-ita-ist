@@ -17,40 +17,58 @@ Un anno difficile che si ripercuote anche nella stesura della Carta dei Servizi 
 
 Nell'attesa di una quanto più rapida conclusione, vogliamo augurare un buon viaggio a tutti i nostri passeggeri.
 
-# Principi ispiratori
+## 1.1 Riferimenti normativi
+Per la redazione della presente Carta dei Servizi sono assunti i seguenti riferimenti normativi:
+- Direttiva P.C.M. 27/1/1994 "principi sull'erogazione dei pubblici servizi";
+- DPCM 30/12/1998 "schema generale di riferimento per la predisposizione della carta dei servizi pubblici del settore trasporti";
+- Legge regionale 31/7/1998, n. 42 "Norme per il trasporto pubblico locale", che all'art.26 stabilisce l'obbligo dei soggetti esercenti servizi di trasporto pubblico di adottare la carta dei servizi dei trasporti sulla base dello schema adottato dal Consiglio regionale;
+- Deliberazione del C.R.T. n. 246 del 19/12/2001 "approvazione dello schema della Carta dei servizi dei trasporti";
+- Regolamento d'attuazione art. 23 L.R.Toscana 31/07/98 n.42 e successive modifiche ed integrazioni. Trasporto Pubblico Locale su gomma (Decreto Presidente Giunta Regionale 03/01/2005 n.9/R);
+- Deliberazione C.R.T. 9/2/1999, n. 34 "Obblighi a cui debbono attenersi le imprese esercenti servizi di trasporto pubblico locale su gomma e modalità della vigilanza" che, prevede l'obbligo per le aziende esercenti servizi programmati di trasporto pubblico locale di adottare, pubblicare, pubblicizzare e diffondere le carte aziendali dei servizi di trasporto secondo quanto previsto nello schema approvato dal Consiglio regionale;
+- Regolamento (UE) n.181/2011 che modifica il Regolamento (CE) n. 2006/2004, relativo ai diritti dei passeggeri del trasporto effettuato con autobus;
+- Decreto legislativo 169/2014, recante disciplina sanzionatoria delle violazioni delle disposizioni del Regolamento UE 181/2011;
+- Contratto Ponte tra Regione Toscana e Soc. ONE scarl del 29/12/2017 e successivi atti impositivi, per l'affidamento in concessione del servizio TPL nell'ambito regionale toscano.
+
+## 1.2 Principi ispiratori
+L'Azienda si impegna a svolgere la propria attività secondo i seguenti principi:
+
+### Eguaglianza ed imparzialità
 Garantire l'accessibilità ai servizi ed alle strutture al pubblico gestite a tutti i cittadini, senza distinzione di nazionalità, genere, etnia, lingua, religione, opinioni politiche, censo, condizioni psicofisiche e sociali. Garantire e rendere più agevole l'accessibilità ai servizi agli anziani ed alle persone disabili, attraverso le azioni di miglioramento indicate nella presente carta.
 
+### Continuità
 Garantire l'erogazione del servizio continuo e regolare, secondo l'orario pubblicato e diffuso. Garantire la preventiva e tempestiva informazione di ogni variazione programmata di orario, tramite la diffusione di aggiornamenti e l'apposizione di avvisi alle fermate. In caso di necessità, attivare tutti i possibili interventi alternativi e sostitutivi del servizio. In caso di sciopero, a dare tempestiva, capillare e diffusa comunicazione dell'effettuazione del medesimo, garantendo l'effettuazione dei "servizi minimi" indicati al successivo punto 5.2, nel rispetto della vigente normativa in materia di sciopero.
 
+### Trasparenza e partecipazione
 Assicurare l'informazione all'utenza secondo le modalità e le procedure indicate nella presente carta. Garantire il più efficace accesso all'Ufficio per la cura delle relazioni con il pubblico (URP). Valutare segnalazioni, proposte e suggerimenti pervenuti dagli utenti, nonché ad attivare contatti con le Associazioni dei consumatori, quali momenti indispensabili al fine di indirizzare la propria politica di orientamento del mercato. Consultare le Associazioni degli utenti indicate nella presente carta, prima della adozione della carta dei servizi. Aggiornare la carta dei servizi dando atto dei risultati conseguiti relativamente agli impegni assunti, secondo le modalità indicate nella presente carta
 
+### Efficienza ed efficacia
 Erogare il servizio nel rispetto degli standard assunti nella presente carta, nonché a raggiungere gli obiettivi di miglioramento indicati nella carta medesima. Raccogliere ed analizzare dati di natura economico - gestionale, adottando piani aziendali volti al continuo miglioramento dell'efficienza e dell'efficacia nella produzione ed erogazione del servizio.
 
-# Finalità della carta
-fornisce informazioni sul sistema del trasporto pubblico regionale, sulla struttura e sull'organizzazione dell'azienda, sui servizi offerti e sulle modalità di prestazione dei medesimi, sull'offerta commerciale, sulle condizioni di viaggio, sulle modalità con cui l'utenza può relazionarsi con l'azienda, sui livelli qualitativi di prestazione del servizio, sui progetti aziendali di miglioramento del servizio, sulle azioni di salvaguardia dell'ambiente, sull'editing e sulla diffusione della carta
+## 1.3 Finalità della cart
+### Strumento di conoscenza
+- fornisce informazioni sul sistema del trasporto pubblico regionale, sulla struttura e sull'organizzazione dell'azienda, sui servizi offerti e sulle modalità di prestazione dei medesimi, sull'offerta commerciale, sulle condizioni di viaggio, sulle modalità con cui l'utenza può relazionarsi con l'azienda, sui livelli qualitativi di prestazione del servizio, sui progetti aziendali di miglioramento del servizio, sulle azioni di salvaguardia dell'ambiente, sull'editing e sulla diffusione della carta
+- garantisce il sistema di monitoraggio della qualità del servizio erogato;
+- garantisce la pubblicazione, l'aggiornamento e la diffusione della carta, con particolare riferimento ai risultati del monitoraggio della qualità in relazione agli impegni presi ed al raggiungimento degli obiettivi programmati.
 
-garantisce il sistema di monitoraggio della qualità del servizio erogato;
+### Strumento di partecipazione
+- mette a disposizione dell'utenza l'Ufficio Relazioni con il pubblico, che rappresenta canale istituzionale di comunicazione tra l'azienda ed i clienti;
+- garantisce l'effettuazione di monitoraggi della qualità del servizio percepito dai clienti.
 
-garantisce la pubblicazione, l'aggiornamento e la diffusione della carta, con particolare riferimento ai risultati del monitoraggio della qualità in relazione agli impegni presi ed al raggiungimento degli obiettivi programmati.
+### Strumento di tutela
+- garantisce risposta a chi abbia formulato richieste, segnalazioni, proposte o suggerimenti;
+- stabilisce e garantisce l'applicazione della procedura dei reclami da attivare in caso di violazione da parte dell'azienda dei diritti degli utenti ed in tutti i casi di mancato soddisfacimento degli impegni presi dall'azienda con la presente carta.
 
-mette a disposizione dell'utenza l'Ufficio Relazioni con il pubblico, che rappresenta canale istituzionale di comunicazione tra l'azienda ed i clienti;
-
-garantisce l'effettuazione di monitoraggi della qualità del servizio percepito dai clienti.
-
-garantisce risposta a chi abbia formulato richieste, segnalazioni, proposte o suggerimenti;
-
-stabilisce e garantisce l'applicazione della procedura dei reclami da attivare in caso di violazione da parte dell'azienda dei diritti degli utenti ed in tutti i casi di mancato soddisfacimento degli impegni presi dall'azienda con la presente carta.
-
-# Le associazioni degli utenti
+## 1.4 Le associazioni degli utenti
 I principali riferimenti per la tutela dei diritti dell'utente e del cittadino sono le Associazioni dei consumatori e degli utenti. Tali soggetti sono a disposizione degli utenti che volessero avvalersi del loro sostegno.
 
-Ai sensi dell'art 12-bis della Legge 21/6/2017 n. 96, al fine di verificare la qualità dei servizi di trasporto pubblico locale e regionale, le associazioni dei consumatori possono trasmettere, con cadenza semestrale, per via telematica, all'Osservatorio di cui all'articolo 1, comma 300, della legge 24 dicembre 2007, n. 244, i dati, ricavabili dalle segnalazioni dell'utenza, relativi ai disservizi di maggiore rilevanza e frequenza, proponendo possibili soluzioni strutturali per il miglioramento del servizio. L'Osservatorio informa dei disservizi segnalati le amministrazioni competenti e l'Autorità di regolazione dei trasporti per le determinazioni previste dall'articolo 37, comma 2, lettere d), e) e l), del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214.
+Ai sensi dell'art 12-bis della Legge 21/6/2017 n. 96, al fine di verificare la qualità dei servizi di trasporto pubblico locale e regionale, le associazioni dei consumatori possono trasmettere, con cadenza semestrale, per via telematica, all'Osservatorio di cui all'articolo 1, comma 300, della legge 24 dicembre 2007, n. 244, i dati, ricavabili dalle segnalazioni dell'utenza, relativi ai disservizi di maggiore rilevanza e frequenza, proponendo possibili soluzioni strutturali per il miglioramento del servizio. L'Osservatorio informa dei disservizi segnalati le amministrazioni competenti e l'Autorità di regolazione dei trasporti per le determinazioni previste dall'articolo 37, comma 2, lettere d), e) e l), del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214. Le amministrazioni competenti, entro trenta giorni, comunicano all'Osservatorio e all'Autorità di regolazione dei trasporti le iniziative eventualmente intraprese per risolvere le criticità denunciate ed entro i novanta giorni successivi rendono conto all'Osservatorio dell'efficacia delle misure adottate.
 
-Le amministrazioni competenti, entro trenta giorni, comunicano all'Osservatorio e all'Autorità di regolazione dei trasporti le iniziative eventualmente intraprese per risolvere le criticità denunciate ed entro i novanta giorni successivi rendono conto all'Osservatorio dell'efficacia delle misure adottate.
-
+# Il sistema regionale del trasporto pubblico locale
+## 2.1 Grafo regionale della rete dei servizi TPL e relativi dati
 Il sistema complessivo del Trasporto Pubblico Locale esercìto nella Regione Toscana è costituito da una rete rappresentata dal seguente grafo
 
-# Il sistema tariffario regionale sistema integrato Pegaso
+# LE CONDIZIONI DI VIAGGIO
+## 3.1 Il sistema tariffario regionale sistema integrato Pegaso
 Pegaso è un sistema tariffario, istituito dalla Regione Toscana, che permette al cliente di acquistare un unico abbonamento o biglietto per utilizzare, sul territorio regionale e sullo stesso percorso, indifferentemente il servizio ferroviario oppure le linee interurbane su gomma ed inoltre di combinare, opzionalmente, il percorso interurbano con il servizio urbano delle località di partenza e/o di destinazione.
 
 Le tipologie dei titoli di viaggio Pegaso sono:
@@ -79,7 +97,7 @@ Il sistema integrato Pegaso opera anche per i collegamenti con le isole dell'arc
 
 Tariffe e modalità di fruizione sono disponibili sul sito web della Regione Toscana.
 
-# Il sistema tariffario regionale tariffe agevolate lrt 100/98
+## 3.2 Il sistema tariffario regionale tariffe agevolate lrt 100/98
 I cittadini residenti nel territorio della regione Toscana che appartengono ad una delle sottoindicate categorie, hanno diritto al rilascio di una tessera valida per l'acquisto di biglietti e abbonamenti a tariffa agevolata.
 
 La tessera viene rilasciata, dietro presentazione della necessaria documentazione, comprovante il possesso dei necessari requisiti, all'URP competente per territorio, per una specifica tipologia di abbonamento (urbano, extraurbano, urbano+extraurbano) e per uno specifico servizio/tratta, e dà diritto all'acquisto dell'abbonamento corrispondente e di biglietti per una qualunque delle tipologie specificate più avanti. Il trattamento dei dati personali conferiti viene effettuato nel rispetto della normativa vigente in materia.
@@ -91,20 +109,21 @@ Ne hanno diritto:
 - persone disabili riconosciute in situazione di gravità, ai sensi degli articoli 3 e 4 della L. 3 febbraio 1992 n. 104;
 - invalidi minori di 18 anni che beneficiano dell'indennità di accompagnamento di cui alla legge 28 marzo 1968 n. 406, 11 febbraio 1980 n. 18 e 21 novembre 1988 n. 508 oppure dell'indennità di frequenza di cui alla L. 11 ottobre 1990 n. 289;
 - mutilati o invalidi di guerra;
+- Cavalieri di Vittorio Veneto, i titolari del diploma d'onore al combattente istituito con legge 16 marzo 1983, n. 75 (Concessione di un diploma d'onore attestante la qualifica di combattente per la libertà d'Italia 1943-1945), ai decorati al valor militare, ai perseguitati politici antifascisti o razziali riconosciuti;
+- Cittadini di età superiore ai sessantacinque anni:
+    - se celibi, vedovi, liberi di stato o giudizialmente separati, percettori di un reddito annuo personale ai fini IRPEF non superiore all'importo della pensione minima INPS maggiorata ai sensi della Legge 15 aprile 1985, n.140 e successive modificazioni;
+    - se coniugati, qualora il reddito personale del richiedente non superi quello indicato al punto precedente ed il reddito annuale di coppia non superi 2,5 volte il medesimo limite, ovvero se il reddito del richiedente superi quello indicato al punto precedentema il reddito di coppia non superi il doppio del medesimo limite.
 
 Tutti i soggetti beneficiari previsti dalla L.R. 100/98 possono accedere all'ulteriore riduzione del 40%, per gli abbonamenti, nei seguenti casi:
 - reddito personale uguale o inferiore alla pensione minima Inps;
 - per soggetti che vivono soli o in un nucleo in cui non vi sono altri redditi: reddito personale uguale o inferiore alla pensione minima Inps maggiorata del 25%.
 
-Ai fini della presente normativa, gli ultrasessantacinquenni dichiarati invalidi ai sensi dell'art. 6 del D. Lgs. N. 509 del 1988 sono assimilati agli invalidi con percentuale superiore o uguale al 67%.
+I soggetti ultrasessantacinquenni hanno diritto alla riduzione del 40% anche nel seguente caso:
+- soggetti coniugati con reddito personale superiore all'importo pensione minima Inps e reddito di coppia uguale o inferiore al doppio del medesimo limite.
 
-La validità dei titoli di viaggio rilasciati in base alla presente normativa ad invalidi che abbiano diritto di accompagnamento, viene estesa senza sovrapprezzo all'eventuale accompagnatore.
+Ai fini della presente normativa, gli ultrasessantacinquenni dichiarati invalidi ai sensi dell'art. 6 del D. Lgs. N. 509 del 1988 sono assimilati agli invalidi con percentuale superiore o uguale al 67%. La validità dei titoli di viaggio rilasciati in base alla presente normativa ad invalidi che abbiano diritto di accompagnamento, viene estesa senza sovrapprezzo all'eventuale accompagnatore. I cittadini appartenenti alle categorie sopra citate possono acquistare i titoli di viaggio agevolati solo se in possesso di una tessera di riconoscimento del costo di € 6,00 e valida 5 anni dalla data del rilascio.
 
-I cittadini appartenenti alle categorie sopra citate possono acquistare i titoli di viaggio agevolati solo se in possesso di una tessera di riconoscimento del costo di € 6,00 e valida 5 anni dalla data del rilascio.
-
-Le tipologie di titoli e gli importi delle tariffe previste in tale ambito sono riepilogate nella tabella seguente
-
-# Trasporto bambini
+## 3.3 Trasporto bambini
 I bambini di altezza non superiore a un metro, accompagnati da un viaggiatore, sono trasportati gratuitamente se non occupano un posto a sedere; oltre tale limite sono soggetti al pagamento della tariffa ordinaria. Nel caso di viaggiatore che accompagni più di un bambino, uno di questi viaggerà gratuitamente, mentre per gli altri vige l'obbligo del pagamento della tariffa ordinaria.
 
 Il trasporto dei passeggini a bordo degli autobus è consentito solo se lo stesso può avvenire in tutta sicurezza.
@@ -117,10 +136,10 @@ L'ingresso deve avvenire dalla porta centrale, dopo aver consentito la discesa d
 
 Per l'eventuale trasporto di passeggini nella bauliera del bus valgono le norme per il trasporto bagagli di cui al successivo p.to 3.5.
 
-# Trasporto persone a mobilità ridotta (PMR)
+## 3.4 Trasporto persone a mobilità ridotta (PMR)
 Le Persone a Mobilità Ridotta, che si spostino con l'ausilio di apposite carrozzelle, possono accedere ai servizi di trasporto erogati dalle aziende di ONE Scarl secondo modalità dettagliate, per ciascun soggetto gestore, nel successivo capitolo 5.1 della presente Carta dei Servizi e stabilite in funzione delle varie tipologie di vetture e dei servizi offerti.
 
-# Trasporto bagagli
+## 3.5 Trasporto bagagli
 Ad ogni viaggiatore è consentito di trasportare gratuitamente a bordo, senza tuttavia occupare posti a sedere e sistemato in maniera da non ostacolare il passaggio da e verso le porte del bus, un bagaglio delle dimensioni massime di cm 105 (somma tra lunghezza, larghezza e profondità) e di peso complessivo non superiore a 10 kg.
 
 Nel caso di trasporto di biciclette, fatte salve le condizioni sopra indicate per i bagagli, queste devono essere ripiegate e tali da non lasciare parti sporgenti. In questo caso la dimensione massima complessiva ammessa è di 195 cm. Il trasporto di bagagli e biciclette può essere rifiutato, ad insindacabile giudizio del personale dell'azienda, in caso di affollamento della vettura.
@@ -131,7 +150,7 @@ Non è consentito il trasporto di colli non accompagnati da viaggiatori.
 
 Il bagaglio non è assicurato. Le responsabilità per danni, furti, manomissioni, dispersioni o deterioramento degli oggetti trasportati e del loro contenuto sono disciplinate dall'art. 1681 c.c. e dalla normativa collegata. L'azienda non risponde inoltre del bagaglio che venga dimenticato, smarrito o lasciato incustodito dal viaggiatore sull'autobus o di scambi di bagagli fra passeggeri.
 
-# Trasporto animali
+## 3.6 Trasporto animali
 Ai sensi della LRT 19/7/2017 n. 35, è consentito l'accesso gratuito degli animali di affezione sui mezzi di trasporto pubblico locale nei limiti di un solo animale per passeggero.
 
 I passeggeri che conducano cani sono obbligati ad usare il guinzaglio e la museruola, ad eccezione di quelli destinati all'assistenza delle persone prive di vista. È comunque consentito l'utilizzo del trasportino in alternativa a guinzaglio e museruola. Gli altri animali d'affezione sono custoditi in appositi trasportini che impediscano il contatto dell'animale con l'esterno. I contenitori suddetti (trasportini) devono avere le dimensioni massime di 140 cm (somma tra lunghezza, larghezza e profondità) e non occupare posti a sedere, essendo altrimenti soggetti al pagamento della tariffa ordinaria.
@@ -142,26 +161,29 @@ Nel caso in cui l'animale sporchi o deteriori la vettura o rechi danno a persone
 
 L'animale può essere allontanato, a insindacabile giudizio del personale aziendale, in caso di notevole affollamento, qualora arrechi disturbo ai viaggiatori o in caso di mancato rispetto degli obblighi di cui sopra.
 
-# Doveri dei clienti
-munirsi di idoneo e valido titolo di viaggio, validarlo al primo utilizzo (salvo quanto previsto al successivo p.to b), conservarlo per la durata del percorso, e fino alla fermata di discesa nonché a esibirlo su richiesta del personale di vigilanza;
+## 3.7 Doveri dei clienti
+Sugli autobus e nelle infrastrutture a disposizione del pubblico, i sigg.ri viaggiatori sono tenuti al rispetto dei seguenti comportamenti (Legge Regione Toscana n. 42/1998 e ss.mm.ii.):
+- munirsi di idoneo e valido titolo di viaggio, validarlo al primo utilizzo (salvo quanto previsto al successivo p.to b), conservarlo per la durata del percorso, e fino alla fermata di discesa nonché a esibirlo su richiesta del personale di vigilanza;
+- per i Sistemi di Bigliettazione Elettronica, validare il titolo di viaggio ad ogni accesso a bordo. I titoli non validabili devono comunque essere mostrati al conducente all'atto della salita a bordo;
+- occupare un solo posto a sedere;
+- rispettare le disposizioni relative ai posti riservati;
+- le fermate sono a richiesta: segnalare sempre l'intenzione di salire o scendere dal bus; la salita si effettua, salvo diverse indicazioni, dalla porta anteriore, e la discesa da quella centrale e/o posteriore;
+- non disturbare gli altri viaggiatori (l'uso dei cellulari è ammesso, a condizione di non arrecare disturbo agli altri viaggiatori);
+- non sporcare e non danneggiare i mezzi e le strutture di supporto. Le sanzioni di cui all'art. 25, comma 4, della Legge regionale 31 luglio 1998, n° 42 (Norme per il trasporto pubblico locale), non si applicano qualora tali atti siano compiuti da chi è colto da improvviso malore, fermo restando l'obbligo del risarcimento del danno eventualmente arrecato;
+- non trasportare oggetti nocivi o pericolosi;
+- non portare con sé armi cariche e non smontate, salvo quanto stabilito dalle vigenti leggi in materia di detenzione nonché di tutela della sicurezza pubblica. Le munizioni di dotazione devono essere accuratamente custodite negli appositi contenitori. Il divieto non si applica agli agenti della Forza Pubblica;
+- non usare segnali di allarme o qualsiasi dispositivo di emergenza se non in caso di grave ed incombente pericolo;
+- rispetare le disposizioni concernenti il trasporto di bambini, animali ed il trasporto bagagli;
+- non fumare compreso le c.d. "sigarette elettroniche";
+- non gettare alcun oggetto dai veicoli.
+- uso obbligatorio delle cinture di sicurezza a bordo dei bus: in attuazione alla Direttiva 91/671/CEE, il D.Lgs. 150/06 ha introdotto l'obbligo per tutti i passeggeri di età superiore a 3 anni di utilizzare, quando sono seduti, le cinture di sicurezza di cui gli autobus siano provvisti. L'obbligo non è pertanto previsto per i mezzi sprovvisti di cinture di sicurezza.
 
-per i Sistemi di Bigliettazione Elettronica, validare il titolo di viaggio ad ogni accesso a bordo. I titoli non validabili devono comunque essere mostrati al conducente all'atto della salita a bordo;
+## 3.8 Sanzioni a carico dei clienti
+Chiunque violi le norme contenute nella Legge Regione Toscana n. 42/1998 (e ss.mm.ii.) è tenuto al pagamento di una sanzione amministrativa pecuniaria come di seguito riportato.
+- Per le violazioni di cui al precedente paragrafo 3.7 – Doveri dei clienti, punti da b) a m), con esclusione del p.to l): da 10,00 € (misura minima) a 60,00 €
+- Per la violazione di cui al p.to n) da € 68.00 (misura minima) a €.275,00
+- Per la violazione di cui al p.to l) da € 27,50 (misura minima) a € 275,00 ai sensi della Legge n° 3/2003 e Legge Regione Toscana n. 25/2005
 
-le fermate sono a richiesta: segnalare sempre l'intenzione di salire o scendere dal bus; la salita si effettua, salvo diverse indicazioni, dalla porta anteriore, e la discesa da quella centrale e/o posteriore;
-
-non disturbare gli altri viaggiatori (l'uso dei cellulari è ammesso, a condizione di non arrecare disturbo agli altri viaggiatori);
-
-non sporcare e non danneggiare i mezzi e le strutture di supporto. Le sanzioni di cui all'art. 25, comma 4, della Legge regionale 31 luglio 1998, n° 42 (Norme per il trasporto pubblico locale), non si applicano qualora tali atti siano compiuti da chi è colto da improvviso malore, fermo restando l'obbligo del risarcimento del danno eventualmente arrecato;
-
-non portare con sé armi cariche e non smontate, salvo quanto stabilito dalle vigenti leggi in materia di detenzione nonché di tutela della sicurezza pubblica. Le munizioni di dotazione devono essere accuratamente custodite negli appositi contenitori. Il divieto non si applica agli agenti della Forza Pubblica;
-
-non usare segnali di allarme o qualsiasi dispositivo di emergenza se non in caso di grave ed incombente pericolo;
-
-rispettare le disposizioni concernenti il trasporto di bambini, animali ed il trasporto bagagli;
-
-uso obbligatorio delle cinture di sicurezza a bordo dei bus: in attuazione alla Direttiva 91/671/CEE, il D.Lgs. 150/06 ha introdotto l'obbligo per tutti i passeggeri di età superiore a 3 anni di utilizzare, quando sono seduti, le cinture di sicurezza di cui gli autobus siano provvisti. L'obbligo non è pertanto previsto per i mezzi sprovvisti di cinture di sicurezza.
-
-# Sanzioni a carico dei clienti
 I viaggiatori trovati a bordo dal personale di vigilanza sprovvisti di idoneo documento di viaggio ovvero muniti di documento di viaggio non valido o scaduto, o comunque irregolare o non corrispondente al servizio e/o alla tratta utilizzato/a sono tenuti al pagamento, per la violazione di cui al precedente paragrafo 3.7 p.to a), della sanzione amministrativa, oltre alle spese di procedura ove previste, nelle misure seguenti:
 - SERVIZI URBANI da € 40,00 (misura minima) ad € 240,00, oltre al pagamento dell'importo relativo alla tariffa di vendita a bordo del biglietto orario;
 - SERVIZI EXTRAURBANI sanzione amministrativa pecuniaria da € 60,00 (misura minima) ad € 360,00 oltre al pagamento dell'importo relativo alla tariffa di vendita a bordo corrispondente al servizio usufruito, calcolata dalla fermata precedente l'accertamento (o di validazione se presente) a quella di destinazione dichiarata dal viaggiatore.
@@ -184,30 +206,19 @@ Gli agenti accertatori, comunque muniti di apposito tesserino di riconoscimento,
 
 Ai sensi del comma 13 dell'art. 48 della medesima L. 96/2017, le rilevazioni dei sistemi di video sorveglianza presenti a bordo dei veicoli e/o alle fermate possono essere utilizzate ai fini del contrasto all'evasione tariffaria e come mezzo di prova per l'identificazione di eventuali trasgressori che rifiutino di fornire le proprie generalità agli agenti accertatori, anche con eventuale trasmissione alle competenti forze dell'ordine.
 
-# I diritti dei clienti
-Con l'acquisto del titolo di viaggio viene stipulato un contratto che impegna il cliente e la Società ad un rapporto caratterizzato da condizioni reciproche di diritti e doveri. 
-
-Il cliente ha diritto a viaggiare in condizioni di sicurezza e tranquillità;
-
-Il cliente ha diritto all'informazione a terra e a bordo dei mezzi di trasporto;
-
-Il cliente ha diritto alla tempestiva pubblicazione e reperibilità degli orari in essere;
-
-Il cliente ha diritto al rispetto degli orari in essere;
-
-Il cliente ha diritto ad acquisire, anche tramite un servizio informazioni telefonico, le informazioni relative al servizio ed alle modalità di fruizione del medesimo;
-
-Il cliente ha diritto a un comportamento cortese e rispettoso da parte di tutto il personale in servizio;
-
-Il cliente ha diritto alla riconoscibilità del personale a contatto con la clientela;
-
-Il cliente ha diritto a inoltrare reclami;
-
-Il cliente ha diritto a esprimere giudizi e proporre suggerimenti;
-
-Il cliente ha diritto alla fruizione del servizio nel rispetto degli standard indicati nella parte settima della presente Carta, e del Regolamento CE 181 del 16 febbraio 2011; ai sensi del d.Lgs. 4/11/2014 n. 169 (Disciplina sanzionatoria delle violazioni delle disposizioni del Regolamento CE 181/2011) l'organismo responsabile dell'applicazione del suddetto Regolamento è l'Autorità di Regolazione dei Trasporti, via Nizza 230 – 10126 Torino, www.autorita-trasporti.it)
-
-Il cliente ha diritto al rimborso del titolo di viaggio nel caso in cui, nei servizi urbani, la corsa venga effettuata con più di 30 minuti di ritardo, ovvero 60 minuti per i servizi extraurbani, per cause imputabili all'Azienda e con l'eccezione di calamità naturali, scioperi ed altre emergenze imprevedibili, secondo quanto disposto dal comma 12-ter dell'art. 48 della Legge 21/6/2017 n. 96
+## 3.9 I diritti dei clienti
+Con l'acquisto del titolo di viaggio viene stipulato un contratto che impegna il cliente e la Società ad un rapporto caratterizzato da condizioni reciproche di diritti e doveri. Il cliente ha diritto
+- a viaggiare in condizioni di sicurezza e tranquillità;
+- all'informazione a terra e a bordo dei mezzi di trasporto;
+- alla tempestiva pubblicazione e reperibilità degli orari in essere;
+- al rispetto degli orari in essere;
+- ad acquisire, anche tramite un servizio informazioni telefonico, le informazioni relative al servizio ed alle modalità di fruizione del medesimo;
+- a un comportamento cortese e rispettoso da parte di tutto il personale in servizio;
+- alla riconoscibilità del personale a contatto con la clientela;
+- a inoltrare reclami;
+- a esprimere giudizi e proporre suggerimenti;
+- alla fruizione del servizio nel rispetto degli standard indicati nella parte settima della presente Carta, e del Regolamento CE 181 del 16 febbraio 2011; ai sensi del d.Lgs. 4/11/2014 n. 169 (Disciplina sanzionatoria delle violazioni delle disposizioni del Regolamento CE 181/2011) l'organismo responsabile dell'applicazione del suddetto Regolamento è l'Autorità di Regolazione dei Trasporti, via Nizza 230 – 10126 Torino, www.autorita-trasporti.it)
+- al rimborso del titolo di viaggio nel caso in cui, nei servizi urbani, la corsa venga effettuata con più di 30 minuti di ritardo, ovvero 60 minuti per i servizi extraurbani, per cause imputabili all'Azienda e con l'eccezione di calamità naturali, scioperi ed altre emergenze imprevedibili, secondo quanto disposto dal comma 12-ter dell'art. 48 della Legge 21/6/2017 n. 96
 
 Il rimborso, in denaro, consiste nella restituzione del prezzo del biglietto acquistato dal cliente per il percorso oggetto del disservizio; per gli abbonati il rimborso è pari alla quota giornaliera (costo complessivo/giorni di validità) del costo completo dell'abbonamento, corrisposto tramite decurtazione di pari importo sul prezzo dell'abbonamento da acquistarsi successivamente. Per ottenere il rimborso occorre inviare apposita richiesta, entro 7 giorni dal disservizio, unitamente al biglietto o copia dell'abbonamento valido per la tratta interessata, all'URP della Società esercente il servizio.
 
@@ -218,80 +229,81 @@ Industria, Artigianato territorialmente competente. La procedura è gratuita se 
 
 Per ricorrere, invece, all'autorità giudiziaria, il cliente dovrà rivolgersi al Giudice di Pace o al tribunale competente per valore e per territorio, con le procedure previste dalla normativa vigente.
 
-# Struttura giuridica
+# DESCRIZIONE DELL'AZIENDA
+## 4.1 Struttura giuridica
 La Soc. SIENA MOBILITÀ Scarl gestisce operativamente il servizio automobilistico di TPL nel Bacino territoriale di Siena in attuazione del contratto ponte 2018-2019 tra Regione Toscana e Soc. ONE scarl, di cui SIENA MOBILITÀ fa parte, e dei successivi atti d'obbligo imposti dalla Regione.
 
-# Servizi a domanda/prenotazione
-Il servizio di prenotazione è attivo tutti i giorni, compresi i festivi, dalle 7,00 alle 20,00. Non viene effettuato il 1° Gennaio, il 1° Maggio, a Natale ed a Pasqua, mentre il 26 Dicembre viene interrotto dalle 13,00 alle 15,00. Il 31 Dicembre rimane attivo fino alle ore 19,00.
+# L'Offerta commerciale
+## 5.1 Servizi di trasporto offerti
+### Servizi a domanda/prenotazione
+#### Servizio Buxi A e Buxi B nel Comune di Siena
+- Il servizio di prenotazione è attivo tutti i giorni, compresi i festivi, dalle 7,00 alle 20,00. Non viene effettuato il 1° Gennaio, il 1° Maggio, a Natale ed a Pasqua, mentre il 26 Dicembre viene interrotto dalle 13,00 alle 15,00. Il 31 Dicembre rimane attivo fino alle ore 19,00.
+- Il servizio di trasporto a chiamata viene effettuato esclusivamente nei giorni feriali.
 
-Il servizio di trasporto a chiamata viene effettuato esclusivamente nei giorni feriali. 
+Modalità di accesso: L'utente può prenotare il servizio telefonando al Numero Verde 800.922984 (da fisso) e al numero dedicato 199.168182 da telefono mobile. Chiamando entro le 18.00 del giorno precedente allo spostamento è possibile fare la richiesta di viaggio e di istituzione di una nuova corsa; oltre tale orario e fino a 1 ora prima della partenza è comunque possibile aggregarsi a corse già programmate. La conferma della prenotazione e la comunicazione dell'orario di partenza avverrà tramite un contatto telefonico o l'invio di un SMS. Al fine di censire e sintetizzare i singoli orari richiesti per le corse gli stessi avranno una tolleranza in più o in meno di 20 minuti rispetto all'orario richiesto.
 
-L'utente può prenotare il servizio telefonando al Numero Verde 800.922984 (da fisso) e al numero dedicato 199.168182 da telefono mobile.
+#### Linea a prenotazione Siena-Paganico-Grosseto-Orbetello-Fiumicino
+Tiemme, in collaborazione con ByBus, ha attivato il nuovo servizio Toscana By Bus che collega Siena, Paganico, Grosseto e Orbetello con l'Aeroporto di Fiumicino. Il servizio di linea a prenotazione prevede partenze quotidiane, sia nei giorni feriali che festivi, sia da Siena che dall'Aeroporto di Fiumicino. Il servizio è effettuato con autobus Gran Turismo dotati di climatizzatore di bordo e wi-fi, ed in sole 3 ore consente di raggiungere l'Aeroporto di Fiumicino.
 
-Chiamando entro le 18.00 del giorno precedente allo spostamento è possibile fare la richiesta di viaggio e di istituzione di una nuova corsa; oltre tale orario e fino a 1 ora prima della partenza è comunque possibile aggregarsi a corse già programmate. La conferma della prenotazione e la comunicazione dell'orario di partenza avverrà tramite un contatto telefonico o l'invio di un SMS. Al fine di censire e sintetizzare i singoli orari richiesti per le corse gli stessi avranno una tolleranza in più o in meno di 20 minuti rispetto all'orario richiesto.
-
-# Linea a prenotazione Siena-Paganico-Grosseto-Orbetello-Fiumicino
-Tiemme, in collaborazione con ByBus, ha attivato il nuovo servizio Toscana By Bus che collega Siena, Paganico, Grosseto e Orbetello con l'Aeroporto di Fiumicino. Il servizio di linea a prenotazione prevede partenze quotidiane, sia nei giorni feriali che festivi, sia da Siena che dall'Aeroporto di Fiumicino.
-
-Il servizio è effettuato con autobus Gran Turismo dotati di climatizzatore di bordo e wi-fi, ed in sole 3 ore consente di raggiungere l'Aeroporto di Fiumicino.
-
-# Servizi attrezzati per disabili
+#### Servizi attrezzati per disabili
 L'Azienda riserva un'attenzione particolare alle esigenze degli utenti disabili e con ridotte capacità motorie mediante il rinnovamento costante del parco mezzi con autobus dotati di pedana e posti riservati, ed opera nel rispetto del Regolamento UE 181/2011.
 
-Su richiesta dell'interessato, l'Azienda fornisce assistenza alle persone con disabilità o a mobilità ridotta (PMR), presso autostazioni e capolinea attrezzati.
-
-Le richieste possono essere inoltrate:
+Su richiesta dell'interessato, l'Azienda fornisce assistenza alle persone con disabilità o a mobilità ridotta (PMR), presso autostazioni e capolinea attrezzati. Le richieste possono essere inoltrate:
 - Telefonicamente attraverso il numero verde dedicato 800 684040 attivo tutti i giorni dalle ore 7.30 alle ore 19.30
 - Via email attraverso la compilazione del form presente sul sito www.tiemmespa.it
 
-# Servizi garantiti in caso di sciopero
-Le corse già avviate all'interno delle fasce orarie sopra citate saranno regolarmente portate a termine per le destinazioni di competenza, garantendo il servizio completo (salita e discesa passeggeri) normalmente previsto. Non saranno garantite le corse la cui partenza dal capolinea si origina in orario al di fuori delle fasce di garanzia.
+## 5.2 Servizi garantiti in caso di sciopero
+Le fasce di garanzia che vengono rispettate in occasione della proclamazione di uno sciopero da parte delle OO.SS. sono le seguenti:
+- TIEMME: dalle 5.30 alle 8.30 e dalle 12.30 alle 15.30: Le corse già avviate all'interno delle fasce orarie sopra citate saranno regolarmente portate a termine per le destinazioni di competenza, garantendo il servizio completo (salita e discesa passeggeri) normalmente previsto. Non saranno garantite le corse la cui partenza dal capolinea si origina in orario al di fuori delle fasce di garanzia.
+- BYBUS: dalle 5.30 alle 8.30 e dalle 12.30 alle 15.30: Le corse già avviate all'interno delle fasce orarie sopra citate saranno regolarmente portate a termine per le destinazioni di competenza, garantendo il servizio completo (salita e discesa passeggeri) normalmente previsto. Non saranno garantite le corse la cui partenza dal capolinea si origina in orario al di fuori delle fasce di garanzia.
+- FS BUSITALIA - SITA NORD S.r.l. - dalle 4.15 alle 8.15 e dalle 12.30 alle 14.30.
 
-Le corse già avviate all'interno delle fasce orarie sopra citate saranno regolarmente portate a termine per le destinazioni di competenza, garantendo il servizio completo (salita e discesa passeggeri) normalmente previsto. Non saranno garantite le corse la cui partenza dal capolinea si origina in orario al di fuori delle fasce di garanzia.
-
-# Il sistema tariffario aziendale
+## 5.3 Il sistema tariffario aziendale
 Sui servizi urbani sarà attivata la possibilità dell'acquisto di biglietto, valido 70' dall'ora di acquisto tramite SMS, inviando al n. 4860607 un messaggio con il testo riportato di seguito a seconda della località di interesse, alla tariffa specificata (il costo complessivo sarà maggiorato del costo dell'SMS di conferma, dipendente dal piano tariffario dell'acquirente).
 
-l'avvenuto acquisto del titolo di viaggio è confermato dalla ricezione dell'SMS di risposta sul proprio dispositivo e il biglietto avrà validità solamente dopo 5 minuti dall'inoltro della richiesta. Sul servizio urbano di Siena, Colle val d'Elsa e Poggibonsi è attivo un Sistema di Bigliettazione Elettronica (SBE), basato sull'utilizzo di una tessera elettronica personale in PVC ricaricabile (MOBINT CARD) multifunzione (tessera di riconoscimento + abbonamento + borsellino) da validare ad ogni salita in vettura presso le apposite validatrici in modalità senza contatto (contactless) per semplice avvicinamento, senza inserimento.
+N.B.: l'avvenuto acquisto del titolo di viaggio è confermato dalla ricezione dell'SMS di risposta sul proprio dispositivo e il biglietto avrà validità solamente dopo 5 minuti dall'inoltro della richiesta. Sul servizio urbano di Siena, Colle val d'Elsa e Poggibonsi è attivo un Sistema di Bigliettazione Elettronica (SBE), basato sull'utilizzo di una tessera elettronica personale in PVC ricaricabile (MOBINT CARD) multifunzione (tessera di riconoscimento + abbonamento + borsellino) da validare ad ogni salita in vettura presso le apposite validatrici in modalità senza contatto (contactless) per semplice avvicinamento, senza inserimento.
 
-Sul servizio urbano di Siena e extraurbano di San Gimignano è stato attivato un nuovo sistema di pagamento del biglietto con carta di credito a bordo del bus, senza pagamento del sovrapprezzo.
+### Pagamento con carta di Credito
+Sul servizio urbano di Siena e extraurbano di San Gimignano è stato attivato un nuovo sistema di pagamento del biglietto con carta di credito a bordo del bus, senza pagamento del sovrapprezzo. Il sistema di pagamento funziona con tutte le carte di credito contactless dei circuiti Mastercard (inclusi Maestro e Vpay) e Visa. Fare il biglietto a bordo è semplice ed intuitivo: salendo sul bus urbano, è sufficiente avvicinare la propria carta di credito contactless o il proprio smartphone con funzione NFC attiva alla nuova obliteratrice, attendere il bip di convalida e la luce verde, quindi accomodarsi a bordo. Il biglietto è a tutti gli effetti un titolo di viaggio urbano, dal normale costo di 1,50 € senza nessuna maggiorazione, e dalla solita validità pari a 70 minuti. L'operazione è veloce come un bip: nessuna registrazione è richiesta; nessuna data di scadenza da ricordare; l'addebito arriva direttamente sul proprio conto e, in caso di controllo, al passeggero basterà comunicare al verificatore le ultime 4 cifre della sua carta di credito. In nessun caso l'utente dovrà consegnare la propria carta di credito ai verificatori.
 
-Il sistema di pagamento funziona con tutte le carte di credito contactless dei circuiti Mastercard (inclusi Maestro e Vpay) e Visa. Fare il biglietto a bordo è semplice ed intuitivo: salendo sul bus urbano, è sufficiente avvicinare la propria carta di credito contactless o il proprio smartphone con funzione NFC attiva alla nuova obliteratrice, attendere il bip di convalida e la luce verde, quindi accomodarsi a bordo. Il biglietto è a tutti gli effetti un titolo di viaggio urbano, dal normale costo di 1,50 € senza nessuna maggiorazione, e dalla solita validità pari a 70 minuti. L'operazione è veloce come un bip: nessuna registrazione è richiesta; nessuna data di scadenza da ricordare; l'addebito arriva direttamente sul proprio conto e, in caso di controllo, al passeggero basterà comunicare al verificatore le ultime 4 cifre della sua carta di credito. In nessun caso l'utente dovrà consegnare la propria carta di credito ai verificatori.
+### Validità temporale
+- Biglietto orario: valido 70 minuti dall'obliterazione.
+- Biglietto di corsa semplice: dal momento della salita a bordo alla fine del viaggio.
+- L'abbonamento settimanale: valido 7 giorni dal lunedì alla domenica successiva.
+- L'abbonamento mensile: valido per un mese solare.
+- L'abbonamento trimestrale: valido per 3 mesi che decorrono dal primo giorno del primo mese al quale si riferisce.
+- L'abbonamento 10 mesi studenti: valido dal 1° settembre al 30 giugno successivo.
+- L'abbonamento annuale: valido per 12 mesi che decorrono dal primo giorno del primo mese di validità (es. se acquistato il 10 giugno, la validità parte dal 1 giugno del mese stesso e termina il 31 maggio dell'anno seguente).
 
-decurtazione di una penale dell'8% da calcolarsi sul valore nominale del titolo; detrazione dell'importo di "n" abbonamenti mensili della stessa classe chilometrica e tipologia dell'abbonamento annuale da rimborsare; ("n" corrisponde al numero di mesi intercorrenti dal primo mese di validità dell'abbonamento annuale al mese di riconsegna dello stesso). Le operazioni avvengono per periodi interi.
+### Mancato utilizzo di abbonamenti
+Gli abbonamenti annuali, per valide motivazioni quali perdita del lavoro, cambio di sede di lavoro o sede di residenza, maternità, malattia possono essere rimborsati con le seguenti modalità:
+- decurtazione di una penale dell'8% da calcolarsi sul valore nominale del titolo;
+- detrazione dell'importo di "n" abbonamenti mensili della stessa classe chilometrica e tipologia dell'abbonamento annuale da rimborsare; ("n" corrisponde al numero di mesi intercorrenti dal primo mese di validità dell'abbonamento annuale al mese di riconsegna dello stesso). Le operazioni avvengono per periodi interi.
 
 Non è ammesso il rimborso per abbonamenti scaduti ossia accettare richieste pervenute in tempi successivi al periodo di validità del titolo. La richiesta di rimborso può essere accolta fino a 4 mesi prima della scadenza annuale del titolo. Il rimborso avviene tramite l'emissione di un buono da utilizzarsi per l'acquisto di titoli di viaggio.
 
+### Accesso a bordo e verifica
 L'ingresso a bordo bus è consentito esclusivamente dalla porta anteriore. I titoli elettronici debbono essere validati ad ogni salita a bordo; i titoli cartacei (compresi quelli acquistati a bordo) debbono essere validati alle apposite apparecchiature alla prima salita a bordo; i titoli non validabili (es. SMS) debbono comunque essere mostrati al conducente salendo a bordo. In caso di guasti delle apparecchiature di convalida, il viaggiatore deve darne notizia al conducente. I titoli di viaggio (compresi tessera personale di riconoscimento e tagliando ISEE TPL ove richiesti) devono essere esibiti a richiesta del personale incaricato dall'azienda.
 
 Nell'obiettivo del contenimento dell'emergenza COVID-19, ed in linea con le disposizioni emanate dalle autorità competenti, sono state sospese tutte le vendite dei titoli di viaggio a bordo. In caso di disattivazione dell'obliteratrice a bordo, gli utenti sono chiamati a scrivere a penna sul biglietto la data e l'orario della salita a bordo. In caso contrario l'utente è passibile di sanzione.
 
-hanno diritto a fruire della tariffa ISEE coloro che siano in possesso di indicatore familiare ISEE non superiore a 36.151,98 € ed esibiscano, in sede di acquisto dell'abbonamento e a bordo, su richiesta del personale di verifica, l'apposito tagliando ISEE TPL.
+### Tariffazioni speciali
+#### Abbonamenti ISEE
+hanno diritto a fruire della tariffa ISEE coloro che siano in possesso di indicatore familiare ISEE non superiore a 36.151,98 € ed esibiscano, in sede di acquisto dell'abbonamento e a bordo, su richiesta del personale di verifica, l'apposito tagliando ISEE TPL. Le modalità per ottenere il tagliando sono reperibili al recapito web http://www.regione.toscana.it/-/abbonamenti-ed-agevolazioni-isee
 
-fino al compimento del 16-esimo anno di età la
- 
-Compiuti i 16 anni sono considerati STUDENTI, comunque non oltre il compimento del 26-esimo anno di età, gli iscritti presso Istituti di istruzione di qualunque ordine e grado (pubblici o privati) che rilascino al termine del corso di studi un titolo di studio (licenza, diploma, laurea) legalmente riconosciuto dallo Stato italiano, compreso lo status dei c.d. "dottorandi" o specializzandi". La condizione di cui sopra deve essere comprovata tramite certificazione dell'Istituto scolastico (se privato) oppure autocertificazione del richiedente, ex DPR 445/2000, in caso di Istituto pubblico.
+#### Abbonamenti STUDENTI
+fino al compimento del 16-esimo anno di età la condizione di STUDENTE è riconosciuta d'ufficio. Compiuti i 16 anni sono considerati STUDENTI, comunque non oltre il compimento del 26-esimo anno di età, gli iscritti presso Istituti di istruzione di qualunque ordine e grado (pubblici o privati) che rilascino al termine del corso di studi un titolo di studio (licenza, diploma, laurea) legalmente riconosciuto dallo Stato italiano, compreso lo status dei c.d. "dottorandi" o specializzandi". La condizione di cui sopra deve essere comprovata tramite certificazione dell'Istituto scolastico (se privato) oppure autocertificazione del richiedente, ex DPR 445/2000, in caso di Istituto pubblico.
 
-i costi sostenuti per l'acquisto degli abbonamenti al trasporto pubblico locale regionale ed interregionale potranno essere portati in detrazione fino ad un massimo di 250,00 euro a contribuente. La detrazione è pari al 19% delle spese sostenute spetta anche se le stesse sono state sostenute per i familiari a carico. La detrazione è ammessa esclusivamente se il pagamento avviene in maniera tracciabile con modalità elettronica (carta di credito/debito, bancomat). Per usufruire della detrazione è sufficiente conservare il proprio abbonamento e tessera di riconoscimento aziendale con relativo scontrino di pagamento ed allegarlo alla documentazione della propria denuncia dei redditi 2021. A fronte di pagamento in contanti non sarà possibile richiedere alcuna detrazione fiscale.
-
-Su tutte le corse di linea è possibile acquistare il biglietto a bordo, direttamente dal conducente al momento della salita a bordo, utilizzabile per la sola corsa sulla quale viene acquistato.
-
-Anche il biglietto acquistato a bordo deve essere immediatamente timbrato all'apposita validatrice.
-
-È necessario salire dalla porta anteriore muniti di denaro contato (il conducente può non avere resto disponibile ed in tal caso non consentire l'accesso a bordo).
-
-Le tariffe sono maggiorate, ai sensi delle vigenti disposizioni regionali.
-
-Il biglietto urbano acquistato a bordo ha validità 70 minuti dalla timbratura.
-
-Il biglietto extraurbano ha validità per una sola corsa limitatamente alla tratta chilometrica pagata.
-
-Nel caso in cui il conducente sia momentaneamente sprovvisto di biglietti da rilasciare a bordo, proseguire il viaggio è scelta dell'utente in quanto ciò non lo salvaguarda rispetto alla contestazione di sanzione amministrativa da parte del personale ispettivo qualora salga a bordo del bus nel corso del viaggio.
+## 5.4 Acquisto dei titoli di viaggio
+Su tutte le corse di linea è possibile acquistare il biglietto a bordo, direttamente dal conducente al momento della salita a bordo, utilizzabile per la sola corsa sulla quale viene acquistato. Anche il biglietto acquistato a bordo deve essere immediatamente timbrato all'apposita validatrice. È necessario salire dalla porta anteriore muniti di denaro contato (il conducente può non avere resto disponibile ed in tal caso non consentire l'accesso a bordo). Le tariffe sono maggiorate, ai sensi delle vigenti disposizioni regionali. Il biglietto urbano acquistato a bordo ha validità 70 minuti dalla timbratura. Il biglietto extraurbano ha validità per una sola corsa limitatamente alla tratta chilometrica pagata. Nel caso in cui il conducente sia momentaneamente sprovvisto di biglietti da rilasciare a bordo, proseguire il viaggio è scelta dell'utente in quanto ciò non lo salvaguarda rispetto alla contestazione di sanzione amministrativa da parte del personale ispettivo qualora salga a bordo del bus nel corso del viaggio.
 
 Durante il periodo di emergenza sanitaria dovuto al COVID-19 sono state sospese le vendite a bordo su tutte le linee aziendali. Si invita a consultare il sito internet per prendere visione di eventuali aggiornamenti.
 
-# Ufficio relazioni con il pubblico (URP)
+## 5.5 Servizio informazione
+Informazioni relative a servizi, orari, percorsi, tariffe, tipologie del titolo di viaggio possono essere fornite presso le biglietterie indicate al precedente p.to 5.4. Ulteriori informazioni - indirizzo sito web: www.sienamobilita.it e www.tiemmespa.it
 
+# Relazioni con la clientela
+## 6.1 Ufficio relazioni con il pubblico (URP)
 L'Ufficio Relazioni con il Pubblico è il canale istituzionale di comunicazione fra l'Azienda ed i clienti ed è a disposizione della clientela per:
 - acquisire reclami, richieste, segnalazioni, proposte e suggerimenti dei clienti relative al servizio fornito dall'azienda, distribuendo modelli per facilitarne l'inoltro in forma scritta;
 - fornire informazioni alla clientela sulle modalità di inoltro dei reclami;
@@ -300,7 +312,7 @@ L'Ufficio Relazioni con il Pubblico è il canale istituzionale di comunicazione 
 - acquisire le richieste dei clienti volte all'esercizio del diritto di accesso alle informazioni in possesso dell'azienda che li riguardino, secondo le modalità di cui alla Legge 241/90, provvedendo all'espletamento delle medesime;
 - trasmettere all'Osservatorio aziendale della qualità reclami, richieste segnalazioni, proposte o suggerimenti pervenuti.
 
-# Procedura per i reclami
+## 6.2 Procedura per i reclami
 Il reclamo è inoltrato presso l'Ufficio Relazioni con il Pubblico in caso di violazione dei diritti dei clienti e comunque in tutti i casi di mancato soddisfacimento degli impegni presi dall'azienda con la presente carta.
 
 Il reclamo può essere inoltrato telefonicamente o in forma scritta, anche tramite fax o posta elettronica eventualmente utilizzando i modelli predisposti dall'azienda.
@@ -309,23 +321,20 @@ Il reclamo può essere inoltrato telefonicamente o in forma scritta, anche trami
 
 Tutti i dati forniti vengono raccolti, gestiti ed elaborati in conformità con il D. Lgs. 196/2003 (legge privacy).
 
-L'azienda si impegna a esaminare tempestivamente ciascun reclamo con l'avvio dell'indagine necessaria a raccogliere gli elementi utili per la risposta;
+L'azienda si impegna a:
+- esaminare tempestivamente ciascun reclamo con l'avvio dell'indagine necessaria a raccogliere gli elementi utili per la risposta;
+- inviare, in caso di reclamo scritto, una esauriente risposta scritta definitiva in tempi stretti e comunque entro 30 giorni dal ricevimento del reclamo, in cui sono specificate, ove possibile ed opportuno, le modalità con le quali saranno rimosse le irregolarità riscontrate e/o ristorato il pregiudizio arrecato;
+- in casi eccezionali, adeguatamente motivati, sarà inviata, sempre entro 30 giorni, una risposta scritta interlocutoria in cui sono eventualmente richiesti elementi aggiuntivi a quelli forniti nel reclamo; in tal caso la risposta definitiva sarà inviata entro un termine non superiore a complessivi 45 giorni (esclusi quelli occorsi per ricevere notizie aggiuntive eventualmente chieste).
+- Non è garantito il rispetto dei termini per la risposta nel caso in cui la segnalazione sia inoltrata seguendo modalità diverse da quelle indicate.
+- Ai sensi dell'art.28 par.3 del Regolamento UE n. 181/2011 e dell'art. 3, comma 5 del D.Lgs. 4 novembre 2014, n. 169, si precisa che, ogni passeggero, dopo aver fatto un reclamo al vettore, trascorsi novanta giorni dall'inoltro, può presentare reclamo all'Autorità Regolatrice dei Trasporti per presunte infrazioni al regolamento con le modalità stabilite dalla medesima Autorità (www.autorita-trasporti.it).
 
-L'azienda si impegna a inviare, in caso di reclamo scritto, una esauriente risposta scritta definitiva in tempi stretti e comunque entro 30 giorni dal ricevimento del reclamo, in cui sono specificate, ove possibile ed opportuno, le modalità con le quali saranno rimosse le irregolarità riscontrate e/o ristorato il pregiudizio arrecato;
- 
-in casi eccezionali, adeguatamente motivati, sarà inviata, sempre entro 30 giorni, una risposta scritta interlocutoria in cui sono eventualmente richiesti elementi aggiuntivi a quelli forniti nel reclamo; in tal caso la risposta definitiva sarà inviata entro un termine non superiore a complessivi 45 giorni (esclusi quelli occorsi per ricevere notizie aggiuntive eventualmente chieste).
+## 6.3 Numero verde Regione Toscana
+Per la gestione dei reclami sul servizio, la raccolta di segnalazioni e suggerimenti e per la fornitura di informazioni sulle tariffe del Sistema Pegaso, la Regione Toscana ha predisposto il seguente numero verde: 800-570530
 
-Non è garantito il rispetto dei termini per la risposta nel caso in cui la segnalazione sia inoltrata seguendo modalità diverse da quelle indicate.
-
-Ai sensi dell'art.28 par.3 del Regolamento UE n. 181/2011 e dell'art. 3, comma 5 del D.Lgs. 4 novembre 2014, n. 169, si precisa che, ogni passeggero, dopo aver fatto un reclamo al vettore, trascorsi novanta giorni dall'inoltro, può presentare reclamo all'Autorità Regolatrice dei Trasporti per presunte infrazioni al regolamento con le modalità stabilite dalla medesima Autorità (www.autorita-trasporti.it).
-
-# Numero verde Regione Toscana
-Per la gestione dei reclami sul servizio, la raccolta di segnalazioni e suggerimenti e per la fornitura di informazioni sulle tariffe del Sistema Pegaso, la Regione Toscana ha predisposto il seguente numero verde:
-
-# Oggetti rinvenuti
+## 6.4 Oggetti rinvenuti
 Gli oggetti smarriti rinvenuti sui mezzi o nei locali di Siena Mobilità Scarl sono conservati per un mese. Scaduto questo termine, gli oggetti di valore (portafogli, documenti, preziosi, ecc.) vengono fatti pervenire all'Ufficio Oggetti Smarriti del Comune dove l'oggetto è stato rinvenuto (art. 927-931 del Codice Civile), così pure gli altri oggetti possono essere fatti pervenire o all'Ufficio Oggetti Smarriti del Comune dove l'oggetto è stato rinvenuto oppure devoluti ad Associazioni di Solidarietà. I proprietari possono rivolgersi nei giorni feriali dal lunedì al venerdì, dalle 9.00 alle 12.00 presso la sede di Siena Mobilità.
 
-# Copertura assicurativa
+## 6.5 Copertura assicurativa
 L'Azienda provvede al risarcimento di eventuali danni a cose o persone cagionati per propria responsabilità civile per fatti le cui cause possono essere ricondotte alla propria responsabilità, nel rispetto dei massimali minimi fissati dalla normativa vigente.
 
 Fattispecie che danno luogo a forme di risarcimento per responsabilità dell'Azienda:
@@ -340,10 +349,9 @@ Le procedure per accedere al rimborso sono:
 - Contattare, nel più breve tempo possibile, l'Ufficio Sinistri dell'Azienda socia di Siena Mobilità proprietaria del mezzo;
 - Contattare la compagnia assicuratrice dell'Azienda socia di Siena Mobilità, proprietaria del mezzo, per esperire le procedure di rimborso dei danni subiti.
 
-# Fattori di qualità, indicatori e standard
-Al fine della verifica della qualità del servizio offerto, l'Azienda assume, per l'anno 2021, i seguenti fattori, indicatori ed unità di misura, e si impegna a monitorarli perseguendo il raggiungimento degli standard-obiettivo fissati rendendo noto, mediante la misurazione di appositi indicatori, il livello di raggiungimento degli standard medesimi.
-
-Per poter valutare le caratteristiche generali e specifiche del servizio offerto e misurarne il livello qualitativo, sono individuati i seguenti elementi, i cosiddetti fattori- base (rif.to Deliberazione CRT 19/12/2001 n. 246):
+# Gli impegni dell'azienda
+## 7.1 Fattori di qualità, indicatori e standard
+Al fine della verifica della qualità del servizio offerto, l'Azienda assume, per l'anno 2021, i seguenti fattori, indicatori ed unità di misura, e si impegna a monitorarli perseguendo il raggiungimento degli standard-obiettivo fissati rendendo noto, mediante la misurazione di appositi indicatori, il livello di raggiungimento degli standard medesimi. Per poter valutare le caratteristiche generali e specifiche del servizio offerto e misurarne il livello qualitativo, sono individuati i seguenti elementi, i cosiddetti fattori- base (rif.to Deliberazione CRT 19/12/2001 n. 246):
 - Sicurezza
 - Regolarità del servizio
 - Pulizia e condizioni igieniche dei mezzi e delle stazioni
@@ -355,7 +363,7 @@ Per poter valutare le caratteristiche generali e specifiche del servizio offerto
 
 Per ognuno dei fattori-base individuati sono anche effettuate periodiche indagini di "soddisfazione del cliente" (customer satisfaction), i cui esiti sono resi noti nell'edizione della Carta immediatamente successiva.
 
-# Indagini di soddisfazione della clientela 
+## 7.2 Indagini di soddisfazione della clientela
 Nelle schede di "Misurazione della qualità" riportate di seguito per ogni fattore è indicata la misurazione degli indicatori che concorrono alla valutazione di ciascuno dei suddetti Fattori della Qualità, unitamente al grado di soddisfazione del cliente per ciascuno di detti Fattori, risultante dall'indagine di "Customer Satisfaction" effettuata per il 2020. Non viene indicato lo standard obiettivo al 31/12/2021 in considerazione del fatto che alla data di pubblicazione della presente carta dei servizi l'azienda non conosce il periodo temporale per il quale effettuerà il servizio tpl.
 
 L'indagine di Customer Satisfaction svolta nel periodo novembre-dicembre 2020, in attuazione delle specifiche "Linee guida" emanate dalla Regione Toscana, non ha rilevato il valore di gradimento dell'utenza per i fattori "Servizi aggiuntivi a bordo e nelle stazioni" e "Servizi per disabili".
@@ -364,36 +372,31 @@ La suddetta indagine viene ripetuta annualmente intervistando i clienti del serv
 
 In considerazione della particolare situazione di emergenza sanitaria in atto al momento dell'indagine e della riduzione del numero di utenti registrata sui servizi di trasporto pubblico le interviste sono state effettuate esclusivamente alle fermate e non a bordo al fine di evitare affollamenti sui mezzi.
 
-# Editing, distribuzione e aggiornamento della carta dei servizi
+## 7.3 Editing, distribuzione e aggiornamento della carta dei servizi
 La società Siena Mobilità si impegna a pubblicare con cadenza annuale la versione integrale della carta dei servizi secondo lo schema tipo approvato dal Consiglio Regionale.
 
-Detta versione integrale è posta in visione per la clientela presso tutte le sedi aziendali e tutti i punti presenziati ed è inoltre inviata alla Regione Toscana, a tutti i Comuni e le Province nel cui ambito territoriale l'azienda effettua il trasporto, nonché alle associazioni dei consumatori indicate precedente paragrafo 1.4 della presente carta ed alle altre associazioni eventualmente presenti a livello locale. La versione integrale è inoltre consultabile sul sito internet della Società
+Detta versione integrale è posta in visione per la clientela presso tutte le sedi aziendali e tutti i punti presenziati ed è inoltre inviata alla Regione Toscana, a tutti i Comuni e le Province nel cui ambito territoriale l'azienda effettua il trasporto, nonché alle associazioni dei consumatori indicate precedente paragrafo 1.4 della presente carta ed alle altre associazioni eventualmente presenti a livello locale. La versione integrale è inoltre consultabile sul sito internet della Società. La versione della carta consultabile su Internet, e scaricabile in formato PDF, è costantemente aggiornata ad ogni variazione dei suoi contenuti.
 
-La versione della carta consultabile su Internet, e scaricabile in formato PDF, è costantemente aggiornata ad ogni variazione dei suoi contenuti.
+## 7.4 Osservatorio aziendale della qualità
+L'Azienda ha istituito l'Osservatorio Aziendale della Qualità, con le seguenti funzioni:
+- monitoraggio degli indicatori relativi ai fattori di qualità ed elaborazione dei relativi dati, anche al fine della verifica del raggiungimento degli standard e degli standard obiettivo;
+- monitoraggio della qualità percepita dai clienti del servizio tramite l'indagine campionaria (Customer Satisfaction) ed elaborazione dei relativi dati;
+- raccolta ed elaborazione dei dati aziendali di natura economico-gestionale al fine della verifica di efficacia ed efficienza della gestione aziendale, nonché della elaborazione di piani di efficientamento aziendali;
+- catalogazione ed elaborazione dei dati relativi a reclami, richieste, segnalazioni, proposte e suggerimenti dei clienti pervenuti all'Azienda e trasmessi dall'Ufficio Relazioni con il Pubblico, al fine di elaborare proposte di miglioramento del servizio;
+- raccolta, catalogazione ed elaborazione delle informazioni e delle osservazioni pervenute dal personale aziendale, al fine di elaborare proposte di miglioramento del servizio;
+- predisposizione di report concernenti le rilevazioni sui fattori di qualità, ai fini dell'aggiornamento della Carta dei Servizi in relazione ai risultati di monitoraggio, proposizione, standard e standard obiettivo per la successiva generazione della Carta;
+- trasmissione dei dati di monitoraggio e dei dati di natura economico-gestionale previsti dal contratto di servizio, all'Osservatorio Regionale per la mobilità e i trasporti di cui all'art. 21 della L.R. n. 42/98 con formati, modalità e tempi stabiliti dalla stessa Regione.
 
-# Osservatorio aziendale della qualità
-monitoraggio degli indicatori relativi ai fattori di qualità ed elaborazione dei relativi dati, anche al fine della verifica del raggiungimento degli standard e degli standard obiettivo;
-
-monitoraggio della qualità percepita dai clienti del servizio tramite l'indagine campionaria (Customer Satisfaction) ed elaborazione dei relativi dati;
-
-raccolta ed elaborazione dei dati aziendali di natura economico-gestionale al fine della verifica di efficacia ed efficienza della gestione aziendale, nonché della elaborazione di piani di efficientamento aziendali;
-
-catalogazione ed elaborazione dei dati relativi a reclami, richieste, segnalazioni, proposte e suggerimenti dei clienti pervenuti all'Azienda e trasmessi dall'Ufficio Relazioni con il Pubblico, al fine di elaborare proposte di miglioramento del servizio;
-
-raccolta, catalogazione ed elaborazione delle informazioni e delle osservazioni pervenute dal personale aziendale, al fine di elaborare proposte di miglioramento del servizio;
-
-predisposizione di report concernenti le rilevazioni sui fattori di qualità, ai fini dell'aggiornamento della Carta dei Servizi in relazione ai risultati di monitoraggio, proposizione, standard e standard obiettivo per la successiva generazione della Carta;
-
-trasmissione dei dati di monitoraggio e dei dati di natura economico-gestionale previsti dal contratto di servizio, all'Osservatorio Regionale per la mobilità e i trasporti di cui all'art. 21 della L.R. n. 42/98 con formati, modalità e tempi stabiliti dalla stessa Regione.
-
-# Certificazioni di qualità
-Tiemme, in qualità di capofila della Scarl, ha come missione fondamentale quella di assicurare alla popolazione del territorio su cui opera il diritto alla mobilità,
-fornendo un servizio di buona qualità, ottimizzando l'impiego delle risorse disponibili (economiche e naturali) e, allo stesso tempo, assicurando la salute e sicurezza ed il rispetto dei principi dell'etica del lavoro per i propri lavoratori e per i fornitori su cui può esercitare un'influenza. Questi concetti sono stati tradotti nel Manuale Integrato della qualità di Tiemme.
+## 7.5 Certificazioni di qualità
+Tiemme, in qualità di capofila della Scarl, ha come missione fondamentale quella di assicurare alla popolazione del territorio su cui opera il diritto alla mobilità, fornendo un servizio di buona qualità, ottimizzando l'impiego delle risorse disponibili (economiche e naturali) e, allo stesso tempo, assicurando la salute e sicurezza ed il rispetto dei principi dell'etica del lavoro per i propri lavoratori e per i fornitori su cui può esercitare un'influenza. Questi concetti sono stati tradotti nel Manuale Integrato della qualità di Tiemme.
 
 Per attuare la propria missione, Tiemme ha scelto come linee guida le norme internazionali che definiscono i principi da attuare per assicurare la qualità del Servizio(ISO 9001), la tutela dell'ambiente e la riduzione dell'impatto ambientale delle proprie attività (ISO 14001), la salute e sicurezza dei propri lavoratori (OHSAS 18001) con passaggio alla (ISO 45001) nel corso del 2021, la Responsabilità Sociale per i propri dipendenti e per i fornitori (SA 8000), la certificazione del servizio per le linee regionali.
 
-Dalla costituzione di Tiemme Spa è emersa la necessità di creare un sistema integrato di certificazioni basato sullo stesso modello strutturale valido per la sede legale e per ciascuna sede operativa, con l'obiettivo di acquisire le certificazioni esistenti nelle Società Madri.
+Dalla costituzione di Tiemme Spa è emersa la necessità di creare un sistema integrato di certificazioni basato sullo stesso modello strutturale valido per la sede legale e per ciascuna sede operativa, con l'obiettivo di acquisire le certificazioni esistenti nelle Società Madri. In coerenza con gli obiettivi di cui sopra ha conseguito le seguenti certificazioni, rilasciate dall'Ente Certificatore TUV Italia:
+- Qualità (ISO 9001:2015) con emissione del certificato in data 16.04.2018;
+- Ambientale (ISO 14001:2004), certificato emesso in data 27.07.2018;
+- SA 8000:2014, data di emissione certificato 03.08.2019;
+- Sicurezza (OHSAS 18001:2007), certificato emesso in data 17.10.2018;
+- EN 13816:2002 certificazione del servizio linee regionali 130/131/50G/51G emesso il 11.03.2019.
 
-Fondamentale, per un'azienda come Tiemme, è non solo enunciare i propri principi e metterli in atto, ma anche fornire alle parti interessate (utilizzatori del servizio e Associazioni dei Consumatori, dipendenti e rappresentanti sindacali, azionisti, Enti Locali, fornitori, ecc.) le informazioni relative agli obiettivi e ai risultati conseguiti, che possono essere presentate nelle Carte della Mobilità, oppure in Bilanci Sociali o in Rapporti di Sostenibilità.
-
-Per informazioni o approfondimenti, Tiemme è a vostra disposizione tramite gli strumenti di interazione previsti dal proprio sito.
+Fondamentale, per un'azienda come Tiemme, è non solo enunciare i propri principi e metterli in atto, ma anche fornire alle parti interessate (utilizzatori del servizio e Associazioni dei Consumatori, dipendenti e rappresentanti sindacali, azionisti, Enti Locali, fornitori, ecc.) le informazioni relative agli obiettivi e ai risultati conseguiti, che possono essere presentate nelle Carte della Mobilità, oppure in Bilanci Sociali o in Rapporti di Sostenibilità. Per informazioni o approfondimenti, Tiemme è a vostra disposizione tramite gli strumenti di interazione previsti dal proprio sito.
