@@ -40,13 +40,11 @@ Per quanto riguarda l'assistenza ospedaliera (figura 11), il tasso di ricovero d
 
 Per quanto riguarda l'efficienza della rete dell'emergenza-urgenza territoriale, l'indicatore considerato, riferito al tempo intercorrente tra la ricezione delle chiamate da parte della Centrale Operativa e l'arrivo del primo mezzo di soccorso, si conferma nel 2017 pari a 16 minuti, come nel 2015 e nel 2016, al di sotto della soglia di riferimento dei 18 minuti e dunque ricompreso nel range di normalità.
 
-Per quanto riguarda l'area distrettuale (fonte verbale riunione del 22.11.2018 del Tavolo tecnico per la verifica degli adempimenti regionali con il Comitato LEA) (figura 12), il tasso di ospedalizzazione per asma e gastroenterite in età pediatrica è pari, nel 2017, a 188,84, ancora al di sopra del valore soglia (<= 141); la percentuale di anziani ≥ 65 anni assistiti in ADI risulta, nel 2017, pari a 1,68%, inferiore all'intervallo di riferimento (>= 1,88%) seppure in crescita rispetto alle precedenti annualità, collocando la regione nella fascia di scostamento minimo. Il numero di posti equivalenti presso strutture residenziali per anziani non autosufficienti si attesta, per l'anno 2017, a 4,28 per 1.000 anziani, in diminuzione rispetto al dato del 2016, comportando un peggioramento nella valutazione dell'indicatore cui corrisponde, dunque, uno scostamento non accettabile dalla soglia di riferimento. Il numero di posti equivalenti residenziali in strutture che erogano assistenza ai disabili ogni 1.000 residenti è per l'anno 2017 pari a 0,42, collocando la regione nella fascia di scostamento minimo dal valore di riferimento; anche il numero di posti equivalenti semiresidenziali in strutture che erogano assistenza ai disabili è, nel 2017, leggermente inferiore rispetto al valore soglia (0,19 vs 0,22), nel range di scostamento minimo.
-
+Per quanto riguarda l'area distrettuale (fonte verbale riunione del 22.11.2018 del Tavolo tecnico per la verifica degli adempimenti regionali con il Comitato LEA) (figura 12), il tasso di ospedalizzazione per asma e gastroenterite in età pediatrica è pari, nel 2017, a 188,84, ancora al di sopra del valore soglia (<=141); la percentuale di anziani ≥65 anni assistiti in ADI risulta, nel 2017, pari a 1,68%, inferiore all'intervallo di riferimento (≥1,88%) seppure in crescita rispetto alle precedenti annualità, collocando la regione nella fascia di scostamento minimo. Il numero di posti equivalenti presso strutture residenziali per anziani non autosufficienti si attesta, per l'anno 2017, a 4,28 per 1.000 anziani, in diminuzione rispetto al dato del 2016, comportando un peggioramento nella valutazione dell'indicatore cui corrisponde, dunque, uno scostamento non accettabile dalla soglia di riferimento. Il numero di posti equivalenti residenziali in strutture che erogano assistenza ai disabili ogni 1.000 residenti è per l'anno 2017 pari a 0,42, collocando la regione nella fascia di scostamento minimo dal valore di riferimento; anche il numero di posti equivalenti semiresidenziali in strutture che erogano assistenza ai disabili è, nel 2017, leggermente inferiore rispetto al valore soglia (0,19 vs 0,22), nel range di scostamento minimo.
 
 Infine, sempre con riferimento all'aera distrettuale, il numero di posti letto attivi in hospice si attesta, nel 2017, a 1,90 per 100 deceduti per tumore, collocandosi al di sopra della soglia di riferimento (1 posto per 100 deceduti per tumore). La percentuale del consumo annuo di farmaci appartenenti al PHT per l'anno 2017 è pari al 69,7%, in aumento rispetto al valore del 2016 (67,7%), attestandosi nel range di scostamento minimo.
 
 L'andamento dei disavanzi sanitari della Regione Lazio, a partire dall'anno 2006, evidenzia un progressivo calo con una riduzione del rapporto tra disavanzo e FSR al di sotto della soglia del 5% a partire dall'esercizio 2014, fino ad arrivare nell'esercizio 2018 ad un avanzo di 6,384 mln di euro.
-
 
 # 2. Introduzione e guida alla lettura: una nuova visione del sistema centrata sulla persona
 Nel descrivere l'articolazione degli interventi previsti nel presente Piano, merita soffermarsi su alcune chiavi di lettura strategiche che hanno guidato la redazione dei contenuti. Il primo livello di distinzione riguarda, da un lato, le azioni previste sul piano dei modelli di intervento, illustrate nella prima sezione del documento, centrate sui bisogni della persona e sulle fasi in cui essa intercetta il servizio sanitario regionale per tradurre le sue necessità, in funzione della storia naturale di malattia e dei suoi snodi critici, in prestazioni erogate; dall'altro, le azioni di sistema e di sviluppo della capacità di governo e gestione del SSR, descritte invece nella seconda sezione del documento, certamente strumentali ad assicurare che i modelli di intervento si sviluppino secondo criteri di efficacia, appropriatezza ed equità.
@@ -78,22 +76,16 @@ La seconda sezione comprenderà interventi volti a:
 # 3. Gli strumenti di analisi epidemiologica e di stratificazione della popolazione assistita
 La conoscenza delle variazioni, nel tempo e nello spazio, negli indicatori che correlano con i bisogni di salute e con la domanda di prestazioni rappresenta uno strumento di governo indispensabile per la programmazione dei servizi nelle Aziende Sanitarie. Ad oggi la Regione dispone di un ricco patrimonio di flussi informativi, banche dati, sistemi di sorveglianza e fonti statistiche accurate e tempestive in grado di alimentare tali strumenti: essa dispone, infatti, di un registro di cause di morte, che riflettono un vissuto di morbosità e fattori di rischio di una quota di popolazione con maggiore severità clinica, sistemi informativi sanitari, attraverso cui tracciare la domanda di prestazioni nonché - spesso per loro tramite - la presenza di importanti patologie acute e croniche e la relativa evoluzione clinica, specifici registri di patologia tra cui il registro tumori di recente istituzione, oltre che sistemi di sorveglianza campionari su stili di vita e fattori di rischio comportamentali, a cui si aggiunge la mappatura di alcuni importanti inquinanti ambientali. La Regione dispone, altresì, di sistemi di integrazione di tali fonti ed algoritmi tali da consentire, ad esempio, l'individuazione di coorti di residenti ed il loro follow up di morbosità e mortalità, oltre che in grado di connotare i propri assistiti in base a caratteristiche di vulnerabilità socio-economica. Attraverso l'analisi delle succitate fonti informative la Regione intende, nel triennio 2019-2021, consolidare, attraverso il proprio Dipartimento di Epidemiologia del Servizio Sanitario Regionale, un portale di indicatori in grado di leggere lo stato di salute ed il ricorso ai servizi sanitari della popolazione residente nei Comuni, nei Distretti e nelle ASL regionali, a supporto delle funzioni di programmazione dei servizi e dell'individuazione di fabbisogni di prestazioni, oltre che strumento per il monitoraggio delle capacità di tutela della salute da parte del SSR.
 
-Il patrimonio di banche dati sanitarie regionali, arricchito dall'anagrafe degli assistiti e delle esenzioni, permetterà di realizzare un sistema di stratificazione della popolazione, ovvero un modello in grado di suddividere la popolazione, innanzitutto, per macro-categorie di utenti del SSR, in grado di distinguervi i non utilizzatori, gli utilizzatori non cronici e i pazienti cronici. Sarà altresì possibile descrivere la popolazione regionale differenziando questi ultimi in relazione allo stadio di sviluppo della malattia, intercettando il maggior numero di determinanti che ne influenzano la storia naturale ed il rischio di aggravamento associato, in particolare, alla cronicità polipatologica e alla fragilità clinica.
-
-Al fine, inoltre, di comparare tale differenziazione con altre realtà del territorio nazionale, coerentemente con gli approfondimenti condotti dalla Cabina di regia nazionale del Piano Nazionale della Cronicità e nell'ambito del Progetto del Ministero della Salute "Pon Gov Resilienza", la Regione Lazio si avvarrà degli strumenti di stratificazione della domanda di salute in uso presso la Regione Lombardia (come da D.G.R. n. X/6164/2017Il 2019), a loro volta in corso di sperimentazione presso diverse realtà regionali (Toscana, Emilia Romagna a cui si aggiungono Liguria e Veneto che hanno manifestato interesse a sperimentare il modello lombardo di stratificazione).
-
-In virtù, poi, dei sistemi di integrazione delle banche dati e degli algoritmi sviluppati dalla Regione Lazio, attraverso il proprio Dipartimento di Epidemiologia, in grado di rappresentare i determinanti del rischio di malattia e i predittori della sua evoluzione clinica, sarà possibile individuare alcuni sub-target specifici della popolazione cui indirizzare, pro-attivamente, interventi efficaci per modificarne la storia naturale. La Regione si propone, infatti, di individuare sottogruppi di assistiti a maggior rischio di outcome sfavorevoli, connotare gli stessi in base a profili di utilizzo di servizi e di cura, caratteristiche di vulnerabilità socio-economica e caratterizzarne l'esposizione ad inquinanti ambientali attraverso il proprio indirizzo di residenza, identificando così sottogruppi cui indirizzare prioritariamente interventi di prevenzione primaria e secondaria.
+Il patrimonio di banche dati sanitarie regionali, arricchito dall'anagrafe degli assistiti e delle esenzioni, permetterà di realizzare un sistema di stratificazione della popolazione, ovvero un modello in grado di suddividere la popolazione, innanzitutto, per macro-categorie di utenti del SSR, in grado di distinguervi i non utilizzatori, gli utilizzatori non cronici e i pazienti cronici. Sarà altresì possibile descrivere la popolazione regionale differenziando questi ultimi in relazione allo stadio di sviluppo della malattia, intercettando il maggior numero di determinanti che ne influenzano la storia naturale ed il rischio di aggravamento associato, in particolare, alla cronicità polipatologica e alla fragilità clinica. Al fine, inoltre, di comparare tale differenziazione con altre realtà del territorio nazionale, coerentemente con gli approfondimenti condotti dalla Cabina di regia nazionale del Piano Nazionale della Cronicità e nell'ambito del Progetto del Ministero della Salute "Pon Gov Resilienza", la Regione Lazio si avvarrà degli strumenti di stratificazione della domanda di salute in uso presso la Regione Lombardia (come da D.G.R. n. X/6164/2017Il 2019), a loro volta in corso di sperimentazione presso diverse realtà regionali (Toscana, Emilia Romagna a cui si aggiungono Liguria e Veneto che hanno manifestato interesse a sperimentare il modello lombardo di stratificazione). In virtù, poi, dei sistemi di integrazione delle banche dati e degli algoritmi sviluppati dalla Regione Lazio, attraverso il proprio Dipartimento di Epidemiologia, in grado di rappresentare i determinanti del rischio di malattia e i predittori della sua evoluzione clinica, sarà possibile individuare alcuni sub-target specifici della popolazione cui indirizzare, pro-attivamente, interventi efficaci per modificarne la storia naturale. La Regione si propone, infatti, di individuare sottogruppi di assistiti a maggior rischio di outcome sfavorevoli, connotare gli stessi in base a profili di utilizzo di servizi e di cura, caratteristiche di vulnerabilità socio-economica e caratterizzarne l'esposizione ad inquinanti ambientali attraverso il proprio indirizzo di residenza, identificando così sottogruppi cui indirizzare prioritariamente interventi di prevenzione primaria e secondaria.
 
 Tali strumenti di differenziazione potranno essere altresì potenziabili attraverso metodologie innovative, sia per quanto riguarda le informazioni utili ad identificare la popolazione con specifiche patologie (valutando ad esempio, la possibilità di utilizzare metodi di machine learning per la lettura e la classificazione di documentazione clinica come diagnosi di anatomia patologica, lettere di dimissioni, immagini diagnostiche, referti di diagnostica o laboratorio, etc.) che per identificare persone con fattori di rischio comportamentali, al momento rilevabili soltanto attraverso periodiche indagini campionarie.
- 
-Le informazioni sui sottogruppi di assistiti, distinti per i succitati fattori, saranno rese disponibili alle Aziende e ai distretti del SSR, a guida della programmazione di interventi sull'organizzazione dei servizi e a supporto dell'individuazione di priorità.
 
-Le fonti informative sopra descritte permetteranno, infine, di valutare l'impatto delle azioni poste in essere. Particolare attenzione sarà rivolta a monitorare l'equità di accesso alle prestazioni, in relazione al bisogno, e i relativi risultati.
+Le informazioni sui sottogruppi di assistiti, distinti per i succitati fattori, saranno rese disponibili alle Aziende e ai distretti del SSR, a guida della programmazione di interventi sull'organizzazione dei servizi e a supporto dell'individuazione di priorità. Le fonti informative sopra descritte permetteranno, infine, di valutare l'impatto delle azioni poste in essere. Particolare attenzione sarà rivolta a monitorare l'equità di accesso alle prestazioni, in relazione al bisogno, e i relativi risultati.
 
-OBIETTIVI PROPOSTI: 
-- Dotare la regione di un portale di indicatori in grado di rappresentare la variabilità tra territori e popolazioni 
-assistite nei bisogni di salute e nella domanda di prestazioni. 
-- Dotare la regione di un sistema di stratificazione della popolazione assistita finalizzato ad identificare sub-target di pazienti cronici cui indirizzare, pro-attivamente, interventi mirati ed appropriati di prevenzione di outcome sfavorevoli. 
+OBIETTIVI PROPOSTI:
+- Dotare la regione di un portale di indicatori in grado di rappresentare la variabilità tra territori e popolazioni
+assistite nei bisogni di salute e nella domanda di prestazioni.
+- Dotare la regione di un sistema di stratificazione della popolazione assistita finalizzato ad identificare sub-target di pazienti cronici cui indirizzare, pro-attivamente, interventi mirati ed appropriati di prevenzione di outcome sfavorevoli.
 
 LINEE DI INTERVENTO:
 - Realizzazione e consolidamento (tramite aggiornamento periodico) di un portale in grado di documentare il contesto sociodemografico, la frequenza di patologie, di fattori di rischio e la domanda di prestazioni in aggregati sub-regionali (popolazione residente nei Comuni, nei Distretti e nelle ASL regionali).
@@ -120,11 +112,11 @@ Il Piano di Comunicazione prevede:
 - la creazione e il consolidamento di una rete regionale per la comunicazione sui temi della promozione della salute e della prevenzione in grado di diffondere messaggi coerenti ed omogenei anche in raccordo con altri enti/organizzazioni sanitarie e non sanitarie (Ministero della Salute, ISS, IZS, INAIL, ecc.);
 - la promozione e il sostegno delle attività di comunicazione realizzate all'interno delle reti collaborative (la Rete delle Città e delle Comunità Sane, le reti Health Promoting Schools, Health Promoting Hospitals, ecc.) già attive nel Lazio.
 
-Linee di intervento: 
+Linee di intervento:
 - Realizzazione di interventi di comunicazione efficaci e in grado di contrastare le disuguaglianze di salute.
 - Creazione e il consolidamento di una rete regionale per la comunicazione sui temi della promozione della salute e della prevenzione in grado di diffondere messaggi coerenti ed omogenei anche in raccordo con altri enti/organizzazioni sanitarie e non sanitarie (Ministero della Salute, ISS, IZS, INAIL, ecc.).
 - Promozione e sostegno delle attività di comunicazione realizzate all'interno delle reti collaborative (la Rete delle Città e delle Comunità Sane, le reti Scuole che Promuovono Salute, Health Promoting Hospitals, ecc.).
- 
+
 Risultati attesi e tempistiche
 - Realizzazione, in collaborazione con le ASL, di interventi di comunicazione efficaci, in grado di contrastare le disuguaglianze di salute, sui temi della promozione degli stili di vita salutari, dell'accesso ai servizi di prevenzione (Entro dicembre 2021).
 - Realizzazione della Mappa delle "Opportunità di Salute" sul sito SaluteLazio (Entro giugno 2021)
@@ -148,7 +140,6 @@ Linee di intervento
 - Individuazione di eventuali ulteriori ambiti di valutazione legati all'accessibilità fisica, agli strumenti per l'accoglienza e per l'orientamento dei pazienti nei servizi, nonché alla qualità dei servizi alberghieri, per identificare specifiche azioni migliorative
 - Definizione di una modalità di consultazione strutturata di associazioni dei cittadini e di pazienti nei processi di elaborazione degli indirizzi strategici regionali, a partire dalle linee regionali di indirizzo per l'attuazione delle politiche aziendali sulla cronicità;
 - Definizione di procedure per l'adesione delle Associazioni di tutela dei pazienti nell'ambito dei Gruppi di Partecipazione Attiva e per l'attivazione della Cabina di regia per la loro consultazione
-
 
 Risultati attesi
 - Iniziativa di disseminazione dei risultati regionali delle valutazioni condotte nell'ambito del progetto di ricerca interregionale coordinato da Agenas entro il 30 giugno 2021
@@ -205,7 +196,7 @@ Alcuni sistemi di sorveglianza rivestono un ruolo centrale nell'ambito del monit
 - Sistema di sorveglianza 0-2 anni sui principali determinanti di salute del bambino
 - il "Sistema di segnalazione delle malattie infettive (PREMAL)".
 
-# 6.1 Promozione della "salute in tutte le politiche" con un Piano di azione intersettoriale
+## 6.1 Promozione della "salute in tutte le politiche" con un Piano di azione intersettoriale
 Le evidenze scientifiche indicano che un buono stato di salute produce benefici in tutti i settori e nell'intera comunità ed è essenziale per lo sviluppo economico e sociale di una popolazione.
 
 Allo stesso tempo, la Salute non è responsabilità esclusiva del settore sanitario, ma può essere raggiunta solo attraverso un approccio globale di sistema ovvero mediante il coinvolgimento di tutti i settori che, con le loro politiche e interventi, interagiscono sui vari determinanti di salute e di equità. In quest'ottica, il SSR ha una funzione di "advocacy per la salute" attraverso il coinvolgimento di diverse istituzioni su comuni obiettivi di salute ed equità.
@@ -213,7 +204,7 @@ Allo stesso tempo, la Salute non è responsabilità esclusiva del settore sanita
 A tal fine, Regione Lazio intende implementare un Piano di Azione Intersettoriale che mira a favorire la collaborazione tra i diversi attori (operatori e professionisti sanitari, delle imprese e dei vari contesti sociali e loro rappresentanti) che hanno responsabilità identificate nell'attuazione di politiche e di interventi di promozione della salute, principalmente mediante lo sviluppo di accordi, condivisione di linee di indirizzo e pianificazione congiunta degli interventi.
 
 L'obiettivo è quello di realizzare interventi efficaci, integrati e coordinati volti sia a modificare i comportamenti individuali non salutari (alimentazione non corretta, sedentarietà, tabagismo, uso dannoso di alcol) sia a creare ambienti favorevoli al benessere e alla salute individuale e comunitaria (empowerment individuale e di comunità per l'adozione di scelte salutari), con il coinvolgimento di tutti i livelli interessati.
- 
+
 La creazione di ambienti favorevoli alla salute passa attraverso azioni intersettoriali che, a livello regionale, riguardano ad esempio, la pianificazione dell'uso del territorio insieme ai comuni per favorire la mobilità sostenibile, i piani di miglioramento della qualità dell'aria, la tutela del suolo e delle acque, le politiche di prevenzione della produzione e di smaltimento dei rifiuti, la promozione dell'offerta di alimenti sani e a Km 0, ecc.). Tutto ciò per garantire pari opportunità di salute a ogni cittadino del Lazio.
 
 Per favorire la governance degli interventi di promozione della salute, Il Piano di Azione Intersettoriale promuove e sostiene lo sviluppo delle reti collaborative dall'Organizzazione Mondiale della Sanità come la Rete delle Città e delle Comunità Sane (www.retecittàsane.it), le reti Health Promoting Schools, Health Promoting Hospitals (http://www.hphitalia.net), Healthy Workplaces che forniscono esempi su come si realizzano interventi intersettoriali con il coinvolgendo della popolazione locale e generando un senso di appartenenza della comunità rispetto ai temi della salute.
@@ -223,7 +214,7 @@ Linee di intervento
 - Definizione di accordi e/o condivisione di indirizzi per la realizzazione di interventi intersettoriali per garantire un elevato livello di salute umana, nonché di benessere degli animali nella filiera agroalimentare.
 - Definizione di politiche e interventi intersettoriali finalizzati a ridurre le esposizioni ambientali nocive per la salute e a creare ambienti favorevoli al benessere e alla salute individuale e comunitaria.
 
-# 6.2 Formazione degli operatori sanitari per la promozione della salute e la prevenzione
+## 6.2 Formazione degli operatori sanitari per la promozione della salute e la prevenzione
 La formazione degli operatori sanitari è fondamentale per favorire la diffusione della cultura della promozione della salute e mettere in atto interventi efficaci di tipo informativo-educativo, rivolti ai diversi cluster della popolazione.
 
 La strategia formativa regionale deve essere rivolta a figure sanitarie "chiave" (operatori dei servizi territoriali ed ospedalieri, MMG, Pediatri, medici competenti, veterinari, infermieri di comunità, farmacisti etc.) per poter raggiungere i cluster principali a cui sono diretti gli interventi di promozione della salute, della sicurezza alimentare e prevenzione (adulti, adolescenti, bambini, donne, anziani, famiglie, operatori economici della filiera agroalimentare).
@@ -239,7 +230,7 @@ Linee di intervento
 - Realizzare percorsi formativi destinati agli operatori sanitari che operano nel setting scolastico, finalizzati all'apprendimento e/o approfondimento delle competenze di base per la pro-mozione delle life skills e la realizzazione di interventi di peer education.
 - Realizzare percorsi formativi destinati agli operatori sanitari che operano nel settore della Sicurezza Alimentare finalizzati all'apprendimento e/o approfondimento della normativa inerente la filiera agroalimentare.
 
-# 6.3 Promuovere l'educazione alla salute e l'empowerment del cittadino/della famiglia
+## 6.3 Promuovere l'educazione alla salute e l'empowerment del cittadino/della famiglia
 L'educazione alla salute comprende la comunicazione di informazioni su determinanti di salute, terapie e utilizzo dei servizi sanitari, e lo sviluppo delle abilità necessarie per intraprendere azioni volte a migliorare la propria salute. L'educazione alla salute è quindi un aspetto fondamentale per l'empowerment, poiché migliora l'accesso degli individui alle informazioni sulla salute e la loro capacità di utilizzarle in modo efficace favorendo, ad esempio, un utilizzo appropriato dei servizi sanitari, nonché la capacità di mantenersi in salute e seguire le indicazioni mediche. L'obiettivo ultimo degli interventi di educazione alla salute è quello di migliorare l'Health literacy (alfabetizzazione sanitaria), ossia il grado con cui gli individui hanno la capacità di ottenere, elaborare e comprendere le informazioni sanitarie di base e usufruire dei servizi necessari per rendere adeguate le decisioni di salute (OMS).
 
 Regione Lazio intende sviluppare iniziative di educazione alla salute miranti a favorire l'empowerment del cittadino sano e interventi di formazione per gli operatori sanitari per il "supporto all'auto-cura" secondo il metodo Standford, al fine di promuovere il conseguimento da parte del paziente e dei suoi caregivers delle conoscenze necessarie per gestire la malattia in modo quanto più possibile autonomo.
@@ -252,13 +243,13 @@ Risultati attesi e tempistiche
 - Realizzazione di interventi di comunicazione su fattori di rischio individuali, i comportamenti a rischio, gli interventi di prevenzione e l'utilizzo dei servizi sanitari con il coinvolgimento di cittadini/caregiver e operatori sanitari (almeno 2 interventi) (Entro dicembre 2021)
 - Realizzazione di percorsi formativi per operatori sanitari collegati agli interventi del piano regionale della prevenzione (almeno 2 percorsi). (Entro dicembre 2021)
 
-# 6.4 Salute e sicurezza sul lavoro
+## 6.4 Salute e sicurezza sul lavoro
 I programmi di prevenzione e promozione della salute nei luoghi di lavoro sono volti a ridurre gli infortuni sul lavoro e le patologie di origine professionale attraverso azioni mirate nei contesti a maggior rischio.
 
 La Regione Lazio si pone l'obiettivo di: implementare le iniziative di promozione della salute nel setting "lavoro" quale setting opportunistico; 2) potenziare le iniziative di assistenza ai lavoratori alle aziende; 3) standardizzare procedure operative regionali, da attuare da parte dei SPreSAL, per migliorare gli standard degli interventi attraverso l'appropriatezza dei processi.
 
 Le attività di prevenzione e vigilanza nei luoghi di lavoro fanno parte della griglia di verifica LEA, e nel corso degli ultimi anni il volume delle stesse ha raggiunto o superato il valore soglia del 5%, risultando pertanto adempiente. Si prevede, tenuto conto dell'evoluzione dei fattori di rischio, dell'evoluzione del marcato del lavoro e delle normative contrattuali, dell'introduzione di tecnologie avanzate e robotizzate, della trasversalità e multifattorialità dei fattori di rischio fra ambiente di vita e di lavoro, di sviluppare l'attività di prevenzione attraverso: a) la standardizzazione delle procedure di controllo; b) favorendo un approccio con i lavoratori e con le aziende mirato a verificare la presenza e l'efficacia dei modelli di organizzazione gestione (MOG) aziendali.
- 
+
 Linee di intervento
 - Proseguire e potenziare gli interventi di promozione della salute nei luoghi di lavoro (WHP)
 - Produrre e diffondere linee di indirizzo e di buona pratica
@@ -271,8 +262,8 @@ Risultati attesi e tempistiche
 - Adozione e applicazione procedure standardizzate regionali (applicazione in tutte le 10 ASL) (monitoraggio annuale)
 - Realizzazione di un corso di formazione regionale per Dirigenti e Tecnici SPreSAL sui MOG (1 operatore per ASL) (entro aprile 2020), per poi avviare nelle singole ASL la formazione a cascata.
 
-# 6.5 Consolidamento e qualificazione della rete dei Centri Vaccinali
-La vaccinazione rappresenta uno degli interventi più efficaci e sicuri a disposizione della Sanità Pubblica per la prevenzione primaria delle malattie infettive. Tale pratica comporta benefici non solo per effetto diretto sui soggetti vaccinati, ma anche in modo indiretto, inducendo protezione ai soggetti non vaccinati immunità di gregge). Nel Lazio, le vaccinazioni sono gestite dai Servizi di Igiene e Sanità Pubblica delle ASL che erogano le prestazioni nei circa 140 ambulatori diffusi sul territorio regionale.
+## 6.5 Consolidamento e qualificazione della rete dei Centri Vaccinali
+La vaccinazione rappresenta uno degli interventi più efficaci e sicuri a disposizione della Sanità Pubblica per la prevenzione primaria delle malattie infettive. Tale pratica comporta benefici non solo per effetto diretto sui soggetti vaccinati, ma anche in modo indiretto, inducendo protezione ai soggetti non vaccinati immunità di gregge. Nel Lazio, le vaccinazioni sono gestite dai Servizi di Igiene e Sanità Pubblica delle ASL che erogano le prestazioni nei circa 140 ambulatori diffusi sul territorio regionale.
 
 La disponibilità di un'anagrafe vaccinale informatizzata, da rendere disponibile alle famiglie nel rispetto della privacy, costituisce lo strumento necessario per il calcolo delle coperture vaccinali; permette cioè di conoscere in maniera puntuale la popolazione target da vaccinare, la definizione del piano di lavoro dei servizi e la registrazione delle vaccinazioni effettuate, facilita inoltre lo scambio di informazioni con le strutture operanti sul territorio.
 
@@ -290,7 +281,7 @@ Risultati attesi e tempistiche
 - Implementazione Anagrafe Vaccinale Regionale (Entro dicembre 2021)
 - Raggiungimento/mantenimento delle coperture di vaccinazioni obbligatorie e raccomandate come richiesto dal Piano Nazionale Vaccini.
 
-# 6.6 Programmi di screening
+## 6.6 Programmi di screening
 I programmi di screening permettono di diagnosticare la malattia prima che si manifesti a livello clinico (prevenzione secondaria), grazie all'utilizzo di un test di screening ovvero di un esame che consente di individuare in fase iniziale una certa patologia in persone asintomatiche.
 
 Regione Lazio si pone l'obiettivo di:
@@ -317,55 +308,59 @@ Risultati attesi e tempistiche
 - Consolidamento/incremento del numero di soggetti coinvolti nei percorsi (>90%) (monitoraggio annuale)
 - Miglioramento degli indicatori di processo rispetto agli standard di riferimento (DCA 191/2015), monitorabili tramite l'utilizzo dei Sistemi informativi Regionali presso tutti i nodi dei percorsi organizzati
 - Adozione di Linee di indirizzo per lo screening oftalmologico (Entro marzo 2020)
-- Copertura screening neonatali > 90% (monitoraggio annuale)
+- Copertura screening neonatali >90% (monitoraggio annuale)
 
-# 6.7 Sanità Pubblica Veterinaria e Sicurezza Alimentare
+## 6.7 Sanità Pubblica Veterinaria e Sicurezza Alimentare
 I programmi di prevenzione e controllo in materia di Sanità Pubblica Veterinaria e Sicurezza Alimentare si concretizzano, a livello regionale, nel Piano integrato dei controlli ufficiali (PRIC) a valenza pluriennale.
 
 Detto piano, volto a tutelare la salute umana, animale ed ambientale descrive il sistema dei controlli coordinati dall'Autorità competente regionale (ACR) ed effettuati dalle Autorità compenti locali (ACL) lungo tutta la filiera agro-alimentare, secondo una logica integrata che comprende l'igiene degli alimenti e dei mangimi, la salute e il benessere degli animali, le problematiche relative alle zoonosi.
 
 Per l'elaborazione del Piano integrato dei controlli ufficiali (PRIC) 2020 – 2023, si terrà conto di pre- requisiti quali, la capacità di laboratorio adeguata e coerente con i piani di campionamento, l'aggiornamento costante delle anagrafiche degli Operatori del Settore Alimentare attraverso il Sistema Informativo della Prevenzione (SIP) regionale di recente sviluppo ed una adeguata categorizzazione delle Imprese alimentare in base al rischio. Tra gli elementi in entrata nella pianificazione regionale dei controlli in ambito "ristorazione pubblica e collettiva", elaborata in base al rischio, verranno tenuti in considerazione anche gli eventi morbosi riferibili ad intossicazione, tossinfezione o infezione di natura alimentare (MTA) verificatisi nel periodo 2015-2019, le allerte sanitarie relative agli alimenti, mangimi e MOCA e le dimensioni e tipologia del mercato servito (es. zone con forte interesse turistico).
 
-Tra gli obiettivi vincolanti del Piano integrato dei controlli ufficiali (PRIC) 2020 – 2023 sicuramente un aspetto rilevante è rappresentato dall' implementazione del Piano regionale di contrasto all'antimicrobicoresistenza (AMR). La strategia regionale per affrontare la problematica dell'AMR, nel settore veterinario, è il coinvolgimento di tutti gli attori della filiera di produzione, distribuzione e somministrazione del farmaco, tramite l'adozione di protocolli per promuovere un uso prudente e mirato degli antimicrobici e l'applicazione di buone pratiche zootecniche. In tal senso l'attuazione del Decreto del Ministro della Salute 8 febbraio 2019 "Modalità applicative delle disposizioni in materia di tracciabilità dei medicinali veterinari e dei mangimi medicati" rappresenta un elemento che agevolerà l'attività di farmacosorveglianza in termini di valutazione quali e quantitativa dell'uso dei farmaci in allevamento, modificandone le modalità di monitoraggio finora utilizzate.
+Tra gli obiettivi vincolanti del Piano integrato dei controlli ufficiali (PRIC) 2020 – 2023 sicuramente un aspetto rilevante è rappresentato dall'implementazione del Piano regionale di contrasto all'antimicrobicoresistenza (AMR). La strategia regionale per affrontare la problematica dell'AMR, nel settore veterinario, è il coinvolgimento di tutti gli attori della filiera di produzione, distribuzione e somministrazione del farmaco, tramite l'adozione di protocolli per promuovere un uso prudente e mirato degli antimicrobici e l'applicazione di buone pratiche zootecniche. In tal senso l'attuazione del Decreto del Ministro della Salute 8 febbraio 2019 "Modalità applicative delle disposizioni in materia di tracciabilità dei medicinali veterinari e dei mangimi medicati" rappresenta un elemento che agevolerà l'attività di farmacosorveglianza in termini di valutazione quali e quantitativa dell'uso dei farmaci in allevamento, modificandone le modalità di monitoraggio finora utilizzate.
 
 Gli obiettivi strategici individuati per il triennio 2019-2021 sono i seguenti:
 - migliorare gli standard organizzativi dei Servizi di controllo ufficiale per la sicurezza degli alimenti e la sanità pubblica veterinaria anche alla luce dell'entrata in applicazione del regolamento UE 2017/625 ed alla necessità di armonizzare le attività di controllo anche con il dettato normativo del Regolamento UE 2016/429, con particolare riferimento all'armonizzazione e coordinamento tra Autorità Competenti e allo sviluppo ed integrazione tra i diversi sistemi informativi. Tale obiettivo ovviamente non può prescindere da una capillare attività di formazione che consentirà anche una riqualificazione del personale operante nel settore.
 - elaborare linee di indirizzo per garantire la qualità delle produzioni primarie, dall'agricoltura all'allevamento degli animali produttori di alimenti, assicurando uno standard sanitario e produttivo adeguato e valorizzando le filiere corte.
 - migliorare lo stato sanitario della popolazione animale, finalizzata alla tutela della salute pubblica, perseguito attraverso piani di monitoraggio ed eradicazione di tubercolosi e leucosi bovina enzootica.
 - aumentare l'efficacia e l'uniformità nel territorio regionale delle attività di vigilanza sui canili sanitari e rifugio, finalizzate alla verifica del benessere degli animali ospitati. Tale obiettivo ovviamente non può prescindere da una capillare attività di formazione/informazione dei cittadini al fine di ridurre l'evasione all'obbligo di iscrizione in anagrafe canina di cani di proprietà.
- 
+
 Linee di intervento
-- Elaborazione del Piano integrato dei controlli ufficiali (PRIC) 2020 – 2023, produzione e diffusione di linee di indirizzo e di buona pratica per l'organizzazione dei controlli ufficiali per la sicurezza degli alimenti e la sanità pubblica veterinaria, partendo dall'esito dell'attività di audit condotta dalla Regione, ai sensi dell'articolo 4 (6) del Regolamento Ce n. 882/2004, presso i Dipartimenti di prevenzione delle Asl nel periodo 2015-2018. L'eventuale evidenza di specifiche criticità definirà i contesti che necessitano di interventi mirati.
+- Elaborazione del Piano integrato dei controlli ufficiali (PRIC) 2020 – 2023, produzione e diffusione di linee di indirizzo e di buona pratica per l'organizzazione dei controlli ufficiali per la sicurezza degli alimenti e la sanità pubblica veterinaria, partendo dall'esito dell'attività di audit condotta dalla Regione, ai sensi dell'articolo 4 (6) del Regolamento Ce n. 882/2004, presso i Dipartimenti di prevenzione delle Asl nel periodo 2015-2018. L'eventuale evidenza di specifiche criticità definirà i contesti che necessitano di interventi mirati. Dall'analisi finora effettuata sull'organizzazione e conduzione dei controlli ufficiali eseguiti dall'Autorità Competente Locale, è emerse la necessità, di tenere sotto controllo i seguenti elementi:
+    - gestione del conflitto di interesse conformemente alle indicazioni regionali di cui al DCA U00503/2015
+    - programmazione annuale ed esecuzione della verifica dell'efficacia attraverso una procedura coerente con quanto previsto dal Capitolo 8 dell'Intesa 212/CSR/2016, definendo gli indicatori ed i limiti di accettabilità ad essi correlati
+    - formazione del personale con specifico riferimento all'audit su OSA/OSM, ai piani per la gestione delle emergenze e crisi e ai requisiti sanitari previsti da accordi internazionali per l'esportazione di prodotti alimentari verso i Paesi Terzi, nell'ottica di promuovere le misure regionali di supporto all'export di alimenti prodotti da aziende laziali.
 - Definizione di accordi "Sanità-Ambiente-Agricoltura" per la condivisione di indirizzi in ambito regionale con l'obiettivo di riqualificare le produzioni primarie locali, incentivando l'applicazione di buone pratiche di produzione e la sorveglianza dei rischi emergenti. Condivisione delle banche dati e degli esiti delle verifiche eseguite da altri organi di controllo afferenti all'Ambiente ed Agricoltura, con la finalità di ottimizzare le risorse destinate ai controlli ufficiali in materia sanitaria.
 - Predisposizione di piani straordinari per l'eradicazione di tubercolosi e leucosi bovina enzootica attraverso il controllo, nei cluster di infezione, del 100% dei capi presenti e controllabili, prevedendo se necessario l'intervento di task force regionali istituite ad hoc.
 - Elaborazione/aggiornamento delle check list per la verifica delle caratteristiche strutturali dei canili sanitari e rifugio. Potenziamento della collaborazione con enti locali, organi di controllo del territorio e operatori del settore, per aumentare la percentuale di iscrizione dei cani di proprietà in anagrafe canina.
 
-Linea di intervento 1:
-- pianificazione ed esecuzione nel 2019 del follow up degli audit di sistema condotti presso le Asl nel periodo 2015-2018 ai sensi dell'articolo 4 (6) del Regolamento Ce n. 882/2004 (monitoraggio scadenza dicembre 2019)
-- valutazione dell'efficacia dei piani d'azione posti in essere dalle Asl a seguito delle raccomandazioni formulate dalla Regione nel corso degli audit di sistema condotti presso le Asl nel periodo 2015-2018 (monitoraggio scadenza dicembre 2019)
-- individuazione di ulteriori specifiche aree di criticità, oltre a quelle già evidenziate sopra, che richiedono interventi mirati e non prorogabili entro il 2020 ed elaborazione delle relative linee guida che assicurino l'adeguatezza degli interventi sul territorio, tenendo conto del dettato normativo del regolamento UE 2017/625 (monitoraggio scadenza dicembre 2020).
-- elaborazione nel 2020 del Piano integrato dei controlli ufficiali (PRIC) 2020 – 2023 e della programmazione strategica del nuovo ciclo di audit 2020-2024 (monitoraggio scadenza entro dicembre 2020)
-
-Linea di intervento 2:
-- Costituzione di un tavolo permanente "Sanità-Agricoltura-Ambiente" per la condivisione di strategie integrate in produzione primaria entro 2020. (monitoraggio scadenza giugno 2020)
-- Elaborazione di linee di indirizzo individuate nel corso delle riunioni di cui al punto a) entro il 2021. Linea di intervento 3:
-- adozione di piani di controllo straordinari (monitoraggio scadenza marzo 2020)
-- attuazione e monitoraggio presso le ASL del piano di controllo (monitoraggio annuale, dicembre 2020; dicembre 2021)
-
-Linea di intervento 4:
-- istituzione di un gruppo di lavoro con i servizi veterinari delle ASL per la elaborazione/aggiornamento delle check list (monitoraggio scadenza giugno 2020)
-- costituzione di un tavolo di lavoro con rappresentanti di enti locali, organi di controllo del territorio e operatori del settore per individuare le criticità e promuovere le iscrizioni all'anagrafe canina (monitoraggio annuale, dicembre 2020; dicembre 2021)
-- elaborazione di una campagna di formazione/informazione per la sensibilizzazione dei cittadini, sviluppata in base alle linee di indirizzo individuate nel corso delle riunioni di cui al punto b) entro il 2021.
+Risultati attesi e tempistiche
+- Linea di intervento 1:
+    - pianificazione ed esecuzione nel 2019 del follow up degli audit di sistema condotti presso le Asl nel periodo 2015-2018 ai sensi dell'articolo 4 (6) del Regolamento Ce n. 882/2004 (monitoraggio scadenza dicembre 2019)
+    - valutazione dell'efficacia dei piani d'azione posti in essere dalle Asl a seguito delle raccomandazioni formulate dalla Regione nel corso degli audit di sistema condotti presso le Asl nel periodo 2015-2018 (monitoraggio scadenza dicembre 2019)
+    - individuazione di ulteriori specifiche aree di criticità, oltre a quelle già evidenziate sopra, che richiedono interventi mirati e non prorogabili entro il 2020 ed elaborazione delle relative linee guida che assicurino l'adeguatezza degli interventi sul territorio, tenendo conto del dettato normativo del regolamento UE 2017/625 (monitoraggio scadenza dicembre 2020).
+    - elaborazione nel 2020 del Piano integrato dei controlli ufficiali (PRIC) 2020 – 2023 e della programmazione strategica del nuovo ciclo di audit 2020-2024 (monitoraggio scadenza entro dicembre 2020)
+- Linea di intervento 2:
+    - Costituzione di un tavolo permanente "Sanità-Agricoltura-Ambiente" per la condivisione di strategie integrate in produzione primaria entro 2020. (monitoraggio scadenza giugno 2020)
+    - Elaborazione di linee di indirizzo individuate nel corso delle riunioni di cui al punto a) entro il 2021.
+- Linea di intervento 3:
+    - adozione di piani di controllo straordinari (monitoraggio scadenza marzo 2020)
+    - attuazione e monitoraggio presso le ASL del piano di controllo (monitoraggio annuale, dicembre 2020; dicembre 2021)
+- Linea di intervento 4:
+    - istituzione di un gruppo di lavoro con i servizi veterinari delle ASL per la elaborazione/aggiornamento delle check list (monitoraggio scadenza giugno 2020)
+    - costituzione di un tavolo di lavoro con rappresentanti di enti locali, organi di controllo del territorio e operatori del settore per individuare le criticità e promuovere le iscrizioni all'anagrafe canina (monitoraggio annuale, dicembre 2020; dicembre 2021)
+    - elaborazione di una campagna di formazione/informazione per la sensibilizzazione dei cittadini, sviluppata in base alle linee di indirizzo individuate nel corso delle riunioni di cui al punto b) entro il 2021.
 
 # 7. I Modelli di risposta reattiva alle acuzie e ai bisogni di nuova insorgenza
 Il presente capitolo delinea gli interventi con cui la Regione intende potenziare le proprie capacità di presa in carico dei bisogni "inattesi" del paziente acuto, facilitando l'accesso a percorsi integrati di diagnosi, cura ed, eventualmente, riabilitazione: tali interventi si declinano attraverso l'implementazione delle proprie reti assistenziali, sia tempo-dipendenti che non tempo-dipendenti, e potenziando i processi volti a coordinare la filiera assistenziale e a favorirne la gestione, anche attraverso l'innovazione tecnologica e la telemedicina.
 
-# 7.1.1 Sistema dell'emergenza territoriale
+## 7.1 Le Reti Tempo Dipendenti e Non Tempo Dipendenti
+### 7.1.1 Sistema dell'emergenza territoriale
 La rete dell'Emergenza-Urgenza è costituita dalle Centrali Operative del 118, dalla rete territoriale di soccorso e dalla rete ospedaliera.
 
 La risposta all'emergenza si articola in una fase di allarme e risposta territoriale, gestita dall'ARES 118, e in una risposta ospedaliera. Il sistema dell'emergenza si integra con la continuità assistenziale, garantita dall'ARES 118 e dalle Aziende sanitarie.
 
-# 7.1.2 Le Centrali Operative (CO) 118 e rete territoriale di soccorso
+### 7.1.2 Le Centrali Operative (CO) 118 e rete territoriale di soccorso
 Nel corso del 2018 con l'accorpamento delle Centrali Operative di Latina e Frosinone si è completato il percorso riorganizzativo che, anche in coerenza con lo standard, previsto dal DM n. 70/2015, di una centrale operativa orientativamente non inferiore ad un bacino di utenza di 0,6 milioni di abitanti, ha ridisegnato completamente il loro assetto e la loro competenza territoriale, portando il numero di quelle attive sul territorio regionale a tre ovvero:
 - CO Roma Città Metropolitana
 - CO Lazio Nord
@@ -400,11 +395,10 @@ L'ARES 118 provvederà all'acquisizione del personale e dei mezzi al fine di rea
 
 Gli strumenti di monitoraggio sono rappresentati dalla puntuale verifica della realizzazione delle fasi progettuali previste secondo le tempistiche prefissate.
 
-# 7.1.3 Trasformazione dei Punti di Primo Intervento
+### 7.1.3 Trasformazione dei Punti di Primo Intervento
 La Regione Lazio ha programmato la trasformazione dei PPI in Punti di erogazione di assistenza primaria; in proposito le Aziende Sanitarie interessate (Asl Roma 4, Asl Roma 5, Viterbo, Rieti e Latina) hanno già adottato gli atti di propria competenza che prevedono il servizio, diversamente qualificato, ma in continuità con le funzioni precedentemente svolte, a far data dal 1 gennaio 2020.
 
-
-# 7.1.4 La Rete Ospedaliera
+### 7.1.4 La Rete Ospedaliera
 Il modello organizzativo delle alte specialità fa riferimento alla modalità di produzione e distribuzione dell'assistenza ospedaliera secondo il principio delle reti cliniche integrate (modello "hub & spoke") che prevede la concentrazione della casistica più complessa, o che necessita di più complessi sistemi produttivi, in un numero limitato di centri (hub). L'attività degli hub è fortemente integrata, attraverso connessioni funzionali, con quella dei centri ospedalieri periferici (spoke).
 
 Da tempo la Regione Lazio ha individuato nei modelli complementari delle reti integrate e delle aree di attività a valenza sovraziendale, i presupposti dell'organizzazione dei servizi e ha esplicitato le linee generali di sviluppo di modelli di rete sovraziendali per le attività tempo – dipendenti, tra cui l'emergenza, il trauma grave e neurotrauma, l'ictus, le cure perinatali e la cardiologia/cardiochirurgia. Sulla base delle indicazioni del DM 70/2015 sono stati istituiti i relativi coordinamenti regionali delle reti. L'attuale modello di gestione necessita di una più puntuale definizione dei livelli decisionali, dei compiti e delle funzioni dei coordinamenti regionali, di area e di struttura.
@@ -423,7 +417,7 @@ Linee di intervento
 - Puntuale definizione della governance delle reti tempo dipendenti con definizione dei compiti e delle funzioni dei coordinamenti regionali, di area e di struttura, sviluppando indicatori di struttura, processo ed esito per il monitoraggio delle attività.
 - Definizione di un modello di governance delle reti non tempo dipendenti, con particolare riferimento alle reti oncologiche.
 - Emanazione di linee di indirizzo regionali riguardanti il percorso nascita.
-- Realizzazione di strategie volte a rilanciare l'attività ostetrica e neonatologica dei punti nascita con volumi insufficienti (< 500 nati/anno) quali ad esempio la realizzazione di processi assistenziali unificati ospedale- territorio, la diffusione di strumenti di comunicazione come l'agenda della gravidanza, l'attivazione di percorsi di umanizzazione del parto e di rafforzamento dell'autonomia ostetrica nella gestione di gravidanze e parti fisiologici. Tale attività verrà realizzata in maniera continua durante il triennio;
+- Realizzazione di strategie volte a rilanciare l'attività ostetrica e neonatologica dei punti nascita con volumi insufficienti (<500 nati/anno) quali ad esempio la realizzazione di processi assistenziali unificati ospedale- territorio, la diffusione di strumenti di comunicazione come l'agenda della gravidanza, l'attivazione di percorsi di umanizzazione del parto e di rafforzamento dell'autonomia ostetrica nella gestione di gravidanze e parti fisiologici. Tale attività verrà realizzata in maniera continua durante il triennio;
 - Monitoraggio dell'implementazione delle indicazioni previste dall'accordo stato regioni del 16/12/2010 inerenti la sicurezza e appropriatezza del percorso nascita con cadenza annuale.
 - Realizzazione di una cartella informatizzata della gravidanza, accessibile da parte del personale ostetrico- neonatale del punto nascita.
 - Definizione progetti di miglioramento sui PN <1000 parti attraverso la definizione di azioni con indicatori misurabili (rif: AGENAS standard per valutazione PN).
@@ -437,12 +431,8 @@ Risultati attesi e tempistiche
 - Realizzazione di una cartella informatizzata della gravidanza entro dicembre 2021;
 - Definizione di una strategia di miglioramento delle performance dei PN con meno di 1000 nati/anno entro settembre 2020.
 
-# 7.2 L'integrazione ospedale-territorio
-Il miglioramento della sopravvivenza per numerose patologie acute ad elevato rischio di disabilità (ad esempio ictus e tumori), l'incremento di patologie croniche invalidanti, e talora concomitanti, associati all'aumento costante dell'età media della popolazione rappresentano una sfida importante per il sistema sanitario e sociale, specie riguardo l'integrazione tra i diversi nodi di tutte le reti cliniche (degenze per acuti, strutture riabilitative e postacuzie ospedaliere e territoriali, e cure domiciliari).
-
-All'interno delle Reti cliniche tempo-dipendenti (per es. Ictus, Cardiologica, Cardiochirurgica, Trauma), l'integrazione organizzativa e professionale tra i diversi setting assistenziali è un elemento essenziale per la continuità ospedale territorio secondo le indicazioni contenute all'interno del Decreto Ministeriale 70 del 2 aprile 2015" "Regolamento recante definizione degli standard qualitativi, strutturali, tecnologici e quantitativi relativi all'assistenza ospedaliera" e nelle "Linee guida per la revisione delle reti cliniche - Le reti tempo dipendenti revisione delle reti tempo-dipendenti"- Accordo Stato Regioni n.14 del 24 gennaio 2018. Nello specifico, al fine di una corretta gestione delle reti dell'emergenza e tempo-dipendenti, è necessario uno stretto monitoraggio dei tempi di passaggio di setting assistenziale all'interno del sistema di raccolta dati finalizzato alla corretta valutazione e al monitoraggio dei livelli di efficienza, di efficacia, di qualità e sicurezza delle attività svolte.
-
-L'ottimizzazione del percorso di cura all'interno della degenza per acuti, e la facilitazione del passaggio ad altri setting assistenziali, si pongono inoltre come elementi di supporto nel regolamentare i flussi sia in entrata che in uscita dall'ospedale e per il contrasto al sovraffollamento delle strutture ospedaliere inserite nella rete di emergenza.
+## 7.2 L'integrazione ospedale-territorio
+Il miglioramento della sopravvivenza per numerose patologie acute ad elevato rischio di disabilità (ad esempio ictus e tumori), l'incremento di patologie croniche invalidanti, e talora concomitanti, associati all'aumento costante dell'età media della popolazione rappresentano una sfida importante per il sistema sanitario e sociale, specie riguardo l'integrazione tra i diversi nodi di tutte le reti cliniche (degenze per acuti, strutture riabilitative e postacuzie ospedaliere e territoriali, e cure domiciliari). All'interno delle Reti cliniche tempo-dipendenti (per es. Ictus, Cardiologica, Cardiochirurgica, Trauma), l'integrazione organizzativa e professionale tra i diversi setting assistenziali è un elemento essenziale per la continuità ospedale territorio secondo le indicazioni contenute all'interno del Decreto Ministeriale 70 del 2 aprile 2015" "Regolamento recante definizione degli standard qualitativi, strutturali, tecnologici e quantitativi relativi all'assistenza ospedaliera" e nelle "Linee guida per la revisione delle reti cliniche - Le reti tempo dipendenti revisione delle reti tempo-dipendenti"- Accordo Stato Regioni n.14 del 24 gennaio 2018. Nello specifico, al fine di una corretta gestione delle reti dell'emergenza e tempo-dipendenti, è necessario uno stretto monitoraggio dei tempi di passaggio di setting assistenziale all'interno del sistema di raccolta dati finalizzato alla corretta valutazione e al monitoraggio dei livelli di efficienza, di efficacia, di qualità e sicurezza delle attività svolte. L'ottimizzazione del percorso di cura all'interno della degenza per acuti, e la facilitazione del passaggio ad altri setting assistenziali, si pongono inoltre come elementi di supporto nel regolamentare i flussi sia in entrata che in uscita dall'ospedale e per il contrasto al sovraffollamento delle strutture ospedaliere inserite nella rete di emergenza.
 
 L'obiettivo della Regione Lazio per i prossimi anni, è di superare le criticità del sistema attuale, definendo un modello organizzativo e di processo, di utilizzo delle informazioni, che favorisca la continuità assistenziale ed il trasferimento tra setting, permettendo la programmazione sin dal primo momento di contatto del paziente con la struttura per acuti. A tal fine sarà necessaria anche la realizzazione di strumenti informatici indirizzati a colmare l'attuale mancanza di comunicazione integrata ed in tempo reale tra i "diversi ambiti".
 
@@ -461,7 +451,7 @@ Risultati attesi e tempistiche
 - Adozione da parte di tutte le strutture ospedaliere e territoriali di uno strumento informatico per la comunicazione integrata ed in tempo reale tra i reparti di degenza ed il Distretto (per l'Assistenza Domiciliare) entro dicembre 2019.
 - Realizzazione di uno strumento informatico per la comunicazione integrata ed in tempo reale tra i reparti di degenza e le strutture di riabilitazione (codici 56,28,75) e post-acuzie (codice 60), collegato con i sistemi informativi di monitoraggio e programmazione dell'offerta riabilitativa entro dicembre 2020.
 
-# 7.3 Implementazione del numero unico europeo 116117.
+## 7.3 Implementazione del numero unico europeo 116117.
 Il numero unico 116117 permette l'accesso ai servizi di cure mediche non urgenti e concorre in tale maniera alla gestione della domanda assistenziale a bassa intensità. Scopo di questo numero unico è quello di mettere in contatto l'utente con un operatore competente oppure direttamente con un medico al fine di assicurare assistenza o consulenza sanitaria. Pertanto con questo nuovo canale di comunicazione a disposizione del cittadino, si vuole dare una risposta sanitaria non prevista nel numero unico 118. Inoltre la scelta di fornire questo servizio tramite un numero unico è basata sull'esperienza maturata che ha evidenziato che i numeri unici semplificano significativamente l'accesso ai servizi avendo anche e inoltre il numero unico ha la capacità di diventare sinonimo stesso del servizio.
 
 Sulla base dell'esperienza maturata con le centrali di continuità provinciali, la Regione si pone l'obiettivo di arrivare rapidamente al numero unico 116117 attivo 24 ore per tutti i giorni della settimana, anche attraverso l'integrazione organizzativa con i mmg/pls in UCCP e alla sua integrazione tecnologica con il 118. Per quanto riguarda infine il raccordo tra NUE 116117 e nodi della rete dei servizi, con particolare riferimento a quelli in via di sviluppo (UCCP, Case della Salute, Ospedale di Comunità), si prevede una forte integrazione tra questi servizi, anche attraverso specifiche funzioni aziendali di governo dell'integrazione da collocarsi nell'ambito delle Cure primarie e intermedie. L'integrazione operativa delle singole attività a favore delle persone con cronicità verrà collocata, laddove presenti, nelle Case della Salute, che possono anche ospitare al loro interno tutte le funzioni sopra descritte
@@ -477,11 +467,10 @@ Risultati attesi e tempistiche
 - (linea di intervento 2) Implementazione del modello entro il 30 giugno 2021;
 - (Linea di intervento 3) Avvio delle attività entro 1 luglio 2021
 
-
 # 8. I Modelli di intervento proattivi per l'individuo con bisogni cronici/complessi
 La separazione tra attività territoriali e ospedaliere non corrisponde in molti casi alle necessità espresse dalla popolazione in termini di assistenza; l'integrazione dinamica tra ospedale e territorio è presupposto necessario per una risposta efficace a bisogni assistenziali "fluidi" che attraversano più setting assistenziali. Un sistema orientato a rispondere attivamente e in maniera personalizzata alle necessità del singolo individuo, deve essere in grado di programmare gli interventi necessari dal momento dell'accesso ai servizi da parte del cittadino ed indipendentemente dal punto di ingresso. Infatti i bisogni di salute, siano essi relativi alla cura, al recupero della propria condizione di salute, al mantenimento della stessa, o alle cure palliative, possono richiedere interventi di attori e setting assistenziali differenti nonché palesarsi in diversi punti della filiera assistenziale. Il sistema deve essere quindi in grado di garantire la presa in carico e l'avvio di un percorso di cura sul singolo a prescindere dal luogo e dal momento in cui si manifesta il bisogno, deve inoltre essere proattivo nell'intercettare i bisogni e nella loro gestione. Ad oggi invece la persona che deve affrontare un problema di salute trova ancora un sistema basato su linee di servizi e prestazioni e quindi di fatto frammentato; molto spesso il percorso deve essere costruito dalla persona stessa, con rischi di allungamento dei tempi di risposta e di potenziale inappropriatezza.
 
-Ad oggi il cittadino per trovare risposta ai propri bisogni di cura, di riabilitazione o mantenimento delle proprie condizioni di salute può accedere al SSR principalmente attraverso il proprio medico di medicina generale o pediatra di libera scelta, attraverso i servizi territoriali aziendali o distrettuali o anche attraverso l'ospedale. A prescindere dalla porta di accesso al SSR, la programmazione delle attività territoriali necessarie a soddisfare il bisogno manifestato deve essere ricondotta al Distretto, luogo fisico dove si realizza la funzione di tutela e garanzia del cittadino residente in quell'ambito territoriale. Il Distretto, per essere in grado di governare il percorso assistenziale dei 'suoi' cittadini-assistiti, deve quindi essere integrato a monte con le porte di accesso al SSR e a valle con le risposte di cura. Inoltre il Distretto deve essere integrato con i Dipartimenti (DSM, Materno Infantile, Prevenzione) perché, a prescindere dalla patologia, le risposte, in particolare quelle complesse, richiedono una regia di servizi molto spesso anche di natura sociale. Pertanto il Distretto deve essere dotato di adeguati sistemi di scambio di informazione con l'ospedale, con i medici di medicina generale/pediatri di libera scelta, con i Dipartimenti, ma anche con le strutture preposte all'erogazione delle prestazioni. Il Distretto deve inoltre governare la capacità produttiva in funzione della domanda espressa da parte della popolazione di riferimento. L'integrazione delle informazioni deve essere chiaramente inquadrata in un sistema di regole/ruoli che interfacciano la molteplicità di attori necessari a dare la risposta assistenziale richiesta. Questo perché, molto spesso, le risposte implicano percorsi che il Distretto deve saper programmare come rappresentato all'interno del PAI. Per poter tempestivamente dare seguito al PAI, il Distretto deve:
+Ad oggi il cittadino per trovare risposta ai propri bisogni di cura, di riabilitazione o mantenimento delle proprie condizioni di salute può accedere al SSR principalmente attraverso il proprio medico di medicina generale o pediatra di libera scelta, attraverso i servizi territoriali aziendali o distrettuali o anche attraverso l'ospedale. A prescindere dalla porta di accesso al SSR, la programmazione delle attività territoriali necessarie a soddisfare il bisogno manifestato deve essere ricondotta al Distretto, luogo fisico dove si realizza la funzione di tutela e garanzia del cittadino residente in quell'ambito territoriale. Il Distretto, per essere in grado di governare il percorso assistenziale dei "suoi" cittadini-assistiti, deve quindi essere integrato a monte con le porte di accesso al SSR e a valle con le risposte di cura. Inoltre il Distretto deve essere integrato con i Dipartimenti (DSM, Materno Infantile, Prevenzione) perché, a prescindere dalla patologia, le risposte, in particolare quelle complesse, richiedono una regia di servizi molto spesso anche di natura sociale. Pertanto il Distretto deve essere dotato di adeguati sistemi di scambio di informazione con l'ospedale, con i medici di medicina generale/pediatri di libera scelta, con i Dipartimenti, ma anche con le strutture preposte all'erogazione delle prestazioni. Il Distretto deve inoltre governare la capacità produttiva in funzione della domanda espressa da parte della popolazione di riferimento. L'integrazione delle informazioni deve essere chiaramente inquadrata in un sistema di regole/ruoli che interfacciano la molteplicità di attori necessari a dare la risposta assistenziale richiesta. Questo perché, molto spesso, le risposte implicano percorsi che il Distretto deve saper programmare come rappresentato all'interno del PAI. Per poter tempestivamente dare seguito al PAI, il Distretto deve:
 - essere rapidamente attivato dai reparti ospedalieri e dai dipartimenti aziendali;
 - essere dotato di una funzione valutativa adeguata, sia dal punto di vista delle risorse umane presenti che dal punto di vista dei sistemi informativi e degli strumenti di valutazione;
 - avere un quadro chiaro degli attori coinvolti in termini di ruoli e responsabilità per la gestione del percorso;
@@ -499,8 +488,8 @@ In coerenza con questo approccio, l'attuale struttura di offerta dovrà essere r
     - Bisogni assistenziali inerenti le dipendenze patologiche;
     - Bisogni assistenziali inerenti le cure palliative.
 
-# 8.1 Il potenziamento del Distretto
-Il Distretto ad oggi viene percepito dal cittadino principalmente come luogo di autorizzazione o certificazione per accedere a servizi sanitari e non sanitari. Tuttavia già oggi il Distretto sarebbe deputato a svolgere una funzione di 'tutela' dei cittadini residenti, di valutazione dei bisogni, committenza e gestione dell'offerta di servizi nell'ambito delle cure primarie, dell'integrazione socio-sanitaria, della riabilitazione territoriale, dei servizi rivolti alle persone non autosufficienti, delle dipendenze e delle attività consultoriali. Inoltre il Distretto, avendo la naturale vocazione alla gestione complessiva dei bisogni di salute del cittadino, dovrebbe essere integrato con i Dipartimenti (DSM, Materno Infantile, Prevenzione) al fine di superare risposte verticali a bisogni complessi.
+## 8.1 Il potenziamento del Distretto
+Il Distretto ad oggi viene percepito dal cittadino principalmente come luogo di autorizzazione o certificazione per accedere a servizi sanitari e non sanitari. Tuttavia già oggi il Distretto sarebbe deputato a svolgere una funzione di "tutela" dei cittadini residenti, di valutazione dei bisogni, committenza e gestione dell'offerta di servizi nell'ambito delle cure primarie, dell'integrazione socio-sanitaria, della riabilitazione territoriale, dei servizi rivolti alle persone non autosufficienti, delle dipendenze e delle attività consultoriali. Inoltre il Distretto, avendo la naturale vocazione alla gestione complessiva dei bisogni di salute del cittadino, dovrebbe essere integrato con i Dipartimenti (DSM, Materno Infantile, Prevenzione) al fine di superare risposte verticali a bisogni complessi.
 
 I vincoli alle assunzioni di personale cui Regione Lazio è a tutt'oggi sottoposta, hanno generato un impoverimento nella capacità di esercitare le proprie funzioni in un contesto in cui la deospedalizzazione e l'evoluzione demografica generano maggiore domanda di servizi territoriali. In questo contesto, essendo il Distretto l'articolazione aziendale preposta alla programmazione degli interventi atti a rispondere alle necessità espresse da persone con bisogni cronici/complessi, risulta necessario investire nei Distretti. Inoltre nel distretto dovranno confluire parte delle attività previste dal Piano Regionale della Cronicità e dagli specifici percorsi assistenziali.
 
@@ -518,7 +507,7 @@ Risultati attesi e tempistiche
 - Approvazione del progetto e avvio di attività di sviluppo del sistema informativo integrato territoriale entro il 31 dicembre 2020;
 - Definizione del ruolo/responsabilità del distretto nella gestione dei percorsi di cura del paziente cronico entro il 30 dicembre 2020
 
-# 8.2 Il percorso assistenziale integrato territorio-ospedale-territorio
+## 8.2 Il percorso assistenziale integrato territorio-ospedale-territorio
 L'integrazione delle funzioni assistenziali ospedaliere e territoriali è finalizzata alla costruzione di un percorso di continuità tra il domicilio della persona, i servizi territoriali e quelli ospedalieri. A tal fine, come già argomentato, è necessario superare l'approccio basato su singole prestazioni e specifici atti assistenziali a favore di una presa in carico multi professionale basata su una valutazione multidimensionale del bisogno con offerta di percorsi di cura organizzati. A seconda della tipologia dei bisogni delle persone, che possono variare da quelli di utenti potenziali dei servizi sanitari e sociosanitari a quelli espressi da persone in condizioni di instabilità clinica, occorre garantire soluzioni organizzative che migliorino l'offerta di servizi. In particolare per i cronici e per le persone non autosufficienti, si dovrà incrementare l'accessibilità alle agende ambulatoriali disponibili, strutturare specifici percorsi, organizzare la gestione attiva del follow up, creando una forte integrazione tra ospedale e servizi territoriali residenziali e domiciliari.
 
 L'ospedale deve garantire la tempestività della segnalazione al Distretto, in previsione della dimissione. In ambiti particolari, le équipe specialistiche ospedaliere devono apportare il proprio contributo ai servizi territoriali nell'ambito di definiti percorsi assistenziali, sia in fase di cure attive che nella palliatività. Il coordinamento delle attività assistenziali integrate spetta al Distretto, attraverso le attività di valutazione e di erogazione / committenza.
@@ -531,7 +520,7 @@ Risultati attesi e tempistiche
 - Adozione da parte di tutte le strutture ospedaliere e territoriali di uno strumento informatico per la comunicazione integrata ed in tempo reale tra i reparti di degenza ed il Distretto (per l'Assistenza Domiciliare) entro ottobre 2019 (si veda paragrafo Integrazione ospedale-territorio).
 - Realizzazione della "presa in carico" del paziente cronico o comunque inserito all'interno di un PDTA, secondo precisi protocolli di gestione dei percorsi e dei follow-up, con la possibilità di provvedere alla prenotazione delle prestazioni "di controllo" entro il 31 dicembre 2021
 
-# 8.3 Sviluppo di linee d'indirizzo regionali sulla cronicità
+## 8.3 Sviluppo di linee d'indirizzo regionali sulla cronicità
 Con il DCA 46/2018 la Regione Lazio ha recepito il Piano Nazionale Cronicità (PNC), segnando così il formale avvio del percorso di attuazione dei suoi contenuti in relazione alle esigenze della propria programmazione. Attraverso importanti provvedimenti, la Regione ha altresì adottato una serie di misure volte a potenziare il sistema di cure per i pazienti cronici, con particolare riguardo alle cure domiciliari per persone non autosufficienti, all'attivazione di forme organizzative innovative per le cure primarie (es. Case della Salute, Ambulatori di cure primarie) e all'avvio di servizi di telemedicina. Le Aziende Sanitarie hanno, al contempo, intrapreso iniziative per la presa in carico di pazienti con specifiche patologie croniche e, in alcuni casi, avviato il percorso per una propria pianificazione in attuazione del PNC.
 
 La gestione della cronicità comporta interventi volti ad assicurare ai pazienti il mantenimento nel tempo del controllo della malattia e a prevenire e curare complicanze, comorbidità e disabilità. Tali obiettivi, come espresso nel PNC, necessitano di un sistema di assistenza continuativa, multidimensionale, multidisciplinare e multilivello in cui la persona diviene il centro del sistema di cure, portatore di bisogni globali, non solo clinici. Tale sistema assistenziale richiede un profondo ripensamento del Servizio Sanitario Regionale e alcune sue significative trasformazioni, da promuovere anche attraverso nuove regole, che assicurino: a) la centralità e la corresponsabilità della persona nel processo di cura della sua malattia, in quanto portatrice del sapere legato alla sua storia di "co-esistenza" con la cronicità e dunque esperta; b) la piena valorizzazione della rete, rifunzionalizzata soprattutto in una visione di continuità assistenziale, modulata per ciascun paziente sulla base dello stadio evolutivo, sul grado di complessità della patologia e sui relativi bisogni socio-assistenziali; c) una maggiore flessibilità dei modelli organizzativi e operativi, prevedendo una forte integrazione tra cure primarie e specialistiche e tra ospedale e territorio, con servizi strutturati e organizzati, reti specialistiche multidisciplinari, team professionali dedicati e modelli di integrazione socio-sanitaria; d) la presa in carico pro-attiva del paziente, e dunque non solo la risposta assistenziale all'emergere del bisogno, attraverso un approccio integrato sin dalle fasi iniziali, con l'ingresso precoce nel percorso diagnostico-terapeutico-assistenziale e nel percorso di welfare integrato al quale partecipano tutti gli attori coinvolti, attivando setting diversi in funzione del diverso grado di complessità assistenziale e delle necessità del paziente.
@@ -550,7 +539,7 @@ Risultati attesi
 - Linee di indirizzo regionali per l'attuazione del Piano nazionale della Cronicità entro il 31.12.2020.
 - Identificazione di primi obiettivi per le Asl e Distretti sulla base delle risultanze del sistema di stratificazione entro il 30/11/2020
 
-# 8.4 Bisogni assistenziali riabilitativi derivanti da disabilità complesse
+## 8.4 Bisogni assistenziali riabilitativi derivanti da disabilità complesse
 La riabilitazione costituisce il terzo pilastro del sistema sanitario, accanto alla prevenzione e alla cura, per il completamento delle attività volte a tutelare la salute dei cittadini. La riabilitazione è un processo di soluzione dei problemi e di educazione nel corso del quale si porta una persona con disabilità a raggiungere il miglior livello di autonomia possibile sul piano fisico, funzionale, sociale, intellettivo e relazionale, con la minor restrizione delle sue scelte operative, pur nei limiti della sua menomazione. Elemento cardine del sistema riabilitativo è la continuità delle attività nel passaggio ospedale – territorio attraverso un percorso riabilitativo unico nell'ambito della Rete di riabilitazione.
 
 Il paziente disabile presenta bisogni assistenziali che dovrebbero essere diversificati in funzione della propria disabilità. La Regione si propone di proseguire il percorso di riorganizzazione e riqualificazione dell'assistenza riabilitativa territoriale, avviato con il DCA 520/2018. Oggetto di tale percorso sarà la:
@@ -569,7 +558,7 @@ Risultati attesi e tempistiche
 - Aggiornamento dell'offerta di servizi di riabilitazione territoriale a partire dal 31 luglio 2020
 - Recepimento documento programmatico sulle reti territoriali, comprese le cure primarie e la specialistica ambulatoriale, anche ai fini dell'eventuale aggiornamento delle linee programmatorie specifiche, entro il 31 dicembre 2020
 
-# 8.5 Il percorso per la gestione del trattamento per la Salute mentale
+## 8.5 Il percorso per la gestione del trattamento per la Salute mentale
 La normativa nazionale e in particolare le linee di indirizzo nazionali per la salute mentale approvate con il Decreto Ministeriale 18 marzo 2008, evidenziano come le strutture residenziali non possono essere la soluzione abitativa per gli utenti del DSM ma debbano essere concepite con una valenza temporanea, al fine di sostenere e accompagnare le persone, laddove possibile, verso una riacquisizione della propria autonomia. In questo senso le linee guida invitano a privilegiare soluzioni abitative di piccole dimensioni nonché il sostegno alla domiciliarità negli abituali contesti abitativi. Analoghe previsioni sono riportate nel Piano nazionale di azioni per la salute mentale, nonché nel documento "Le strutture residenziali psichiatriche" approvato in Conferenza delle Regioni e delle Province Autonome in data 13 giugno 2013.
 
 Il percorso tracciato dai documenti sopra menzionati, tutti recepiti dalla Regione Lazio, in armonia con quanto indicato nell'ambito del Progetto Mattoni, "Mattone 12 - Prestazioni residenziali e semi-residenziali", evidenzia l'impegno a promuovere una residenzialità "funzionale a percorsi individualizzati" non mero "sistema di contenitori assistenziali".
@@ -592,7 +581,7 @@ Risultati attesi e tempistiche
 - Piano per la salute mentale (entro 31 dicembre 2020);
 - Razionalizzazione e riqualificazione dell'offerta residenziale per la salute mentale favorendo l'adozione del provvedimento regionale relativo alla definizione di percorsi di cura alternativi alla residenzialità psichiatrica (entro 30 giugno 2021).
 
-# 8.6 Il percorso assistenziale per la tutela della salute mentale dei soggetti in età evolutiva
+## 8.6 Il percorso assistenziale per la tutela della salute mentale dei soggetti in età evolutiva
 Le Unità di Tutela della Salute Mentale e Riabilitazione in Età Evolutiva (TSMREE) svolgono funzioni di prevenzione, tutela, diagnosi, cura, riabilitazione, inserimento scolastico e sociale dei soggetti in età evolutiva, anche quando trattasi di soggetti del circuito penale.
 
 Il DCA 90/2010 e s.m.i. definisce le linee di attività, i requisiti organizzativi e la dotazione di personale e strutturali delle sedi, mentre con il DCA 424/2012 è definita la rete dei servizi per vari livelli assistenziali (ambulatoriale, semiresidenziale, residenziale e ospedaliero) per l'età evolutiva.
@@ -611,7 +600,7 @@ Risultati attesi e tempistiche
 - (Linee di intervento 2) sottoscrizione di protocolli operativi da parte delle ASL con le scuole primarie del territorio (o i relativi istituti comprensivi) (entro il 31/12/2020).
 - (Linee di intervento 3) Definizione di almeno un percorso assistenziale per la diagnosi e/o presa in carico dei minori con una delle problematiche evidenziate (entro il 31/12/2020)
 
-# 8.7 Dipendenze patologiche
+## 8.7 Dipendenze patologiche
 Alla luce della riorganizzazione dei servizi erogati tramite progetti ex Fondo lotta alla Droga vista la necessità di ovviare alle continue proroghe dei progetti, l'obiettivo sarà la conclusione del processo di accreditamento con definizione delle tariffe e successiva contrattualizzazione enti.
 
 Linee di intervento
@@ -629,10 +618,8 @@ Risultati attesi e tempistiche
 # 9. Interventi per le fasce di popolazione vulnerabili
 Nell'ottica di favorire l'equità del sistema sanitario, il piano individua alcuni interventi specificamente indirizzati a fasce di popolazione vulnerabili, per le quali potenziare la capacità di presa in carico in ragione dei bisogni specifici e attraverso modalità organizzative volte ad eliminare le barriere di accesso al SSR.
 
-# 9.1 La presa in carico delle fasce vulnerabili di stranieri/migranti
-Il SSR deve garantire assistenza alle fasce vulnerabili degli stranieri, sinteticamente rappresentabili nei richiedenti protezione internazionale e nei non regolari (senza permesso di soggiorno).
-
-Con DGR 590 del 16 ottobre 2018, relativa all'accoglienza e alla tutela sanitaria dei richiedenti protezione internazionale, ivi compresi i minori stranieri non accompagnati, sono stati definiti percorsi e fornite precise indicazioni alle ASL nelle diverse fasi del processo di accoglienza, dalla prima visita che le ASL stesse devono effettuare all'arrivo dei migranti all'interno dei Centri d'accoglienza, con la precoce rilevazione di eventuali specifici bisogni sanitari, fino all'orientamento ai servizi e l'iscrizione al SSR, anche attraverso la collaborazione degli operatori dei Centri.
+## 9.1 La presa in carico delle fasce vulnerabili di stranieri/migranti
+Il SSR deve garantire assistenza alle fasce vulnerabili degli stranieri, sinteticamente rappresentabili nei richiedenti protezione internazionale e nei non regolari (senza permesso di soggiorno). Con DGR 590 del 16 ottobre 2018, relativa all'accoglienza e alla tutela sanitaria dei richiedenti protezione internazionale, ivi compresi i minori stranieri non accompagnati, sono stati definiti percorsi e fornite precise indicazioni alle ASL nelle diverse fasi del processo di accoglienza, dalla prima visita che le ASL stesse devono effettuare all'arrivo dei migranti all'interno dei Centri d'accoglienza, con la precoce rilevazione di eventuali specifici bisogni sanitari, fino all'orientamento ai servizi e l'iscrizione al SSR, anche attraverso la collaborazione degli operatori dei Centri.
 
 Per gli stranieri non regolari è invece prevista in base al D.lgs. 286/98 e ss.mm.ii. l'erogazione dell'assistenza sanitaria tra cui l'erogazione dei servizi della medicina di base attraverso degli ambulatori dedicati STP/ENI. Attualmente nella Regione sono presenti circa 200 ambulatori/punti di rilascio del tesserino STP/ENI, tutti integrati tramite il sistema ASUR per il rilascio univoco del tesserino.
 
@@ -647,8 +634,8 @@ Risultati attesi e tempistiche
 - Mappatura ambulatori STP/Eni, entro il 30 giugno 2019 e successivi aggiornamenti entro il 31 dicembre di ogni anno e acquisizione delle relazioni di attività predisposte da tutte le ASL entro il 31 dicembre di ogni anno
 - Distribuzione alle ASL di almeno 1.000 opuscoli con indicazioni per l'accessibilità al SSR, entro il 31 dicembre 2020;
 - definizione criteri minimi organizzativi degli ambulatori STP/ENI entro il 31 dicembre 2020
- 
-# 9.2 Salute Penitenziaria
+
+## 9.2 Salute Penitenziaria
 Il DPCM del 1/4/2008 ha segnato il transito delle funzioni sanitarie in ambito penitenziario dall'Amministrazione Penitenziaria al Sistema Sanitario Regionale. La Regione Lazio, ospita 14 Istituti Penitenziari per adulti e un Istituto Penale Minorile (IPM) dislocati sul territorio di otto ASL. La popolazione penitenziaria adulta del Lazio a fine febbraio 2019, risulta composta da 6.583 persone di cui 451 donne per una capienza regolamentare di 5.270 posti, rendendo la Regione Lazio la terza regione d'Italia per numero di detenuti (fonte: Dipartimento Amministrazione Penitenziaria - Sezione Statistica - Ministero di Giustizia). La popolazione detenuta è rappresentata da un'utenza complessa e con specifici bisogni di salute e il sovraffollamento è una criticità esistente, che impatta gravemente sulle condizioni di vita e, in molti casi, con ricadute negative sulla salute dell'individuo.La caratteristica intrinseca alla gestione della sicurezza collegata con il paziente detenuto comporta la presenza di ambulatori interni dedicati negli Istituti Penitenziari, reparti di medicina protetta (attualmente 2 per 20 p.l.), capacità di accogliere i detenuti negli ospedali (anche con stanze dedicate), Rems (attualmente 5 provvisorie per 91 p.r.) infine sezioni specialistiche in carcere per le dipendenze e per la salute mentale. Con la finalità di monitoraggio delle attività e di miglioramento dei servizi offerti è stato istituito l'Osservatorio Permanente della Sanità Penitenziaria con rappresentanti regionali e della giustizia. In un'ottica di gestione efficiente delle risorse sia del SSR sia dell'Amministrazione Penitenziaria è necessario ridefinire il modello di offerta, attraverso un'efficiente copertura dei servizi ambulatoriali interni agli Istituti Penitenziari si deve minimizzare il ricorso alle cure esterne all'Istituto Penitenziario.
 
 Con riferimento alla Salute Mentale, il SSR dovrà gestire nel prossimo triennio il passaggio programmato dalle REMS provvisorie a quelle definitive anche rivalutando il fabbisogno regionale, inoltre dovranno essere previsti meccanismi per la continuità dei pazienti trattati al termine del periodo di trattamento in Rems anche valutando la possibilità di istituire delle strutture a minor livello assistenziale dedicate.
@@ -657,18 +644,36 @@ Al fine del raggiungimento degli obiettivi risulta necessario metter in campo le
 - Mappare l'attuale offerta di servizi;
 - Identificare la dotazione minima di discipline/specialità da garantire all'interno degli Istituti Penitenziari;
 - Valutazione del fabbisogno di p.r. Rems, determinazione delle Rems definitive e eventuale riconversione di una delle Rems provvisorie in strutture a minore livello assistenziale
- 
-# 9.3 Residenzialità sanitaria protetta per la tutela dei bambini (Legge n. 62/2011)
+
+## 9.3 Residenzialità sanitaria protetta per la tutela dei bambini (Legge n. 62/2011)
 Attualmente il SSR non prevede per il bambino figlio di detenute risposte sanitarie mirate e specifiche volte a tutelarne e garantire un corretto sviluppo psicofisico al di fuori dell'istituto carcerario.
 
 Si ritiene pertanto necessario valutare la possibilità di istituire una particolare tipologia di offerta sanitaria, che consenta una adeguata risposta alle problematiche dei minori figli di detenute, attraverso uno specifico studio di fattibilità che ne valuti l'opportunità in termini assistenziali ed il relativo impatto economico.
+
+Presa in carico integrata per la tutela dei bisogni di salute, psicosociali e della genitorialità delle donne del circuito penale in stato di gravidanza e/o con figli (al seguito o non al seguito) attraverso:
+- costituzione di un gruppo di lavoro tecnico integrato finalizzato alla definizione dell'offerta di servizi per la tutela dei bambini figli di donne del circuito penale (in considerazione di quanto previsto dalla Legge n. 62 del 21 aprile 2011).
 
 # 10. Governance Istituzionale
 La Regione Lazio è consapevole che un SSR di qualità e sostenibile richiede assetti istituzionali e modelli organizzativi capaci di elaborare e realizzare politiche pubbliche a tutela e salvaguardia della salute dei cittadini, con l'obiettivo di conciliare la qualificazione dell'offerta di servizi con le risorse disponibili, attraverso la continua ricerca di una maggiore efficienza dei processi produttivi.
 
 La Regione è altresì consapevole che l'attuazione degli atti programmazione nazionale più significativi – a mero titolo di esempio il DM 70/2015, il Piano Nazionale della Cronicità, il Piano Nazionale della Prevenzione – richiede sempre più politiche e strumenti di governance che vanno oltre il perimetro, se pur importante, delle singole ASL o AO/IRCCS/PU pubbliche.
 
-# 10.1 Azienda Lazio.0
+Per affrontare con successo le sfide quotidiane imposte dalle aspettative delle persone, dai mutamenti epidemiologici e dall'innovazione organizzativa e tecnologica, la Regione Lazio ha agito, sta agendo e agirà a vari livelli:
+- regionale: la Regione ha approvato e attuato una profonda riorganizzazione della direzione regionale Salute e Integrazione socio-sanitaria, coerente con gli indirizzi programmatori nazionali (vedi Piano Nazionale Cronicità, Piano Nazionale Prevenzione, DM 70/2015 ...), allo scopo di favorire, da un lato, la presa in carico e i percorsi integrati per gli assistiti e, dall'altro, la definizione di assetti regolatori chiari e coerenti alle previsioni normative del D.Lgs.502/92 e s.m.i. (autorizzazione, accreditamento, accordi contrattuali, budget, criteri di remunerazione, controlli ...) da applicare a tutti i livelli assistenziali. A tale scopo, l'organigramma regionale prevede che le unità organizzative "Rete ospedaliera e specialistica", "Rete integrata del territorio" e "Promozione della salute e Prevenzione" lavorino in una logica dipartimentale integrata; altrettanto è previsto per le due unità organizzative – "Autorizzazione, Accreditamento e Controlli" e "Remunerazione, Budget e Contratti" – che devono perseguire la certezza e la semplificazione del quadro delle regole secondo tale logica dipartimentale. La riorganizzazione si è posta anche l'obiettivo di creare le condizioni per migliorare l'esercizio dei due ruoli deputati istituzionalmente all'ente regionale: la funzione di regolazione erga omnes del SSR; la funzione di holding delle ASP aziende sanitarie pubbliche (ASL, AO, AOU, IRCCS, Policlinici Universitari, IZS ...). In questo secondo ruolo, la direzione regionale svolge già oggi una attività di indirizzo, coordinamento e valutazione delle ASP (Aziende sanitarie pubbliche), attraverso incontri mensili con le direzioni generali. Oltre agli incontri mensili, sono previsti Gruppi ristretti con le Aziende del SSR allo scopo di affrontare in modo condiviso tematiche specifiche che siano di interesse strategico e condiviso. A ciò si aggiunge l'attivazione, in collaborazione con l'RTI Cergas-Bocconi/KPMG, delle Comunità di Pratiche, ovvero Gruppi di Lavoro su ambiti/tematiche specifiche che si riuniscono con cadenza predeterminata e periodica allo scopo di:
+    - Costituire delle reti "riconosciute" a livello di sistema regionale per allineare e approfondire i contenuti di lavoro rispetto a diverse funzioni e ruoli;
+    - Creare l'occasione per una costruzione di conoscenza e legami interpersonali che facilitino lo scambio di esperienze, la formazione reciproca su specifici contenuti, i luoghi di "trasmissione" e discussione delle politiche e priorità regionali;
+    - Identificare interlocutori nelle ASP, che possano assumere la responsabilità di contribuire al cambiamento, alla pianificazione e allo sviluppo del SSR, favorendo la successiva attuazione dell'agenda strategica condivisa.
+- sovra-aziendale: per favorire lo svolgimento delle attività della holding regionale e supportare il coordinamento, l'accentramento e la standardizzazione di funzioni tecnico-specialistiche di carattere organizzativo e gestionale, rivolte prevalentemente alle ASP, la Regione sta promuovendo - vedi DGR 87 del 9.2.2019 - l'istituzione di una nuova azienda sanitaria, denominata "Lazio.0". A Lazio.0 si affiancheranno altri interventi – vedi Centrali Operative (aziendali e sovra aziendali) per la funzione di Bed Management - volti a favorire la continuità assistenziale e i percorsi clinici tra i diversi livelli e setting assistenziali.
+- aziendale: nella direzione di una maggiore focalizzazione delle ASP (Aziende sanitarie pubbliche) nei servizi alla persona, la Regione intende sviluppare, in particolare nelle ASL e nei distretti, le funzioni di tutela della salute dei propri assistiti, anche attraverso il recupero della funzione di committenza (analisi e stima dei fabbisogni, negoziazione con i produttori, valutazione e controllo delle attività in termini di appropriatezza, qualità ...) nei confronti di tutti i soggetti erogatori, pubblici e privati, di prestazioni sanitarie e socio-sanitarie presenti sul territorio. In questo nuovo quadro programmatorio, sarà necessario prevedere – nei futuri atti aziendali - che le aziende rivedano le proprie organizzazioni ed i propri processi produttivi ed amministrativi in una logica di semplificazione e integrazione dei percorsi assistenziali e di presa in carico, a tutto favore della persona: basti pensare, a mero titolo esemplificativo, agli spazi di miglioramento esistenti in una reale integrazione delle attività di promozione e prevenzione della salute con quelle territoriali distrettuali, ovvero con quelle del comparto socio-assistenziale.
+
+Per favorire la creazione, crescita e circolazione di competenze e professionalità nei 3 livelli sopra elencati, la Regione ha infine approvato una misura normativa tendente a semplificare, facilitare il trasferimento di risorse umane – in senso bidirezionale – tra la Regione e tutte le aziende pubbliche del comparto.
+
+Questi interventi vanno allineati con un sistema di ridefinizione dell'impalcatura normativa a livello regionale che persegua l'obiettivo di razionalizzare, semplificare e quindi migliorare l'efficienza del sistema, attualizzando le norme che regolano specificatamente il settore sanitario: dall'organizzazione delle Aziende, al conferimento degli incarichi di vertice, alla disciplina in materia di autorizzazione e accreditamento.
+
+Modifiche che, in coerenza con i nuovi indirizzi della programmazione sanitaria nazionale e regionale, terranno in considerazione i principi e i mutamenti normativi intervenuti a livello nazionale (a titolo esemplificativo: nazionale della cronicità, edilizia e urbanistica DPR 380/2001, conferimento incarichi Direttori generali D. debita piano Lgs. 171/2016, trasparenza al D. Lgs. 33/2013 e ss., inconferibilità ed incompatibilità D. Lgs. 39/2013) e convoglieranno verso la semplificazione e la "sburocratizzazione" dei procedimenti, nel rispetto di temi quali trasparenza, anticorruzione e soprattutto nella logica di netta separazione tra la funzione di gestione e governo, rispetto a quella di controllo.
+
+## 10.1 Azienda Lazio.0
+### Oggetto e finalità della proposta
 Il governo regionale delle attività sanitarie, sulla scorta di quanto previsto dai P.O. in attuazione del Piano di Rientro sottoscritto dalla regione Lazio nel 2007, ha consentito di porre in evidenza l'esigenza di intervenire a superare la frammentazione e le disomogeneità aziendali allo scopo di concentrare l'operatività verso la fissazione di standard regionali uniformi, completando ed integrando la Regione nello svolgimento del ruolo di "holding" rispetto a tutte le altre Aziende del SSR.
 
 La proposta normativa formulata con D.G.R. n. 87 dell'8 febbraio 2019 e calendarizzata al Consiglio regionale del Lazio n. 115 del 21 febbraio 2019 concernente: "Istituzione dell'azienda regionale sanitaria Azienda Lazio.0" è volta ad istituire, nell'ambito del SSR, un'Azienda sanitaria snella, nel rispetto delle diposizioni di cui al D. Lgs. 502/1992, denominata "Azienda Lazio.0" (leggasi "Lazio punto zero") che, evocando l'evoluzione tecnologica ed informatica anche nel nome, precorre la finalità di ottimizzare gli assetti istituzionali e organizzativi del SSR, attraverso l'integrazione funzionale dei servizi sanitari tecnici e operativi di supporto a valenza regionale, sovra- aziendale o intra-aziendale, come pure l'esercizio di funzioni amministrative, gestionali e tecniche di supporto agli enti del SSR.
@@ -677,7 +682,7 @@ Si prevede di avviare la nuova azienda entro il 2020, in ragione della ricalenda
 
 All'esito della conclusione dell'iter consiliare, si prevede, inoltre, di valorizzare le funzioni clinico-epidemiologiche sovra-aziendali, a partire da quella del Dipartimento di Epidemiologia del SSR.
 
-
+### Forma di integrazione e raccordo con gli altri enti del SSR.
 La nuova modalità di raccordo e integrazione tra Assessorato, Direzione regionale salute e Aziende del SSR si innesta anche con riferimento all'istituenda Azienda Lazio.0, per la quale, nel corso dell'iter consiliare con un articolo aggiuntivo è stato introdotto il Comitato dei direttori generali, "al fine di garantire un efficace coordinamento fra le funzioni dell'Azienda Lazio.0 delle aziende sanitarie e della Regione Lazio", composto dal direttore della direzione regionale salute ed integrazione sociosanitaria e dai direttori generali delle aziende sanitarie del Lazio e dell'Azienda Lazio.0.
 
 Rimangono in capo alla giunta regionali i poteri di indirizzo, coordinamento, direttiva, vigilanza e controllo, compresa la verifica dei risultati aziendali
@@ -706,7 +711,7 @@ Le finalità di Azienda Lazio.0 e del futuro assetto organizzativo sono:
 L'Azienda sarà dotata di autonoma soggettività e personalità giuridica di diritto pubblico e autonomia organizzativa, amministrativa, patrimoniale, gestionale e tecnica, fermo il ruolo di vigilanza regionale ed avrà sede presso locali nella disponibilità regionale o degli altri enti del SSR.
 
 L'azienda opererà nel rispetto degli indirizzi programmatori e sotto il controllo della Giunta Regionale, esercitando una funzione di servizio e supporto operativo alle ASP (Aziende Sanitarie Pubbliche).
- 
+
 Nello specifico le funzioni che sono state individuate all'articolo 4 della p.l. in capo all'Azienda vengono riportate di seguito, ferme le funzioni di indirizzo, programmazione e controllo esercitate dalla Giunta regionale:
 - definizione di piani di acquisto annuali e pluriennali per l'approvvigionamento di beni e servizi e per la manutenzione e la valorizzazione del patrimonio mobiliare e immobiliare degli enti del servizio sanitario regionale;
 - gestione di procedure di gara, ferme restando le funzioni di centrale di committenza regionale attribuite al soggetto aggregatore;
@@ -717,13 +722,15 @@ Nello specifico le funzioni che sono state individuate all'articolo 4 della p.l.
 - organizzazione e sviluppo della rete logistica distributiva;
 - supporto tecnico all'attuazione di investimenti programmati in sanità.
 
+### Perimetro Sanitario
 In conformità a quanto previsto dall'articolo 7 della p.l. 115/2019 All'Azienda si applicano le norme in materia di patrimonio, contabilità e attività contrattuale in vigore per gli altri enti del servizio sanitario regionale e, in particolare, le disposizioni di cui al Titolo II del d.lgs. 118/2011.
 
 L'Azienda, pertanto, partecipa al perimetro di consolidamento del Bilancio del Servizio sanitario regionale, informando la propria attività a criteri di efficacia, efficienza ed economicità della gestione e garantendo il rispetto del vincolo di bilancio attraverso il conseguimento dell'equilibrio annuale tra costi e ricavi. Al pari delle altre Aziende dl SSr adotta il bilancio preventivo economico annuale e il bilancio di esercizio di cui agli articoli 25 e 26 del d.lgs. 118/2011.
 
+### Benefici economici derivanti dall'avvio di Lazio.0
 La costituzione dell'azienda produrrà significativi effetti di efficientamento gestionale e conseguenti effetti di economicità sulle principali voci di costo, nel medio e nel lungo periodo, che complessivamente ammontano a circa 6,9 €/mld, pari al 63,4% del totale dei costi del SSR rilevati nel 2018.
 
-Si riportano di seguito le principali manovre e una stima dei possibili risparmi, laddove siano quantificabili, raggiungibili nell'arco di tre anni dall'entrata in funzione dell'Azienda Lazio.0. 
+Si riportano di seguito le principali manovre e una stima dei possibili risparmi, laddove siano quantificabili, raggiungibili nell'arco di tre anni dall'entrata in funzione dell'Azienda Lazio.0.
 
 In particolare, la spesa per Beni e Servizi si attesta intorno al 20% circa del Fondo Sanitario Regionale. La Regione ha individuato nella Centrale Acquisti la figura del Soggetto Aggregatore, ovvero la centrale di committenza alla quale le Aziende Sanitarie sono obbligate a ricorrere per l'acquisizione di beni afferenti a determinate categorie merceologiche, definite dal DPCM dell'11 luglio 2018. In tale contesto l'Azienda Lazio.0 dovrà svolgere le seguenti funzioni:
 - Interfaccia con la Centrale Acquisti fornendo indicazioni sui piani di acquisti per l'approvvigionamento di beni e servizi;
@@ -735,6 +742,7 @@ L'Azienda inoltre avrà la funzione di definire un nuovo modello di gestione int
 
 L'Azienda infine avrà la funzione di svolgere in modo centralizzato le procedure assunzionali per figure professionali comuni che si identificheranno nel tempo a favore di tutte o alcune delle Aziende del SSR, fermo restando in capo a quest'ultime la rilevazione dei fabbisogni e la gestione delle risorse umane. Ciò ridurrà la complessità amministrativa all'interno degli uffici aziendali e consentirà sia lo snellimento delle procedure amministrative sia la riduzione dei relativi costi.
 
+#### Costi stimati per la costituzione e la messa a regime di Lazio.0
 La costituzione dell'Azienda richiede la presenza degli organi di cui al D.Lgs. 502/1992 e s.m.i art 3, c. 1-quater ovvero del Direttore Generale e del Collegio Sindacale (3 componenti). Il direttore generale sarà coadiuvato, nell'esercizio delle proprie funzioni, dal direttore amministrativo e dal direttore sanitario.
 
 Per quanto riguarda la tecnostruttura, sono state considerate 6 posizioni dirigenziali e 3 Unità Operative Complesse, oltre a 44 figure del comparto. Per la valorizzazione si è tenuto conto dei valori medi risultanti dal Conto Annuale 2018, prendendo come riferimento le figure con il livello di retribuzione più alto sia per la dirigenza che per il comparto, sulla base dei valori di seguito riportati:
@@ -763,7 +771,8 @@ Per le loro specifiche caratteristiche sociali, scientifiche, multi-settoriali e
 
 In questa ottica l'ambito Tecnologico assolve al ruolo di canale, risolve la sicurezza e l'efficacia nell'accesso alle informazioni ed offre all'ambito Informativo strumenti utili al governo della qualità dei dati, sia amministrativi che sanitari. A prescindere quindi dalle tecnologie con le quali le informazioni vengono veicolate o elaborate, partendo dal contenuto dei dati e dalla loro qualità, la Rete delle strutture prende forma rispetto a funzionalità e servizi al cittadino accessibili, integrati, efficaci, sicuri.
 
-# 11.1.1 Qualità e completezza del patrimonio informativo, centralizzazione della data governance e monitoraggio dell'erogazione dei LEA
+## 11.1 Ambito informativo
+### 11.1.1 Qualità e completezza del patrimonio informativo, centralizzazione della data governance e monitoraggio dell'erogazione dei LEA
 Il monitoraggio della qualità dei Livelli Essenziali di Assistenza (LEA) erogati dalle strutture del Servizio Sanitario Regionale rappresenta uno strumento centrale per le finalità di programmazione e di governo del sistema. Il presidio della qualità e della completezza delle informazioni rappresenta un pre-requisito indispensabile alle capacità regionali di monitoraggio dei LEA. La Regione intende incrementare la qualità e completezza del patrimonio informativo, partendo dalle informazioni presenti sui sistemi Aziendali verso le Reti sul Territorio ed il Governo centrale. Obiettivo è quindi garantire l'analiticità dei dati provenienti dai soggetti attivi presenti sul territorio verso i nuclei di valutazione centrale e viceversa, utilizzando flussi informativi contenenti codifiche, ontologie e semantiche in linea con standard de-facto provenienti da organismi nazionali ed internazionali competenti e dal mercato. Verranno adottati dei processi ciclici e collaborativi di controllo e revisione dei dati attraverso la definizione e implementazione di programmi di verifica sistematica della qualità dei dati e il monitoraggio degli indicatori previsti nel nuovo sistema nazionale di garanzia dei LEA. Il processo di audit sulla qualità dei dati consentirà il controllo sistematico dell'accuratezza e corrispondenza della registrazione delle informazioni cliniche nei flussi informativi sanitari; inoltre, tale processo permetterà di migliorare la capacità degli indicatori di individuare le potenziali criticità dei percorsi assistenziali e di monitorare in continuo la qualità delle cure erogate. Le verifiche saranno condotte a livello delle singole strutture sanitarie con la piena collaborazione degli operatori sanitari, dei responsabili dei sistemi informativi e dei referenti aziendali per le attività di controllo della qualità.
 
 Verrà, inoltre, implementato un sistema di indicatori finalizzato a misurare tempestivamente equità, qualità e appropriatezza dei LEA in collaborazione con il Dipartimento di Epidemiologia del SSR. In particolare il sistema consentirà attività di benchmark finalizzata alla programmazione e al confronto degli indicatori, monitorando l'uniforme erogazione dei LEA in condizioni di appropriatezza, di adeguato livello qualitativo e di efficienza, coerentemente con le risorse programmate del SSR al fine di garantirne una più equa distribuzione nella popolazione ed una maggiore correlazione tra gli indicatori di salute, di consumo di risorse e di esiti delle cure. Particolare attenzione sarà posta al raccordo tra gli indicatori e i sistemi nazionali correnti di monitoraggio, valutazione e verifica dei LEA (Griglia LEA, emanando Nuovo Sistema di Garanzia-NSG dei LEA, PNE), in modo tale da guidare le attività di audit e la pianificazione di interventi tempestivi nei processi di erogazione che determinano le maggiori criticità rilevate a livello centrale, monitorando l'efficacia delle soluzioni e il relativo mantenimento nel tempo.
@@ -796,12 +805,12 @@ Risultati attesi e tempistiche
 - almeno due nuovi indicatori, nell'ambito del PreValE, di efficacia e appropriatezza clinico-organizzativa di prestazioni erogate in ambito ospedaliero, elaborati anche attraverso l'integrazione del contenuto informativo della SDO introdotto ai sensi del D.M. 261/2016, entro il 31 dicembre 2021;
 - almeno due nuovi indicatori, nell'ambito del PreValE, di efficacia e appropriatezza clinico-organizzativa di prestazioni erogate in regime post-acuzie entro il 31 dicembre 2021.
 
-# 11.1.2 Evoluzione del modello organizzativo di data Security e Privacy in ambito Socio Sanitario
+### 11.1.2 Evoluzione del modello organizzativo di data Security e Privacy in ambito Socio Sanitario
 Affiancato al sistema di Data Governance verrà realizzato, in sinergia con il Data Protection Officer e gli organismi preposti, un nuovo Modello Organizzativo Regionale di Sicurezza dei Dati e delle informazioni, che permetterà di partire dalla privacy come fattore abilitante alla circolazione dei dati tra le strutture, agevolando la circolazione delle informazioni stesse, sfruttando le possibilità normative offerte dal nuovo GDPR 2016/679 e della successiva applicazione D.lgs.101/2018. Quindi, definizione dei requisiti minimi tecnologici e informativi per gestire informazioni in un'ottica di riservatezza, integrità e disponibilità nell'acquisto e gestione dei sistemi.
 
 In collaborazione con LazioCREA, si procederà alla progettazione e implementazione di un CMDB (configuration management database) che contenga le informazioni complete dei sistemi sanitari regionali con le loro caratteristiche tecnico funzionali, le basi dati informative, la natura delle informazioni gestite, gli attori /gestori, finalizzato ad adempiere alle normative di sicurezza (ISO 27001) e per supporto alla gestione degli adempimenti GDPR (Registro Trattamenti e Analisi dei Rischi).
 
-# 11.1.2 Sviluppo dei Sistemi Informativi per il governo regionale e per l'integrazione dei processi
+### 11.1.2 Sviluppo dei Sistemi Informativi per il governo regionale e per l'integrazione dei processi
 Coerentemente con le strategie Regionali, le linee di azione nell'ambito Tecnologico dei Sistemi Sanitari e della Sanità Digitale saranno orientate verso le reti di cura e verso l'erogazione delle cure stesse in modo remoto e distribuito sul territorio, affinché possano essere trasmessi, condivisi, analizzati, molto più velocemente e semplicemente delle corrispondenti informazioni su carta.
 
 Nel triennio precedente la Regione Lazio ha avviato progetti di integrazione tra diverse funzionalità di sistemi informativi Sanitari con relative integrazioni verso interfacce cooperative (MEF, Tessera Sanitaria) che verranno completati nel corso del triennio corrente, coerentemente con la pianificazione già espressa da LazioCrea recepita dalla Deliberazione Giunta Regionale n. 840 del 20/12/2018: "Approvazione Piano operativo annuale LAZIOcrea S.p.A. per l'anno 2019. Adozione di Istruzioni operative per il Trattamento dei Dati Personali."
@@ -812,7 +821,7 @@ Contestualmente, si provvederà ad adeguare i sistemi rispetto a quanto previsto
 
 Il nuovo sistema informativo trasfusionale sarà reso operativo presso la prima Azienda Sanitaria Regionale (ASL LT), sede di SIMT identificato come area di produzione, entro il mese di settembre 2019. Il nuovo sistema sarà progressivamente implementato, nei mesi successivi, sul restante territorio regionale ed il completamento è previsto entro giugno 2020.
 
-# 11.2 Fascicolo Sanitario Elettronico e Infrastruttura di Rete ad alta velocità
+## 11.2 Fascicolo Sanitario Elettronico e Infrastruttura di Rete ad alta velocità
 La collaborazione tra comparto sociale e comparto sanitario con obiettivo di individuare percorsi e risposte adeguate e globali alla situazione di bisogno del cittadino, trova fattore abilitante concreto con il Fascicolo Sanitario Elettronico e la Rete RAN Sanità che hanno l'ambizione di essere i fattori abilitanti per ottenere un accesso centralizzato, sicuro, rapido e dematerializzato alle informazioni di cura del paziente da qualsiasi parte egli si trovi all'interno del contesto territoriale. Nella visione di progressiva integrazione e centralizzazione dei servizi, entrambi sono strumenti infrastrutturali inizialmente di "secondo livello" rispetto la attuale dotazione delle Aziende e Strutture: l'obiettivo 2019-2021 è quello di progressivamente avviare l'adozione dello stesso da parte delle utenze finali e di renderlo centralizzato e funzionante (un sistema contenitore repository federato il primo ed un canale ad alta velocità il secondo).
 
 Linee di intervento:
@@ -825,7 +834,7 @@ Risultati attesi e tempistiche:
 - Messa a completa a regime del FSE entro settembre 2020;
 - Bando ed espletazione gara RAN SANITÀ entro dicembre 2020 e messa a completa a regime del 80% Rete RAN SANITÀ entro 2021.
 
-# 11.3 Sistema contabile unico e di contabilità analitica
+## 11.3 Sistema contabile unico e di contabilità analitica
 Una delle componenti fondamentali per la corretta misurazione degli eventi gestionali ed un pilastro del sistema di controllo interno aziendale (utile alla certificazione dei bilanci aziendali), è l'armonizzazione dei sistemi contabili. Tale attività - già avviata negli esercizi precedenti – proseguirà con l'avvio della fase di progettazione di un Sistema Informativo Contabile Unico Regionale che non si baserà solo sul fattore tecnologico, ma su di una revisione dei processi e delle anagrafiche. Ciò consentirà la tracciabilità delle procedure amministrativo-contabili e conseguentemente l'automatizzazione dei flussi informativi. L'intervento sarà indirizzato sia verso l'integrazione dei sistemi di contabilità generale esistenti, sia verso l'implementazione di un sistema unico di contabilità analitica. Tale soluzione consentirà alla Regione di realizzare una sempre maggiore integrazione tra l'analisi dei conti economici e le correlate variabili gestionali, attraverso una capillarità dei dati adeguata alle necessità di governo e controllo sia aziendale, sia regionale. Si sfrutterà un'unica piattaforma tecnologica che potrà poi fornire reporting strutturati e informazioni nativamente corrette per granularità, rapidamente aggiornate, vista la natura gestionale del sistema che sarà alimentato perifericamente, abbandonando l'attuale logica di estrazione estemporanea di flussi di dati.
 
 Linee di intervento:
@@ -838,7 +847,7 @@ Risultati attesi e tempistiche:
 - Termine delle attività di revisione anagrafiche di base entro dicembre 2020
 - Messa a completa a regime del sistema entro dicembre 2021
 
-# 11.4 La Telemedicina a supporto dei processi di presa in carico del paziente
+## 11.4 La Telemedicina a supporto dei processi di presa in carico del paziente
 La telemedicina, ossia la prestazione di servizi di assistenza sanitaria a distanza, può contribuire a migliorare la vita dei cittadini, sia pazienti che professionisti della salute, affrontando allo stesso tempo le sfide che si pongono al SSR.
 
 La telemedicina può favorire l'equità e continuità di accesso all'assistenza specializzata, la telesalute/telemonitoraggio può migliorare la qualità della vita dei pazienti affetti da malattie croniche e ridurre i soggiorni in ospedale, i servizi come la teleradiologia e la teleconsultazione possono contribuire a migliorare l'assistenza in emergenza, ridurre le liste d'attesa, ottimizzare l'uso delle risorse e rendere possibili aumenti di produttività. Nell'ambito della telesalute, le attività di telemedicina dedicati alle persone già classificate a rischio o persone affette da patologie croniche costituiscono un supporto fondamentale ai servizi di assistenza primaria, per il monitoraggio, cura, riabilitazione e prevenzione secondaria di tali patologie. La telesalute inoltre prevede un ruolo attivo sia da parte del medico per la presa in carico del paziente, sia da parte del paziente per la gestione dello stile di vita e l'aderenza alla terapia medica.
@@ -863,7 +872,7 @@ Risultati attesi e tempistiche
 - Formazione dei pazienti all'autocura della propria patologia attraverso strumenti di Telesalute entro dicembre 2020
 - Innovazione degli strumenti di comunicazione con i cittadini per favorire il corretto accesso alle cure e per promuovere stile di vita per i cittadini e l'adesione alle cure per i pazienti cronici entro dicembre 2020.
 
-# Ambito Pianificazione acquisti
+## 11.5 Ambito Pianificazione acquisti
 Il progetto nasce dall'attuale contesto organizzativo di centralizzazione degli acquisti che vede in capo alla Centrale Acquisti Regionale una programmazione acquisti biennale con aree di aggregazione e gruppi merceologici definiti (DPCM 24/12/2015), una definizione specifica dei fabbisogni informativi con già definiti i tracciati dati necessari alla elaborazione delle necessità e di attori referenti alla creazione di un Comitato Regionale Acquisti (DCA 287/17).
 
 In stretta collaborazione e sinergia con la Centrale Acquisti Regionale, l'obiettivo di questo progetto è la formulazione, limitatamente all'Area Sanità e Integrazione Socio Sanitaria, di un modello organizzativo integrato utile alla analisi e pianificazione dei fabbisogni che permetta di razionalizzare i consumi sulla base di valutazioni di appropriatezza con una visione strutturata d'insieme delle esigenze di acquisto di tutte le strutture sanitarie, adeguatamente supportato da un impianto tecnologico ed amministrativo. Ciò per limitare al minimo il ricorso ad espletamento di gare in deroga e supportare la Centrale Acquisti per la fase di valutazione di appropriatezza.
@@ -873,7 +882,6 @@ Le attività mireranno ad inserire l'avviato processo di centralizzazione degli 
 Le azioni previste saranno comunque necessarie, sia che si istituisca l'azienda Lazio.0 – che svolgerebbe poi alcune di queste attività in base agli indirizzi regionali – sia in assenza o nelle more dell'attivazione di Lazio.0.
 
 Sul piano operativo, le attività si svilupperanno in una prima raccolta/mappatura delle informazioni storiche rilevanti presenti su sistemi aziendali e regionali; si procederà poi ad una analisi delle attuali richieste di acquisto centralizzato proposte dalle singole Aziende, correlandole con i consumi storici degli stessi beni/materiali richiesti su di un quadro Regionale complessivo. L'esito delle analisi si concretizzerà in una proposta di modello organizzativo regionale che preveda: la revisione dell'assetto organizzativo e governance, l'identificazione degli attori, la segmentazione dei ruoli per ambito (area territoriale, classi merceologiche, logistica, competenze), valutazioni sugli impatti fiscali, efficienze, tempi e modalità di realizzazione.
-
 
 Linee di intervento
 - Creazione e/o consolidamento di anagrafiche/codifiche comuni valide per tutte le aziende e per la Regione
@@ -890,13 +898,13 @@ Risultati attesi
 - Documento finale di revisione del modello organizzativo di governance e determine di scopo entro dicembre 2020.
 - Reportistica su modello di controllo ed elenco indicatori fabbisogno e di risparmio e documentazione a corredo entro 31 marzo 2021.
 
-# 11.6 Ambito Logistica Sanitaria
+## 11.6 Ambito Logistica Sanitaria
 La gestione della logistica sanitaria ha un perimetro molto vario, che va da aspetti/approcci micro (vedi gestione dei beni a livello di singolo reparto sino ad arrivare al consumo per singolo paziente) ad aspetti/approcci macro (magazzini fisici sovra aziendali per la logistica del farmaco/beni economali/dispositivi...); di conseguenza anche le possibilità di recupero di efficienza ed efficacia sono molto ampie e varie. L'obiettivo di questa linea di attività è la rilevazione puntuale delle componenti strutturali (spazi, strutture, strumenti, risorse trasporto), organizzative (risorse umane, ruoli, procedure attuali, servizi extra-aziendali) e tecnologiche (programmi informatici/SW di magazzino a livello micro reparto- e/o macro -presidio/azienda-) facenti parte dell'assetto logistico regionale – inteso come la sommatoria degli assetti logistici di tutte le aziende sanitarie ed enti del perimetro pubblico - ed una successiva proposta progettuale di revisione in ottica di contenimento dei costi, efficacia nella distribuzione (tempestiva disponibilità, stock, tracciabilità, appropriatezza/fungibilità), ovvero nella revisione dei contratti di conto deposito/conto visione. Successivamente alla fase di ricognizione, la proposta di revisione del contesto logistico parte dalla lettura delle componenti informative di flusso, delle risorse umane, e si concretizza in una revisione dei processi ed in una adozione di infrastrutture tecnologiche a supporto utili alla misura del demand managament e del delivery su piattaforme di WMS (warehouse management system), per incrementare le performance operative abbattendo i costi. Saranno inoltre fissati dei criteri per valutare i livelli di servizio misurabili in merito a: tempi di consegna, disponibilità beni, rotture-stock, ed altri indicatori di area. Sul fronte del calcolo dei benefici rispetto l'opera di riassetto e centralizzazione delle funzioni logistiche, le attività di valutazione del TCO (total cost) e del ROI (return of investiment) saranno valutate insieme alle azioni ed alle soluzioni proposte ed avviate nell'ambito della Programmazione Acquisti. Le attività infatti sono fortemente legate al processo di ciclo passivo e danno priorità rispetto le sinergie e possibili ottimizzazioni legate al dominio degli articoli ed ai beni oggetto della programmazione centralizzata degli acquisti.
 
 Linee d'intervento
 - Mappatura dell'assetto logistico regionale per una riorganizzazione del modello logistico (posizione magazzini, volumi stoccaggio, natura depositi, personale impiegato, natura esercizio, serie storiche).
 - Realizzazione di una anagrafica unica regionale integrata degli articoli, dei dispositivi e delle tassonomie di classificazione: identificazione repository regionale integrato con strutture, sviluppo di controlli di sicurezza rispetto tracciabilità e codifica puntuale dei beni (GS1, Unique Device Identification UDI).
-- Rilevazione e monitoraggio dei flussi dati logistici delle aziende sul territorio (anagrafiche articoli, indici di rotazione, giacenze, conto deposito) provenienti dalle aziende sul territorio). Gestione del rilevamento delle informazioni di lotto e scadenza.
+- Rilevazione e monitoraggio dei flussi dati logistici delle aziende sul territorio (anagrafiche articoli, indici di rotazione, giacenze, conto deposito) provenienti dalle aziende sul territorio. Gestione del rilevamento delle informazioni di lotto e scadenza.
 - Ottimizzazione delle scorte ed un abbattimento delle quantità dei beni scaduti mediante tecniche di forecast (trend-ciclo, stagionalità, valori fuori linea)
 - Progettazione di KPI legati a eventi rilevanti nel processo logistico: ricezione e controllo merci, allestimento ordini dei Centri di Costo (CdC), spedizione e trasporto, distribuzione dai transit point ai CdC, consegne e customer satisfaction.
 - Proposta di efficientamento organizzativo e di governance dell'assetto logistico centralizzato tramite sistemi automatizzati di governo e controllo logistico centralizzato: valutazione e comparazione con il mercato rispetto le soluzioni applicative e le infrastrutture.
@@ -915,7 +923,7 @@ Risultati attesi
 - Sistema reportistica centralizzato centralizzato per verifica dello stato dei magazzini, delle scorte e dei consumi collaudato entro marzo 2021.
 - Elenco indicatori livelli di servizio entro marzo 2021.
 - Studio di fattibilità, documento di progettazione esecutiva per l'efficientamento organizzativo e di governance dell'assetto logistico centralizzato entro novembre 2021
- 
+
 # 12. Ricerca, innovazione ed Health Technology Assessment
 Il Lazio è una delle Regioni italiane dove, per la presenza di istituti pubblici nazionali, IRCCS, Università o per la rilevanza delle strutture afferenti al proprio Servizio Sanitario Regionale (SSR), viene condotto un numero rilevante di studi clinici e di ricerca sanitaria - di base, traslazionale e clinica - del nostro Paese.
 
@@ -926,7 +934,7 @@ Con una nuova governance della ricerca si intende favorire un insieme di strumen
 - facilitare la partecipazione dei centri e dei ricercatori del SSR a bandi di ricerca nazionali ed internazionali, cogliendo, con riferimento a questi ultimi, tutte le opportunità di crescita dell'internazionalizzazione del SSR;
 - esercitare una funzione di indirizzo nei confronti degli enti del SSR che svolgono attività di ricerca e promuovere una produzione scientifica in linea con gli obiettivi strategici della Direzione regionale Salute e Integrazione Sociosanitaria.
 
-Il trasferimento delle conoscenze scientifiche aggiornate e basate su solide prove di efficacia è un elemento di comprovato valore per la crescita delle competenze cliniche del personale sanitario e per il miglioramento del governo dell'appropriatezza, attraverso la promozione di best practices nel campo della diagnosi e del trattamento, con particolare attenzione ai fenomeni della sovradiagnosi e del sovratrattamento. L' implementazione della Biblioteca Medica Virtuale "Alessandro Liberati" (BAL) all'interno del portale Salute Lazio, rappresenta uno strumento utile per la selezione e la valutazione delle migliori evidenze scientifiche disponibili, favorendo l'utilizzo di strumenti di supporto alle decisioni cliniche (point of care tools). Inoltre, promuovendo il coordinamento negli acquisti delle risorse documentali online può garantire una migliore negoziazione dei costi e una maggiore omogeneità delle risorse acquisite. Infine, attraverso la BAL sarà possibile realizzare attività informative specifiche, organizzando corsi residenziali e a distanza su temi di particolare rilievo per i professionisti sanitari, favorendo incontri e dibattiti su argomenti di sanità pubblica, attuali o controversi, con l'ausilio di specifiche ed elevate competenze.
+Il trasferimento delle conoscenze scientifiche aggiornate e basate su solide prove di efficacia è un elemento di comprovato valore per la crescita delle competenze cliniche del personale sanitario e per il miglioramento del governo dell'appropriatezza, attraverso la promozione di best practices nel campo della diagnosi e del trattamento, con particolare attenzione ai fenomeni della sovradiagnosi e del sovratrattamento. L'implementazione della Biblioteca Medica Virtuale "Alessandro Liberati" (BAL) all'interno del portale Salute Lazio, rappresenta uno strumento utile per la selezione e la valutazione delle migliori evidenze scientifiche disponibili, favorendo l'utilizzo di strumenti di supporto alle decisioni cliniche (point of care tools). Inoltre, promuovendo il coordinamento negli acquisti delle risorse documentali online può garantire una migliore negoziazione dei costi e una maggiore omogeneità delle risorse acquisite. Infine, attraverso la BAL sarà possibile realizzare attività informative specifiche, organizzando corsi residenziali e a distanza su temi di particolare rilievo per i professionisti sanitari, favorendo incontri e dibattiti su argomenti di sanità pubblica, attuali o controversi, con l'ausilio di specifiche ed elevate competenze.
 
 Regione Lazio intende infine contribuire alla creazione di un ecosistema che favorisca il trasferimento delle innovazioni, sia cliniche che organizzative, nel Servizio Sanitario regionale, nell'ottica di contribuire al miglioramento delle risposte assistenziali ed assicurando coerenza con le priorità strategiche della Direzione salute ed Integrazione Sociosanitaria. In tale ambito, gli obiettivi da conseguire saranno:
 - consentire di avviare un processo di committenza strategica individuando e collegando i programmi/progetti di ricerca e/o di networking presso Aziende del S.S.R.;
@@ -974,17 +982,18 @@ Risultati attesi e tempistiche
 - Disponibilità dell'accesso a strumenti di supporto alle decisioni cliniche per almeno il 70% delle Aziende Sanitarie del Lazio entro il 30 giugno 2021
 - Documento con Piano di governo regionale per l'HTA entro il 30 giugno 2021
 - Partecipazione al gruppo Interdirezionale per la programmazione di interventi a valere sui Fondi Comunitari del ciclo 2021-2027 entro il 31/12/2020
- 
+
 # 13. Le Regole del SSR
 In questa sezione vengono ricompresi interventi volti a completare l'assetto regolatorio del SSR in coerenza con gli indirizzi della programmazione integrata, attraverso la rivisitazione del sistema delle autorizzazioni, dell'accreditamento, degli accordi contrattuali, contratti con gli erogatori privati e delle regole di budget e di remunerazione previsti dal D. Lgs. 502/92 e s.m.i.
 
-Come è noto, il D.Lgs.502 del 1992 ha delineato, negli articoli 8 bis, quater e quinquies, il quadro normativo funzionale all'individuazione, da parte delle Regioni, delle strutture abilitate: a1) ad esercitare attività sanitarie e/o sociosanitarie - Autorizzazione all'esercizio; a2) ad erogare, qualora in possesso di ulteriori requisiti rispetto a quelli minimi autorizzativi e nel rispetto degli indirizzi della programmazione regionale, le attività sanitarie e socio sanitarie, tra le quali quelle ricomprese nei Livelli Essenziali di Assistenza - Accreditamento istituzionale; a3) a porle a carico del Servizio Sanitario nazionale, qualora siano stati stipulati appositi Accordi contrattuali. In tale sistema, noto anche come il sistema delle tre A, l'Autorizzazione si configura, quindi, come il procedimento che rende lecito l'esercizio dell'attività sanitaria e/o socio sanitaria da parte di qualsiasi soggetto pubblico o privato, l'Accreditamento istituzionale come il procedimento al termine del quale viene concesso, al soggetto già autorizzato, il riconoscimento dello status di potenziale erogatore di prestazioni nell'ambito e per conto del Servizio sanitario nazionale, l'Accordo contrattuale come lo strumento regolatorio volto a definire la tipologia e i volumi massimi delle prestazioni, avendo riguardo alla qualità e all'appropriatezza delle stesse, e le condizioni alle quali le attività sono erogabili con oneri a carico del SSR/SSN. La norma nazionale ha disposto, inoltre, che le Regioni e le ASL attivino un sistema di monitoraggio e controllo sul rispetto degli accordi contrattuali nonché sulla qualità dell'assistenza e sulla appropriatezza delle prestazioni rese. La Regione Lazio, in adempimento al dettato normativo nazionale, ha regolamentato nel corso degli anni, attraverso propri provvedimenti, sia il percorso Autorizzazione – Accreditamento –Accordi Contrattuali, sia il sistema di monitoraggio e controllo delle prestazioni sanitarie disegnando, però, un sistema di regole compartimentato per livelli assistenziali che necessita, pertanto, di una rivisitazione al fine di renderlo più coerente ai nuovi indirizzi programmatori basati sulla continuità assistenziale. In altri termini, il processo di revisione dei criteri dovrà essere orientato, ove possibile, ad un accreditamento 'trasversale' delle attività sanitarie in modo che, a mero titolo di esempio, in una medesima struttura i pazienti possano trovare, anche nell'ottica della semplificazione dell'accesso e dei percorsi, le risposte ai propri bisogni di diagnosi, cura e riabilitazione nei diversi livelli o setting assistenziali, da attivare nel rispetto dell'appropriatezza clinica e organizzativa. È necessario, inoltre, ripensare il ruolo del comparto privato accreditato – già molto presente nel territorio della Regione – in un'ottica integrata, 'sistemica', dove concorre insieme alle strutture pubbliche al raggiungimento degli obiettivi posti dalla programmazione regionale. Ciò nel rispetto di regole chiare, semplificate e nella consapevolezza che lo status di soggetto accreditato è una condizione temporanea, necessaria ma non sufficiente per poter erogare prestazioni sanitarie e/o socio sanitarie in nome e per conto del Servizio Sanitario Regionale, condizione regolamentata dalla Regione e dalle ASL attraverso la stipula di appositi accordi contrattuali. In tale processo si dovrà dare, inoltre, piena attuazione a quanto previsto nel DM n. 70/2015, già recepito a livello di programmazione regionale con il DCA n. 257/2017, correlando i requisiti organizzativi ai volumi di attività erogata e alle fasi di implementazione delle attività autorizzate/accreditate
+Come è noto, il D.Lgs.502 del 1992 ha delineato, negli articoli 8 bis, quater e quinquies, il quadro normativo funzionale all'individuazione, da parte delle Regioni, delle strutture abilitate: a1) ad esercitare attività sanitarie e/o sociosanitarie - Autorizzazione all'esercizio; a2) ad erogare, qualora in possesso di ulteriori requisiti rispetto a quelli minimi autorizzativi e nel rispetto degli indirizzi della programmazione regionale, le attività sanitarie e socio sanitarie, tra le quali quelle ricomprese nei Livelli Essenziali di Assistenza - Accreditamento istituzionale; a3) a porle a carico del Servizio Sanitario nazionale, qualora siano stati stipulati appositi Accordi contrattuali. In tale sistema, noto anche come il sistema delle tre A, l'Autorizzazione si configura, quindi, come il procedimento che rende lecito l'esercizio dell'attività sanitaria e/o socio sanitaria da parte di qualsiasi soggetto pubblico o privato, l'Accreditamento istituzionale come il procedimento al termine del quale viene concesso, al soggetto già autorizzato, il riconoscimento dello status di potenziale erogatore di prestazioni nell'ambito e per conto del Servizio sanitario nazionale, l'Accordo contrattuale come lo strumento regolatorio volto a definire la tipologia e i volumi massimi delle prestazioni, avendo riguardo alla qualità e all'appropriatezza delle stesse, e le condizioni alle quali le attività sono erogabili con oneri a carico del SSR/SSN. La norma nazionale ha disposto, inoltre, che le Regioni e le ASL attivino un sistema di monitoraggio e controllo sul rispetto degli accordi contrattuali nonché sulla qualità dell'assistenza e sulla appropriatezza delle prestazioni rese. La Regione Lazio, in adempimento al dettato normativo nazionale, ha regolamentato nel corso degli anni, attraverso propri provvedimenti, sia il percorso Autorizzazione – Accreditamento –Accordi Contrattuali, sia il sistema di monitoraggio e controllo delle prestazioni sanitarie disegnando, però, un sistema di regole compartimentato per livelli assistenziali che necessita, pertanto, di una rivisitazione al fine di renderlo più coerente ai nuovi indirizzi programmatori basati sulla continuità assistenziale. In altri termini, il processo di revisione dei criteri dovrà essere orientato, ove possibile, ad un accreditamento "trasversale" delle attività sanitarie in modo che, a mero titolo di esempio, in una medesima struttura i pazienti possano trovare, anche nell'ottica della semplificazione dell'accesso e dei percorsi, le risposte ai propri bisogni di diagnosi, cura e riabilitazione nei diversi livelli o setting assistenziali, da attivare nel rispetto dell'appropriatezza clinica e organizzativa. È necessario, inoltre, ripensare il ruolo del comparto privato accreditato – già molto presente nel territorio della Regione – in un'ottica integrata, "sistemica", dove concorre insieme alle strutture pubbliche al raggiungimento degli obiettivi posti dalla programmazione regionale. Ciò nel rispetto di regole chiare, semplificate e nella consapevolezza che lo status di soggetto accreditato è una condizione temporanea, necessaria ma non sufficiente per poter erogare prestazioni sanitarie e/o socio sanitarie in nome e per conto del Servizio Sanitario Regionale, condizione regolamentata dalla Regione e dalle ASL attraverso la stipula di appositi accordi contrattuali. In tale processo si dovrà dare, inoltre, piena attuazione a quanto previsto nel DM n. 70/2015, già recepito a livello di programmazione regionale con il DCA n. 257/2017, correlando i requisiti organizzativi ai volumi di attività erogata e alle fasi di implementazione delle attività autorizzate/accreditate
 
 Altrettanto rilevante è l'utilizzo dei criteri di remunerazione delle attività (art. 8 sexies) in coerenza agli indirizzi definiti dalla programmazione sanitaria. A mero titolo esemplificativo: la promozione dell'appropriatezza, la valutazione degli esiti, la concentrazione dei volumi ex DM70/2015, l'integrazione dei percorsi assistenziali.
 
 Analogamente, il sistema dei controlli ex art. 8 octies D. Lgs. 502/1992 dovrà essere orientato alla promozione della qualità e della appropriatezza del processo assistenziale, armonizzando le procedure di controllo di appropriatezza con le attività di verifica in ambito di autorizzazione e accreditamento e recuperando il ruolo centrale delle ASL nella funzione, oltre che di committenza, di controllo esterno sull'appropriatezza e sulla qualità dell'assistenza prestata dalle strutture pubbliche e private.
 
-# 13.1.1 Revisione e aggiornamento dei requisiti minimi per l'esercizio delle attività sanitarie e socio-sanitarie
+## 13.1 Autorizzazione
+### 13.1.1 Revisione e aggiornamento dei requisiti minimi per l'esercizio delle attività sanitarie e socio-sanitarie
 La Regione Lazio, in adempimento alle disposizioni normative nazionali (DPR 14 gennaio 1997) e regionali (LR n.4/2003), ha individuato con il DCA n.8/2011 e s.m.i, i requisiti minimi strutturali, tecnologici ed organizzativi specifici per una vasta gamma di servizi e strutture sanitarie e socio-sanitarie, fornendo così una puntuale ed analitica declaratoria dei requisiti minimi previsti per le tipologie assistenziali ricognite sul territorio. Tale sistema, pur essendo stato oggetto di aggiornamenti nel corso degli anni tramite l'adozione di plurimi provvedimenti necessari, sia per il recepimento di normativa nazionale sia per l'introduzione di nuove modalità assistenziali, necessita di un'azione organica di revisione e aggiornamento anche alla luce dei significativi cambiamenti registrati in questi ultimi anni nell'ambito dell'assistenza sanitaria.
 
 Regione Lazio intende definire i criteri per la revisione e aggiornamento dei requisiti minimi autorizzativi per l'esercizio delle attività sanitarie e socio-sanitarie; definire per le tipologie assistenziali già disciplinate la priorità di intervento; identificare e introdurre eventuali nuove tipologie assistenziali e relativi requisiti minimi strutturali, tecnologici ed organizzativi; completare il percorso di valutazione delle strutture pubbliche, semplificando e rendendo omogenei i processi sottesi al procedimento amministrativo dell'autorizzazione all'esercizio.
@@ -996,19 +1005,33 @@ Linee di intervento
 - Proseguimento del percorso di valutazione delle strutture pubbliche tramite incontri periodici con le Asl (Dipartimenti di Prevenzione, Sisp, altri servizi aziendali coinvolti);
 - Aggiornamento requisiti organizzativi in modo che sia evidenziato per ciascun setting assistenziale il nucleo minimo di personale funzionale all'attivazione dell'esercizio, in rapporto alle diverse figure professionali coinvolte, e la previsione di progressiva e proporzionale implementazione del personale medesimo in rapporto ai volumi di attività anche in regime privatistico
 
-Coerentemente con quanto disposto dalla L.R. 03 marzo 2003, n. 4 e s.m.i si procederà ad individuare, di concerto con le Aree referenti per la programmazione ospedaliera e territoriale, i settori nei quali l'evoluzione delle tecnologie e delle pratiche sanitarie o della normativa rendono necessario revisionare ed aggiornare i requisiti minimi autorizzativi. Una volta individuati i settori sui quali intervenire si procederà a convocare appositi gruppi di lavoro tecnici per la revisione e l'aggiornamento degli specifici requisiti, anche integrativi rispetto a quelli indicati dal decreto del Presidente della Repubblica 14 gennaio 1997. I documenti elaborati dai gruppi di lavoro saranno sottoposti prima della loro approvazione alle organizzazioni sindacali maggiormente rappresentative così come previsto dalla normativa regionale.
+Modalità operative: Coerentemente con quanto disposto dalla L.R. 03 marzo 2003, n. 4 e s.m.i si procederà ad individuare, di concerto con le Aree referenti per la programmazione ospedaliera e territoriale, i settori nei quali l'evoluzione delle tecnologie e delle pratiche sanitarie o della normativa rendono necessario revisionare ed aggiornare i requisiti minimi autorizzativi. Una volta individuati i settori sui quali intervenire si procederà a convocare appositi gruppi di lavoro tecnici per la revisione e l'aggiornamento degli specifici requisiti, anche integrativi rispetto a quelli indicati dal decreto del Presidente della Repubblica 14 gennaio 1997. I documenti elaborati dai gruppi di lavoro saranno sottoposti prima della loro approvazione alle organizzazioni sindacali maggiormente rappresentative così come previsto dalla normativa regionale.
 
 Risultati attesi e tempistiche
-- Diffusione presso le Asl di Linee guida tese ad uniformare le attività di verifica ai fini autorizzativi delle ASL ed omogeneità dei livelli di sicurezza nell' erogazione delle attività sanitarie e socio-sanitarie entro il 2020
+- Diffusione presso le Asl di Linee guida tese ad uniformare le attività di verifica ai fini autorizzativi delle ASL ed omogeneità dei livelli di sicurezza nell'erogazione delle attività sanitarie e socio-sanitarie entro il 2020
 - Completamento del percorso di valutazione delle strutture pubbliche entro il 2021
 - Adozione provvedimento di aggiornamento del sistema di autorizzazione all'esercizio regionale e in particolare dei requisiti organizzativi entro il 30 giugno 2021
 
-# 13.2.1 Requisiti organizzativi, implementazione e semplificazione delle procedure
+## 13.2 Accreditamento istituzionale
+### 13.2.1 Requisiti organizzativi, implementazione e semplificazione delle procedure
 L'accreditamento istituzionale, nell'ambito del perseguimento degli obiettivi di tutela della salute individuati con i Livelli Essenziali di Assistenza (LEA), è lo strumento con il quale le Regioni devono mirare a promuovere il processo di miglioramento continuo della qualità nell'erogazione delle prestazioni sanitarie e socio-sanitarie. La Regione Lazio, con la DGR n. 636/2007 e con il DCA n.90/2010 e, successivamente, con il DCA n. U00469 del 7 novembre 2017 (cui si aggiunge la specifica normativa in materia di servizi trasfusionali e assistenza domiciliare - rispettivamente, DCA n. U00282/2017 e n. U00283/2017), ha individuato gli standard di qualità che costituiscono i requisiti ulteriori per l'accreditamento delle strutture pubbliche e private, mirando a promuovere il processo di miglioramento continuo della qualità delle prestazioni, in modo tale che ogni cittadino, in relazione ai propri bisogni sanitari, possa ricevere la cura e l'assistenza che garantisca, con i minor rischi possibili, i migliori risultati in termini di salute. L'applicazione dei modelli di accreditamento normativamente disposti, ha evidenziato, tuttavia, la necessità di semplificare le procedure di verifica e l'articolazione complessiva dei requisiti ulteriori, con l'obiettivo di facilitare l'adozione, da parte dei soggetti erogatori, di politiche di miglioramento della qualità oltre che garantire la piena operatività dell'Organismo Tecnicamente Accreditante (OTA) disciplinato dalla Regione Lazio con DCA n. U00252 del 20.07.2017, come sostituito dal DCA 242/2019.
 
 Inoltre, con riferimento a specifiche tipologie assistenziali, quali l'assistenza ospedaliera, occorre dare piena attuazione a quanto previsto nel DM n. 70/2015, già recepito a livello di programmazione regionale con il DCA n. 257/2017, specificando e, laddove necessario, implementando nel sistema accreditamento standard di attività (volumi) per specifici processi assistenziali, desunti sulla base della revisione sistematica della letteratura scientifica, strettamente correlati a migliori esiti delle cure (ad esempio, mortalità a 30 giorni, complicanze od altri esiti). Parallelamente, occorre applicare pienamente l'istituto dell'accreditamento istituzionale a tutti gli ambiti assistenziali previsti dai LEA, in particolare nel campo dell'assistenza alle persone con dipendenze patologiche, superando così, definitivamente, l'erogazione di tale modalità assistenziale in forma progettuale. Regione Lazio si pone gli obiettivi di semplificare ed omogeneizzare le procedure di accreditamento istituzionale, in linea con le vigenti disposizioni nazionali; razionalizzare i requisiti ulteriori di accreditamento, individuare i requisiti "core" per setting assistenziale; implementare, nel sistema accreditamento, la verifica degli esiti raggiunti in rapporto ai volumi di attività; attualizzare e rendere operativo l'Organismo Tecnicamente Accreditante (O.T.A.); applicare pienamente l'istituto dell'accreditamento istituzionale a tutti gli ambiti assistenziali previsti dai LEA, e completare le procedure di riconduzione delle strutture non accreditate extra-ordinem nell'alveo della gestione tipizzata di cui all'articolo 8-bis del decreto legislativo n. 502/1992.
 
-# 13.3 Accordi contrattuali e contratti
+Linee di intervento
+- Attualizzare e rendere operativo l'Organismo Tecnicamente Accreditante (O.T.A.) procedendo in prima istanza all'aggiornamento della formazione dei valutatori.
+- Incontri istituzionalizzati con i professionisti delle UO Accreditamento delle Aziende USL, al fine di rendere omogenee le attività di verifica con le vigenti disposizioni nazionali e razionalizzare i requisiti ulteriori di accreditamento.
+- Istituzione di un Gruppo di lavoro finalizzato all'individuazione dei requisiti "core" per specifici setting assistenziali e per la formalizzazione dei "Piani di Miglioramento" ed alla formalizzazione di specifici standard assistenziali e applicazione l'istituto dell'accreditamento istituzionale a tutti gli ambiti assistenziali previsti dai LEA anche al fine di adottare un criterio di proporzionalità dei requisiti organizzativi con i volumi, a tipologia e la complessità assistenziale delle attività socio sanitarie;
+- Completamento delle procedure in itinere per la riconduzione del sistema di convenzionamento tra le Aziende sanitarie locali e le strutture private non accreditate nell'alveo della gestione tipizzata di cui all'articolo 8-bis del decreto legislativo n. 502/1992 e superamento della gestione extra-ordinem.
+
+Risultati attesi e tempistiche
+- Avvio dei lavori dell'O.T.A. entro il 2019
+- Stesura di un documento condiviso con le Aziende USL, circa le modalità operative delle attività di verifica in accreditamento entro il 30 giugno 2021
+- Definizione ed implementazione di specifici standard assistenziali nel sistema accreditamento regionale entro il 30 giugno 2021
+- Proporzionalità, per tutte le attività sanitarie e sociosanitarie, dei requisiti organizzativi ai volumi, alla tipologia e alla complessità assistenziale delle attività entro il 2021
+- Conclusione delle procedure per la riconduzione del sistema di convenzionamento tra le Aziende sanitarie locali e le strutture private non accreditate nell'alveo della gestione tipizzata di cui all'articolo 8-bis del decreto legislativo n. 502/1992 entro il 30 giugno 2021
+
+## 13.3 Accordi contrattuali e contratti
 L'Accordo contrattuale che le strutture private sottoscrivono con le Aziende sanitarie ai sensi dell'articolo 8 quinquies del d. lgs. n. 502 del 1992 integra lo strumento giuridico che consente all'operatore economico privato di accedere all'erogazione delle prestazioni erogabili in regime di accreditamento con oneri a carico del SSR.
 
 Il contratto è stato individuato quale leva attraverso cui migliorare il processo di negoziazione tra il committente (azienda sanitaria) e il soggetto erogatore di prestazioni sanitarie per conto del Servizio Sanitario Nazionale.
@@ -1041,16 +1064,15 @@ Risultati attesi e tempistiche
 - Provvedimento amministrativo di revisione dello schema di accordo entro 2019
 - Decreto di budget per il 2020 e per il 2021 entro il 30/7 di ogni annualità
 
-# 13.4.1 Armonizzazione delle procedure di controllo esterno con le attività di ispezione e vigilanza in tema di autorizzazione e accreditamento
+## 13.4 I controlli
+### 13.4.1 Armonizzazione delle procedure di controllo esterno con le attività di ispezione e vigilanza in tema di autorizzazione e accreditamento
 A decorrere dal 2001, la Regione Lazio, in attuazione di quanto disposto dall'art. 8-octies del D. Lgs. 502/92 e s.m.i., ha organizzato un sistema di controlli esterni confluito nell'unico Sistema Regionale dei Controlli basato sull'integrazione tra Regione e Aziende Sanitarie Locali, ed ha esteso l'azione di controllo a tutte le strutture ospedaliere regionali, pubbliche e private, che hanno accesso al finanziamento a prestazione.
 
 Tale sistema, attualmente disciplinato dal DCA n.218/2017 e s.m.i, stabilisce che nell'ambito dell'espletamento dei controlli esterni sull'assistenza ospedaliera in acuzie e post-acuzie, preliminarmente alle verifiche di congruità e di appropriatezza sulla documentazione sanitaria, il personale di controllo proceda nella verifica della coerenza fra le prestazioni erogate dalla struttura e il titolo di accreditamento. Inoltre, qualora in sede di controllo si riscontrino fenomeni di: incongruità, inappropriatezza e/o fenomeni opportunistici rilevanti, in considerazione del merito degli stessi, della loro numerosità e/o reiterazione per diverse annualità, la Regione avvia una valutazione complessiva della struttura al fine di verificare la permanenza delle condizioni per il mantenimento, la sospensione e/o la rimodulazione dell'accreditamento.
 
 Diventa, pertanto, necessario raccordare e armonizzare il sistema dei controlli esterni con le procedure di vigilanza e ispezione finalizzate alle verifiche del possesso e/o permanenza dei requisiti minimi autorizzativi e/o di quelli ulteriori dell'accreditamento, in modo da evitare la parcellizzazione o la duplicazione delle attività di verifica e controllo e pervenire cosi alla stesura di un Piano annuale integrato dei controlli in ambito sanitario (PAICS) nel quale individuare le aree prioritarie di intervento e le relative azioni, da realizzare nei confronti dei soggetti erogatori. È necessario, inoltre, sulla scorta dell'esperienza acquisita nel controllo delle attività ospedaliere, procedere alla stesura di protocolli per la verifica delle attività sanitarie sui diversi territori, al fine di rendere omogenea l'attività di controllo tra le diverse Aziende sanitarie ed indirizzare il sistema degli erogatori, attraverso l'esplicitazione di un sistema di regole chiaro e agile, verso un percorso di miglioramento continuo della qualità dell'assistenza.
 
-All'azione di consolidamento e armonizzazione delle attività di controllo già in essere, dovrà essere affiancato lo sviluppo e il potenziamento della valutazione dell'appropriatezza clinica delle prestazioni sanitarie, attraverso l'applicazione degli strumenti del governo clinico quale ad es. l'Audit clinico, la verifica dell'adesione dei processi assistenziali ad eventuali Linee Guida da attuarsi anche in collaborazione con il Dipartimento di Epidemiologia del SSR e l'implementazione di un sistema di controllo delle attività territoriali attraverso la realizzazione di modalità operative di verifica e di sanzione comuni a tutte le ASL.
-
-Regione Lazio si pone gli obiettivi di definire un Piano Annuale integrato dei controlli in ambito sanitario; effettuare tempestivamente i controlli di appropriatezza e concludere i procedimenti delle annualità pregresse; definire protocolli per la verifica delle attività sanitarie territoriali oltre che implementare i controlli di appropriatezza sull'attività di specialistica ambulatoriale in coerenza con i criteri e le condizioni di erogabilità contenute nel DPCM dei nuovi LEA.
+All'azione di consolidamento e armonizzazione delle attività di controllo già in essere, dovrà essere affiancato lo sviluppo e il potenziamento della valutazione dell'appropriatezza clinica delle prestazioni sanitarie, attraverso l'applicazione degli strumenti del governo clinico quale ad es. l'Audit clinico, la verifica dell'adesione dei processi assistenziali ad eventuali Linee Guida da attuarsi anche in collaborazione con il Dipartimento di Epidemiologia del SSR e l'implementazione di un sistema di controllo delle attività territoriali attraverso la realizzazione di modalità operative di verifica e di sanzione comuni a tutte le ASL. Regione Lazio si pone gli obiettivi di definire un Piano Annuale integrato dei controlli in ambito sanitario; effettuare tempestivamente i controlli di appropriatezza e concludere i procedimenti delle annualità pregresse; definire protocolli per la verifica delle attività sanitarie territoriali oltre che implementare i controlli di appropriatezza sull'attività di specialistica ambulatoriale in coerenza con i criteri e le condizioni di erogabilità contenute nel DPCM dei nuovi LEA.
 
 Linee di intervento
 - Effettuare una ricognizione delle norme e regolamenti regionali vigenti in tema di vigilanza, verifica e controlli in ambito sanitario.
@@ -1067,7 +1089,7 @@ Risultati attesi e tempistiche
 - Adozione e diffusione di Linee Guida sulle modalità operative per la realizzazione dei PAICS 30 giugno 2021
 - Definire protocolli per la verifica delle attività sanitarie territoriali e relativi sistemi sanzionatori entro il 30 giugno 2021
 
-# 13.5 Criteri di finanziamento delle prestazioni sanitarie
+## 13.5 Criteri di finanziamento delle prestazioni sanitarie
 La Regione Lazio intende utilizzare i criteri di finanziamento delle prestazioni sanitarie erogate, sia da parte delle strutture pubbliche, sia da parte delle strutture private accreditate per orientare la produzione di attività e servizi in quegli ambiti e con le modalità che la programmazione sanitaria ritiene prioritari nel rispetto dei bisogni dei cittadini. Tale intervento sarà rivolto a tutti i livelli assistenziali (prestazioni ospedaliere, di specialistica ambulatoriale e territoriale) e verrà realizzato attraverso la revisione dei criteri di definizione dei budget, il miglioramento delle regole di remunerazione e la messa a regime delle politiche tariffarie e delle funzioni non tariffabili.
 
 Tale scelta strategica deriva dalla necessità di adattare i sistemi di finanziamento esistenti (prevalentemente basati su criteri storici) alle nuove sfide della sanità, rendendo il sistema più flessibile e reattivo ai mutamenti del contesto e, allo stesso tempo, rendendo le scelte di allocazione delle risorse più prossime ai fabbisogni del territorio.
@@ -1084,6 +1106,179 @@ In tal senso la Regione Lazio si prefigge di:
 - finanziare le strutture cd. "extra-ordinem", tenuto conto della produzione erogata negli anni precedenti;
 - potenziare l'offerta assistenziale sul territorio;
 
+#### Linea di intervento 1 - Ottimizzare l'uso delle risorse finanziarie disponibili, nei limiti di quanto previsto dalla spending review.
+Nel corso dei precedenti esercizi si è verificato più volte che il livello di budget assegnato alle strutture private accreditate, con particolare riferimento all'assistenza ospedaliera e al budget aggiuntivo per l'alta specialità erogata a pazienti fuori regione (ex Legge Finanziaria 2016) non sia stato complessivamente saturato.
+
+È intenzione della Regione Lazio adottare meccanismi di ottimizzazione nell'uso delle risorse finanziarie che, previa analisi del fabbisogno, redistribuiscano le economie in esame verso le strutture che erogano prestazioni qualitativamente adeguate (appropriate e congrue) in eccedenza rispetto ai livelli massimi di finanziamento storicamente assegnati.
+
+Saranno adottati i seguenti provvedimenti:
+- Individuazione di criteri di ottimizzazione dell'uso delle risorse destinate alle prestazioni di alta complessità erogate a pazienti fuori Regione. La redistribuzione delle risorse avrà effetto sui livelli di finanziamento per lo stesso anno di riferimento – entro giugno 2019;
+- Estensione del criterio di riallocazione ed efficientamento delle risorse (previa verifica del fabbisogno e dell'analisi di appropriatezza e congruità) per le prestazioni ospedaliere per acuti, riabilitazione post-acuzie e lungodegenza – entro dicembre 2020.
+
+#### Linea di intervento 2 - Migliorare l'appropriatezza delle prestazioni erogate, anche in aderenza a quanto disciplinato dal DM 70/2015.
+La Regione Lazio intende promuovere e favorire l'appropriatezza clinica ed organizzativa, penalizzando l'inappropriatezza, con particolare riferimento alle prestazioni ospedaliere.
+
+Tale obiettivo sarà perseguito attraverso l'adozione di criteri di riduzione del budget in proporzione al valore delle prestazioni ad alto rischio di inappropriatezza oltre soglia e attraverso l'applicazione di abbattimenti tariffari sulle medesime prestazioni.
+
+Saranno adottati i seguenti provvedimenti:
+- Adozione di criteri di disincentivazione dell'inappropriatezza delle prestazioni ospedaliere, sia chirurgiche, sia mediche – entro giugno 2020;
+- Estensione degli abbattimenti tariffari ad ulteriori prestazioni ad alto rischio di inappropriatezza e ridefinizione dei valori soglia – entro dicembre 2019;
+- Individuazione di ulteriori criteri di valorizzazione dei budget delle prestazioni ospedaliere, basato sull'analisi dei volumi di produzione di almeno un triennio per ogni struttura e sulla valutazione degli stessi alla luce di quanto disposto dal DM 70/2015, punto 4.6. – entro dicembre 2019;
+- Remunerazione degli interventi chirurgici della frattura del femore e dei parti cesarei primari orientati al miglioramento rispetto ai valori soglia entro giugno 2020.
+
+#### Linea di intervento 3 - Evitare il congestionamento nelle aree di emergenza ed urgenza.
+La Regione Lazio intende affrontare il problema del sovraffollamento delle aree di emergenza urgenza, attraverso iniziative volte a integrare efficacemente l'offerta di prestazioni ospedaliere delle strutture private accreditate.
+
+In tal senso, saranno adottati criteri di definizione del budget e di remunerazione tendenti ad incentivare/valorizzare la risposta assistenziale garantita dai reparti di medicina generale.
+
+Saranno adottati i seguenti provvedimenti:
+- A partire dal 2020, incremento delle risorse destinate alle strutture private accreditate dotate di posti letto di medicina generale utilizzati ai fini di ridurre i sovraffollamenti di PS, con contestuale riduzione delle risorse destinate alle strutture che non rispettino tali condizioni;
+- Riduzione del budget per le strutture private accreditate con basso tasso di occupazione dei posti letto di medicina generale – entro giugno 2019
+- Monitoraggio dei risultati del DCA 151/2019 ed eventuali azioni correttive volte ad ottimizzare l'utilizzo dei posti letto di medicina generale finalizzata al decongestionamento del pronto soccorso entro il 31/12/2019
+- Redistribuzione delle economie di budget sopra elencate a favore delle strutture che hanno registrato performance adeguate – entro dicembre 2020
+- Definizione di criteri di remunerazione incentivanti per le prestazioni ospedaliere erogate a pazienti provenienti da pronto soccorso – entro giugno 2019.
+
+#### Linea di intervento 4 - Contrarre il saldo negativo di mobilità interregionale.
+La Regione Lazio presenta un saldo di mobilità interregionale negativo che (al netto delle prestazioni rese dall'OPBG e dall'ACISMOM) oltre a rappresentare un disagio dei pazienti laziali costretti a recarsi altrove per ricevere prestazioni sanitarie, incide in maniera significativa sul risultato del Conto Economico Consolidato SSR. La mobilità passiva per prestazioni di assistenza ospedaliera ha riguardato, nel 2018, complessivamente il 9% dei ricoveri dei residenti nel Lazio (per acuti in regime ordinario), interessando una casistica di complessità comparabile con quella media nazionale. Il valore complessivo del debito regionale per prestazioni ospedaliere, nei confronti di altre regioni (al netto di OPBG e ACISMOM), si attesta, nel 2018, a 287.532.339 euro. Viceversa, il credito regionale per l'assistenza ospedaliera di pazienti da altre regioni è pari a 219.882.653 euro. Al fine di intervenire sul saldo negativo della mobilità interregionale, la Regione Lazio intende, da un lato, sottoscrivere accordi di confine con le altre Regioni, volti a delimitare eventuali comportamenti opportunistici registrati su alcune discipline, dall'altro intervenire sulla capacità di assorbimento della domanda attraverso la propria rete di offerta, anche incentivando l'attività ospedaliera di alta complessità rivolta ai pazienti regionali e non.
+
+Il 25.7% dell'importo a debito del 2018 vede, ad esempio, la Regione Toscana come regione creditrice, per un totale di circa 73 mln di euro. Da un'analisi dei determinanti della mobilità passiva per ricoveri, soprattutto con riferimento ai flussi verso la regione Toscana, emerge, in particolare, il ricorso ad alcuni interventi di area ortopedica: tra questi, a titolo esemplificativo, gli interventi di sostituzione di articolazioni maggiori o reimpianto degli arti inferiori (DRG544) e quelli di artrodesi vertebrale eccetto cervicale senza CC (DRG 498), effettuati presso strutture toscane, corrispondono da soli ad un valore complessivo superiore a 31 milioni, quale effetto di un regolare e significativo incremento nel ricorso documentabile sin dal 2011. In relazione a tale fenomeno, giova richiamare la segnalazione della Società Italiana di Ortopedia e Traumatologia e dall'Associazione Laziale Ortopedici Traumatologi Ospedalieri, che indica frequente casistica di pazienti che, sottoposti ad interventi chirurgici presso strutture private toscane, incorrono in rilevanti complicanze post-chirurgiche, talvolta infettive, prese in carico successivamente dalle strutture pubbliche del Lazio per indisponibilità delle strutture di provenienza, da cui l'evidente necessità di attivare un idoneo monitoraggio della qualità degli interventi in regime di mobilità per le condizioni di cui trattasi e di porre in atto misure volte a prevenire i comportamenti professionali segnalati, oltre che di definire specifici protocolli che garantiscano la continuità assistenziale a beneficio, soprattutto, dei pazienti. La Regione Lazio ha sottoposto (in data 19 aprile e 30 agosto 2019) alla Regione Toscana una proposta di accordo di confine finalizzato a: programmare ex ante i tetti annuali massimi di finanziamento per classi degli scambi in mobilità in coerenza con le previsioni dell'art. 15, comma 14, del DL 95/2012, definire criteri di remunerazione delle attività erogate in mobilità che promuovano la qualità e l'appropriatezza delle prestazioni e penalizzino/riducano eventuali comportamenti distorsivi o inappropriati (superamento tetti, ricoveri inappropriati, ricoveri ripetuti o troppo brevi), condividere programmi di monitoraggio e controllo dell'attività effettuata, di valutazione della qualità e dell'appropriatezza delle prestazioni erogate. La Regione intende dunque proseguire secondo tale percorso, in assenza del quale si prevede di riconoscere alla Regione Toscana, per le prestazioni di ricovero erogate nel corso del 2020 da strutture private accreditate toscane a favore di cittadini laziali, un rimborso finanziario complessivo non superiore al volume finanziario degli scambi registrati nel 2015 per la medesima tipologia di attività.
+
+Sul piano del potenziamento della rete di offerta in grado di assorbire la domanda e di accompagnare la contrazione del saldo, l'analisi dei principali DRG che determinano il maggior ricorso ad interventi ospedalieri fuori regione fa riferimento, in modo particolare, all'area ortopedica: le dimissioni da reparti di ortopedia e traumatologia portano, ad esempio, al 35,9% dell'importo a debito verso altre regioni. Alcune importanti azioni di miglioramento della qualità e di efficientamento dell'offerta, condotte attraverso il sistema degli obiettivi dei Direttori generali delle Aziende sanitarie, il sistema di regole di remunerazione e gli interventi di miglioramento della qualità delle cure e adeguamento dell'offerta (documentati nel paragrafo 17.2), hanno già mostrato capacità di produrre significativi effetti sulla qualità e sull'efficienza delle strutture per acuti, sia pubbliche che private accreditate, si veda ad esempio il deciso miglioramento del dato relativo alla quota di pazienti ultra sessantacinquenni con diagnosi principale di frattura del collo del femore, operati entro 2 giornate in regime ordinario, che nel 2018 risulta in linea con la soglia di riferimento (64,21% vs ≥60%), come documentato dal verbale dell'ultima riunione congiunta del Tavolo tecnico per la verifica degli adempimenti regionali con il comitato permanente per la verifica dei LEA del 27 novembre 2019. Si tratterà dunque di proseguire lungo tale direttrice, coniugando il monitoraggio costante dei determinanti della mobilità ospedaliera con la programmazione delle regole di sistema, con particolare attenzione al ruolo delle strutture pubbliche.
+
+La Regione prevede, infine, di rafforzare l'offerta di specialistica ambulatoriale su particolari branche che presentano elevati tassi di fuga, con particolare riferimento alla PET.
+
+Saranno adottate le seguenti attività:
+- Individuazione di criteri di ottimizzazione dell'uso delle risorse destinate alle prestazioni di alta complessità erogate a pazienti fuori regione – entro maggio 2019;
+- Redistribuzione del budget aggiuntivo sulla base dell'effettiva produzione erogata – entro dicembre 2020;
+- Finanziamento aggiuntivo delle PET – entro giugno 2020;
+- Eventuale finanziamento aggiuntivo di altre branche della specialistica ambulatoriale – entro dicembre 2020
+- Analisi dell'offerta pubblica con l'obiettivo di potenziare le prestazioni erogate a pazienti laziali da altre Regioni con particolare riferimento all'alta complessità entro il 31/12/2019;
+- Verifica dei DRG che presentano una casistica di mobilità passiva nonostante un'offerta pubblica regionale adeguata entro il 31 ottobre 2020;
+- Proposta di accordi di confine entro il 31 dicembre 2020;
+
+#### Linea di intervento 5 - Governare efficacemente l'offerta ospedaliera chirurgica e medica.
+Gli attuali budget assegnati alle strutture private accreditate che erogano prestazioni ospedaliere per acuti sono calcolati su base prevalentemente storica e riferiti alla configurazione di accreditamento dell'intero plesso, senza distinzione tra area medica/chirurgica o per disciplina.
+
+Al fine di orientare l'offerta assistenziale in maniera sempre più mirata alle esigenze dell'utenza, è intenzione della Regione Lazio riconsiderare i livelli massimi di finanziamento in esame tenendo conto della loro composizione per area chirurgica e area medica. Tale iniziativa potrà essere implementata grazie allo sviluppo del nuovo sistema informativo sanitario regionale.
+
+Risultati attesi e tempistiche:
+- Assegnazione del budget per assistenza ospedaliera per acuti, tenendo conto della loro composizione per area chirurgica e area medica – entro marzo 2021.
+
+#### Linea di intervento 6 - Individuare criteri omogenei di finanziamento per le prestazioni di riabilitazione post-acuzie ed orientare efficacemente l'offerta.
+Gli attuali budget assegnati alle strutture private accreditate che erogano prestazioni ospedaliere post-acuzie sono calcolati su base prevalentemente storica, distinguendo tra ricoveri diurni e ordinari, senza specifica dei gruppi di diagnosi MDC.
+
+È intenzione della Regione Lazio allocare le risorse in esame sulla base di criteri di maggiore equità, individuando un valore medio per posto letto da riconoscere a tutte le strutture che erogano le medesime prestazioni. Inoltre è intenzione della Regione Lazio indirizzare l'offerta riabilitativa sulle prestazioni maggiormente richieste attraverso politiche tariffarie dedicate.
+
+Saranno adottati i seguenti provvedimenti:
+- Adozione di un budget con applicazione di un valore medio omogeneo per posto letto entro settembre 2020;
+- Messa a regime di un sistema di stadiazione tariffarie per MDC (cod. 56) – entro settembre 2020.
+
+#### Linea di intervento 7 - Definire un quadro regolatorio trasparente e tempestivo.
+La Regione Lazio ha storicamente definito i criteri di finanziamento delle prestazioni sanitarie in corso d'anno, anche in considerazione dei tempi di consolidamento dei relativi dati di attività.
+
+Il nuovo sistema informativo sanitario regionale metterà a disposizione i dati di produzione sanitaria con maggiore tempestività, consentendo così di programmare l'allocazione delle risorse ad inizio anno e favorendo l'immediata contrattualizzazione con le strutture private accreditate.
+
+Risultati attesi e tempistiche:
+- Miglioramento della tempistica nella adozione dei provvedimenti di budget e remunerazione.
+
+#### Linea di intervento 8 - Rafforzare il ruolo della committenza delle ASL.
+Il piano di rientro della Regione Lazio ha comportato, tra le tante, la necessità di concentrare in capo all'amministrazione regionale le principali scelte di allocazione delle risorse finanziarie destinate alle strutture private accreditate. Ciò se da una parte ha generato un maggiore controllo della spesa, dall'altro ha può avere allontanato le decisioni strategiche dalle esigenze locali.
+
+Il risanamento economico del sistema sanitario laziale sarà l'occasione per valorizzare la prossimità delle decisioni alle realtà territoriali, attribuendo gradualmente alle ASL la funzione di committenza.
+
+Saranno adottati i seguenti provvedimenti:
+- Attribuzione alle ASL dei livelli massimi di finanziamento della specialistica ambulatoriale, con facoltà delle rispettive direzioni generali di allocare parte delle risorse secondo le esigenze locali – entro maggio 2019;
+- Graduale incremento della discrezionalità delle direzioni generali nell'allocazione delle risorse alle strutture insistenti sul proprio territorio nell'ambito dei livelli complessivi assegnati dalla Regione entro il 30 settembre 2020
+
+#### Linea di intervento 9 - Finanziare le strutture cd. "extra-ordinem", tenuto conto della produzione erogata negli anni precedenti.
+Nel corso degli ultimi anni la Regione Lazio ha avviato un impegnativo percorso di riconduzione del sistema di convenzionamento a quanto stabilito dall'art. 8-bis del D.Lgs 502/1992, con particolare riferimento ai cd. "Pii Istituti".
+
+È intenzione della Regione Lazio procedere all'attribuzione dei budget alle strutture in argomento, al termine del procedimento di riconduzione.
+
+Risultati attesi e tempistiche:
+- Attribuzione del budget entro 60 gg. alle strutture che hanno operativamente concluso il procedimento di riconduzione, basandosi sui dati di produzione dell'esercizio precedente, previa valutazione regionale del fabbisogno assistenziale confermato dalla ASL territorialmente competente.
+
+#### Linea di intervento 10 - Potenziare l'offerta assistenziale sul territorio.
+I livelli massimi di finanziamento per l'assistenza territoriale sono stati definiti dalla Regione Lazio, negli ultimi anni, tenendo conto del fabbisogno di salute della popolazione residente e dell'offerta assistenziale presente sul territorio, quasi totalmente garantita da strutture private accreditate.
+
+I provvedimenti commissariali adottati negli ultimi esercizi hanno restituito il ruolo di committenza alle Aziende Sanitarie Locali le quali, rispettando le regole di carattere generale e gli indirizzi strategici della Regione Lazio, hanno adottato provvedimenti di definizione dei tetti di spesa per le strutture che insistono sul proprio territorio.
+
+Nell'ultimo triennio, le strutture che hanno sottoscritto l'accordo contrattuale di cui all'art. 8-quinquies del D.Lgs n. 502/1992, hanno erogato con onere a carico del SSR le prestazioni di:
+- Assistenza sanitaria rivolta a persone non autosufficienti, anche anziane;
+- Assistenza per cure palliative;
+- Assistenza psichiatrica territoriale;
+- Riabilitazione territoriale intensiva, estensiva e di mantenimento per persone con disabilità fisica, psichica e sensoriale.
+
+L'obiettivo della Regione Lazio nel prossimo triennio è quello di potenziare l'offerta assistenziale garantendo in modo sempre più puntuale il soddisfacimento del fabbisogno di salute della popolazione. In particolare, la Regione Lazio intende implementare un modello di monitoraggio e controllo della spesa per le prestazioni effettivamente erogate, introducendo indicatori quantitativi e qualitativi, che costituiscano elementi fondamenti sui quali effettuare la programmazione sanitaria pluriennale.
+
+La Regione Lazio pertanto, rispettando i vincoli di bilancio e coerentemente con le risorse disponibili, intende potenziare l'assistenza territoriale riconducendo nell'alveo delle disposizioni di cui al D.Lgs n. 502/1992 e s.m.i. tutti i rapporti sulla base dei quali vengono poste a carico del SSR le prestazioni sanitarie o sociosanitarie. Nello specifico, nel prossimo triennio, verranno individuati i seguenti ulteriori livelli massimi di finanziamento:
+- Prestazioni di assistenza domiciliare integrata per persone non autosufficienti;
+- Prestazioni di assistenza termale;
+- Prestazioni di assistenza per persone in stato di dipendenza o addiction.
+
+Risultati attesi e tempistiche:
+- Piano per il potenziamento dell'assistenza territoriale entro il 31 luglio 2019
+- Definizione del livello massimo di finanziamento per l'anno 2020 per le prestazioni di assistenza domiciliare integrata - entro settembre 2020;
+- Definizione del livello massimo di finanziamento per l'anno 2020 per l'assistenza termale – entro dicembre 2020;
+- Definizione del livello massimo di finanziamento per l'anno 2020 delle prestazioni rivolte a persone in stato di dipendenza o addiction – entro dicembre 2020;
+- Definizione degli indicatori quantitativi e qualitativi per la valutazione dell'efficacia della programmazione sanitaria e degli esiti delle cure – entro dicembre 2019;
+- Valutazione degli esiti delle cure, attraverso l'analisi degli indicatori individuati - entro dicembre 2020;
+
+#### Linea di intervento 11 - Adozione di nuove tariffe.
+La Regione Lazio, negli ultimi anni, ha adottato numerose tariffe unitarie per la remunerazione delle prestazioni di assistenza territoriale.
+
+I provvedimenti adottati seguivano pedissequamente i dettati normativi in merito alla rilevazione dei costi standard e alla copertura dei costi sostenuti per l'erogazione delle prestazioni. In particolare, venivano valorizzati i requisiti minimi strutturali, tecnologici ed organizzativi necessari per erogare le prestazioni sanitarie e sociosanitarie. A seguito di una approfondita istruttoria, condivisa anche con le associazioni datoriali maggiormente rappresentative, sono stati ratificati documenti tecnici con i quali veniva individuata la tariffa unitaria.
+
+La definizione delle tariffe è un percorso laborioso che necessita di un costante lavoro di aggiornamento e monitoraggio. I costi standard, ad esempio, vengono aggiornati anche su scala nazionale. La Regione Lazio, nel prossimo triennio, ha come obiettivo la definizione delle tariffe unitarie che, ad oggi, non sono state ancora individuate o che sono riconducibili a provvedimenti e rilevazioni effettuate più di 10 anni fa.
+
+Nel prossimo triennio, la Regione Lazio effettuerà le seguenti azioni:
+- provvederà a rilevare costantemente i costi standard individuati su scala regionale e/o nazionale (ove presenti);
+- valorizzerà i requisiti minimi strutturali, tecnologici ed organizzativi previsti dalla normativa regionale per l'erogazione delle prestazioni sanitarie per le quali non è stata ancora individuata una tariffa specifica;
+- valorizzerà i requisiti minimi strutturali, tecnologici ed organizzativi previsti dalla normativa regionale per l'erogazione delle prestazioni sanitarie per le quali è stata individuata una tariffa specifica attraverso una rilevazione dei costi effettuata più di 10 anni fa;
+- valuterà nuove metodologie di calcolo per la definizione delle tariffe.
+
+La Regione Lazio, al fine di rispondere alle esigenze del territorio e di non far gravare sulle famiglie i costi dell'assistenza sociosanitaria, individuerà/aggiornerà nel prossimo triennio le tariffe ed i criteri di remunerazione per le seguenti tipologie assistenziali:
+- Assistenza per persone con disturbi del comportamento alimentare (DCA);
+- Riabilitazione intensiva, estensiva e di mantenimento per persone con disabilità fisica, psichica e sensoriale;
+- Assistenza domiciliare per le cure palliative;
+- Assistenza residenziale e domiciliare per cure palliative pediatriche;
+- Assistenza per le prestazioni residenziali a persone con misure restrittive della libertà (REMS);
+- Assistenza per le prestazioni rivolte a persone in stato di dipendenza o addiction;
+- Assistenza per prestazioni psichiatriche in gruppi appartamento;
+- Assistenza per prestazioni psichiatriche semiresidenziali per adolescenti;
+- Altre prestazioni sanitarie e sociosanitarie.
+
+Definizione dei criteri di remunerazione e delle tariffe unitarie per le prestazioni di:
+- assistenza per persone con disturbi del comportamento alimentare (DCA) – entro dicembre 2020;
+- riabilitazione intensiva, estensiva e di mantenimento per persone con disabilità fisica, psichica e sensoriale – entro dicembre 2020;
+- assistenza per le prestazioni residenziali a persone con misure restrittive della libertà (REMS) – entro dicembre 2020;
+- assistenza per le prestazioni rivolte a persone in stato di dipendenza o addiction – entro dicembre 2020;
+- assistenza domiciliare per le cure palliative – entro settembre 2020;
+- assistenza residenziale e domiciliare per cure palliative pediatriche – entro settembre 2020;
+- assistenza per prestazioni psichiatriche in gruppi appartamento – entro dicembre 2020;
+- assistenza per prestazioni psichiatriche semiresidenziali per adolescenti – entro dicembre 2020;
+- Definizione dei criteri di remunerazione e delle tariffe unitarie per altre prestazioni sanitarie e sociosanitarie – entro dicembre 2021.
+
+#### Linea di intervento 12 - Ottimizzazione delle funzioni assistenziali non tariffabili.
+Nel corso degli anni la Regione Lazio ha proceduto al finanziamento delle funzioni assistenziali previste dall'art. 8 sexies del D.Lgs 502/1992, utilizzando criteri storici, basati su dati consuntivi di esercizi precedenti. Il mutato contesto di riferimento impone una rettifica generale dei criteri finora adottati, secondo le seguenti direttive:
+- Remunerare l'integrazione e la presa in carico del paziente;
+- valorizzare la personalizzazione delle prestazioni;
+- incentivare la prevenzione e la promozione della salute;
+- remunerare tempestivamente sulla base dei risultati prodotti/erogati;
+- remunerare le attività/prestazioni erogate non leggibili attraverso il sistema tariffario.
+
+Risultati attesi e tempistiche
+- Adozione di un provvedimento di rettifica/integrazione dei criteri di finanziamento delle funzioni assistenziali ex art. 8-sexies – entro settembre 2019.
+
+#### Linea di intervento 13 - Rafforzamento della Rete dell'Emergenza/Urgenza e dell'offerta di specialistica ambulatoriale.
+Nel corso degli ultimi esercizi si è assistito ad un costante incremento di alcune prestazioni ambulatoriali cd "salvavita" (dialisi e radioterapia). Tale incremento ha eroso le disponibilità finanziarie regionali da destinare alle strutture private accreditate, così come definite dalla spending review. Ne è conseguito un taglio lineare su altre linee di attività che hanno ridotto l'offerta complessiva di prestazioni di specialistica ambulatoriale.
+
+In questo contesto, la Regione Lazio chiede ai Ministeri affiancanti che l'incremento registrato (circa 50 milioni di euro) tra il 2011 e il 2018 del valore finanziario delle prestazioni di Radioterapia e di Dialisi erogate e riconosciute al privato accreditato non sia considerato ai fini dell'applicazione del tetto finanziario previsto dal DL 95/2012 (spending review), così come già avvenuto per altre Regioni (vedi Regione Lombardia).
+
+Risultati attesi e tempistiche
+- Adozione di provvedimenti di budget che incrementano l'offerta di prestazioni di specialistica ambulatoriale entro dicembre 2020
+- Adozione di un provvedimento di rafforzamento di servizi della rete di emergenza/urgenza finanziati dalla sterilizzazione degli incrementi relativi alle prestazioni di radioterapia e dialisi nel periodo 2011-2018 - Entro settembre 2020.
+
 # 14. Contenzioso
 In continuità con il DCA 242/2017 - che si è prefigurato di fornire delle "Linee di indirizzo per il coordinamento della gestione del contenzioso", rivolte sia alle strutture regionali interessate, sia agli uffici legali delle Aziende Sanitarie, al fine di definire regole e modalità per rendere più efficace il flusso delle informazioni e dei documenti necessari alla predisposizione delle relazioni da inoltrare ai predetti uffici legali, all'Avvocatura Regionale e all'Avvocatura Generale dello Stato per la predisposizione della miglior difesa possibile in giudizio - di fatto si continua ad avvertire costante la necessità che la strategia processuale sia governata per il tramite di una Regia regionale.
 
@@ -1097,16 +1292,45 @@ Questo aspetto dovrà essere preso in considerazione dall'amministrazione anche 
 
 Rimane particolarmente rilevante il tema delle cessioni di crediti non riconosciuti dall'amministrazione in quanto extra-budget o correlati a prestazioni incongrue, inappropriate o comunque non riconoscibili, come tutta la gestione del contenzioso promosso dal 2009 a seguire, per il quale si registrano numerose opposizioni alla perenzione ed il tema dei pignoramenti e degli interventi in procedure esecutive a dispetto della definitività del titolo giuridico perché relazionato a procedimento giudiziari in corso.
 
-# 15.1 Certificabilità dei Bilanci e sviluppo della funzione di controllo interno
+Coordinamento del contenzioso al fine di garantire un adeguato controllo:
+- del rispetto dei termini processuali;
+- della completezza della documentazione prodotta in giudizio;
+- dell'integrazione del fascicolo informatizzato con gli atti amministrativi intervenuti nel corso del giudizio;
+- della stima da parte delle Aziende dell'impatto economico di eventuali sentenze di condanna e del relativo accantonamento in bilancio in fondo rischi(collegamento col bilancio e fondo di dotazione)
+- dell'evoluzione giurisprudenziale in relazione alle tematiche emerse nei giudizi;
+
+Raccordo con pignoramenti e coordinamento tra Avvocatura, Direzione Salute e Direzione Bilancio;
+
+Raccordo con la gestione del rischio clinico e tra questo ed il programma assicurativo delle Aziende del SSR.
+
+Realizzazione di un programma informatico che consenta la mappatura del contenzioso esistente e futuro e l'interfaccia tra Direzione Salute/Avvocatura regionale/Avvocatura Aziende e Enti del SSR;
+- Idoneità dello stesso di raccordarsi ai singoli provvedimenti adottati dall'amministrazione, ovvero alle singole fatture emesse dall'operatore del SSR o dal fornitore;
+- Idoneità del programma di seguire la filiera: fattura, soggetto erogatore, ricorso, evoluzione processuale e stati del giudizio, sentenza, ottemperanza/eventuale pignoramento con individuazione della struttura regionale/aziendale competente per monitorare i relativi adempimenti a cura dell'amministrazione attiva;
+- Capacità del programma di fissare parametri certi di valutazione dei giudizi ritenuti "più rilevanti" in termini economici e di complessità e di elaborare statistiche proiezioni sulla base dei dati a disposizione;
+- Previsione all'interno di tutte le Aziende di una struttura referente di supporto tecnico-amministrativo agli affari legali/contenzioso idonea a fungere da interfaccia nello scambio di documenti ed informazioni rispetto ai giudizi in cui entrambe le amministrazioni risultino coinvolte, anche al fine di garantire l'ottemperanza alle eventuali sentenze di condanna.
+
+Risultati attesi e tempistiche
+- Mappatura e Monitoraggio del contenzioso promosso verso le Aziende e verso la Regione: costante a partire dal primo settembre 2019 (a)
+- Implementazione di un database contenente i contenziosi rilevati in essere: costante a partire dal mese settembre 2019; (a)
+- Supporto specialistico alla gestione dei rapporti economico-giuridici con il privato accreditato e realizzazione coordinamento del contenzioso: bimestrale da settembre 2019. (a)
+- Realizzazione coordinamento tra Direzione Salute, Bilancio e Avvocatura entro il 31 agosto 2020; (b)
+- Raccordo con la gestione del rischio clinico e programma assicurativo delle Aziende: entro il 2021; (C)
+- Sviluppo sistema contenzioso: inclusione e sviluppo delle funzionalità sopra individuate dalle linee di intervento: entro il 2021 (d)
+- Supporto specialistico per la definizione di un sistema informatico per la gestione del contenzioso: entro il 2021 (d)
+
+# 15. Risorse economico – finanziarie
+## 15.1 Certificabilità dei Bilanci e sviluppo della funzione di controllo interno
 La Regione Lazio ritiene di dover continuare con l'impostazione fornita dal DCA 311/2016 muovendosi lungo i due pilastri del percorso attuativo della certificabilità regionale. In particolare:
 - lo sviluppo di un sistema di controllo interno;
 - il miglioramento dell'affidabilità e tracciabilità dei dati di bilancio al fine di garantire il rispetto dell'obiettivo previsto dall'art. 2 del D.I. 17 settembre 2012 ovvero raggiungere la condizione "in ogni momento di sottoporsi con esito positivo alle verifiche ed alle revisioni contabili".
 
 La complessità organizzativa assunta dalle Aziende Sanitarie richiede la presenza di presidi di controllo sempre più efficaci e pertanto lo sviluppo di un sistema di controllo interno affidabile rappresenta un'esigenza, non solo nell'ambito dei percorsi che devono condurre le Aziende alla certificabilità dei propri bilanci, ma soprattutto come strumento di supporto alla gestione aziendale.
 
-Pertanto nell'arco del triennio di riferimento si procederà con la diffusione della "cultura del controllo" attraverso l'implementazione e la strutturazione di specifiche funzioni aziendali dedite all'attività di internal audit. Nello
- 
-# 15.2 Piani di efficientamento AO/PUI e Presidi Ospedalieri delle ASL
+Pertanto nell'arco del triennio di riferimento si procederà con la diffusione della "cultura del controllo" attraverso l'implementazione e la strutturazione di specifiche funzioni aziendali dedite all'attività di internal audit. Nello svolgimento delle loro attività, le funzioni di internal audit aziendali dovranno essere coordinate dalla funzione di internal audit regionale, costituita con il DCA 69/2018, ed allo stesso tempo relazionarsi con le altre funzioni aziendali che hanno come focus della loro attività la gestione del rischio quali prevalentemente il risk-management e la funzione anticorruzione.
+
+Per quanto concerne l'attività di miglioramento dell'attendibilità dei dati contabili, si dovrà procedere lungo un percorso delineato dal DCA 402/2018 ed in particolare, seguendo una logica per gruppi omogenei di Aziende, si porteranno a compimento le attività previste dal predetto decreto e contemporaneamente si procederà all'introduzione graduale di attività di revisione contabile.
+
+## 15.2 Piani di efficientamento AO/PUI e Presidi Ospedalieri delle ASL
 Con il DCA n. 273 dell'8 settembre 2016 la Regione ha individuato, le Aziende Ospedaliere (AO), le Aziende Ospedaliere Universitarie (AOU) e gli IRCCS del SSR da sottoporre ai piani di rientro triennali in applicazione del comma 525 dell'art.1 della Legge n. 208 del 28 dicembre 2015. con Gli enti individuati dal citato DCA sono stati: AO San Camillo, AO San Giovanni, Policlinico Umberto I, Istituto Fisioterapici Ospitalieri, INMI Spallanzani, AO Sant'Andrea e Policlinico Tor Vergata. Applicando la metodologia indicata nell'allegato a) del DM 21.06.2016 ai dati del Consuntivo 2018, come riportato nella seguente tabella, si evince che due enti, il Policlinico Tor Vergata, l'IFO e l'AO Sant'Andrea, non dovranno predisporre nuovi piani di efficientamento.
 
 Le altre 3 Aziende, AO San Camillo, AO San Giovanni e Policlinico Umberto I, dovranno predisporre la prosecuzione del piano di rientro contenente le misure atte al raggiungimento dell'equilibrio economico-finanziario.
@@ -1128,7 +1352,7 @@ Risultati attesi e tempistiche
 - Trasmissione alla Regione per eventuali osservazioni ed approvazione dei medesimi con provvedimento regionale entro giugno 2021.
 - Attivazione di un sistema di monitoraggio trimestrale per la verifica dell'attuazione delle misure previste dai piani di rientro aziendali. Saranno sviluppati e monitorati indicatori per la misurazione dell'equilibrio economico. Il Sistema sarà adottato con atto amministrativo entro giugno 2021.
 
-# 15.3 I tempi di pagamento
+## 15.3 I tempi di pagamento
 Al fine di garantire il pieno rispetto dei tempi di pagamento della pubblica amministrazione italiana, sono state avviate a livello nazionale diverse misure tese al raggiungimento di tale obiettivo. In particolare:
 - L'introduzione del SIOPE+ (L. 232/2016, art. 1, comma 533, Decreto MEF del 14 giugno 2017, Decreto MEF del 25 settembre 2017) risponde alla necessità di potenziare il monitoraggio dei pagamenti della PA, per conoscere i tempi di pagamento delle fatture - a seguito della proceduta di infrazione avviata dalla Commissione Europea contro l'Italia. Nello specifico il SIOPE+ ha previsto:
     - Nuove regole tecniche per la definizione del protocollo di colloquio e del tracciato standard dei documenti informatici, denominati Ordinativi di Pagamento e Incasso (OPI).
@@ -1140,7 +1364,39 @@ In questo quadro normativo, la Regione Lazio intende proseguire il percorso già
 
 Per l'anno 2018, l'indicatore medio annuo di tempestività dei pagamenti, calcolato ai sensi del DPCM 22 settembre 2014 e s.m.i.., ha evidenziato un valore pari a 17,46 giorni, espresso in giorni di latenza di pagamento su base annuale; valore che, seppure in netto miglioramento rispetto agli anni precedenti (107,37 nel 2014), non è ancora in linea con quanto previsto dalla normativa vigente. A fronte di una serie di miglioramenti finora conseguiti (efficientamento nella fase di pagamento, omogeneità di trattamento di tutte le categorie di fornitori), permangono ancora delle criticità nel processo di liquidazione delle fatture da parte delle Aziende Sanitarie.
 
-# 15.4 Gestione informatizzata controlli esterni sull'attività sanitaria
+Si riportano di seguito le linee di intervento che la Regione Lazio intende mettere in atto per il completo allineamento alla normativa vigente in materia di pagamenti:
+
+### Linea di intervento 1 Rafforzamento delle misure di valutazione delle performance dei Direttori Generali delle Aziende Sanitarie.
+L'allineamento alla normativa vigente in materia di tempi di pagamento e la conseguente riduzione dei tempi di liquidazione delle fatture è considerato un obiettivo strategico per l'Amministrazione Regionale. In considerazione anche di quanto previsto dalla Legge di Bilancio 2019 che rafforza il meccanismo di premialità nei contratti di lavoro, si prevede di intensificare le misure già in essere, inserendo tra gli obiettivi dei Direttori Generali delle Aziende Sanitare la riduzione dello stock di debito pregresso ancora aperto, con l'evidenza delle cause ostative alla liquidazione, così come previsto dal DCAU00097 del 22 marzo 2017 avente ad oggetto "Approvazione dell'Anagrafica Unica dei codici, delle causali di blocco e delle relative Linee Guida da utilizzare da parte delle Aziende Sanitarie Locali, Aziende Ospedaliere, Aziende Ospedaliere Universitarie, IRCCS Pubblici, dell'Azienda ARES 118 e della Fondazione Policlinico Tor Vergata."
+
+Risultati attesi e tempistiche
+- Azzeramento dello stock di debito corrente scaduto ancora aperto – entro marzo 2020;
+- Azzeramento dello stock di debito pregresso scaduto (non oggetto di contenzioso in atto) – entro marzo 2020
+
+#### Linea di intervento 2 - Incremento della frequenza dei pagamenti centralizzati
+Modifica alla "Disciplina uniforme delle modalità di fatturazione e di pagamento dei crediti vantati nei confronti delle Aziende Sanitarie" di cui al DCA U00308 del 03/07/2015 e DCAU00032 del 30/01/2017 nella parte relativa alla Data di Pagamento quale "ultimo giorno del mese in cui cade il 60° giorno dalla Data Consegna della relativa Fattura", entro cui si procederà al pagamento dei Crediti Certificati. Nello specifico, si prevede di modificare la Disciplina Uniforme introducendo due scadenze mensili per il pagamento, in sostituzione dell'unica Data di Pagamento attualmente prevista a fine mese.
+
+Tale variazione avrà necessariamente degli impatti positivi sulla procedura di pagamento e richiederà la ridefinizione della stessa, rispetto a quanto indicato nel DCA U00307 del 29/08/2018.
+
+Risultati attesi e tempistiche
+- Introduzione di due scadenze di pagamento al mese – entro giugno 2020.
+
+#### Linea di intervento 3 - Implementazione e rafforzamento del Sistema NSO
+Il Decreto del Ministero dell'Economie e delle Finanze 7 dicembre 2018 prevede l'obbligatorietà, a partire dal 1 ottobre 2019, per i soggetti del Servizio Sanitario Nazionale, dell'emissione e trasmissione degli ordini per l'acquisto di beni e servizi esclusivamente in formato elettronico tramite il Nodo Smistamento Ordini (NSO). La Regione Lazio, ha già avviato tutte le iniziative volte a garantire il rispetto di quanto previsto dalla normativa vigente e, in linea con quanto già attuato per il ciclo di fatturazione attiva/passiva e a fronte dell'esperienza già maturata sulla tematica in oggetto, intende assumere, a partire dal 1° ottobre 2019, attraverso il Sistema Pagamenti, il ruolo di intermediario tra le Aziende Sanitarie e i relativi fornitori di beni e servizi. In particolare, attraverso il Sistema Pagamenti la Regione Lazio intermedierà gli ordini emessi nei confronti dei fornitori gestendo le relative notifiche rilasciate dal Sistema NSO e le eventuali risposte inviate dal fornitore/destinatario.
+
+Obiettivo della Regione Lazio è intensificare le misure previste dal Decreto Ministeriale in esame, al fine di pervenire ad una completa dematerializzazione del ciclo passivo, che, grazie al collegamento immediato tra ordini e fatture, consentirà di ottenere una riduzione dei tempi di liquidazione tecnica delle fatture e del relativo pagamento. Tali misure sono di seguito indicate:
+- In riferimento all'acquisto di prestazione sanitarie: Si prevede di ottenere un'ottimizzazione del processo di liquidazione e pagamento delle prestazioni sociosanitarie acquistate da privato accreditato, grazie ad un'integrazione delle procedure informatiche esistenti (SIO, RAD-R, SIAS) con il Sistema Pagamenti e una digitalizzazione delle procedure di rendicontazione delle prestazioni di assistenza territoriale al momento non gestite attraverso flussi informativi. Finalità è quella di implementare i sistemi e i flussi affinché in fase di validazione dei dati di produzione da parte dell'Azienda Sanitaria si generi direttamente l'ordine elettronico per l'acquisto di tali prestazioni socio-sanitarie, agevolando in tal modo la riconciliazione con la relativa fattura al momento della certificazione del credito. Entro la fine 2020 si prevede di completare la digitalizzazione dell'intero processo di acquisto delle prestazioni sanitarie includendo il collegamento tra Accordo/Contratto ex art. 8-quinquies D.Lgs 502/1992 e ss.mm.ii., flusso dati, ordine e fattura, al fine di garantire non solo una contrazione dei tempi di liquidazione e pagamento, ma anche una corretta procedura di acquisizione delle prestazioni sanitarie da privato, in conformità al titolo di autorizzazione e accreditamento delle stesse e nel rispetto dei limiti massimi di finanziamento fissati per gli stessi.
+- In riferimento all'acquisto di beni: Si prevede entro la fine del 2021 di completare la digitalizzazione del ciclo passivo attraverso l'introduzione del DDT elettronico, ottenendo ulteriori vantaggi in termini di contrazione dei tempi di liquidazione grazie alla riconciliazione automatica ordine - DDT- fattura.
+
+Risultati attesi e tempistiche:
+- Monitoraggio trimestrale della % di copertura dell'acquistato tramite NSO – entro dicembre 2019;
+- Introduzione della creazione diretta dell'ordine elettronico in fase di validazione del flusso dati per prestazioni di assistenza ospedaliera e specialistica (SIO e SIAS) – entro dicembre 2020;
+- Introduzione della creazione diretta dell'ordine elettronico in fase di validazione del flusso dati per prestazioni di assistenza ospedaliera post-acuzie (RAD-R) – entro marzo 2021;
+- Collegamento tra Accordo/Contratto ex art. 8-quinquies D.Lgs n. 502/1992 e ss.mm.ii., flusso dati, ordine e fattura – entro marzo 2021
+- Digitalizzazione del flusso di rendicontazione delle prestazioni di assistenza territoriale - entro dicembre 2021;
+- Introduzione del DDT Elettronico – entro dicembre 2021.
+
+## 15.4 Gestione informatizzata controlli esterni sull'attività sanitaria
 La Regione Lazio ha recepito le disposizioni di cui all'art. 8-octies, comma 3, del D.Lgs 502/1992, emanando diversi provvedimenti in materia di controlli sull'attività sanitaria erogata con onere a carico del SSR, sia dalle strutture pubbliche che da quelle private.
 
 In particolare, con i Decreti del Commissario ad Acta n. 218 dell'8 giungo 2017 e n. 509 del 20 dicembre 2018, sono state introdotte delle misure volte a semplificare e concretizzare l'iter amministrativo del procedimento in argomento e limitare eventuali comportamenti opportunistici degli erogatori sanitari, anche sotto il profilo della congruità, dell'appropriatezza e della sicurezza delle prestazioni. Anche i suddetti provvedimenti, tra l'altro, hanno previsto, in caso di controlli negativi, l'adozione delle misure e sanzioni amministrative nei confronti delle strutture sanitarie pubbliche e private.
@@ -1149,7 +1405,7 @@ In riferimento a quest'ultimo punto, si ritiene necessaria la progettazione ed i
 
 Tale piattaforma consentirà un agevole monitoraggio dei recuperi derivanti dai controlli esterni, migliorando così sia i risultati finanziari (attraverso la compensazione con la fatturazione corrente) che economici (attraverso la riduzione del contenzioso con le strutture e di il contenimento dei rischi).
 
-# 15.5 Recupero somme da esenzione da reddito per gli anni 2011 e successivi
+## 15.5 Recupero somme da esenzione da reddito per gli anni 2011 e successivi
 La Regione, anche in condivisione con il Tavolo di Monitoraggio, ha il compito di procedere al recupero delle somme di compartecipazione alla spesa relative a prestazioni di specialistica ambulatoriale e farmaceutica (ticket), correlate ad esenzioni per reddito e non corrisposte dagli assistiti del Lazio per le annualità successive al 2010.
 
 Il percorso proposto prevede l'adozione di un sistema informativo centralizzato a supporto delle ASL (Retic2), che consente una gestione strutturata delle banche dati rilevanti per il recupero; in particolare i dati desunti dalla Tessera Sanitaria avranno la possibilità di essere incrociati con i dati delle esenzioni per patologia al fine di minimizzare gli errori in fase di determinazione degli importi da recuperare. Al fine di conciliare i vincoli della privacy con la necessità di approfondimento informativo richiesto dall'assistito è prevista la realizzazione di un portale ad accesso qualificato in cui ogni utente può verificare il dettaglio delle prestazioni contestate.
@@ -1171,7 +1427,8 @@ Risultati attesi e tempistiche
 - Approvazione del progetto Retic2 entro il 31 marzo 2019
 - Avvio delle attività di postalizzazione dei recuperi bonari entro il 31 dicembre 2020
 
-# 16.1 Governance del Personale
+# Risorse umane e professionali
+## 16.1 Governance del Personale
 Il programma operativo 2019-2021 intende rappresentare ed evidenziare la volontà della Regione di confermare i risultati e gli obiettivi raggiunti nel corso degli anni pregressi sulla scorta delle azioni indicate nei programmi operativi precedenti dal punto di vista della razionalizzazione della spesa, della riorganizzazione, della centralizzazione degli acquisti, della ridefinizione della rete e della creazione delle reti tempo dipendenti ma, al contempo, atteso il superamento della fase emergenziale e in considerazione dei cambiamenti che attendono il SSN nei prossimi anni, intende porre le basi per lo sviluppo di un nuovo sistema sanitario regionale, sempre più improntato alla gestione ordinaria e non più solo a quella emergenziale.
 
 In particolare, per quello che riguarda il personale, si intende passare da una logica basata sulla mera amministrazione del personale a un sistema che metta in primo piano lo sviluppo del potenziale del personale attraverso una attenta valutazione dell'effettivo fabbisogno, una approfondita analisi del livello di competenze, conoscenze e attitudini possedute e di quelle considerate necessarie, misure tutte finalizzate ad evitare un ulteriore impoverimento delle risorse umane del SSR e a supportare le conseguenti manovre collegate alla innegabile necessità di assicurare adeguatezza e completezza del turn over registrato sempre in crescita.
@@ -1205,11 +1462,12 @@ Si rammenta in merito, che già nella legge 208/2015, nonché nella legge di Bil
 Un ulteriore aspetto che si ritiene di dover affrontare è quello legato alla definizione di fabbisogni formativi, con particolare riferimento al personale per le aree manageriali, prevedendo attività di formazione ad hoc per tali figure.
 
 In linea generale, la Regione Lazio intende investire in una relazione strategica e programmatica con le Università presenti sul territorio, al fine di innescare circuiti virtuosi tra la fase di rilevazione del fabbisogno formativo espresso dal SSR (sia per la dirigenza medica e tecnico-specialistica, sia per le professioni sanitarie, sia infine per le funzioni manageriali), e la fase di programmazione dell'offerta formativa delle Università. Ferma restando la distinzione necessaria tra fabbisogno formativo del SSR e capacità formativa degli atenei presenti nel Lazio, alcuni dei quali godono di prestigio a livello nazionale e internazionale, rispondendo quindi a una domanda formativa che travalica i confini regionali, la Regione Lazio intende sviluppare con le Università un rapporto improntato alla partnership nel raggiungimento di obiettivi di miglioramento e di crescita dell'intero sistema sanitario, in termini di qualità, di efficacia e di efficienza attraverso l'adozione di nuovi Protocolli d'Intesa.
+
 La collaborazione tra Regione e Università potrà essere implementata, con modalità da concordare, prevedendo l'acquisizione di qualificati apporti formativi e tecnico - scientifici in relazione a specifiche esigenze del Servizio sanitario regionale, con particolare riferimento alla necessità di privilegiare iniziative di sviluppo degli obiettivi di salute nei programmi formativi della nuova classe dirigente e non solo.
 
 Tale sinergia riguarderà infatti sia la formazione dei dirigenti medici, sia le scuole di specializzazione, che la formazione delle professioni sanitarie.
 
-# 16.1.1 Obiettivi dei Direttori Generali
+### 16.1.1 Obiettivi dei Direttori Generali
 La Regione Lazio, con riferimento al modello di valutazione degli obiettivi dei Direttori Generali adottato per l'anno 2019 con il DCA n. 155 del 06.05.2019, intende confermare l'impianto strutturato anche per gli anni 2020-2021, in considerazione anche della valutazione favorevole espressa dal Tavolo di Verifica nel verbale del 30.07.2019, sia del regolamento sia degli obiettivi assegnati, avendo anche sottolineato come il numero contenuto di obiettivi consenta di rendere più agevole la fase di valutazione, garantendo tempistiche di svolgimento compatibili con l'esigenza di arrivare agli esiti, in tempi immediatamente successivi al periodo di riferimento.
 
 Gli obiettivi individuati potranno essere soggetti a rivalutazione, anche in considerazione del consolidato raggiungimento degli stessi, e dell'emanazione di disposizioni normative nazionali in materia.
@@ -1227,7 +1485,7 @@ Risultati attesi e tempistiche
 - Definizione obiettivi 2021 – Entro febbraio 2021
 - Verifica obiettivi 2021 - Entro febbraio 2022
 
-# 16.1.2. Fondi della contrattazione accessoria
+### 16.1.2. Fondi della contrattazione accessoria
 La Regione intende raggiungere, così come avvenuto in altri ambiti attinenti la gestione del personale, una maggior condivisione e partecipazione con le Aziende sanitarie, anche sulla materia dei fondi contrattuali. La Regione per il tramite della struttura commissariale ha dato piena ed esaustiva applicazione alle norme introdotte alla riduzione dei fondi del trattamento accessorio del personale introdotte con il DL n. 78/2010. Infatti, così come si può evincere dai DCA nn. 12/2016 e 57/2017, che hanno determinato una riduzione complessiva e strutturata per oltre 60 €/mln.
 
 La Regione infatti, per gli anni 2016 – 2017 ha fornito apposite e specifiche indicazioni in merito alle modalità di gestione dei fondi contrattuali garantendo sempre il rispetto delle cogenti disposizioni di finanza pubbliche intervenute ed in corso; è altresì intendimento della Regione procedere alla definizione delle modalità di gestione dei fondi contrattuali per gli anni 2016 – 2017 e, conseguentemente per l'anno 2018, che risente - com'è noto - degli effetti delle disposizioni innovative contenute nei contratti collettivi di lavoro relativi al triennio 2016 – 2018, di recente sottoscritti.
@@ -1239,19 +1497,20 @@ La Regione attese le specificità sopra rappresentate e in considerazione delle 
 L'obiettivo di tale comitato, tenuto conto sia delle disposizioni contrattuali del CCNL 2016/2018 del comparto, della dirigenza medica sanitaria e delle professioni sanitarie sia di quanto verrà indicato nei Contratti dell'area della dirigenza, sarà la predisposizione e la diffusione di linee guida in merito alle modalità di costituzione dei fondi, alla gestione, al rispetto della normativa, alla rendicontazione degli stessi.
 
 Linee di intervento
--Conclusione della verifica gestione dei fondi 2016-2018
--Approvazione dei fondi contrattuali 2018-2020 da parte delle Aziende
--Predisposizione di linee guida sui fondi 2018-2020
+- Conclusione della verifica gestione dei fondi 2016-2018
+- Approvazione dei fondi contrattuali 2018-2020 da parte delle Aziende
+- Predisposizione di linee guida sui fondi 2018-2020
 
 Risultati attesi e tempistiche
 - Costituzione del comitato - Entro luglio 2020
 - Rendicontazione dei fondi per 2016-2018 – Entro ottobre 2020
 - Linee guida sui fondi 2018 e 2020 – Entro ottobre 2020
 
-# 16.1.3 Consulenze e prestazioni aggiuntive
+### 16.1.3 Consulenze e prestazioni aggiuntive
 Alla luce delle azioni che la Regione porrà in essere al fine di migliorare la governance del personale, si procederà ad un contenimento nel ricorso alle consulenze ed alle prestazioni aggiuntive, di cui si riporta di seguito il dettaglio del trend dei costi dal 2016-2018, riducendone i relativi costi, come evidenziato nel dettaglio nel successivo paragrafo dei Tendenziali e Programmatici 2019-2021.
 
-# 16.1.4.a La formazione specialistica e manageriale
+### 16.1.4 Formazione.
+#### 16.1.4.a La formazione specialistica e manageriale
 La Regione intende favorire lo sviluppo e la crescita professionale del personale del SSR e svilupparne il livello delle conoscenze, competenze, attitudini, attraverso un nuovo modello di analisi e definizione della proposta formativa, basato su criteri di differenziazione e continuità, superando le criticità nei processi di erogazione dell'attività formative.
 
 La Regione Lazio intende inoltre rafforzare le iniziative di formazione a favore dei MMG/PLS e il loro rapporto con il territorio, recuperando il loro ruolo strategico quali punti di accesso del cittadino al SSR.
@@ -1268,25 +1527,25 @@ Risultati attesi e tempistiche
 - Fase di sviluppo: analisi dei risultati dell'anno precedente, incontri e gruppi di lavoro, predisposizione modello di offerta formativa a livello regionale (entro il 31 dicembre 2020)
 - Fase di implementazione: applicazione del modello, feed-back degli utenti, interventi correttivi (entro il 31 dicembre 2021)
 
-# 16.1.4.b L'alta formazione
+#### 16.1.4.b L'alta formazione
 Si prevede la programmazione di corsi formativi finalizzati a potenziare le competenze delle figure dirigenziali apicali e di figure chiave del personale del SSR e della Direzione Regionale Salute e Integrazione sociosanitaria, da sviluppare in collaborazione con il sistema universitario e con le Aziende Sanitarie, secondo le previsioni del D.Lgs. 502/1992, art. 3 bis, del D.Lgs. 171/2016, del D.P.R. 484/1997 e della ulteriore normativa di settore.
 
 Linee di intervento
 - Formazione Management
 - Formazione per profili carenti e figure chiave
- 
+
 Risultati attesi e tempistiche
 - Sviluppare un sistema completo di offerta e di riconoscimento di corsi di formazione manageriale per Direttori Generali, Direttori Sanitari e Amministrativi, Direttori UOC (entro dicembre 2020) in grado di rispondere all'intero fabbisogno formativo del SSR
 - Sviluppare un sistema di offerta formativa di alto livello per le figure chiave del personale del SSR
 
-# 16.1.5 Regolamentazione regionale dell'ALPI
+### 16.1.5 Regolamentazione regionale dell'ALPI
 Con il Decreto del Commissario ad acta del 18 dicembre 2014 n. U00440 e s.m.i. sono state approvate le "Nuove linee guida regionali sull'attività libero professionale intramuraria" ai sensi dell'art. 1 comma 4 della legge 8 agosto 2007 n.120, per consentire alle Aziende e agli IRCCS di gestire con integrale ed autonoma responsabilità l'attività libero professionale; le Aziende hanno provveduto ad adeguarsi alle linee guida regionali, adottando i rispettivi regolamenti in materia di ALPI.
 
 La regolamentazione dell'attività libero professionale è stata interessata anche dalle indicazioni recate dal Piano regionale gestione liste d'attesa 2017/2018 che prevede, tra l'altro, "...interventi regolatori con eventuali riduzione o sospensione delle attività di attività libero professionale intramoenia nei casi in cui i tempi di attesa dell'attività istituzionale superino, in modo sistematico e rilevante, quelli massimi indicati dalla programmazione regionale di 30/60 giorni per la priorità 'D' e di 180 giorni per le priorità 'P'; tale riduzione e/o sospensione cesserà dal momento in cui saranno ripristinati tempi di attesa per l'attività istituzionale inferiori ai valori massimi previsti."
 
 In particolare l'attività regionale si è concentrata su tali aspetti:
 - monitoraggio e controllo delle modalità di gestione uniforme dell'Alpi sul territorio Regionale;
-- rilevazione del volume di attività dedicato all' attività istituzionale e all'attività libero professionale,
+- rilevazione del volume di attività dedicato all'attività istituzionale e all'attività libero professionale,
 - monitoraggio applicazione normativa su spazi aziendali e su liste d'attesa;
 
 Linee di intervento
@@ -1305,7 +1564,7 @@ Risultati attesi e tempistiche
 - Analisi dell'impatto delle linee di indirizzo in tema di spazi disponibili (entro il 31 dicembre 2021)
 - Coordinamento dei flussi informativi regionali per il monitoraggio dell'Alpi in termini di verifica dei volumi erogati e confronto con i volumi istituzionali.
 
-# 16.2 Definizione dei fabbisogni e individuazione di standard e criteri per una efficiente ed efficace distribuzione delle risorse sui LEA
+## 16.2 Definizione dei fabbisogni e individuazione di standard e criteri per una efficiente ed efficace distribuzione delle risorse sui LEA
 La Regione ai fini della valutazione del fabbisogno di personale, ai sensi del DM 70/2015, aveva emanato sin da detto anno, appositi criteri di determinazione della dotazione organica/fabbisogno di personale delle aziende e degli enti del SSR, cui le aziende dovevano attenersi nell'individuazione del fabbisogno e nella stesura degli atti programmatori regionali.
 
 Tali criteri, applicati a tutti i livelli essenziali di assistenza (distrettuale, ospedaliero e prevenzione), e alla totalità delle figure afferenti ai ruoli sanitario, professionale, tecnico e amministrativo, si basano sul modello assistenziale dell'intensità di cura, sono stati utilizzati dalle aziende anche ai fini della definizione del fabbisogno di cui all'articolo 1 c. 541 della Legge n. 208 del 28.12.2015; tale fabbisogno oggetto anche di valutazione e approvazione da parte dei Ministeri competenti è stato approvato in via definitiva con il DCA n. 546/2017.
@@ -1333,17 +1592,30 @@ Linee di intervento
 - Avvio delle attività finalizzate all'individuazione dei criteri per la definizione di un fabbisogno per l'attività di assistenza territoriale, con particolare riferimento alla prevenzione, alla salute mentale, ai consultori.
 - Gestione del rapporto con le università attraverso l'istituzione di tavoli di confronto su definizione della rete formativa e del fabbisogno.
 
-# 16.2.1 Il reclutamento e le procedure concorsuali
+Risultati attesi e tempistiche
+- Nel corso del triennio 2019-2021, costituzione di un modello di governance del personale, finalizzato ad tempestivamente per far fronte: alle carenze di personale, a seguito di cessazioni e implementazioni intervenire di attività assistenziali, e ad un efficace riallocazione delle risorse in esubero anche per effetto di modifica degli assetti organizzativi.
+
+### 16.2.1 Il reclutamento e le procedure concorsuali
 Piena attuazione delle linee guida ministeriali e predisposizione di una regolamentazione a livello regionale su tutte le procedure di assunzione o di immissione di nuovo personale nelle Aziende del SSR; riduzione del ricorso ai contratti a termine o a altre forme di rapporto flessibile
+
+Linee di intervento:
+- Nell'applicare le linee guida ministeriali per la predisposizione dei piani di fabbisogno triennali, si intende realizzare un sistema di analisi di tutte le differenti esigenze assunzionali aziendali e di tutte le diverse modalità d'accesso al pubblico impiego (concorso, mobilità, comando, etc.)
 
 Risultati attesi e tempistiche
 - Aggiornamento del piano triennale di fabbisogno delle Aziende e istituzione di un gruppo di lavoro congiunto per la regolamentazione di tutte le procedure assunzionali; approvazione del nuovo piano triennale di fabbisogno del personale (entro il 31 dicembre 2019).
 - Verifica degli effetti della regolamentazione e attuazione dei necessari correttivi; verifica della riduzione del costo del personale riferito ai contratti e/o rapporti non a tempo indeterminato (entro il 31 dicembre 2020).
 
-# 16.2.2 Una reale gestione del personale: politiche di valutazione e valorizzazione, sistemi premiali
+### 16.2.2 Una reale gestione del personale: politiche di valutazione e valorizzazione, sistemi premiali
 Si intendono realizzare delle linee guida e/o indirizzo finalizzate alla predisposizione da parte delle aziende di piani della valutazione, di attribuzione degli obiettivi realmente incidenti e atti a superare le criticità e le incoerenze del previgente sistema; si vuole dare effettiva attenzione al risultato finale dell'attività amministrativa, evitando gli errori, le ripetizioni, le mere affermazioni di principio del passato.
 
-# 16.3 Atti Aziendali
+Linee di intervento
+- Sviluppo di criteri di individuazione, definizione, applicazione e controllo dei piani della performance aziendali coerenti con la ratio e la finalità della normativa nazionale e con le disposizioni contrattuali.
+
+Risultati attesi e tempistiche
+- Analisi dello stato dell'arte, tramite i regolamenti aziendali di attribuzioni degli incarichi, dei piani di valutazione e di altro documento ritenuto rilevante (entro il 31 dicembre 2019).
+- Sviluppo, condivisione e approvazione di linee guida e/o di indirizzo e loro diffusione presso le Aziende (entro il 31 dicembre 2020).
+
+## 16.3 Atti Aziendali
 L'atto aziendale è lo strumento strategico per la definizione dell'assetto organizzativo delle Aziende Sanitarie e descrive il modello che l'Azienda intende realizzare nel rispetto dei criteri di efficienza, efficacia e miglioramento continuo dell'assistenza. In particolare, l'atto aziendale è lo strumento per la completa definizione dell'organizzazione aziendale, secondo un'ottica di autonomia, seppure finalizzata al raggiungimento degli obiettivi fissati dalla Regione e dalle regole del SSR.
 
 Le linee guida a livello regionale terranno in considerazione l'istituenda Azienda Lazio.0 e mireranno a fornire gli elementi essenziali per la definizione dell'assetto organizzativo aziendale in coerenza con i principi, gli obiettivi e gli interventi previsti nel presente Piano di riqualificazione 2019-2021 e alla riorganizzazione dell'offerta assistenziale secondo il modello delle reti cliniche integrate "hub & spoke", al potenziamento delle cure primarie per la garanzia della continuità assistenziale, nonché allo sviluppo della rete territoriale.
@@ -1356,20 +1628,22 @@ Linee di intervento, Risultati attesi e tempistiche
 - Istituzione gruppo interdisciplinare entro il 30 settembre 2019;
 - Documento regionale di indirizzo entro il 31 dicembre 2020 che tenga conto della riorganizzazione della rete ospedaliera (già presa in considerazione sebbene in corso di riedizione) e di quella territoriale
 
-# 16.4 Rapporti con le Università
+## 16.4 Rapporti con le Università
 A distanza di vent'anni dall'emanazione del D. Lgs. n. 229/99 che ha apportato, tra altro, la modifica al D. Lgs. n. 502/02 e al D. lgs. n. 517/99 ponendo così le basi per la riforma dei rapporti fra Servizio Sanitario e Università ed individuando l'evoluzione per i policlinici universitari a gestione diretta e per quelli integrati con il SSN, è necessario fare il punto sulla realizzazione della riforma.
 
 Nell'ambito dell'esperienza maturata a livello nazionale, anche a livello regionale si è assistito, per le Università statali (Università La Sapienza e Tor Vergata), ad una pluralità di forme di raccordo: dall'Azienda Ospedaliero Universitaria integrata col SSN ai sensi dell'art. 2, comma 2 lettera a) (AOU Policlinico Umberto I), all'Azienda Ospedaliera integrata con l'Università ai sensi dell'art. 2, comma 2, lettera b) del D. Lgs. 517/1999 (AO S. Andrea), fino all'Azienda Autonoma dell'Università denominata Policlinico Tor Vergata, che, istituita con Decreto Rettorale n. 2297 del 15 ottobre 1998 è stata poi attivata, a far data dall'8.8.2000 quale Azienda integrata col SSN ai sensi dell'art. 2 comma 2 lettera a) con Deliberazione del Direttore Generale n. 2 del 4 agosto 2000.
 
-# 16.4.1 Università Tor Vergata
+### 16.4.1 Università Tor Vergata
 Al modello di Azienda originario, per effetto dell'attivazione di una "sperimentazione gestionale", è subentrata l'attuale Fondazione PTV Policlinico Tor Vergata, prevedendo la stipula di apposito Protocollo d'intesa ex art. 1 del D. Lgs. n. 517/1999.
 
 La Fondazione è stata individuata da Regione ed Università come la forma giuridica idonea a garantire il diretto e costante coinvolgimento delle rispettive rappresentanze istituzionali nella gestione integrata delle funzioni di assistenza e consentire l'apporto di capitale privato.
 
 Il predetto obiettivo di apporto di capitale privato non è stato raggiunto, la sperimentazione si è conclusa con esito negativo e l'operatività di tale modello di governance ha ereditato un aspetto di complessità derivante dalla compresenza di due enti distinti quali la Fondazione e l'Azienda.
+
 Il tentativo di superare questi aspetti critici, sulla scorta dell'impianto normativo, ha suggerito l'avvio della procedura di riconoscimento di IRCCS, di cui agli articoli 13 e 14 del decreto legislativo 16 ottobre 2003, n. 288.
 
 All'interno di tale percorso, tuttavia, sono emersi aspetti di ulteriore complessità connessi alla gestione dei rapporti di debito/credito tra Regione, Fondazione e Università, anche connessi alla valorizzazione del compendio immobiliare, sulla scorta di quanto disciplinato nell'art. 25 del Protocollo d'Intesa approvato con DCA 501/2017.
+
 La Regione, pertanto, ha provveduto ad un'analisi puntuale del percorso giuridico seguito e sta valutando la possibilità di concludere il percorso con il riconoscimento IRCCS della Fondazione.
 
 All'interno della definitiva strutturazione giuridica dei rapporti tra Regione e Università, si procederà alla definitiva e completa disciplina e autorizzazione dei rapporti convenzionali tra Università e altre strutture del SSN ai sensi dell'articolo 2, commi 4 e 5, del decreto legislativo n. 517/1999, evitando l'eccessiva frammentazione dell'offerta e cercando di contemperare le esigenze formative con quelle assistenziali e di programmazione sanitaria, anche alla luce del DM 402/2017.
@@ -1385,7 +1659,7 @@ Risultati attesi e tempistiche
 - Attuazione del modello delineato (entro il 30 giugno 2020)
 - Definizione del percorso di convenzioni (entro il 31 dicembre 2019)
 
-# 14.4.2 Università La Sapienza
+### 14.4.2 Università La Sapienza
 Nel caso dell'Università La Sapienza il protocollo d'Intesa ratificato con DCA 208/2016 ha realizzato l'integrazione finora tanto anelata. La durata triennale con previsione di tacito rinnovo per un medesimo periodo fungerà da cornice all'interno della quale dare attuazione alle previsioni di cui all'art. 19 comma 10 del Protocollo e, quindi, alla definitiva risoluzione dei rapporti di debito/credito tra Regione, Università e le Aziende PUI e S. Andrea.
 
 L'analisi svolta si è rivelata alquanto complessa ed ha condotto alla definitiva determinazione, sia per il Policlinico Umberto I che per il S. Andrea, in contraddittorio con l'Università, delle superfici interessate dallo svolgimento delle attività di didattica.
@@ -1404,7 +1678,7 @@ Risultati attesi e tempistiche
 - Ridefinizione dei criteri e parametri (entro il 30 giugno 2020);
 - Ricognizione dei rapporti di debito/credito e riallineamento delle partite (entro il 30 giugno 2020)
 
-# 14.4.3 Università Campus Biomedico
+### 14.4.3 Università Campus Biomedico
 Il Protocollo di Intesa con l'Università non statale è stato sottoscritto in data 28 ottobre 2014 e recepito dal DCA U00378 del 12.11.2014 di presa d'atto. Come disposto dall'articolo 16 del Protocollo, lo stesso è entrato in vigore dalla sottoscrizione per una durata triennale, con rinnovo tacito per ulteriori tre anni. In rapporto alla revisione dell'atto di programmazione, che aggiorna la rete a livello regionale ed attualizza la configurazione già delineata dal DCA 257/2017, si conferma il ruolo di DEA di I livello che il Campus andrà ad assumere all'interno della programmazione triennale.
 
 Linee di intervento
@@ -1412,7 +1686,7 @@ Linee di intervento
 - Definizione della configurazione del Campus Biomedico
 - Aggiornamento del Protocollo d'Intesa
 
-# 14.4.3 Università Cattolica del Sacro Cuore
+### 14.4.3 Università Cattolica del Sacro Cuore
 Il Protocollo di Intesa con l'Università non statale è stato sottoscritto in data 30 settembre 2014 e recepito dal DCA U00339 del 21.10.2014 di presa d'atto. Come disposto dall'articolo 16 del Protocollo, lo stesso è entrato in vigore dalla sottoscrizione per una durata triennale, con rinnovo tacito per ulteriori tre anni. Nel triennio, pertanto, sarà necessario procedere all'aggiornamento dello stesso.
 
 Linee di intervento
@@ -1420,7 +1694,7 @@ Linee di intervento
 - Aggiornamento configurazione del Policlinico A. Gemelli in rapporto all'accreditamento
 - Aggiornamento del Protocollo d'Intesa
 
-# 14.4.4 Università Unicamillus
+### 14.4.4 Università Unicamillus
 Il Protocollo di Intesa con l'Università Unicamillus non statale è stato sottoscritto in data 28 gennaio 2019 e recepito dal DCA U0066 del 22.02.2019 di presa d'atto.
 
 Il Ministro dell'Istruzione dell'Università e della Ricerca, anche di concerto col Ministero della Salute, con i richiamati decreti n. 642 del 15 ottobre 2018, n. 643 del 15 ottobre 2018 e n. 683 del 23 ottobre 2018, in esecuzione dell'ordinanza del Consiglio di Stato n. 4132/18, ha determinato rispettivamente, per l'anno accademico 2018/2019, i posti per le immatricolazioni ai seguenti corsi di laurea:
@@ -1439,12 +1713,10 @@ Come disposto dal Protocollo, lo stesso ha durata triennale (2019-2021) con impe
 # 17. Revisione dell'assetto dell'offerta
 L'offerta di prestazioni sanitarie e socio sanitarie nella Regione Lazio è caratterizzata dalla presenza di numerosi Policlinici Universitari ed IRCCS, unitamente ad un numero molto elevato di soggetti erogatori privati.
 
-# 17.1 La Ridefinizione dell'Offerta Assistenziale per acuti, post-acuzie e il riordino delle discipline in eccesso
+## 17.1 La Ridefinizione dell'Offerta Assistenziale per acuti, post-acuzie e il riordino delle discipline in eccesso
 La Regione Lazio, con i DCA 412/2014 e DCA 257/2017, ha intrapreso il percorso di riprogrammazione dell'offerta ospedaliera, in base alle indicazioni del Decreto Ministeriale 70 del 2 aprile 2015 "Regolamento recante definizione degli standard qualitativi, strutturali, tecnologici e quantitativi relativi all'assistenza ospedaliera" in merito alla dotazione complessiva di posti letto entro la soglia del 3,7 pl x 1.000 - di cui lo 0,7 di post-acuzie-, il dimensionamento e la collocazione delle discipline ad "alta, media e bassa diffusione", e alle funzioni delle singole strutture ospedaliere all'interno della rete dell'emergenza e delle reti tempo dipendenti.
 
-L'obiettivo attuale è di riorganizzare la rete ospedaliera proseguendo il percorso di adeguamento dell'offerta ospedaliera agli standard previsti nel DM 70/2015 e prevedendo soluzioni per il superamento di specifiche criticità dell'assetto attuale, quali una disomogenea distribuzione territoriale dei posti letto, il numero elevato di posti letto inattivi, il sovraffollamento nei PS/DEA, e la presenza di numero elevato di Case di Cura (CdC) di piccole dimensioni.
-
-Riguardo a quest'ultimo punto vanno considerati i criteri di affinità e complementarietà delle discipline per la distinzione tra case di cura polispecialistiche o monospecialistiche così come previsto dal punto 2.5 del DM 70/2015. La Regione Lazio ha avviato il procedimento amministrativo ex art. 7 Legge n. 241/1990 s.m.i. per l'applicazione del DM 70/2015 – Allegato I – paragrafo 2.5 – Definizione discipline/attività affini e complementari, nel quale vengono definite le discipline affini e complementari. A seguito delle osservazioni delle Organizzazioni di Categoria si procederà con la promulgazione del Decreto Commissariale di riclassificazione delle Case di Cura Accreditate e conseguentemente verranno avviate le misure per l'adeguamento agli standard previsti.
+L'obiettivo attuale è di riorganizzare la rete ospedaliera proseguendo il percorso di adeguamento dell'offerta ospedaliera agli standard previsti nel DM 70/2015 e prevedendo soluzioni per il superamento di specifiche criticità dell'assetto attuale, quali una disomogenea distribuzione territoriale dei posti letto, il numero elevato di posti letto inattivi, il sovraffollamento nei PS/DEA, e la presenza di numero elevato di Case di Cura (CdC) di piccole dimensioni. Riguardo a quest'ultimo punto vanno considerati i criteri di affinità e complementarietà delle discipline per la distinzione tra case di cura polispecialistiche o monospecialistiche così come previsto dal punto 2.5 del DM 70/2015. La Regione Lazio ha avviato il procedimento amministrativo ex art. 7 Legge n. 241/1990 s.m.i. per l'applicazione del DM 70/2015 – Allegato I – paragrafo 2.5 – Definizione discipline/attività affini e complementari, nel quale vengono definite le discipline affini e complementari. A seguito delle osservazioni delle Organizzazioni di Categoria si procederà con la promulgazione del Decreto Commissariale di riclassificazione delle Case di Cura Accreditate e conseguentemente verranno avviate le misure per l'adeguamento agli standard previsti.
 
 La Regione Lazio ha avviato il procedimento amministrativo ex art. 7 Legge n. 241/1990 s.m.i. per l'applicazione del DM 70/2015 – Allegato I – paragrafo 2.5 – Definizione discipline/attività affini e complementari, nel quale vengono definite le discipline affini e complementari. A seguito delle osservazioni delle Organizzazioni di Categoria si procederà con la promulgazione del Decreto Commissariale di riclassificazione delle Case di Cura Accreditate e conseguentemente verranno avviate le misure per l'adeguamento agli standard previsti.
 
@@ -1452,7 +1724,7 @@ La Regione Lazio ha avviato il procedimento amministrativo ex art. 7 Legge n. 24
 
 È necessario che il comparto privato sia funzionale alla rete assistenziale ospedaliera, nel rispetto di regole chiare e condivise. Un esempio di ciò è il protocollo d'intesa tra la Regione Lazio e le Associazioni di Categoria Aiop-Aris- Unindustria Sanità e il Policlinico Universitario Campus Bio-Medico, di cui alla Determina Regionale n. G00094 del 08/01/2019, inerente al "Trasferimento da pronto soccorso per ricovero presso le Strutture Accreditate per acuti non dotate di Pronto Soccorso – trasferimento dai reparti di Area Medica ubicati presso Ospedali sede di P.S. o DEA in Riabilitazione e Lungodegenza"
 
-Si procederà, inoltre, nella verifica di fattibilità e avvio delle procedure per l'apertura di nuovi punti di offerta pubblici, e nel lavoro di verifica della vulnerabilità sismica delle strutture ospedaliere. Tali azioni potranno modificare alcuni assetti e nodi 'strutturali' della rete ospedaliera.
+Si procederà, inoltre, nella verifica di fattibilità e avvio delle procedure per l'apertura di nuovi punti di offerta pubblici, e nel lavoro di verifica della vulnerabilità sismica delle strutture ospedaliere. Tali azioni potranno modificare alcuni assetti e nodi "strutturali" della rete ospedaliera.
 
 La programmazione dell'offerta riabilitativa, e l'articolazione delle tipologie assistenziali, ospedaliere e territoriali, sono state di recente raccolte nel "Testo Unico della Riorganizzazione dei percorsi riabilitativi in ambito ospedaliero e territoriale" DCA 226 del 5 giugno 2017, tenendo conto delle indicazioni contenute nel "Piano di indirizzo per la Riabilitazione" approvato dalla Conferenza Stato-Regioni del 10 febbraio 2011 e delle linee di indirizzo del Documento Agenas-Regione Lazio contenuto nel DCA n. 200/2015.
 
@@ -1481,7 +1753,7 @@ Risultati attesi e tempistiche
 - Definizione della programmazione regionale finalizzata alla realizzazione di nuove strutture ospedaliere: Nuovo Ospedale del Golfo, Nuovo Ospedale di Sora, Nuovo "Ospedale della Tiburtina", "Nuovo Ospedale di Rieti" entro dicembre 2020
 - Aggiornamento del "Testo Unico della Riorganizzazione dei percorsi riabilitativi in ambito ospedaliero e territoriale" entro 60 giorni dall'emanazione del provvedimento nazionale
 
-# 17.2 Le strutture per acuti: miglioramento della qualità delle cure e adeguamento dell'offerta
+## 17.2 Le strutture per acuti: miglioramento della qualità delle cure e adeguamento dell'offerta
 La Regione Lazio, all'interno del Decreto del Commissario ad Acta n. 273 dell'8 settembre 2016, ha individuato, ai sensi della legge n. 208 del 28 dicembre 2015, comma 525 art.1, le aziende ospedaliere (AO), le aziende ospedaliere universitarie (AOU), gli istituti di ricovero e cura a carattere scientifico pubblici (IRCCS) che erogano prestazioni di ricovero e cura, ad esclusione degli enti di cui al comma 536 della citata legge, che presentano una o entrambe le seguenti condizioni: a) uno scostamento tra costi rilevati dal modello di rilevazione del conto economico (CE) consuntivo e ricavi determinati come remunerazione dell'attività, ai sensi dell'art. 8-sexies del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni, b) il mancato rispetto dei parametri relativi a volumi, qualità ed esiti delle cure. Le Aziende individuate dal succitato DCA hanno pertanto predisposto piani contenenti le misure atte al miglioramento della qualità delle cure e all'adeguamento dell'offerta, ai fini del raggiungimento degli obiettivi previsti dalle citate norme, sia in relazione all'equilibrio economico-finanziario e patrimoniale che in relazione al raggiungimento dei parametri relativi a volumi, qualità ed esiti delle cure, di cui all'art. 1, comma 524, lettera b), della legge 28 dicembre 2015, n. 208.
 
 L'obiettivo attuale della Regione Lazio è di proseguire nell'applicazione di tali strumenti di miglioramento della qualità delle cure da parte delle AO, delle AOU, e degli IRCCS, programmando la revisione della metodologia e la sua estensione anche ai presidi ospedalieri di Azienda.
@@ -1498,21 +1770,23 @@ Risultati attesi e tempistiche
 - Linee guida per la predisposizione di piani d'intervento sulla qualità dei dati registrati nei Sistemi Informativi Sanitari e per la conduzione di audit clinici e organizzativi applicabili ai Presidi Ospedalieri a gestione diretta delle ASL che presentano criticità, entro il 31 dicembre 2020.
 - Revisione del sistema degli obiettivi per i direttori generali in coerenza con il monitoraggio dei criteri di volumi, qualità ed esiti come sopra richiamati entro marzo 2021.
 
-# 17.3 Gli ospedali di comunità
-Gli ospedali di comunità sono strutture territoriali a degenza breve (max 15-20 giorni) rivolte alle persone con problemi di salute, acuti o post-acuti, di bassa complessità, che richiedono un ambiente protetto e un'assistenza infermieristica anche notturna e che, per motivi diversi, non possono essere curati al domicilio. Hanno un numero limitato di posti letto (15-20), sono gestite da personale infermieristico e l'assistenza medica è assicurata dai medici di medicina generale o dai pediatri di libera scelta o da altri medici dipendenti o convenzionati con il SSN; la responsabilità igienico-organizzativa e gestionale fa capo al distretto che assicura, in caso di necessità, eventuali consulenze specialistiche. Tipologie particolari di ospedali di comunità, presenti nell'ambito regionale, sono le "degenze a gestione infermieristica", unità operative con analoghe finalità ed istituite in ambito ospedaliero (DCA 12 novembre 2014, n. U00370 Linee d'indirizzo regionali su: "Unità di Degenza a Gestione Infermieristica (UDI) - Modello organizzativo").
-Si tratta di strutture destinate prioritariamente a:
+## 17.3 Gli ospedali di comunità
+Gli ospedali di comunità sono strutture territoriali a degenza breve (max 15-20 giorni) rivolte alle persone con problemi di salute, acuti o post-acuti, di bassa complessità, che richiedono un ambiente protetto e un'assistenza infermieristica anche notturna e che, per motivi diversi, non possono essere curati al domicilio. Hanno un numero limitato di posti letto (15-20), sono gestite da personale infermieristico e l'assistenza medica è assicurata dai medici di medicina generale o dai pediatri di libera scelta o da altri medici dipendenti o convenzionati con il SSN; la responsabilità igienico-organizzativa e gestionale fa capo al distretto che assicura, in caso di necessità, eventuali consulenze specialistiche. Tipologie particolari di ospedali di comunità, presenti nell'ambito regionale, sono le "degenze a gestione infermieristica", unità operative con analoghe finalità ed istituite in ambito ospedaliero (DCA 12 novembre 2014, n. U00370 Linee d'indirizzo regionali su: "Unità di Degenza a Gestione Infermieristica (UDI) - Modello organizzativo"). Si tratta di strutture destinate prioritariamente a:
 - Intercettare pazienti con patologie acute di bassa complessità evitando che, per motivi legati alla inidoneità del domicilio o alla carenza dell'assistenza familiare, si rivolgano al Pronto soccorso e al ricovero ospedaliero;
 - garantire la completa stabilizzazione clinica e il recupero funzionale dopo la dimissione, in attesa di organizzare l'assistenza a domicilio o in altri setting assistenziali;
 - ottimizzare la durata della degenza ospedaliera per acuti, della riabilitazione e della lungodegenza.
 
 L'accesso potrà avvenire dal domicilio o dalle strutture residenziali su proposta del medico di famiglia titolare della scelta, dai reparti ospedalieri o direttamente dal pronto soccorso. L'assistenza sarà garantita sulle 24 ore dal personale infermieristico ed addetto all'assistenza, dai medici di medicina generale, dai pediatri di libera scelta e dai medici di continuità assistenziale. Nel caso di unità operative a collocazione ospedaliera gli accessi del personale medico saranno organizzati avvalendosi dell'organico ivi presente.
 
+Linee di intervento:
+- Alla luce dell'esperienza sviluppata in ambito regionale, si rende necessario definire il fabbisogno regionale di tali strutture, il sistema informativo per il monitoraggio delle prestazioni, i requisiti autorizzativi e di accreditamento, e il sistema di remunerazione necessari alla messa a regime di tali attività, in sintonia con le indicazioni ministeriali in materia.
+
 Risultati attesi e tempistiche
 - Definizione del fabbisogno regionale di Ospedali di Comunità entro 31/12/2020.
 - Definizione dei requisiti di accreditamento entro giugno 2021.
 - Almeno un ospedale di Comunità per Azienda Sanitaria Locale attivato entro 31 dicembre 2021.
 
-# 17.4 Riorganizzazione dell'Assistenza Specialistica
+## 17.4 Riorganizzazione dell'Assistenza Specialistica
 Il livello di assistenza specialistica ambulatoriale è costituito dalle "Prestazioni specialistiche e di diagnostica strumentale e di laboratorio erogate in regime ambulatoriale". La contiguità di questa attività con quella erogata in altri livelli di assistenza (ospedalieri o territoriali), rende necessaria una ridefinizione delle modalità di erogazione della specialistica ambulatoriale, in coerenza con le indicazioni ministeriali, per favorire l'applicazione omogenea su tutto il territorio regionale delle prestazioni previste per tale area assistenziale.
 
 La riorganizzazione dell'offerta dell'assistenza specialistica ambulatoriale si realizza attraverso una allocazione delle risorse basata su stime più puntuali del fabbisogno, dell'indice di fuga e del monitoraggio delle attività. L'obiettivo della riorganizzazione è garantire equità d'accesso alle cure, e la presa in carico del paziente fin dall'inizio del processo di definizione o approfondimento diagnostico da parte degli specialisti, dei Medici di Medicina Generale (MMG) e Pediatri di Libera Scelta (PLS).
@@ -1526,6 +1800,9 @@ Nell'ambito dell'assistenza specialistica ambulatoriale sarà necessario, inoltr
 Si rileva, quale ulteriore criticità di sistema, con un impatto sulla appropriatezza delle prestazioni, un disallineamento tra le discipline accreditate per il ricovero ordinario/day hospital e le branche ambulatoriali nell'ambito delle strutture; al fine di garantire l'appropriatezza delle prestazioni i soggetti erogatori devono poter disporre, infatti, dell'accreditamento nelle branche ambulatoriali nelle medesime discipline di ricovero. È necessario, inoltre, assicurare osmosi unidirezionale tra i budget per acuti verso i ricoveri diurni e verso le cure ambulatoriali.
 
 È necessario superare il modello del nomenclatore differenziato pubblico – privato, favorendo una maggiore omogeneità nel repertorio prestazionale.
+
+Le Aziende Sanitarie, infine, devono recuperare capacità di negoziare ed indirizzare gli erogatori pubblici e privati verso le attività e servizi necessari a soddisfare il fabbisogno di prestazioni ed i bisogni di salute della popolazione residente.
+
 Le Aziende Sanitarie, infine, devono recuperare capacità di negoziare ed indirizzare gli erogatori pubblici e privati verso le attività e servizi necessari a soddisfare il fabbisogno di prestazioni ed i bisogni di salute della popolazione residente.
 
 Linee di attività
@@ -1543,28 +1820,23 @@ Risultati attesi e tempistiche
 - Decreto per uniformare il repertorio prestazionale degli erogatori pubblici e privati entro dicembre 2019
 - Decreto per l'aggiornamento del fabbisogno di prestazioni ambulatoriali al fine di consentire l'ampliamento dell'accreditamento delle branche ambulatoriali in coerenza con le discipline di ricovero ospedaliero, laddove si rilevi una incongruenza (presenza di accreditamento della disciplina di ricovero ma non della corrispondente branca ambulatoriale) entro marzo 2021.
 
-# 17.5 Riorganizzazione della Rete Laboratoristica
+## 17.5 Riorganizzazione della Rete Laboratoristica
 Il settore della medicina di laboratorio è stato oggetto di numerosi provvedimenti di riordino e presenta caratteristiche e criticità molto diverse in ambito pubblico e privato. Nel primo sono presenti ancora alti margini di efficientamento, nella prospettiva di ulteriore aggregazione delle strutture esistenti, specie in ambito metropolitano. Inoltre, non è stato sviluppato un sistema di costante monitoraggio dei costi sostenuti dalle Aziende Sanitarie per tipologia diagnostica e della produttività e non si è ancora realizzato ancora il laboratorio logico unico (LLU), come rete informatica di collegamento operativo e funzionale delle reti. Nel settore Privato è stata disattivata la funzione analitica presso strutture con attività eccessiva-mente ridotta, <100.000 prestazioni anno, ed è stata garantita la capillarità dell'offerta attraverso il mantenimento dei punti prelievo. Non si è ancora compiuta l'integrazione tra settore pubblico e privato, ancorché prevista dai decreti di riordino. Le strutture private, inoltre, hanno un diverso repertorio prestazionale (i privati possono erogare in accreditamento solo 170 prestazioni sulle 792 previste dal Nomenclatore). Si rileva, inoltre, nel settore privato, nonostante l'aggregazione tra strutture, ancora la permanenza di 104 soggetti erogatori che svolgono attività analitica. Persiste una carenza di requisiti per i punti prelievo e si rileva la necessità di regolamentare le modalità di service qualora venga consentito ai laboratori privati di erogare tutte le prestazioni delle Branca 00.
 
-Si ritiene necessaria una evoluzione del modello ideato con il D.C.A. 219/14 verso il disegno e la realizzazione di un modello integrato pubblico/privato quale ipotesi di potenziamento del sistema assistenziale e dell'innalzamento della qualità percepita, caratterizzato da un approccio di governo unificato. In tale ottica l'uniformazione del repertorio prestazionale pubblico/privato, così come indicato nel nomenclatore nazionale (ad eccezione, quindi, dei settori specializzati di genetica medica, anatomia patologica, microbiologia e virologia e farmaco – tossicologia) rappresenta la naturale evoluzione.
-
-Si ritiene necessario centralizzare le attività analitiche in laboratori Hub pubblici metropolitani (capacità produttiva ≈107 esami), Hub pubblici provinciali (capacità produttiva ≈4X106 esami) e Hub privati ad elevata produttività obbligatoriamente collocati nel territorio regionale.
-
-Si ritiene di recepire il nuovo nomenclatore tariffario nazionale ovvero elaborare un nuovo tariffario regionale che, attraverso la rideterminazione delle tariffe in un'ottica di ottimizzazione costo/beneficio, favorisca l'ulteriore aggregazione degli attuali laboratori con funzione analitica e l'innalzamento della soglia di produzione.
-
-È necessario definire una metodologia standardizzata in ambito regionale per il calcolo dei costi di produzione, tramite i metodi della contabilità analitica, per ciascuna prestazione erogata per conto di altre strutture, al fine di determinare i costi di trasferimento, inclusi quelli della logistica, con revisione annuale.
-
-Ai fini di una piena integrazione è essenziale sviluppare un Laboratorio Logico Unico (LLU - rete informatica regionale) e attuare il collegamento in rete di tutte le strutture sia pubbliche che private.
-
-Il raccordo tra la rete pubblica (DCA 2 luglio 2014, n. U00219 e s.m.i.) e quella privata (DCA 21 aprile 2017, n. U00115), avverrà con l'emanazione di un apposito decreto entro marzo 2021, nel quale saranno definiti gli aspetti comuni (modalità di refertazione, repertorio prestazionale) e le modalità di effettuazione del service presso le strutture di riferimento regionale per gli esami a bassa frequenza. Nel medesimo provvedimento sarà prevista l'integrazione dei policlinici universitari.
-
-Si identificano, inoltre, le seguenti linee di intervento:
-- Individuazione di requisiti di autorizzazione ed accreditamento per centri prelievi, service e trasporto campioni biologici. Particolare attenzione sarà posta nella individuazione di requisiti di qualità che garantiscano livelli adeguati ed in maniera omogenea su tutto il territorio regionale, sia sul settore pubblico che privato;
-- Redazione di linee di indirizzo per la realizzazione della nuova rete laboratoristica regionale e per l'acquisizione centralizzata dei sistemi diagnostici
-- Individuazione dei laboratori di riferimento per settore diagnostico e per specializzazione, in raccordo alle previsioni del Piano di Riordino della rete ospedaliera;
-- sviluppo di una metodologia standardizzata, in ambito regionale, per il calcolo dei costi di produzione, tramite i metodi della contabilità analitica;
-- Definizione di un ambito di progressivo sviluppo della rete del laboratorio logico unico regionale che possa tendere alla complessiva revisione dei parametri quantitativi a favore di modelli fondati sull'ottimizzazione del rapporto costo beneficio.
-- Uniformazione del repertorio prestazionale dei soggetti pubblici e privati.
+Linee di attività
+- Si ritiene necessaria una evoluzione del modello ideato con il D.C.A. 219/14 verso il disegno e la realizzazione di un modello integrato pubblico/privato quale ipotesi di potenziamento del sistema assistenziale e dell'innalzamento della qualità percepita, caratterizzato da un approccio di governo unificato. In tale ottica l'uniformazione del repertorio prestazionale pubblico/privato, così come indicato nel nomenclatore nazionale (ad eccezione, quindi, dei settori specializzati di genetica medica, anatomia patologica, microbiologia e virologia e farmaco – tossicologia) rappresenta la naturale evoluzione.
+- Si ritiene necessario centralizzare le attività analitiche in laboratori Hub pubblici metropolitani (capacità produttiva ≈107 esami), Hub pubblici provinciali (capacità produttiva ≈4X106 esami) e Hub privati ad elevata produttività obbligatoriamente collocati nel territorio regionale.
+- Si ritiene di recepire il nuovo nomenclatore tariffario nazionale ovvero elaborare un nuovo tariffario regionale che, attraverso la rideterminazione delle tariffe in un'ottica di ottimizzazione costo/beneficio, favorisca l'ulteriore aggregazione degli attuali laboratori con funzione analitica e l'innalzamento della soglia di produzione.
+- È necessario definire una metodologia standardizzata in ambito regionale per il calcolo dei costi di produzione, tramite i metodi della contabilità analitica, per ciascuna prestazione erogata per conto di altre strutture, al fine di determinare i costi di trasferimento, inclusi quelli della logistica, con revisione annuale.
+- Ai fini di una piena integrazione è essenziale sviluppare un Laboratorio Logico Unico (LLU - rete informatica regionale) e attuare il collegamento in rete di tutte le strutture sia pubbliche che private.
+- Il raccordo tra la rete pubblica (DCA 2 luglio 2014, n. U00219 e s.m.i.) e quella privata (DCA 21 aprile 2017, n. U00115), avverrà con l'emanazione di un apposito decreto entro marzo 2021, nel quale saranno definiti gli aspetti comuni (modalità di refertazione, repertorio prestazionale) e le modalità di effettuazione del service presso le strutture di riferimento regionale per gli esami a bassa frequenza. Nel medesimo provvedimento sarà prevista l'integrazione dei policlinici universitari.
+- Si identificano, inoltre, le seguenti linee di intervento:
+    - Individuazione di requisiti di autorizzazione ed accreditamento per centri prelievi, service e trasporto campioni biologici. Particolare attenzione sarà posta nella individuazione di requisiti di qualità che garantiscano livelli adeguati ed in maniera omogenea su tutto il territorio regionale, sia sul settore pubblico che privato;
+    - Redazione di linee di indirizzo per la realizzazione della nuova rete laboratoristica regionale e per l'acquisizione centralizzata dei sistemi diagnostici
+    - Individuazione dei laboratori di riferimento per settore diagnostico e per specializzazione, in raccordo alle previsioni del Piano di Riordino della rete ospedaliera;
+    - sviluppo di una metodologia standardizzata, in ambito regionale, per il calcolo dei costi di produzione, tramite i metodi della contabilità analitica;
+    - Definizione di un ambito di progressivo sviluppo della rete del laboratorio logico unico regionale che possa tendere alla complessiva revisione dei parametri quantitativi a favore di modelli fondati sull'ottimizzazione del rapporto costo beneficio.
+    - Uniformazione del repertorio prestazionale dei soggetti pubblici e privati.
 
 Risultati attesi e tempistiche
 - Decreto per individuazione requisiti di autorizzazione ed accreditamento per centri prelievi e service entro dicembre 2020
@@ -1575,7 +1847,7 @@ Risultati attesi e tempistiche
 - Definizione di un documento progettuale per la realizzazione del LLU entro febbraio 2020 b Avvio Fase Pilota LLU entro dicembre 2020 e Attuazione LLU entro dicembre 2021
 - Decreto per l'uniformazione del repertorio prestazionale entro giugno 2020
 
-# 17.6 Gestione dei tempi e Liste di Attesa
+## 17.6 Gestione dei tempi e Liste di Attesa
 Nell'ambito dell'offerta assistenziale rivolta ai bisogni dei cittadini, la Regione Lazio ha definito le principali linee di intervento in materia con il "Piano Regionale di Governo delle Liste di Attesa (PRGLA) 2013-2015" approvato con il DCA n. U00437/2013 e, successivamente con DCA n. U00110/2017, a seguito del quale tutte le Aziende Sanitarie hanno adottato i propri piani attuativi. Il PNGLA 2019-2021 è stato recepito a livello regionale con il DCA n. U00152 del 30.4.2019, successivamente la Regione ha pubblicato con DCA n. U00302 del 25.7.2019 il "Piano Regionale per il Governo delle liste di attesa".
 
 La Regione Lazio intende individuare strumenti e modi di collaborazione tra tutti gli attori del sistema sia per rispondere in modo tempestivo e puntuale ad un bisogno assistenziale di nuova insorgenza, che per assicurare il percorso assistenziale per un bisogno di salute cronico, che prevede comunque un'integrazione tra i vari livelli assistenziali, dalle cure primarie alla specialistica e ai ricoveri, ma con una gestione integrata e programmata dei protocolli diagnostici.
@@ -1593,35 +1865,19 @@ Come già espresso nella Riorganizzazione dell'Assistenza Specialistica, è nece
 
 A livello prescrittivo, la Regione Lazio intende proseguire nel piano di diffusione della ricetta medica dematerializzata, di cui al DM del 2 novembre 2011, sia mediante la cooperazione applicativa con i sistemi in uso presso le strutture ospedaliere e territoriali, MMG e PLS, sia mediante investimenti mirati alla diffusione degli strumenti tecnologici necessari alla prescrizione elettronica.
 
-La prescrizione della ricetta dematerializzata deve rappresentare, entro il triennio di vigenza del presente piano, la parte più rilevante delle prescrizioni. A tal fine le ASL, AO, AOU, IRCCS pubblici effettueranno una rilevazione dei propri fabbisogni, in termini di dotazione hardware (pc e rete) per tendere ad avere il 100% della ricettazione dematerializzata. Su tale aspetto dovranno essere assegnati specifici obiettivi di budget a livello aziendale.
-
-Per dar seguito a quanto indicato in precedenza, le agende dovranno essere organizzate per codice di priorità all'interno della disciplina, lasciando una quota dedicata alle visite di controllo/follow up. Un efficace governo dell'offerta prevede che la quota da destinare alla presa in carico del paziente venga stabilità da ogni ASL, AO, AOU, IRCCS pubblici a seguito di una verifica dei propri fabbisogni e valutazione delle risorse necessarie per la loro soddisfazione
+La prescrizione della ricetta dematerializzata deve rappresentare, entro il triennio di vigenza del presente piano, la parte più rilevante delle prescrizioni. A tal fine le ASL, AO, AOU, IRCCS pubblici effettueranno una rilevazione dei propri fabbisogni, in termini di dotazione hardware (pc e rete) per tendere ad avere il 100% della ricettazione dematerializzata. Su tale aspetto dovranno essere assegnati specifici obiettivi di budget a livello aziendale. Per dar seguito a quanto indicato in precedenza, le agende dovranno essere organizzate per codice di priorità all'interno della disciplina, lasciando una quota dedicata alle visite di controllo/follow up. Un efficace governo dell'offerta prevede che la quota da destinare alla presa in carico del paziente venga stabilità da ogni ASL, AO, AOU, IRCCS pubblici a seguito di una verifica dei propri fabbisogni e valutazione delle risorse necessarie per la loro soddisfazione
 
 Tra le azioni di governo si intende rafforzare l'obbligo di indicare chiaramente su tutte le prescrizioni il quesito diagnostico, sia se trattasi di prestazioni in primo accesso che se trattasi di accesso successivo; inoltre le azioni poggiano sull'indicazione del tipo di accesso e, per le prestazioni in primo accesso, della Classe di priorità. L'indicazione del Quesito diagnostico descrive il problema di salute che motiverà la richiesta da parte del medico di effettuare le prestazioni successive al primo accesso, le quali saranno prescritte dal professionista che ha preso in carico il paziente senza che questi sia rimandato al MMG/PLS per la prescrizione.
 
 Al fine di raggiungere quest'ultimo obiettivo, le Aziende devono prevedere idonee modalità per far sì che le prestazioni successive al primo accesso siano prenotate, se non diversamente richiesto dal paziente, contestualmente alla produzione della prescrizione da parte del medico specialista della struttura. Pertanto, per le attività legate alla presa in carico ed ai controlli e follow up, si istituiranno apposite Agende dedicate alle prestazioni intese come visite/esami successivi al primo accesso e programmati dallo specialista che già ha preso in carico il paziente, Agende che saranno integrate nel sistema ReCUP.
 
-Un aspetto decisivo per la riduzione delle liste e dei tempi d'attesa è legato alla capacità, da parte del SSR, di promuovere l'utilizzo appropriato dei servizi diagnostici e terapeutici.
-
-Tale tematica assume un ruolo di rilievo nella gestione delle liste di attesa in quanto risulta direttamente correlata alla gestione della domanda delle prestazioni.
-
-Il raggiungimento di questo obiettivo, è possibile solo con:
+Un aspetto decisivo per la riduzione delle liste e dei tempi d'attesa è legato alla capacità, da parte del SSR, di promuovere l'utilizzo appropriato dei servizi diagnostici e terapeutici. Tale tematica assume un ruolo di rilievo nella gestione delle liste di attesa in quanto risulta direttamente correlata alla gestione della domanda delle prestazioni. Il raggiungimento di questo obiettivo, è possibile solo con:
 - il coinvolgimento e la sensibilizzazione dei Medici di Medicina Generale e degli Specialisti Ospedalieri e Territoriali;
 - utilizzo sistema RAO, allegato C del PNGLA 2019-2021
 - l'adozione di Linee guida e Protocolli diagnostici, basati su evidenze di efficienza ed efficacia
 - appropriatezza ed implementazione di PDTA per realizzare una forte integrazione nella rete dei servizi, al fine di superare la frammentarietà del sistema
 
-La Regione Lazio promuove il governo clinico della domanda di prestazioni specialistiche, implementando l'utilizzo del modello dei Raggruppamenti di Attesa Omogenei (RAO), tenendo presente le Linee Guida regionali per l'attribuzione della classe di priorità nella prescrizione delle prestazioni 'critiche', già adottate dalla regione con DCA 110/2017 e quelle previste nel PGNLA 2019-21.
-
-I prescrittori (pubblici, privati accreditati abilitati all'utilizzo del ricettario regionale, MMG, PLS, Specialisti Ambulatoriali) devono obbligatoriamente utilizzare il modello dei Raggruppamenti di Attesa Omogenei (RAO) a partire dal 01/01/2020.
-
-Un ulteriore obiettivo regionale per il governo dei tempi di attesa è l'attuazione di interventi finalizzati a favorire l'appropriatezza delle prestazioni e la continuità delle cure, tra cui la definizione degli ambiti di garanzia territoriale per le prestazioni ambulatoriali secondo criteri di prossimità e complessità della prestazione, analisi della domanda di salute, ed una maggiore coerenza tra l'accreditamento nei diversi setting assistenziali facenti parte del medesimo soggetto erogatore. Con Determinazione regionale n. G 149888 del 4.11.2019 sono state individuate e trasmesse alle Aziende le prestazioni erogabili negli ambiti territoriali di garanzia (ATG). Entro 60 giorni dalla ricezione della determinazione sugli ATG, le aziende dovranno inviare, alla Direzione Salute regionale, i Piani Attuativi aziendali, preventivamente sottoposti all'osservatorio aziendale per le liste di attesa.
-
-Un ulteriore obiettivo regionale per il governo dei tempi di attesa è l'attuazione di interventi finalizzati a favorire l'appropriatezza delle prestazioni e la continuità delle cure, tra cui la definizione degli ambiti di garanzia territoriale per le prestazioni ambulatoriali secondo criteri di prossimità e complessità della prestazione, analisi della domanda di salute, ed una maggiore coerenza tra l'accreditamento nei diversi setting assistenziali facenti parte del medesimo soggetto erogatore.
-
-Per la piena attuazione del Piano nazionale e regionale di governo delle liste di attesa, infine, l'obiettivo regionale sarà di implementare l'informatizzazione del processo di prescrizione, prenotazione ed erogazione, al fine di permettere il monitoraggio delle attività, rilevare le criticità e permettere l'accesso alle cure in modo uniforme in tutto il territorio regionale.
-
-Al fine di supportare le Aziende nel raggiungimento degli obiettivi previsti dal PRGLA 2019-2021, con Determinazione n. G17686 del 16.12.2019 sono stati ripartiti i fondi per la realizzazione di progetti per l'abbattimento delle liste d'attesa per prestazioni di assistenza specialistica ambulatoriale, coerenti con quanto previsto dal "Piano regionale per il governo delle Liste di Attesa 2019-2021" di cui al D.C.A. 25 luglio 2019, n. 302, dedicati con particolare riferimento a:
+La Regione Lazio promuove il governo clinico della domanda di prestazioni specialistiche, implementando l'utilizzo del modello dei Raggruppamenti di Attesa Omogenei (RAO), tenendo presente le Linee Guida regionali per l'attribuzione della classe di priorità nella prescrizione delle prestazioni "critiche", già adottate dalla regione con DCA 110/2017 e quelle previste nel PGNLA 2019-21. I prescrittori (pubblici, privati accreditati abilitati all'utilizzo del ricettario regionale, MMG, PLS, Specialisti Ambulatoriali) devono obbligatoriamente utilizzare il modello dei Raggruppamenti di Attesa Omogenei (RAO) a partire dal 01/01/2020. Un ulteriore obiettivo regionale per il governo dei tempi di attesa è l'attuazione di interventi finalizzati a favorire l'appropriatezza delle prestazioni e la continuità delle cure, tra cui la definizione degli ambiti di garanzia territoriale per le prestazioni ambulatoriali secondo criteri di prossimità e complessità della prestazione, analisi della domanda di salute, ed una maggiore coerenza tra l'accreditamento nei diversi setting assistenziali facenti parte del medesimo soggetto erogatore. Con Determinazione regionale n. G 149888 del 4.11.2019 sono state individuate e trasmesse alle Aziende le prestazioni erogabili negli ambiti territoriali di garanzia (ATG). Entro 60 giorni dalla ricezione della determinazione sugli ATG, le aziende dovranno inviare, alla Direzione Salute regionale, i Piani Attuativi aziendali, preventivamente sottoposti all'osservatorio aziendale per le liste di attesa. Un ulteriore obiettivo regionale per il governo dei tempi di attesa è l'attuazione di interventi finalizzati a favorire l'appropriatezza delle prestazioni e la continuità delle cure, tra cui la definizione degli ambiti di garanzia territoriale per le prestazioni ambulatoriali secondo criteri di prossimità e complessità della prestazione, analisi della domanda di salute, ed una maggiore coerenza tra l'accreditamento nei diversi setting assistenziali facenti parte del medesimo soggetto erogatore. Per la piena attuazione del Piano nazionale e regionale di governo delle liste di attesa, infine, l'obiettivo regionale sarà di implementare l'informatizzazione del processo di prescrizione, prenotazione ed erogazione, al fine di permettere il monitoraggio delle attività, rilevare le criticità e permettere l'accesso alle cure in modo uniforme in tutto il territorio regionale. Al fine di supportare le Aziende nel raggiungimento degli obiettivi previsti dal PRGLA 2019-2021, con Determinazione n. G17686 del 16.12.2019 sono stati ripartiti i fondi per la realizzazione di progetti per l'abbattimento delle liste d'attesa per prestazioni di assistenza specialistica ambulatoriale, coerenti con quanto previsto dal "Piano regionale per il governo delle Liste di Attesa 2019-2021" di cui al D.C.A. 25 luglio 2019, n. 302, dedicati con particolare riferimento a:
 - progetti per la separazione dei canali di primo accesso e di controllo, sia per le visite specialistiche sia per le prestazioni strumentali, per le branche critiche;
 - attuazione di percorsi di tutela nel caso in cui l'offerta aziendale non riesca a garantire la prestazione entro i tempi massimi previsti;
 - incremento delle prescrizioni con ricetta dematerializzata
@@ -1644,11 +1900,10 @@ Risultati attesi e tempistiche
 - Accordi con PLS, MMG e Specialisti Ambulatoriali entro i termini previsti per il rinnovo al fine di consentire la prenotazione delle prestazioni programmate mediante la cooperazione applicativa entro il 31 dicembre 2020
 - adozione di un provvedimento che attribuisca capacità negoziale per le Aziende Sanitarie di contrattare quota parte del budget con gli erogatori privati e con le Aziende Ospedaliere per il raggiungimento di obiettivi legati al contenimento dei tempi e delle liste d'attesa, nell'ambito dei livelli massimi di finanziamento previsti, annuale entro luglio di ogni anno.
 - adozione degli interventi regolatori nei confronti delle Aziende in merito alla Libera Professione Intramoenia con particolare riferimento a quanto previsto dalla Legge Balduzzi n.189/2012 entro 31 dicembre 2020;
-- messa a regime della gestione trasparente e la totale visibilità da parte dei Sistemi informativi aziendali e regionali delle agende digitali e configurate per classi di priorità, di prenotazione, pubbliche e private accreditate, tanto in modalità condivisa che riservata, sia per il primo accesso che per i controlli successivi, nonché delle prestazioni specialistiche rese, includendo tutta l'attività erogata a carico del SSR o in regime di ALPI per step progressivi entro dicembre 2020.
-In relazione alla disponibilità delle agende anche dei privati accreditati attraverso la piattaforma di prenotazione regionale ReCUP è bene precisare che già attraverso il DCA U00231 del 08.06.2018 e il DCA U00513 del 24/12/2018 erano state stabilite le regole per il conferimento da parte dei privati di una quota parte delle proprie agende, soprattutto quelle di primo accesso, fino ad un massimo del 70% della propria produzione.
+- messa a regime della gestione trasparente e la totale visibilità da parte dei Sistemi informativi aziendali e regionali delle agende digitali e configurate per classi di priorità, di prenotazione, pubbliche e private accreditate, tanto in modalità condivisa che riservata, sia per il primo accesso che per i controlli successivi, nonché delle prestazioni specialistiche rese, includendo tutta l'attività erogata a carico del SSR o in regime di ALPI per step progressivi entro dicembre 2020. In relazione alla disponibilità delle agende anche dei privati accreditati attraverso la piattaforma di prenotazione regionale ReCUP è bene precisare che già attraverso il DCA U00231 del 08.06.2018 e il DCA U00513 del 24/12/2018 erano state stabilite le regole per il conferimento da parte dei privati di una quota parte delle proprie agende, soprattutto quelle di primo accesso, fino ad un massimo del 70% della propria produzione.
 - Monitoraggio delle attività indicate nel PRGLA, da completare entro dicembre 2021.
 
-# 17.7 Cure domiciliari e residenziali per persone non autosufficienti
+## 17.7 Cure domiciliari e residenziali per persone non autosufficienti
 Con DCA n. 283 del 7 luglio 2017 sono stati definiti i requisiti di accreditamento per le attività di cure domiciliari, il percorso di accreditamento e le linee guida per la selezione del contraente. Lo stesso provvedimento ha definito il fabbisogno assistenziale, a livello regionale e di singola ASL. Successivamente il DCA 95 del 22 marzo 2018 ha approvato le nuove tariffe per le attività di cure domiciliari, coerenti con i nuovi requisiti, nonché le modalità di qualificazione dei soggetti erogatori per le tre fasce di intensità assistenziale "bassa", "media" e "alta" e le linee guida a cui le ASL dovranno attenersi per la selezione del contraente dall'elenco dei soggetti accreditati. Infine il DCA n. 519 del 28 dicembre 2018 ha approvato l'elenco, per ASL, dei soggetti erogatori accreditati e la relativa fascia di qualificazione.
 
 L'anno 2020 vedrà il completamento del passaggio da una erogazione dei servizi sulla base di capitolati di gara e aggiudicazioni ad un sistema fondato su autorizzazione, accreditamento e contrattualizzazione dei provider di cure domiciliari per non autosufficienza. Con ciò perseguendo l'incremento della copertura della popolazione ultra-sessantacinquenne presa in carico per le cure domiciliari, secondo quanto previsto dallo standard "griglia di valutazione LEA", e la maggiore omogeneità territoriale dell'offerta.
@@ -1660,7 +1915,17 @@ Linee di intervento
 - Sviluppo delle azioni a favore delle persone non autosufficienti in coerenza con quanto previsto dal Piano Cronicità.
 - Revisione dell'offerta residenziale e semiresidenziale rivolta a persone non autosufficienti attraverso la istituzione di apposito gruppo di lavoro per individuazione degli standard di riferimento e la conseguente rideterminazione del fabbisogno, in coerenza con le linee di intervento precedenti.
 
-# 17.8 Il ruolo delle cure Primarie
+Risultati attesi e tempistiche
+- Linea di intervento 1:
+    - Adozione del provvedimento regionale di potenziamento delle reti territoriali entro il 31 luglio 2019.
+    - Disponibilità di un elenco di soggetti erogatori accreditati per le cure domiciliari per ASL entro 31 marzo 2019.
+    - Contrattualizzazione da parte delle ASL dei soggetti erogatori ADI a partire da gennaio 2020.
+- Linea di intervento 2:
+    - Raggiungimento dello standard LEA di copertura in cure domiciliari della popolazione ultrasessantacinquenne entro 31 dicembre 2020.
+- Linea di intervento 3:
+    - Adozione del provvedimento regionale relativo alla definizione di fabbisogno di residenzialità e semi residenzialità per persone non autosufficienti entro marzo 2021.
+
+## 17.8 Il ruolo delle cure Primarie
 Tra le azioni strategiche dei Programmi operativi si colloca la definizione di un modello organizzativo di riferimento delle cure primarie per la regione Lazio, in grado di mettere in rete le forme associative della medicina generale e della pediatria di libera scelta con i principali nodi dell'offerta di servizi territoriali che trovano nel distretto la loro collocazione:
 - Servizi di prevenzione
 - Servizi di continuità assistenziale
@@ -1715,10 +1980,10 @@ Risultati attesi e tempistiche
 - Documento di indirizzo su ambulatori infermieristici e infermieristica di comunità e definizione di un nomenclatore delle prestazioni infermieristiche entro 30/06/2021.
 - Documento di indirizzo su farmacie dei servizi integrate nelle cure primarie entro il 31/12/2020.
 
-# 17.9 Case della salute
+## 17.9 Case della salute
 Regione Lazio ha intrapreso un percorso di investimenti e di miglioramenti organizzativi nell'ambito delle attività distrettuali volti a favorire un maggiore accesso ai servizi ed una pronta e integrata risposta ai bisogni e alle necessità assistenziali delle persone, a beneficio soprattutto delle fasce più deboli e delle persone con cronicità. In particolare, alcuni modelli organizzativi innovativi favoriscono l'integrazione multidisciplinare e multiprofessionale, come nell'esempio delle Case della Salute, nodo di integrazione intelligente dei servizi che, con ampia copertura di orario assistenziale e prestazioni offerte, è in grado di incrementare l'accessibilità e contribuire anche all'integrazione fra assistenza sanitaria e assistenza sociale.
 
-# 17.10 Le attività dei consultori
+## 17.10 Le attività dei consultori
 Consolidamento delle attività consultoriali e dei percorsi socioassistenziali previsti dal DCA 152/2014, con particolare riferimento alla procreazione responsabile e alla violenza di genere.
 
 Linee di intervento
@@ -1734,8 +1999,7 @@ Risultati attesi e tempistiche
 - Verifica Progetto sperimentale: dicembre 2021.
 - Emanazione provvedimento per la disponibilità e gratuità del test urinario: dicembre 2020.
 
-
-# 17.11 L'offerta di cure palliative e rete per la terapia del dolore
+## 17.11 L'offerta di cure palliative e rete per la terapia del dolore
 Nel rispetto della Legge 38/2010, dell'Intesa Stato Regioni Rep. n. 151/CSR del 25 luglio 2012 e dell'art. 23 del DPCM 12 gennaio 2017 risulta necessario implementare la rete locale di cure palliative ed in particolare: 1) riorganizzare le Unità di Cure Palliative Domiciliari (UCPD) sia di base che specialistiche per pazienti oncologici e non dell'età adulta; 2) realizzare, come previsto dal DCA n. U00169/2014, l'Hospice pediatrico finalizzato a soddisfare la carenza relativa al fabbisogno assistenziale dei bambini con patologia inguaribile eleggibile alle CP e alle loro famiglie, nonché il relativo Centro di Riferimento per la terapia del dolore e le CP rivolte al minore.
 
 Per quanto concerne la presa in carico delle persone nella fase del fine vita, Regione Lazio identificherà uno specifico percorso assistenziale (PDTA) che integri la componente di assistenza ospedaliera, quella di assistenza residenziale (Hospice) e le Cure palliative domiciliari di base e specialistiche, al fine di favorire i necessari a appropriati cambi di setting e dare maggiore unitarietà alla risposta assistenziale.
@@ -1747,21 +2011,20 @@ Linee di intervento
 - Per la realizzazione di un Hospice pediatrico con 10 p.r., per pazienti oncologici e non, e del relativo Centro di Riferimento risulta necessario: a) predisporre un documento tecnico per la definizione dei requisiti di autorizzazione e accreditamento; b) ridefinire il sistema tariffario; c) attivare il Centro di Riferimento di Cure Palliative e Terapia del Dolore Pediatrico con la definizione dei requisiti nonché del sistema tariffario delle prestazioni da erogare.
 - Per la definizione del percorso assistenziale risulta necessario attivare un tavolo di lavoro per la costruzione del percorso prevedendo specifici strumenti di integrazione informativa/informatica tra i diversi attori della filiera assistenziale.
 
-LINEA DI INTERVENTO 1:
-- Adozione di provvedimento regionale relativo ai criteri di eleggibilità e ad interventi di Cure Palliative Domiciliari modulati per intensità assistenziale entro 31 dicembre 2020
-- Adozione di provvedimenti regionali sulla definizione dei requisiti di autorizzazione e accreditamento dei soggetti Erogatori delle UCPD entro 31 dicembre 2020
-- Definizione del sistema tariffario entro 31 dicembre 2020
-- Messa a regime del nuovo sistema entro giugno 2021
-
-LINEA DI INTERVENTO 2:
-- Adozione di provvedimenti regionali per la definizione dei requisiti autorizzativi e di accreditamento per Hospice pediatrico entro dicembre 2019;
-- Definizione del sistema tariffario entro dicembre 2020;
-- Avvio delle procedure per l'apertura dell'Hospice pediatrico con 10 p.r. entro 30/06/2020;
-- Attivazione del relativo Centro di Riferimento di Cure Palliative e Terapia del Dolore Pediatrico per pazienti oncologici e non, con la definizione dei requisiti nonché del sistema tariffario delle prestazioni da erogare entro dicembre 2021.
-
-LINEA DI INTERVENTO 3:
-- Adozione del PDTA fine vita entro il 30 giugno 2021
-- Introduzione del codice 96 per le strutture che erogano prestazioni per la terapia del dolore a partire dal 1 gennaio 2020
+Risultati attesi e tempistiche
+- LINEA DI INTERVENTO 1:
+    - Adozione di provvedimento regionale relativo ai criteri di eleggibilità e ad interventi di Cure Palliative Domiciliari modulati per intensità assistenziale entro 31 dicembre 2020
+    - Adozione di provvedimenti regionali sulla definizione dei requisiti di autorizzazione e accreditamento dei soggetti Erogatori delle UCPD entro 31 dicembre 2020
+    - Definizione del sistema tariffario entro 31 dicembre 2020
+    - Messa a regime del nuovo sistema entro giugno 2021
+- LINEA DI INTERVENTO 2:
+    - Adozione di provvedimenti regionali per la definizione dei requisiti autorizzativi e di accreditamento per Hospice pediatrico entro dicembre 2019;
+    - Definizione del sistema tariffario entro dicembre 2020;
+    - Avvio delle procedure per l'apertura dell'Hospice pediatrico con 10 p.r. entro 30/06/2020;
+    - Attivazione del relativo Centro di Riferimento di Cure Palliative e Terapia del Dolore Pediatrico per pazienti oncologici e non, con la definizione dei requisiti nonché del sistema tariffario delle prestazioni da erogare entro dicembre 2021.
+- LINEA DI INTERVENTO 3:
+    - Adozione del PDTA fine vita entro il 30 giugno 2021
+    - Introduzione del codice 96 per le strutture che erogano prestazioni per la terapia del dolore a partire dal 1 gennaio 2020
 
 # 18. Governance farmaci e dispositivi medici
 Obiettivo primario della Regione Lazio è garantire la qualità dell'assistenza farmaceutica, assicurando ai cittadini farmaci con il migliore profilo beneficio-rischio, nel rispetto dei budget assegnati a livello nazionale. Nell'ambito della governance farmaceutica un ruolo significativo è rappresentato dall'incremento progressivo dei prezzi e dei costi di trattamento dei nuovi farmaci. Il sistema farmaceutico è in forte evoluzione sia per quanto riguarda l'immissione in commercio di farmaci altamente innovativi, sia per l'applicazione dei nuovi meccanismi di pay back, che dovranno essere semplificati al fine di dare certezza di applicazione a tutti i soggetti coinvolti, e superare il sistematico ricrearsi di contenzioso. In tale ambito la regione sarà chiamata ad operare scelte coerenti con quanto previsto dal documento nazionale di governance farmaceutica. In particolare, la promozione dell'uso appropriato dei farmaci equivalenti erogati in convenzione e in distribuzione per conto è strettamente collegato alla sostenibilità della spesa farmaceutica nonché alla sostenibilità sociale a carico del cittadino, in considerazione del fatto che la quota di spesa differenziale fra prezzo di riferimento a carico del SSN e prezzo delle specialità di marca è posta per legge a carico del cittadino stesso. In merito ai farmaci biosimilari, considerato che le attuali conoscenze scientifiche sono tali da garantire la sovrapponibilità in termini di efficacia e sicurezza fra i farmaci originatori e i biosimilari, la promozione del loro utilizzo è strumento fondamentale per la sostenibilità del sistema. A tal fine la commissione regionale del Farmaco (CoReFa) sta avviando numerose iniziative per l'implementazione della prescrizione di farmaci biosimilari all'interno della classe con medesima indicazione terapeutica. Particolare attenzione deve essere rivolta al paziente cronico, polipatologico e con fragilità concomitanti, dove l'aderenza terapeutica e le interazioni farmacologiche rappresentano un nodo critico.
@@ -1772,11 +2035,11 @@ Ai fini di una corretta programmazione delle risorse disponibili è indispensabi
 
 Un settore di particolare rilevanza è rappresentato dalla prescrizione dei farmaci oncologici ad alto costo di trattamento nel finevita (3-6 mesi prima del decesso).
 
-L' analisi delle prescrizioni e della spesa dei farmaci nel finevita, consente di verificare la essenzialità o meno dei trattamenti oncologici e un possibile deprescribing, non come atto di rinuncia o di abbandono, ma anzi come presa in carico complessiva del paziente nell'ambito delle terapie palliative, degli hospice e dell'assistenza domiciliare, con particolare riferimento alla qualità della vita.
+L'analisi delle prescrizioni e della spesa dei farmaci nel finevita, consente di verificare la essenzialità o meno dei trattamenti oncologici e un possibile deprescribing, non come atto di rinuncia o di abbandono, ma anzi come presa in carico complessiva del paziente nell'ambito delle terapie palliative, degli hospice e dell'assistenza domiciliare, con particolare riferimento alla qualità della vita.
 
 In analogia alle azioni di governance in ambito farmacologico, la Regione dovrà avviare un adeguato sistema di monitoraggio dell'uso razionale dei dispositivi medici ad alto impatto tecnologico, correlandoli ai volumi di attività delle aziende sanitarie che operano in ambiti altamente specialistici.
 
-# 18.1 Implementazione dell'uso del farmaco biologico a brevetto scaduto
+## 18.1 Implementazione dell'uso del farmaco biologico a brevetto scaduto
 Promozione dell'utilizzo dei farmaci a brevetto scaduti (biologico/biosimilari), con il miglior rapporto costo/indicazione autorizzata, all'interno della stessa classe terapeutica d'utilizzo, ai fini di un'efficienza allocativa delle risorse disponibili.
 
 Linee di intervento
@@ -1797,7 +2060,7 @@ Risultati attesi e tempistiche
 - Linee di indirizzo per la razionalizzazione della spesa dei farmaci biologici nelle malattie infiammatorie croniche entro il 31.12.2020
 - Verifica della diffusione e applicazione del documento presso gli enti del SSR attraverso gli indicatori proposti entro il 31/03/2021
 
-# 18.2 Valutazione d'uso di dispositivi medici ad alta complessità
+## 18.2 Valutazione d'uso di dispositivi medici ad alta complessità
 La regione sta avviando una nuova governance dei dispositivi medici che applicando le metodiche HTA ne valuti il costo efficacia nonché l'impatto organizzativo di utilizzo nelle strutture sanitarie.
 
 Il monitoraggio della spesa si avvarrà di indicatori per valutare l'incidenza del costo dei DM rispetto al valore della attività assistenziale erogata. Il rapporto tra la spesa per DM rilevata dai CE e la produzione (ospedaliera, specialistica, di pronto soccorso ecc.) identificherà la performance delle singole strutture monitorando l'appropriatezza clinica del DM.
@@ -1818,7 +2081,7 @@ Risultati attesi e tempistiche
 - Predisposizione di documento HTA entro il 31/03/2021
 - Diffusione e applicazione del documento presso gli enti del SSR entro il 30.06.2021
 
-# 18.3 Individuazione del budget file F per le strutture private accreditate: criteri e applicazione
+## 18.3 Individuazione del budget file F per le strutture private accreditate: criteri e applicazione
 Linee di intervento
 - Valutazione analitica dei consumi dei farmaci erogati/somministrati in file F e appropriatezza di uso.
 - Criteri di individuazione dei farmaci acquistabili direttamente dalle strutture private accreditate.
@@ -1831,8 +2094,7 @@ Risultati attesi e tempistiche
 - Predisposizione di atto normativo per la programmazione del budget (programmazione annuale a partire dal 2019);
 - Monitoraggio semestrale dell'aderenza e delle criticità al progetto e individuazione degli opportuni correttivi a partire dal 1 luglio 2019.
 
-
-# 18.4 Monitoraggio, indicatori ed azioni finalizzate al riallineamento della spesa farmaceutica a quella delle Regioni con la migliore performance
+## 18.4 Monitoraggio, indicatori ed azioni finalizzate al riallineamento della spesa farmaceutica a quella delle Regioni con la migliore performance
 Governance della spesa farmaceutica convenzionata e dei farmaci in PHT (prontuario ospedale-territorio).
 
 Linee di intervento
@@ -1843,7 +2105,7 @@ Risultati attesi e tempistiche
 - Riduzione della spesa territoriale entro il 30/06/2020
 - Linee di indirizzo su appropriatezza prescrittiva entro il 31.08 di ogni anno a partire dal 31.08.2019
 
-# 18.5 Procedure e linee di indirizzo per il corretto uso della terapia antimicrobica e per la prevenzione della farmacoresistenza
+## 18.5 Procedure e linee di indirizzo per il corretto uso della terapia antimicrobica e per la prevenzione della farmacoresistenza
 Razionalizzazione e appropriatezza d'uso terapia antimicrobica
 
 Linee di intervento
@@ -1856,7 +2118,7 @@ Risultati attesi e tempistiche
 - Predisposizione di indicatori per la valutazione dell'implementazione del documento regionale entro il 31/03/2021
 - Sviluppo di attività di audit in caso di disallineamento con il supporto del SERESMI entro il 31/12/2020
 
-# 18.6 Procedure e linee di indirizzo per il corretto uso dei farmaci oncologici, con specifico riferimento al fine vita dei pazienti con patologia tumorale
+## 18.6 Procedure e linee di indirizzo per il corretto uso dei farmaci oncologici, con specifico riferimento al fine vita dei pazienti con patologia tumorale
 Verificare la essenzialità o meno dei trattamenti oncologici nel fine vita con un possibile deprescribing, non come atto di rinuncia o di abbandono, ma anzi come presa in carico complessiva del paziente nell'ambito delle terapie palliative, degli hospice e dell'assistenza domiciliare, con particolare riferimento alla qualità della vita.
 
 Linee di intervento
@@ -1867,7 +2129,7 @@ Risultati attesi e tempistiche
 - Sviluppo di indicatori per la valutazione dell'implementazione del documento regionale entro il 31.12.2020
 - Razionalizzazione della spesa con focus su farmaci innovativi e potenzialmente innovativi entro il 31.03.2021
 
-# 18.7 Linee di appropriatezza prescrittiva nei farmaci della cronicità e per il monitoraggio e l'implementazione dell'aderenza terapeutica
+## 18.7 Linee di appropriatezza prescrittiva nei farmaci della cronicità e per il monitoraggio e l'implementazione dell'aderenza terapeutica
 Implementazione dell'aderenza terapeutica nei farmaci per la cronicità; ciò richiede anche un ripensamento della prescrizione di alcuni farmaci per le patologie croniche con particolare riferimento al diabete, alle patologie respiratorie (BPCO - Asma) e ai nuovi farmaci per l'anticoagulazione orale (NAO).
 
 Attualmente questi farmaci possono essere prescritti esclusivamente dagli specialisti ospedalieri, mentre nella presa in carico del paziente cronico dalle Comunità di pratica territoriale la prescrizione deve passare alla MMG, per non creare una discontinuità del percorso e la distribuzione a condizioni economiche vantaggiose deve avvenire per il tramite delle farmacie secondo un criterio di prossimità di cura.
@@ -1880,7 +2142,7 @@ Risultati attesi e tempistiche
 - Sviluppo di indicatori per il monitoraggio dell'aderenza entro il 31/12/2019
 - Proposta da parte del Corefa di linee di indirizzo per il monitoraggio e la valutazione dell'aderenza terapeutica per le strutture del SSR entro il 31.12.2020
 
-# 18.8 Sperimentazione attività farmacia dei servizi
+## 18.8 Sperimentazione attività farmacia dei servizi
 Attualmente la attività della farmacia è prevalentemente orientata alla distribuzione dei farmaci con una retribuzione basata sul prezzo ancorché regressivo dei medicinali.
 
 In una visione moderna di inserimento della farmacia nell'ambito della Comunità di pratica per la presa in carico dei pazienti cronici, la farmacia va riorientata a fornire servizi al paziente, con specifico riferimento al miglioramento della aderenza terapeutica, alle cure domiciliari e alla integrazione con il team della Comunità di Pratica, retribuendo la farmacia stessa mediante onorario e quindi sganciando la remunerazione dal prezzo dei farmaci. Implementazione di progettualità con le farmacie di comunità al fine di monitorare l'appropriatezza e l'aderenza nelle terapie per la cronicità.
@@ -1888,6 +2150,8 @@ In una visione moderna di inserimento della farmacia nell'ambito della Comunità
 In tale ottica si potranno prevedere sperimentazioni di nuovi modelli assistenziali che siano di supporto al miglioramento della capacità del cittadino di far fronte alla cura al fine di promuovere l'aderenza alla terapia e migliorare la sicurezza delle cure con particolare riferimento alla riconciliazione farmacologica e alla segnalazione di reazioni avverse ai farmaci anche conseguenti ad errori terapeutici.
 
 Un ruolo fondamentale potranno avere le farmacie di comunità nell'apertura del fascicolo sanitario che faciliterà la completa presa in carico dell'assistito cronico e polipatologico nonché ulteriori progetti di dematerializzazione del promemoria farmaceutico grazie all'attivazione del fascicolo farmaceutico. Le farmacie di comunità possono, inoltre, svolgere un ruolo importante nella prevenzione sia attraverso attività di informazione e formazione sia collaborando alla attività di screening, in particolare del colon retto.
+
+Le farmacie di comunità possono, inoltre, svolgere un ruolo importante nella prevenzione sia attraverso attività di informazione e formazione sia collaborando alla attività di screening, in particolare del colon retto.
 
 Linee di intervento
 - Individuazione di procedure operative per la sperimentazione dei servizi svolti dalle farmacie di comunità in linea con quanto previsto dal tavolo nazionale per la farmacia dei servizi
@@ -1899,32 +2163,37 @@ Risultati attesi e tempistiche
 - Avvio della sperimentazione entro il 31.01.2020
 - Report sui risultati della sperimentazione entro il 31.01.2021
 
-# 19.1 I fabbisogni
+# 19. Investimenti in patrimonio e tecnologie
+## 19.1 I fabbisogni
 Gli investimenti in conto capitale hanno, per propria natura, un orizzonte temporale più ampio rispetto alle spese in conto corrente e, pertanto, in prosecuzione e nel solco dei Programmi Operativi 2016-2018, gli interventi sul patrimonio immobiliare e tecnologico sono finalizzati al completamento del percorso di messa a norma ed in sicurezza, di adeguamento tecnologico e di ristrutturazione degli spazi sanitari (per acuti finalizzato al riordino delle reti ed il rafforzamento dei nodi oltre al rafforzamento dell'offerta territoriale), in ottemperanza a quanto prescritto dal DM 70 del 2.4.2015.
 
 Il quadro degli investimenti da programmare è da leggere nel contesto generale di riorganizzazione non solo della rete ospedaliera, ma dell'intero sistema sanitario regionale; pertanto gli interventi stessi possono intendersi obiettivo connesso al nuovo piano di riordino della rete ospedaliera e territoriale, di qualificazione dell'assistenza specialistica, di connessione fra la realtà sanitaria ospedaliera e quella territoriale e alla messa a norma degli spazi destinati alla salute.
 
 La rilevazione dei fabbisogni delle Aziende Sanitarie ed Ospedaliere e negli Istituti di Ricovero e Cura a Carattere Scientifico pubblici (di seguito denominati Aziende) è attività propedeutica alla programmazione degli investimenti ed è stata sistematizzata con l'istituzione dell'archivio anagrafico del patrimonio delle ASL (Determinazione Direttore Regionale del 4.7.2017).
 
-Il 49% del fabbisogno si riferisce a obiettivi di sicurezza, in particolare a interventi con finalità strettamente riguardanti l'adeguamento antincendio ( essenziale per via della normativa vigente -DM 19 marzo 2015- che prevedere una serie di scadenze tra il 2016 e il 2025 per l'adeguamento alle nuove prescrizioni) e antisismico; il 37% dell'importo di richiesta di finanziamento riguarda interventi di potenziamento e riorganizzazione dell'attività sanitaria; il 14% si riferisce alla conservazione e mantenimento delle condizioni d'uso dei locali relativi all'attività sanitaria e delle tecnologie.
+Il 49% del fabbisogno si riferisce a obiettivi di sicurezza, in particolare a interventi con finalità strettamente riguardanti l'adeguamento antincendio (essenziale per via della normativa vigente -DM 19 marzo 2015- che prevedere una serie di scadenze tra il 2016 e il 2025 per l'adeguamento alle nuove prescrizioni) e antisismico; il 37% dell'importo di richiesta di finanziamento riguarda interventi di potenziamento e riorganizzazione dell'attività sanitaria; il 14% si riferisce alla conservazione e mantenimento delle condizioni d'uso dei locali relativi all'attività sanitaria e delle tecnologie.
+
 Le strutture sanitarie rivestono un ruolo strategico anche in caso di calamità, quando sono chiamate a svolgere un'importantissima funzione di soccorso alla popolazione, garantendo l'efficace prosecuzione delle prime operazioni di pronto intervento sanitario avviate sul campo.
 
 Il programma di investimento per l'edilizia sanitaria è stato quindi definito in coerenza a:
 - gli obiettivi di adeguamento a requisiti strutturali di sicurezza in relazione alle risorse disponibili;
 - le esigenze aziendali (fattibilità degli interventi);
 - le politiche di investimento e le strategie di sviluppo (priorità degli interventi).
+
 La valutazione delle assegnazioni di finanziamento e la loro calibrazione quali-quantitativa è effettuata a partire dal quadro conoscitivo di monitoraggio e dall'estrazione di dati attraverso report.
+
 Le macro attività di seguito indicate sono articolate in singole progettualità che vengono dettagliate e specificate nell'Allegato 1:
 - gestione e monitoraggio dei programmi di investimento e dei progetti avviati.
 - strategie di sviluppo di nuovi programmi di investimento.
 - strategie di razionalizzazione, ottimizzazione e semplificazione delle procedure per i finanziamenti in conto capitale
 
-# 19.2. Gestione e monitoraggio dei programmi di investimento e dei progetti avviati
+## 19.2. Gestione e monitoraggio dei programmi di investimento e dei progetti avviati
 I finanziamenti ed i progetti in corso di esecuzione si riferiscono a linee di nuovi investimenti attivati nel periodo 2013-2018. A ciò si aggiungono gli investimenti precedentemente attivati, sia statali che regionali.
 
 Il monitoraggio procedurale e finanziario degli interventi finanziati viene effettuato con i dati relativi al piano finanziario dei singoli interventi, attraverso la verifica dello stato di attuazione della spesa sia in rapporto al quadro economico iniziale, sia alle eventuali variazioni in corso di realizzazione, confrontata con il cronoprogramma di progetto approvato dalla Regione Lazio.
 
 Inoltre, si procederà al monitoraggio dell'aggiornamento del flusso informativo sulle grandi tecnologie da parte delle Aziende Sanitarie previste nel DM 22.4.2014.
+
 In riferimento agli adempimenti LEA, si evidenziano e confermano per il triennio 2019-2021 le attività riguardanti la condivisione dello stato di avanzamento con i delegati aziendali, l'approfondimento e controllo dei dati pubblicati dalle strutture, la predisposizione dell'autocertificazione regionale, la condivisione con il Ministero della Salute delle modalità di formalizzazione dell'autocertificazione.
 
 Linee di intervento
@@ -1938,12 +2207,18 @@ Risultati attesi e tempistiche
 - (linee di intervento da 1 a 3) monitoraggio degli investimenti assegnati alle Aziende Sanitarie con report, incontri periodici con i referenti aziendali, predisposizione atti regionali di approvazione dei progetti e rendicontazione: semestrale a partire da marzo 2021;
 - (linea di intervento 4 e 5) predisposizione dell'autocertificazione regionale, a partire dalla verifica e condivisione formale con i Direttori Generali degli elenchi forniti per l'anno 2019, 2020, 2021 (Adempimento LEA): entro il primo semestre successivo all'anno di riferimento
 
-# 19.3. Strategie di sviluppo di nuovi programmi di investimento
+## 19.3. Strategie di sviluppo di nuovi programmi di investimento
 Con DM del 25.1.2018 (Ministero della Salute) e DPCM del 24.12.2018 è stato ratificato il riparto del fondo per il Lazio nell'ambito del piano triennale di investimenti con uno stanziamento a favore della Regione Lazio di € 173.166.814,00 (Fondi Strutturali ex comma 140) e € 286.776.348,00 (Fondi INAIL ex comma 602-603), da destinare prioritariamente alla realizzazione di nuovi presidi sanitari, attraverso la costruzione di nuovi edifici ubicati in punti strategici per il territorio regionale, con particolare riferimento agli interventi in zona sismica 1, oltre alla riconversione di un Presidio in attività di servizio al territorio. Il riparto stanzia anche fondi lo sviluppo tecnologico e l'ampliamento dell'IRCCS IFO, HUB della rete oncologica.
 
 Al fine di consentire alle Aziende Sanitarie di individuare le più efficaci soluzioni innovative in ambito sismico e tecnologico per gli interventi finanziati con la Legge 232/2016, la Regione Lazio intende attivare collaborazioni con le Università pubbliche, tramite la stipula di apposito Protocollo d'intesa.
- 
+
 Inoltre, nell'ottica di intervenire a superare la frammentazione e le disomogeneità aziendali e concentrare l'operatività verso la fissazione di standard regionali uniformi, velocizzando le procedure tipiche dell'attuazione degli investimenti, le Aziende Sanitarie si avvarranno del supporto operativo e tecnico dell'Azienda Lazio.0.
+
+Linee di intervento
+- Innovare la rete ospedaliera mediante la realizzazione di nuovi ospedali e la riconversione ad altre funzioni di parte del patrimonio ospedaliero non più disponibile all'adeguamento attraverso l'avvio dell'attuazione degli investimenti di cui alla L. 232/2016 art.1 comma 140 (Riparto del fondo per il finanziamento degli investimenti e lo sviluppo infrastrutturale del Paese - € 173.166.814,00) e comma 602 (Fondi INAIL – € 286.776.348,00 – finalizzati anche alla realizzazione del "Nuovo Ospedale del Golfo"). Per i fondi relativi all'art.1 comma 140 e 602 è stata richiesta la rimodulazione al Ministero della Salute: secondo un criterio un criterio di priorità del comma 602 rispetto al 140.
+- Avviare l'assegnazione di finanziamento degli investimenti ex art 20 L. 67/88 relativi allo Stralcio 1.B1, dopo la ratifica dell'Accordo di Programma da parte dei Ministeri sovraordinati (€ 109.096.772,43).
+- Attivare le procedure propedeutiche alla programmazione degli interventi a completo utilizzo dell'importo stanziato nell'ambito dell'Art. 20 L. 67/88, denominato Stralcio 1.B2 per importo di € 219.379.379,35.
+- Attivare le procedure propedeutiche all'attivazione dei nuovi investimenti previsti nella Legge n. 145 del 30 dicembre 2018 art. 1 comma 555 (Bilancio di previsione per l'anno finanziario 2019 e bilancio pluriennale per il triennio 2018-2021) per i fondi ad investimento finalizzati alla manutenzione straordinaria e all'ammodernamento tecnologico dei presidi delle Aziende Sanitarie. Per la realizzazione dei nuovi presidi ospedalieri della rete (Il Nuovo Ospedale di Rieti sarà realizzato ai sensi della legge 232/2016 art, 1 comma 602 di cui alla rimodulazione richiesta al Ministero della Salute –Il Nuovo Ospedale della Tiburtina sarà realizzato con i fondi della legge 232/2016 art. 1 comma 140 di cui alla rimodulazione richiesta solo dopo l'avvenuta rimodulazione per gli interventi del comma 602 di cui sopra). Per il Nuovo Ospedale di Latina, il cui costo complessivo è stimato in circa 300 mln, si ipotizza la copertura per mezzo dei fondi del disegno di Legge di Bilancio 2020, Art. 7, per l'importo di 120 mln (costo per l'investimento dell'efficientamento energetico-NZEB); per i restanti 180 mln, verrà trovata copertura nei fondi dell'Art. 20 L. 67/88 IV fase, da assegnare alla regione Lazio.
 
 Risultati attesi e tempistiche
 - (linea di intervento 1 e 2) Adozione di provvedimento regionale di recepimento dell'Accordo di Programma finalizzato all'assegnazione dei finanziamenti alle Aziende Sanitarie (per lo Stralcio 1.B1 ex art 20 L. 67/88: entro 31.12.2019); Definizione dell'accordo INAIL (31.03.2021)
@@ -1951,7 +2226,7 @@ Risultati attesi e tempistiche
 - (linea di intervento 3) Definizione degli interventi da inserire nello stralcio 1.B2 ex art 20 L 67/88 e successiva adozione del provvedimento regionale di programmazione degli investimenti (31.12.2020)
 - (linea di intervento 4) Definizione degli interventi da inserire nei finanziamenti di cui alle leggi di Bilancio 2019-2020 (31 dicembre 2020).
 
-# 19.4. Strategie di razionalizzazione, ottimizzazione e semplificazione delle procedure per i finanziamenti in conto capitale
+## 19.4. Strategie di razionalizzazione, ottimizzazione e semplificazione delle procedure per i finanziamenti in conto capitale
 Nell'ottica della razionalizzazione delle procedure per l'assegnazione delle risorse disponibili, al fine di perseguire gli obiettivi prefissati, sono programmate attività nel triennio finalizzate a:
 - semplificazione delle procedure di trasmissione, di valutazione e di controllo dei progetti trasmessi dalle Aziende;
 - standardizzazione dei processi;
@@ -1978,13 +2253,15 @@ Risultati attesi e tempistiche
 - Predisposizione di linee guida (30.03.2020)
 - (linea di intervento 3) Predisposizione dello Studio di fattibilità Tecnico Economica del Sistema Informativo (30.06.2020)
 
-# 20.1 Tendenziali 19-21
+# 20. Tendenziale, Programmatico e descrizione delle manovre
+## 20.1 Tendenziali 19-21
 Il risultato economico di gestione del SSR della regione Lazio era in disavanzo nel 2016 di 136,5 €/mln e nel 2017 di 45,7 €/mln; il Consuntivo 2018 registra, invece, un risultato economico positivo pari a 6,4 €/mln. Tali risultati sono stati raggiunti senza considerare le somme spettanti alla Regione dal Pay-back da ripiano della spesa farmaceutica ospedaliera/acquisti diretti.
 
 Per il triennio 2019-2021 si stima che, il risultato economico tenderà a migliorare per effetto di un incremento dei ricavi pari a 509,2 €/mln (CAGR '21-'18 pari a 1,6%) maggiore rispetto ai costi pari a 325,6 €/mln (CAGR '21-'18 pari a 1%), con un risultato economico tendenziale pari a 86,9 €/mln per il 2019, 38,3 €/mln nel 2020 e 72,2 €/mln nel 2021.
 
 Nel triennio 2019-2021 si prevedono incrementi di costi complessivi per 325,6 €/mln, principalmente dovuti alle seguenti variazioni: aumento dei Prodotti Farmaceutici ed Emoderivati per 152,7 €/mln, riduzione degli Altri beni e Servizi per 70,2 €/mln, aumento delle Prestazioni da Privato per 246,5 €/mln.
 
+#### Ricavi
 La voce Ricavi dal 2018 al 2021 incrementa di 509,1 €/mln, per effetto di un aumento delle voci Contributi FSR, Saldo Mobilità ed Entrate Proprie.
 
 La voce Contributi FSR dal 2018 al 2021 incrementa di 487,4 €/mln, con un tasso di crescita medio pari all'1,5% nel triennio. In particolare le ipotesi sottostanti a tali valori sono le seguenti:
@@ -1995,7 +2272,7 @@ Il valore del Saldo Mobilità sul triennio migliora di 29,4 €/mln, di cui 25 �
 
 Il valore del Saldo di Mobilità per gli anni 2020 e 2021 ricomprende la quota di 6,4 €/mln per le Funzioni di Terapia Intensiva, Terapia Neonatale, Servizio Trasporto Emergenza riconosciute all'Ospedale Pediatrico Bambino Gesù.
 
-# Il valore delle Entrate Proprie, per gli anni 2019-2021, è stato stimato pari al Consuntivo 2018 al netto delle seguenti fattispecie:
+Il valore delle Entrate Proprie, per gli anni 2019-2021, è stato stimato pari al Consuntivo 2018 al netto delle seguenti fattispecie:
 - Contributo per la sterilizzazione degli interessi passivi derivanti dall'operazione SANIM che è stato aggiornato secondo il piano di ammortamenti 2019-2021;
 - Pay-back: nel tendenziale è stato considerato:
     - Ulteriore Pay-back: posto pari a 42,8 €/mln, corrispondente a quanto contabilizzato dalla Regione Lazio nell'esercizio 2018;
@@ -2006,8 +2283,10 @@ La voce Rettifica Contributi in c/esercizio per destinazione ad investimenti sul
 
 La voce Saldo per quote inutilizzate contributi vincolati, in continuità con i criteri adottati per la determinazione del valore Tendenziale dei Programmi Operativi 2013-2015 di cui al DCA n. 247 del 25/07/2014 e 2016-2018 di cui al DCA n. 412 del 14/09/2017, è stata stimata pari a zero, nell'ipotesi che dal 2019 i contributi non utilizzati in corso d'anno siano pari agli utilizzi degli accantonamenti rilevati negli esercizi precedenti. La stima considera anche quanto rilevato dalle aziende al II e III Trimestre 2019, che riporta un saldo positivo quindi un maggiore utilizzo rispetto alle somme accantonate. Pertanto, prudenzialmente si stima un impatto pari a zero.
 
+#### Costi Operativi
 L'evoluzione tendenziale dei Costi Operativi per il triennio 2019-2021 mostra un incremento complessivo dell'1%, di cui 0,4% per i Costi Interni e 1,8% per i Costi Esterni.
 
+#### Costi Interni
 Il Personale per il triennio 2019-2021 è stato stimato costante e pari al valore del Consuntivo 2018 di 2.671,9 €/mln. La Regione ha approvato i piani triennali di fabbisogno di personale con DCA 405/2018 per il triennio 2018- 2020. Per accelerare le procedure concorsuali, la Regione ha svolto degli incontri tecnici al fine di dare indicazione alle Aziende relativamente alla revisione dei piani dei fabbisogni per il triennio 2019-2021. Le indicazioni riguardano anche la realizzazione di procedure aggregate per sopperire alla carenza di figure amministrative nelle aziende.
 
 Nelle voci relative agli altri accantonamenti per rinnovi contrattuali (vedi paragrafo sugli accantonamenti), oltre a riportare le quote relative al periodo 2016-2018 fatta eccezione per il comparto, sono stati valorizzati i relativi importi da riconoscere per le diverse tipologie contrattuali (dirigenza, comparto, convenzionati) prevedendo un incremento del 1,3% per il 2019, 1,65% per il 2020, 1,95% per il 2021. Tali percentuali sono state applicate alla somma degli importi rilevati a CE Consuntivo 2018, del costo del personale e della quota degli accantonamenti dei rinnovi contrattuali per il periodo 2016-2018. All'importo dell'anno 2019 è stata scontata la quota di indennità di vacanza contrattuale stimata pari allo 0,42% dal 01.04 al 30.06 e allo 0,7% dal 01/07 al 31/12. La quota dell'IVC riferita all'anno 2019, stimata sul costo del personale del 2018, è pari a 11,9 €/mln.
@@ -2041,6 +2320,7 @@ Con riferimento ai rinnovi contrattuali per gli anni 2019-2021 si rappresenta qu
 - per il comparto, è stato stimato un accantonamento per l'anno 2019 pari all'1,3% del Costo Consuntivo 2018, a cui sono stati sottratti le stime del pagato dell'IVC annuale e del Fondo perequativo (0,42% dal 01.04 al 30.06 e 0,7% dal 01.07 al 31.12). Per gli anni 2020 e 2021 gli accantonamenti sono stati calcolati rispettivamente nella misura dell'1,65% e dell'1,95% del costo dell'anno 2018;
 - per i convenzionati, in aggiunta al 3,48% del Costo Consuntivo 2015, è stato stimato un ulteriore accantonamento per l'anno 2019 pari all'1,3% del Costo Consuntivo 2018. Per gli anni 2020 e 2021 gli accantonamenti sono stati calcolati, in aggiunta, al 3,48% del 2018, rispettivamente nella misura dell'1,65% e dell'1,95% del costo dell'anno 2018.
 
+#### Costi Esterni
 La voce Medicina di Base è stata considerata costante nel triennio 2019-2021, pari al Consuntivo 2018 per un valore di 608,5 €/mln.
 
 La Farmaceutica Convenzionata è stata considerata, prudenzialmente, costante negli anni 2019, 2020, 2021, pari a 854,4 €/mln, secondo quanto contabilizzato a Consuntivo 2018.
@@ -2073,17 +2353,19 @@ Le stime sono state effettuate applicando, al valore registrato a Consuntivo 201
     - Hospice: valore del budget per l'anno 2019, ex DCA U00073/2018;
     - Assistenza Domiciliare Integrata: il valore del Consuntivo 2018 è stato incrementato dei valori stabiliti dal DCA U00258/2019, ovvero di 5 €/mln per l'anno 2019, 37,6 €/mln per l'anno 2020 e 17 €/mln per l'anno 2021.
 
+#### Componenti Finanziarie e Straordinarie
 La voce Svalutazione Immobilizzazioni, Crediti, Rivalutazioni e Svalutazioni Finanziarie non è stata valorizzata.
 
 La voce Saldo Gestione Finanziaria è stata considerata costante e pari al valore del Consuntivo 2018, pari a 62,2 €/mln, al netto degli interessi passivi derivanti dall'operazione SANIM secondo il piano di ammortamenti 2019- 2021. I valori risultanti sono 61,4 €/mln nel 2019, 60,8 €/mln nel 2020 e 60,2 €/mln nel 2021.
 
 La voce Oneri Fiscali è stata considerata costante pari al valore rilevato in sede di Consuntivo 2018.
- 
+
 Per la voce Saldo Gestione Straordinaria è previsto, nella voce Sopravvenienze attive v/terzi relative all'acquisto di prestazioni sanitarie da operatori accreditati un valore a tendenziale pari a 21 €/mln nell'anno 2019 derivante dalla stima dei controlli esterni concordati per acuti anno 2015 della struttura Policlinico Gemelli, acuti anno 2016 e Riabilitazione anno 2014 (controlli già valorizzati dalla Regione e comunicati alle Aziende Sanitarie).
 
+#### Risorse aggiuntive a titolo di copertura LEA
 Le Risorse aggiuntive da bilancio regionale a titolo di copertura LEA sono pari a 91,1 €/mln in applicazione all'art.2 comma 6 del DL 120/2013, come da verbale del Tavolo di verifica del 26 luglio 2018.
 
-# 20.2 Programmatici
+## 20.2 Programmatici
 Il triennio 2019-2021 rappresenta, per il Servizio Sanitario della regione Lazio, un momento di svolta dalla sottoscrizione del primo Piano di Rientro nel 2007
 
 A partire dal 2018, il bilancio sanitario della Regione ha raggiunto - per la prima volta - l'equilibrio di esercizio, senza la necessità di dover ricorrere ad ulteriori risorse derivanti da maggior gettito fiscale. Al fine di consolidare questo risultato, la Regione intende agire con manovre di contenimento agli ambiti di maggior impatto, ed in particolare su Piani di Efficientamento delle Aziende Ospedaliere, gare effettuate tramite la Centrale Acquisti, risparmi legati all'istituzione dell'Azienda Lazio.0, recupero ticket e importi dei controlli esterni, incremento della mobilità attiva da alta complessità. Parallelamente, la Regione prevede di dare spazio a manovre di sviluppo quali incremento del costo del personale, investimenti in assistenza territoriale e altre manovre relative a telemedicina e innovazione tecnologica, case della salute, ospedali di comunità, formazione, hospice pediatrico.
@@ -2100,12 +2382,12 @@ Le successive variazioni della voce "Rettifica Contributi in c/esercizio" dal 20
 
 L'aumento dei Costi Operativi è dovuto in parte ai trend fisiologici di crescita previsti a Tendenziale, in particolare alle voci Prodotti Farmaceutici ed Emoderivati e Altri Beni e Servizi, a cui si aggiungono gli impatti delle manovre di contenimento e di sviluppo che la Regione ha in programma di mettere in atto nei prossimi anni. L'effetto complessivo di tali interventi è un incremento del costo del Personale di 77,8 €/mln (1%), un contenimento dell'aumento del costo dei Prodotti Farmaceutici ed Emoderivati, che crescono di 115,4 €/mln (3,2%) rispetto ai 152,7 €/mln previsti a Tendenziale, una riduzione del costo di Altri Beni e Servizi di 227,4 €/mln (-4,1%), una riduzione di 24,6 €/mln della Farmaceutica Convenzionata (-1,0%) e un aumento di 404,2 €/mln (4,3%) delle Prestazioni da Privato. A tali effetti si aggiunge una crescita nel triennio di 66,9 €/mln degli Accantonamenti; il valore iscritto in questa voce è dovuto all'accantonamento prudenziale dell'importo totale o parziale di alcune delle manovre previste; in particolare è stato accantonato il 100% dei risparmi derivanti dai Piani di efficientamento, dei benefici connessi all'attivazione dell'azienda Lazio.0 e il valore del Pay-back per ripiano spesa farmaceutica ospedaliera.
 
+#### Azienda Lazio.0 e centralizzazione degli acquisti
 La voce Prodotti Farmaceutici ed Emoderivati presenta una crescita fisiologica legata all'aumento del costo medio dei farmaci a seguito dell'introduzione di nuove molecole e del termine dei periodi di innovatività. Anche il costo di Altri Beni e Servizi risulta in crescita nel 2018 rispetto all'anno precedente. Per contenere l'effetto dei costi crescenti, la Regione ha in programma l'istituzione dell'Azienda Lazio.0, che avrà il ruolo di centralizzare la programmazione e il monitoraggio degli acquisti, snellire e rendere più efficiente la gestione della rete logistica e distributiva e coordinare e sviluppare i sistemi informativi.
 
 Per quanto riguarda i farmaci e i dispositivi medici, l'impatto sui costi deve essere imputato sia al miglioramento dei processi logistici, sia all'effetto della centralizzazione sui prezzi. La riduzione dei costi di Altri Beni e Servizi è invece legata alle gare già assegnate o in fase di assegnazione, che garantiranno prezzi standard, più contenuti e prevedibili per il periodo in oggetto. A questo si aggiunge l'impatto del coordinamento e sviluppo dei sistemi informativi a livello centrale.
 
-Come già esposto al paragrafo 10.1, l'attivazione dell'Azienda Lazio.0 è prevista entro il 2020 e ci si aspetta che le attività siano a regime entro il 2021. Gli effetti positivi delle manovre di contenimento, derivanti dall'attivazione di Lazio.0, sono, dunque, considerate solo parzialmente nel 2020 (pari al 50% dell'impatto massimo), per 20,8
-€/mln di cui:
+Come già esposto al paragrafo 10.1, l'attivazione dell'Azienda Lazio.0 è prevista entro il 2020 e ci si aspetta che le attività siano a regime entro il 2021. Gli effetti positivi delle manovre di contenimento, derivanti dall'attivazione di Lazio.0, sono, dunque, considerate solo parzialmente nel 2020 (pari al 50% dell'impatto massimo), per 20,8 €/mln di cui:
 - 4,7 €/mln di risparmio sui farmaci;
 - 2,9 €/mln di risparmio sui dispositivi medici;
 - 14,3 €/mln di risparmio sui costi legati ai sistemi informativi.
@@ -2127,12 +2409,14 @@ Di seguito si riporta la tabella sinottica contenente, per singola iniziativa di
 
 Sulle voci della tabella sopra riportata, la quantificazione del risparmio è stata calcolata individuando la differenza tra i nuovi prezzi posti a base d'asta "applicando una percentuale prudenziale di ribasso in linea con le ultime aggiudicazioni di prodotti analoghi", nei procedimenti di acquisto ancora in corso, ed il dato storico consuntivato dalle Aziende Sanitarie. I valori così quantificati rappresentano pertanto il risparmio minimo, in quanto ulteriori economie potranno essere quantificate all'atto dell'espletamento dei processi di acquisto.
 
+#### Spesa Farmaceutica
 Agli effetti di riduzione della spesa legati alla centralizzazione dell'acquisto, per la voce Prodotti Farmaceutici ed Emoderivati si aggiunge un ulteriore calo dei prezzi legato alle scadenze brevettuali. Nel 2019 è prevista la scadenza dei brevetti per farmaci relativi a 18 ATC, per un totale di spesa complessiva nel 2018 pari a 47 €/mln; nel 2020 a 10 ATC, per un totale di spesa nel 2018 pari a 21,8 €/mln e nel 2021 ad altri 15 ATC, per una spesa nel 2018 pari a 31,5 €/mln. Il risparmio previsto si basa sull'ipotesi di una produzione costante e sulle ipotesi che l'immissione in commercio dei farmaci equivalenti avvenga 3 mesi dopo la scadenza del brevetto, che il costo del farmaco equivalente sia inferiore del 20% rispetto al costo del farmaco branded e che ci sia uno switch del 90% al farmaco equivalente. Il risparmio complessivo previsto a seguito di questa dinamica è di 14,9 €/mln nel triennio, di cui 2,5 €/mln nel 2019, ulteriori 9,9 €/mln nel 2020 e 2,5 €/mln nel 2021. Nel grafico sottostante viene rappresentata la riduzione di spesa degli ATC che hanno scadenza di brevetto negli anni 2019-2021.
 
 Per quanto riguarda invece la Farmaceutica Convenzionata, l'obiettivo per il triennio è l'allineamento alla spesa media nazionale, pari al 7,30% del totale del FSR e della quota di Entrate Proprie della Regione Lazio, pari a 162,2 €/mln, riportate nell'Intesa CSR n. 88 del 06.06.2019. Al fine di allineare il valore della spesa alla stima del tetto che la Regione si è prefissata nell'anno 2021, si è ipotizzato un valore della spesa di 847,5 €/mln nel 2019, di 828 €/mln nel 2020 e infine di 829,8 €/mln nel 2021. Tale obiettivo sarà perseguito attraverso il miglioramento dell'appropriatezza prescrittiva e il ricorso a farmaci equivalenti.
 
 L'impatto economico complessivo delle due manovre è un contenimento dei costi di 39,5 €/mln nei tre anni, di cui 9,4 €/mln nel 2019, ulteriori 29,4 €/mln nel 2020 e 0,7 €/mln nel 2021. In riferimento al DCA n. 324 del 01/08/2019 (prot. 121/2019) che definisce gli indicatori di appropriatezza farmaceutica regionali 2019-2020, "l'Indicatore Target IPP confezioni da 28 cp", obiettivo 50% del totale, entrato in vigore ad agosto 2019 ha determinato una riduzione della spesa del 2,8% rispetto al 2018, "l'Indicatore Target Febuxostat e Nota 91" entrato in vigore ad agosto 2019 ha determinato una riduzione dei consumi del 10% rispetto al 2018 e una conseguente riduzione della spesa del 30% rispetto la spesa 2018 dovuta anche alla perdita di brevetto avvenuta a giugno 2019; per quanto riguarda i restanti indicatori gli effetti saranno distribuiti nell'anno 2020.
 
+#### Piani di efficientamento
 Il DM 21 giugno 2016 recante "Piani di cui all'articolo 1, comma 528, della legge 28 dicembre 2015, n. 208, per le aziende ospedaliere (AO), le aziende ospedaliere universitarie (AOU), gli istituti di ricovero e cura a carattere scientifico pubblici (IRCCS) o gli altri enti pubblici" e i relativi allegati e linee guida definiscono i criteri per l'identificazione delle aziende che dovranno essere interessate dai Piani di efficientamento e la conseguente quota di riduzione dello scostamento assoluto. Coerentemente con quanto definito dal DM, le Aziende Ospedaliere della regione Lazio interessate dai Piani di efficientamento, secondo quanto calcolato con i dati del Consuntivo 2018, sono: Ospedale San Camillo, Ospedale San Giovanni, Policlinico Umberto I. Per tali Aziende si procederà con la redazione di un piano di efficientamento relativo agli anni 2020-2022. Sulla base degli scostamenti assoluti registrati da tali strutture, si rileva la necessità di rientrare complessivamente di 13,7 €/mln nel 2020 e 13,6 €/mln nel 2021, per un valore complessivo di 27,3 €/mln.
 
 Per ottenere tale risparmio, si stima che le Aziende Ospedaliere possano agire sui processi organizzativi interni nonché sui Prodotti Farmaceutici ed Emoderivati e sugli Altri Beni e Servizi, portando ad un risparmio di 5,5 €/mln nel 2020 e 5,4 €/mln nel 2021 (10,9 €/mln complessivi) sui farmaci e di 8,2 €/mln nel 2020 e 8,1 €/mln nel 2021 (16,4 €/mln complessivi) sui beni e servizi.
@@ -2141,16 +2425,19 @@ Non è valorizzato alcun effetto derivante dagli interventi previsti sui presidi
 
 Si precisa che l'effetto di tale manovra, prudenzialmente, è stato interamente accantonato nella voce BA2890 - Altri accantonamenti dei CE Programmatici 2020-2021.
 
+#### Mobilità sanitaria di alta complessità
 La Regione sta mettendo in atto azioni volte ad attrarre mobilità attiva dalle altre Regioni (c.d. mobilità FRAC – Fuori Regione Alta Complessità) nonché a ridurre la mobilità passiva, in particolare verso le regioni limitrofe. L'impatto di tali azioni è previsto nel 2020 e nel 2021 per un valore rispettivamente di 20,0 €/mln nel 2020 e ulteriori 10,0 €/mln nel 2021.
 
 Il corrispondente costo per l'acquisto di prestazioni da privato relative all'Alta Complessità per residenti Fuori Regione, rilevato nei CE Tendenziali 2019-2021, pari a 30 €/mln, sarà coperto dai risparmi derivanti dalla manovra della centralizzazione degli acquisti pari a 31,9 €/mln precedentemente descritta.
 
+#### Prestazioni ospedaliera e specialistica da privato
 Il potenziamento dell'offerta assistenziale, relativamente all'emergenza-urgenza, con il riconoscimento al Campus Bio-Medico delle relative funzioni e delle prestazioni di specialistica ambulatoriale, prevede un incremento di costi rispettivamente: per la voce C3.1 Prestazioni da Privato – Ospedaliera per un importo pari a 17,4 €/mln per il 2020 e di 24,8 €/mln per il 2021; per la voce C3.2 Prestazioni da Privato - Ambulatoriale per un importo pari a 1,7 €/mln per il 2020 e di 3,0 €/mln per il 2021.
 
 Un ulteriore incremento di costi sarà riconosciuto per il potenziamento della specialistica ambulatoriale, nell'ambito della branca di medicina nucleare (PET) per un valore pari a 4,5 €/mln rispettivamente per il 2020 e 2021.
 
 Quest'ultimo intervento consentirà la riduzione della mobilità passiva per le prestazioni di medicina nucleare che nel 2018 ha riguardato il 29% dei cittadini laziali che hanno fatto ricorso a tale branca (costo complessivo di 10.043.139 €).
 
+#### Stabilizzazione del personale e Fabbisogno
 I piani triennali 2018-2020 presentati dalle aziende sanitarie hanno previsto un fabbisogno complessivo di personale, comprensivo anche del personale cessato stimato nel triennio, pari a:
 - 2.354 unità per l'anno 2018;
 - 3.532 unità per l'anno 2019;
@@ -2175,6 +2462,7 @@ Nell'incremento del costo del personale sono inclusi anche gli effetti di tutti 
 
 È stato altresì valorizzato l'incremento dell'IRAP per un importo pari all'8,5% della manovra espansiva sul costo del personale. Gli importi stimati sono pari a 2,2 €/mln per l'anno 2019, ulteriori 1,3 €/mln nel 2020 e 3,1 €/mln nel 2021.
 
+#### Consulenze
 In considerazione del ricorso negli anni all'utilizzo delle consulenze e delle prestazioni aggiuntive per far fronte alla carenza di dotazione per il prolungato blocco delle assunzioni degli ultimi anni, parallelamente all'aumento delle risorse disponibili per l'assunzione di nuovo personale, si stima una riduzione del ricorso a tali tipologie contrattuali e delle relative voci di costo.
 
 Nel dettaglio, a fronte dei costi rilevati a Consuntivo 2018 per le voci di Conto Economico relative a Consulenze Articolo 55, comma 2, CCNL 8 giugno 2000, Medici Sumai, Altre consulenze sanitarie e socio-sanitarie da privato, Altre collaborazioni e prestazioni di lavoro in area sanitaria e non sanitaria, Consulenze non sanitarie da privato, pari a 175,8 €/mln, si stima una riduzione dei costi come di seguito riportata.
@@ -2184,6 +2472,7 @@ Nel dettaglio, a fronte dei costi rilevati a Consuntivo 2018 per le voci di Cont
 
 Si rappresenta che i risparmi stimati per l'anno 2019 sono pari al 7,5% del costo complessivo rilevato al Consuntivo 2018 relativamente alla voce Consulenze e Sumaisti.
 
+#### Potenziamento dell'assistenza sanitaria territoriale
 Nell'ottica di potenziare l'assistenza sanitaria sul territorio, la Regione sta investendo numerose risorse sulle prestazioni territoriali offerte da erogatori privati. Dalla programmazione risultante dal DCA U00258/2019, oltre a quanto precedentemente detto per l'ADI, si prevede di impegnare ulteriori risorse per finanziare le diverse tipologie di prestazioni come di seguito riportate.
 - Assistenza Geriatrica: 8,9 €/mln nel 2019, 27,9 €/mln nel 2020 e 46,7 €/mln nel 2021;
 - Riabilitazione territoriale: 10 €/mln nel 2019, 30 €/mln nel 2020 e 40 €/mln nel 2021;
@@ -2195,6 +2484,7 @@ Complessivamente, le risorse assegnate al potenziamento dell'assistenza sanitari
 
 Si precisa che la Regione si riserva di definire la distribuzione delle risorse non ancora impegnate tra le diverse tipologie assistenziali sulla base dei fabbisogni emergenti e di ulteriori analisi successive alla stesura del presente documento.
 
+#### Telemedicina, case della salute, ospedali di comunità
 La regione Lazio in continuità con le numerose iniziative per l'implementazione dei servizi di Telemedicina in diversi livelli assistenziali, ha previsto di porre in essere ulteriori azioni quali:
 - attivazione di Centri Servizi di Telesalute in collegamento con le Centrali 116117 (anche all'interno delle strutture sanitarie), per la gestione dei dati del telemonitoraggio, ed il supporto ai Centri ADI, Specialisti, MMG e PLS per la gestione della terapia, degli accessi infermieristici e per migliorare l'informazione e formazione (knowledge and behaviour) del paziente;
 - integrazione dei sistemi di telesalute con gli applicativi regionali disponibili (sistema Recup, ricetta dematerializzata, Sistema Informativo Assistenza Territoriale, Fascicolo Sanitario Elettronico);
@@ -2216,6 +2506,7 @@ L'impatto complessivo di tali interventi è di 1,0 €/mln nel 2019, ulteriori 3
 
 Inoltre, in aggiunta a quanto sopra descritto, come rappresentato nella figura 12, sono stati previsti 30 €/mln (15 €/mln nel 2020 e 15 €/mln nel 2021) per ulteriori investimenti tecnologici a sostegno dall'innovazione organizzativa prevista dalla programmazione sanitaria integrata. Sarà prevista infatti una valutazione approfondita dell'applicazione delle tecnologie dell'informazione e comunicazione a supporto dei servizi del Sistema sanitario regionale, che permetterà un'innovazione dei modelli organizzativi nell'ambito dell'integrazione tra i diversi livelli essenziali di assistenza, anche mediante una implementazione di quanto già in dotazione nelle Aziende sanitarie.
 
+#### Formazione, comunicazione e prevenzione
 Il Programma Operativo 2019-2021 prevede, nell'ambito degli interventi descritti, investimenti nella formazione del personale di regione Lazio al fine di fornire ai propri professionisti le conoscenze e le competenze necessarie a garantire da una parte un elevato livello di assistenza sanitaria, dall'altro il corretto e rapido utilizzo degli strumenti a loro disposizione. Si stima che gli eventi di formazione avranno un costo complessivo di 5,3 €/mln nei tre anni, di cui 1,4 €/mln nel 2019, 1,9 €/mln nel 2020 e 2,0 €/mln nel 2021.
 
 La componente più significativa di questi costi è la formazione specialistica e manageriale, per la quale si stima un costo di 4,0 €/mln complessivi nei tre anni. La stima dei costi tiene conto di 30 corsi nel triennio ognuno da 70 infermieri partecipanti dedicati all'approfondimento di tematiche in ambito infermieristico, 30 corsi nel triennio ognuno da 70 medici partecipanti dedicati all'approfondimento di tematiche in ambito medico, formazione manageriale in aula per medici responsabili che prevede 5 giornate annue e corso E-learning manageriale per medici responsabili di struttura.
@@ -2232,6 +2523,7 @@ Il Programma Operativo prevede una serie di interventi di potenziamento e di amm
 
 L'impatto di tali interventi è legato ai singoli eventi e solo eccezionalmente genera costi che si protraggono negli anni. I costi stimati per il triennio sono di 2,8 €/mln nel 2019, 4,3 €/mln nel 2020 e 4,5 €/mln nel 2021.
 
+#### Recupero Ticket e controlli esterni
 Il SSR, come richiesto anche dal Tavolo di Monitoraggio, ha il compito di procedere al recupero delle somme di compartecipazione alla spesa relative a prestazioni di specialistica ambulatoriale e farmaceutica (ticket), correlate ad esenzioni per reddito non riconoscibili dagli assistiti per le annualità successive al 2010. Il valore stimato per il recupero relativo ad 8 annualità (2011-2018) è pari a 100 €/mln.
 
 La Regione Lazio ha già effettuato, in nome e per conto delle Aziende Sanitarie regionali, una procedura sistematica ed organica di recupero delle somme non corrisposte per le annualità 2009-2010.
@@ -2249,6 +2541,7 @@ Il valore previsto per il recupero dei ticket per le otto annualità considerate
 
 Per quanto riguarda l'anno 2019, la voce Sopravvenienze attive v/terzi relative all'acquisto prestaz. sanitarie da operatori accreditati è stata incrementata di ulteriori 6,9 €/mln pari al valore dei controlli esterni concordati per i quali sono in corso i relativi recuperi finanziari. È da precisare che nel paragrafo 20.1 – Tendenziali 19-21, l'aggregato "Componenti finanziarie e straordinarie", prevede sopravvenienze attive per 21 €/mln per controlli esterni concordati; tuttavia, tale valore è stato rideterminato nel Programmatico 2019 in riduzione di 14,1 €/mln in considerazione della mancata manifestazione degli effetti dei recuperi per controlli esterni concordati, riconducendo il valore a quanto già manifestato finanziariamente nell'anno 2019, pari a 6,9 €/mln.
 
+#### Accantonamenti
 La voce Accantonamenti per il triennio 2019-2021, oltre agli importi accantonati a tendenziale, prevede ulteriori accantonamenti prudenziali.
 
 Nello specifico nella voce Altri Accantonamenti sono presenti:
@@ -2257,13 +2550,15 @@ Nello specifico nella voce Altri Accantonamenti sono presenti:
 €/mln;
 - anno 2021: 70,9 €/mln riconducibili agli accantonamenti prudenziali per sterilizzare eventuali ritardi negli effetti delle manovre, la riduzione rispetto all'anno 2019 è dovuta principalmente al minor accantonamento per il pay-back per recupero sfondamento tetto ospedaliera per l'anno 2018, che per il 2021 è posto pari a 0,1 €/mln;
 
-# 20.3 Integrazione emergenza COVID-19 – Programmatici 2019-2021
+## 20.3 Integrazione emergenza COVID-19 – Programmatici 2019-2021
 Nel presente paragrafo, si rappresenta l'impatto economico sugli anni 2020 e 2021 della programmazione degli interventi connessi all'emergenza COVID-19, integrando i Programmatici per gli anni sopra richiamati, degli effetti aggiuntivi/rettificativi rispetto alla programmazione ordinaria pre-emergenza.
 
 Nello specifico si riporta, per ciascun macro-aggregato delle voci di ricavo e costo, l'impatto derivante dalle azioni ed interventi posti in essere a seguito dell'emergenza sanitaria e riportate nel redigendo Programma Operativo COVID-19 (art. 18, comma 1 del D.L. 18/2020), al quale si rimanda per i maggiori dettagli.
 
 Nella Tabella 17 si riporta la sintesi dei Programmatici 2019-2021, da DCA 18/2020, ed il confronto con i Programmatici 2020 e 2021 integrati con i ricavi ed i costi relativi all'emergenza COVID-19. A seguito delle azioni previste dal DCA 18/2020 e della programmazione dell'emergenza, la Regione presenta un risultato di esercizio programmatico pari a +1,0 €/mln nel 2020 (PO Integrato 2020P) e +0,6 €/mln nel 2021 (PO integrato 2021P).
 
+### RICAVI
+#### A1 Contributi FSR
 Per fronteggiare l'emergenza COVID, i fondi stanziati per la Regione Lazio, utilizzabili nell'anno 2020, sono in totale pari a 420,5 €/mln, di cui 415,7 €/mln a valere sul FSN e 4,8 €/mln riferiti all'Art. 20 della Legge n. 67/1988 in materia di edilizia sanitaria. Il dettaglio del finanziamento della voce dei Contributi FSR è così composto:
 - 63,9 €/mln, previsti dall'Art. 18 del DL n. 18 del 17.03.2020, convertito con modificazioni dalla Legge n. 27 del 24 aprile 2020;
 - 72,6 €/mln, previsti dall'Art. 18 del DL n. 18 del 17.03.2020, convertito con modificazioni dalla Legge n. 27 del 24 aprile 2020;
@@ -2275,6 +2570,7 @@ Per l'anno 2021, le risorse finanziate sono in totale pari a 98,1 €/mln previs
 
 Il finanziamento sul FSN pari a 415,7 €/mln per il 2020 e pari a 98,1 €/mln per il 2021 rappresentano un aumento dei ricavi rispetto al valore stimato rispettivamente per il Programmatico 2020 e 2021, indicato nel PO 2019-2021 (DCA n. 18 del 20.01.2020).
 
+#### A5 Rettifica Contributi in c/esercizio
 I fondi stanziati da destinare agli investimenti risultano essere pari a 121,7 €/mln per l'anno 2020 suddivisi in 3,2 €/mln per il potenziamento dell'assistenza territoriale, 118,6 €/mln per il potenziamento dell'assistenza ospedaliera. Il dettaglio del finanziamento è così composto:
 - 3,2 €/mln definiti nell'Art. 1 del DL 34/2020 per la realizzazione di Centrali operative regionali territoriali con l'obiettivo di gestire il coordinamento delle attività sanitarie e sociosanitarie territoriali attraverso il supporto di strumenti informativi e soluzioni di telemedicina;
 - 0,3 €/mln definiti nell'Art. 2, comma 5 del DL 34/2020 per il potenziamento della rete di emergenza territoriale attraverso l'acquisizione di mezzi di trasporto;
@@ -2284,6 +2580,8 @@ I fondi stanziati da destinare agli investimenti risultano essere pari a 121,7 �
 
 Il valore degli importi stanziati sopra indicati andrà ad aumentare la Voce CE AA0250 Rettifica Contributi in c/esercizio di 121,7 €/mln per l'anno 2020, nessun valore verrà registrato nel 2021.
 
+### COSTI
+#### B1 Personale
 Lo stanziamento complessivo risulta essere pari a 176,8 €/mln (di cui 166,7 €/mln per retribuzione, incentivi e oneri sociali e 10,7 €/mln per l'IRAP) per l'anno 2020, che comprende oltre al reclutamento di personale anche fondi per indennità, lavoro straordinario e premialità, suddivisi in:
 - 49,6 €/mln, stanziati dall'Art. 18 del DL 18/2020, convertito con modificazioni dalla Legge n. 27 del 24 aprile 2020, per l'assunzione di personale impegnato nell'emergenza COVID tra cui personale dedicato all'istituzione delle USCAR;
 - 9,7 €/mln, stanziati con il DL 18/2020, convertito con modificazioni dalla Legge n. 27 del 24 aprile 2020, per il reclutamento di personale sanitario;
@@ -2296,15 +2594,22 @@ Per l'anno 2021, le risorse utilizzabili sono in totale 98,1 €/mln, (di cui 92
 - 64,6 €/mln, per il potenziamento del personale territoriale definito dall'Art. 1, di cui 1,1 €/mln per personale da impiegare per l'attivazione della centrale operativa regionale, 17 €/mln per personale destinato al potenziamento dell'ADI, 46,5 €/mln per personale infermieristico;
 - 33,5 €/mln, per il potenziamento del personale ospedaliero definito dall'Art. 2, di cui 25,5 €/mln per personale che lavora nelle UU.OO. di Terapia intensiva, a seguito dell'incremento dei PL, 8 €/mln per personale impiegato nei mezzi di trasporto per i trasferimenti dei pazienti in emergenza;
 
+#### B5 Accantonamenti
 In attesa della definizione complessiva degli interventi connessi al potenziamento della rete territoriale, in tale voce si riporta il totale degli altri costi pari a 57,2 €/mln richiamati dall'art. 1 commi 1, 2 e 4 del DL 34/2020 e suddivisi in:
 - 3,1 €/mln, previsti dall'Art. 1, per l'attivazione di servizi di ospitalità e sorveglianza attiva di pazienti COVID- 19 che comprendono servizi di pulizia, manutenzione ordinaria, vitto, alloggio, reception/vigilanza, utenze, nonché il personale per la sorveglianza sanitaria, la sanificazione, per la formazione del personale alberghiero e la lavanderia;
 - 54,1 €/mln, previsti dall'Art. 1, da destinare ai servizi di Assistenza Domiciliare Integrata (ADI) per il potenziamento strutturale conseguente all'incremento del numero di assistiti o per collaborazioni esterne o convenzioni mediante acquisti di servizi.
 
+Nessun importo è stato stanziato per l'anno 2021.
+
+#### C1 Medicina Generale
 Nella voce CE Medicina Generale si riporta il valore del finanziamento pari a 20,6 €/mln per l'anno 2020, di cui:
 - 13,7 €/mln, previsti dall'Art. 18 del DL 18/2020, convertito con modificazioni dalla Legge n. 27 del 24 aprile 2020, per garantire l'attività assistenziale ordinaria dei Medici di Continuità Assistenziale e dei PLS;
 - 5,9 €/mln, previsti dall'Art. 1 del DL 34/2020, per garantire una più ampia funzionalità delle USCAR;
 - 1 €/mln, previsti dall'Art. 2 del DL 34/2020, per la retribuzione dell'indennità di personale infermieristico. Nessun importo è stato stanziato per l'anno 2021.
 
+Nessun importo è stato stanziato per l'anno 2021.
+
+#### C3 Prestazioni da Privato
 Come previsto dal DL 34/2020, la Regione ha avviato il potenziamento della rete territoriale ed ospedaliera, anche attraverso il ricorso alle Strutture private accredita e non. Nello specifico:
 - 23,2 €/mln, previsti dal DL 18 /2020, convertito con modificazioni dalla Legge n. 27 del 24 aprile 2020, per l'acquisto di prestazioni sanitarie da strutture private accreditate e contrattualizzate;
 - 15,5 €/mln, previsti dal DL 18/2020, convertito con modificazioni dalla Legge n. 27 del 24 aprile 2020, per l'acquisto di prestazioni sanitarie anche da strutture private non accreditate;
@@ -2312,4 +2617,5 @@ Come previsto dal DL 34/2020, la Regione ha avviato il potenziamento della rete 
 
 In attesa della completa definizione della programmazione contenuta nel Programma Operativo COVID-19 (di cui all'art. 18, comma 1 del D.L. 18/2020), i costi relativi alle fattispecie di cui sopra, pari a 39,3 €/mln, sono state rilevate nella voce CE BA1180 Prestazioni da privato.
 
+#### F Componenti finanziarie e straordinarie (IRAP)
 La voce è valorizzata dall'incremento dell'IRAP per un importo pari all'8,5% delle assunzioni previste, di cui al precedente paragrafo sul costo del personale. Gli importi stimati sono pari a 10,7 €/mln per l'anno 2020, e ulteriori 6 €/mln nel 2021.
