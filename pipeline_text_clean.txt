@@ -1,5 +1,5 @@
 - remove tabs	
-- remove double spaces
+- remove double spaces ^(?!\s{2,}).*\s{2,}
 - replace ’ with '
 - replace ‘ with '
 - replace ´ with '

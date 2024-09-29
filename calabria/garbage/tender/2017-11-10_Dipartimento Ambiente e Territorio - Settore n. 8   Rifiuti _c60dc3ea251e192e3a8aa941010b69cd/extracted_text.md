@@ -1,32 +1,12 @@
-# Amministrazione aggiudicatrice
-Il capitolato d'oneri e la documentazione complementare (inclusi i documenti per il dialogo competitivo e per il sistema dinamico di acquisizione) sono disponibili presso:
-- I punti di contatto sopra indicati 
-- Altro
-
-L'amministrazione aggiudicatrice acquista per conto di altre amministrazioni aggiudicatrici:
-
-ulteriori informazioni su queste amministrazioni aggiudicatrici possono essere riportate nell'allegato A
-
-# Oggetto dell'appalto
-Denominazione conferita all'appalto dall'amministrazione aggiudicatrice
-
+# Sezione II: Oggetto dell'appalto
+## Denominazione conferita all'appalto dall'amministrazione aggiudicatrice
 Affidamento del servizio di prelievo, trasporto e trattamento del rifiuto - classificato con C.E.R. 19.07.03 – liquido prodotto nella discarica privata ex Tec Veolia nonché di quello rinvenibile nella discarica comunale, entrambe site in località Marrella nel Comune di Gioia Tauro (RC), da conferire presso impianti autorizzati
 
-Scegliere una sola categoria – lavori, forniture o servizi – che corrisponde maggiormente all'oggetto specifico dell'appalto o degli acquisti
-
-Realizzazione, con qualsiasi mezzo di lavoro, conforme alle prescrizioni delle amministrazioni aggiudicatrici
-
-Luogo principale di esecuzione dei lavori, di consegna delle forniture o di prestazione dei servizi
-
-Informazioni sugli appalti pubblici, l'accordo quadro o il sistema dinamico di acquisizione (SDA):
-
-Valore totale stimato degli acquisti per l'intera durata dell'accordo quadro
-
+##  Breve descrizione dell'appalto o degli acquisti
 L'oggetto della gara è costituito da un unico lotto e la procedura sarà espletata nel rispetto delle norme previste dal D. lgs. n.50/2016. La procedura di gara di che trattasi viene espletata per l'affidamento del servizio di prelievo, trasporto e trattamento del rifiuto liquido- classificato con C.E.R. 19.07.03- prodotto nella discarica privata ex Tec Veolia nonché di quello rinvenibile nella discarica comunale, entrambe site in località Marrella nel Comune di Gioia Tauro (RC), da conferire presso impianti autorizzati"
 
-Durata dell'appalto o termine di esecuzione
-
-# Informazioni di carattere giuridico, economico, finanziario e tecnico
+# Sezione III: Informazioni di carattere giuridico, economico, finanziario e tecnico
+## Cauzioni e garanzie richieste:
 tutte le informazioni sono contenute nel disciplinare di gara
 
 Principali modalità di finanziamento e di pagamento e/o riferimenti alle disposizioni applicabili in materia

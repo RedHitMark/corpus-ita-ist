@@ -1,22 +1,28 @@
-# Servizi
-I documenti di gara sono disponibili per un accesso gratuito, illimitato e diretto presso: 
+# Sezione I: Amministrazione aggiudicatrice
+## Comunicazione
+I documenti di gara sono disponibili per un accesso gratuito, illimitato e diretto presso: https://www.regione.calabria.it/website/organizzazione/dipartimento11
 
-Ulteriori informazioni sono disponibili presso altro indirizzo:
+Le offerte o le domande di partecipazione vanno inviate in versione elettronica: https://sisgap.regione.calabria.it/fwep/
 
-Le offerte o le domande di partecipazione vanno inviate in versione elettronica:
+## Tipo di amministrazione aggiudicatrice
+Autorità regionale o locale
 
+## Principali settori di attività
 Servizi generali delle amministrazioni pubbliche
 
+# Sezione II: Oggetto
+## Denominazione:
 Prelievo, trasporto e trattamento del rifiuto C.E.R. 19.07.03-liquido prodotto nelle discariche site in località Marrella nel Comune di Gioia Tauro (RC), da conferire presso impianti autorizzati
 
+## Breve dell'appalto:
 L'Appalto ha per oggetto il servizio di "Prelievo, trasporto e trattamento del rifiuto - classificato con C.E.R. 19.07.03 – liquido prodotto nella discarica privata ex Tec Veolia nonché di quello rinvenibile nella discarica comunale, entrambe site in località Marrella nel Comune di Gioia Tauro (RC), da conferire presso impianti autorizzati.
 
-L'Appalto ha per oggetto il servizio di "Prelievo, trasporto e trattamento del rifiuto - classificato con C.E.R. 19.07.03 – liquido prodotto nella discarica privata ex Tec Veolia nonché di quello rinvenibile nella discarica comunale, entrambe site in località Marrella nel Comune di Gioia Tauro (RC), da conferire presso impianti autorizzati.
+## Durata del contratto d'appalto, dell'accordo quadro o del sistema dinamico di acquisizione
+Durata in mesi: 12
 
-Durata del contratto d'appalto, dell'accordo quadro o del sistema dinamico di acquisizione
+Il contratto d'appalto è oggetto di rinnovo: si
 
-Il contratto d'appalto è oggetto di rinnovo
-
+## Informazioni relative ai fondi dell'Unione europea
 L'appalto è connesso ad un progetto e/o programma finanziato da fondi dell'Unione europea
 
 Abilitazione all'esercizio dell'attività professionale, inclusi i requisiti relativi all'iscrizione nell'albo professionale o nel registro commerciale
